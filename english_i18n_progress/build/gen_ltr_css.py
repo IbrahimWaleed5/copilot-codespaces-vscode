@@ -1,4 +1,4 @@
-# Generates public/css/ltr.css: Tailwind (v3/v4 default scale) definitions of the physical
+# Generates public/css/ui-ltr.css: Tailwind (v3/v4 default scale) definitions of the physical
 # classes produced by LtrFlipper (ml<->mr, pl<->pr, left<->right, ...), so they exist even when
 # the compiled Tailwind file was purged of them.
 sp = {'0':'0px','px':'1px','0.5':'0.125rem','1':'0.25rem','1.5':'0.375rem','2':'0.5rem','2.5':'0.625rem','3':'0.75rem','3.5':'0.875rem',
@@ -45,5 +45,5 @@ for bp, w in bps:
     out.append(f'@media (min-width:{w}){{')
     out += [f'.{esc(bp + ":" + c)}{{{d}}}' for c, d in rules]
     out.append('}')
-open('web/public/css/ltr.css', 'w').write('\n'.join(out) + '\n')
+open('web/public/css/ui-ltr.css', 'w').write('\n'.join(out) + '\n')
 print(len(rules), 'rules')

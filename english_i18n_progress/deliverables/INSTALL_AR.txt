@@ -1,0 +1,178 @@
+طريقة تركيب اللغة الإنجليزية على منصة الوليد الهندسية
+==================================================
+
+العربي بضل اللغة الأساسية زي ما هو. بس بنضيف زر صغير تحت عالشمال مكتوب عليه "English"،
+واللي بيكبس عليه بتصير الصفحات عنده إنجليزي ومن الشمال لليمين. ولما يكبس "العربية" برجع كل إشي زي ما كان.
+
+فيه ملفين:
+  1) alwaleed_web_english.zip  ← للموقع (Laravel)
+  2) alwaleed_app_english.zip  ← للتطبيق (Flutter)
+
+اشتغل خطوة خطوة، وما تنتقل للخطوة اللي بعدها قبل ما تخلّص اللي قبلها.
+
+
+الجزء الأول: الموقع
+=================
+
+الخطوة 1: اعمل نسخة احتياطية (مهم كثير)
+---------------------------------------
+- روح لمجلد المشروع على جهازك (مثلًا: C:\xampp\htdocs\alwaleed).
+- كبسة يمين على المجلد ← Copy، وبعدين Paste بنفس المكان.
+- سمّي النسخة: alwaleed_backup_قبل_الانجليزي
+- هاي النسخة ما تلمسها أبدًا. إذا خربت أي إشي بترجعلها.
+
+الخطوة 2: انسخ الملفات الجديدة
+-----------------------------
+- فك الملف alwaleed_web_english.zip (كبسة يمين ← Extract All).
+- جواه رح تلاقي 4 مجلدات: app و lang و public و tests.
+- انسخ الأربع مجلدات مع بعض، والصقهم جوا مجلد المشروع الرئيسي (نفس المكان اللي فيه ملف artisan).
+- لو ويندوز سألك "Replace or skip"، أو قالك إنه في مجلد بنفس الاسم وبدك تدمجهم (merge)، اختار دمج/نعم.
+  كل الملفات جديدة وما في ولا ملف من ملفاتك القديمة رح ينمسح.
+- ⚠️ إذا سألك عن استبدال (Replace) ملف معيّن باسمه، اكبس "Skip" واحكيلي شو اسم الملف.
+
+الملفات الجديدة هي:
+  app/Support/Localization/  (6 ملفات: المترجم وقواعده)
+  app/View/TranslatingCompilerEngine.php
+  app/Http/Middleware/UiLanguageMiddleware.php
+  app/Http/Controllers/UiLocaleController.php
+  app/Providers/UiLanguageServiceProvider.php
+  lang/auto/en.php            (القاموس: 12,655 جملة)
+  public/css/ui-ltr.css
+  public/js/ui-i18n.js
+  tests/i18n/AutoTranslatorTest.php
+
+الخطوة 3: زيد سطر واحد بس في ملف AppServiceProvider
+--------------------------------------------------
+- افتح الملف: app/Providers/AppServiceProvider.php (بـ VS Code أو Notepad++).
+- دوّر على هاد السطر:
+      public function register(): void
+  (أو ممكن يكون: public function register())
+- تحته مباشرة في قوس  {  ، واعمل سطر جديد بعد القوس والصق هاد السطر:
+
+      $this->app->register(\App\Providers\UiLanguageServiceProvider::class);
+
+- بصير شكله هيك تقريبًا:
+
+      public function register(): void
+      {
+          $this->app->register(\App\Providers\UiLanguageServiceProvider::class);
+          ... (أي إشي كان موجود من قبل بضل زي ما هو)
+      }
+
+- احفظ الملف (Ctrl + S).
+- ما تغيّر ولا إشي ثاني في الملف.
+
+الخطوة 4: امسح الكاش
+--------------------
+- افتح Terminal جوا مجلد المشروع:
+  (في VS Code: من فوق Terminal ← New Terminal)
+  (أو افتح المجلد، اكتب cmd في شريط العنوان واكبس Enter)
+- اكتب هاد الأمر واكبس Enter:
+
+      php artisan optimize:clear
+
+- لازم يطلعلك كلمات خضرا فيها DONE.
+
+الخطوة 5: جرّب على جهازك (XAMPP)
+-------------------------------
+- افتح XAMPP Control Panel وشغّل Apache و MySQL (Start).
+- بنفس الـ Terminal اكتب:
+
+      php artisan serve
+
+- افتح المتصفح على: http://127.0.0.1:8000
+  (أو على الرابط اللي بتفتح عليه المشروع عادة من XAMPP)
+- لازم تشوف تحت عالشمال زر أسود صغير مكتوب عليه English.
+- اكبس عليه:
+    ✔ الصفحة بتصير إنجليزي، والاتجاه من الشمال لليمين.
+    ✔ الزر بصير مكتوب عليه "العربية".
+- تنقّل بين الصفحات: لوحة التحكم، الاستشارات، المحفظة، الإشعارات، تسجيل الدخول...
+- اكبس "العربية" وتأكد إنه كل إشي رجع عربي مظبوط زي قبل.
+- ملاحظة: أي نص كتبه المستخدمين (أسماء، رسائل، عناوين مشاريع) بضل زي ما هو، وهاد مقصود.
+  وإذا لقيت جملة من المنصة لسا عربي، صوّرها وابعتلي إياها وأنا بزيدها.
+
+(اختياري) فحص سريع للمترجم:
+      php tests/i18n/AutoTranslatorTest.php
+  لازم آخر سطر يكون:  76 passed, 0 failed
+
+الخطوة 6: ارفع على GitHub و Railway
+-----------------------------------
+إذا بتستعمل GitHub Desktop:
+  1. افتح GitHub Desktop، رح تشوف الملفات الجديدة على الشمال.
+  2. تحت اكتب في Summary:  Add English language
+  3. اكبس Commit to main (أو اسم الفرع عندك).
+  4. اكبس Push origin.
+إذا بتستعمل الأوامر، اكتب بالـ Terminal وحدة وحدة:
+      git add .
+      git commit -m "Add English language"
+      git push
+- Railway بنزّل التحديث لحاله بعد الـ push (استنى 2-5 دقايق).
+- لما يخلص، افتح الموقع الحقيقي وجرّب زر English.
+
+إعدادات اختيارية (من Railway ← Variables، أو من ملف .env):
+  UI_LANG_SWITCHER=false        ← يخفي الزر العائم (اللغة بتضل تشتغل من الرابط /lang/en و /lang/ar)
+  UI_LANG_SWITCHER_SIDE=right   ← يحط الزر عاليمين بدل الشمال
+  (بعد أي تعديل على .env عندك على الجهاز: php artisan optimize:clear)
+
+
+كيف ترجع إذا صار إشي غلط (تراجع)
+--------------------------------
+اختار وحدة، من الأسهل للأقوى:
+
+  أ) إيقاف فوري بدون ما تلمس الكود:
+     في Railway ← Variables ← أضف:  UI_I18N_ENABLED = false  ← واعمل Redeploy.
+     (على جهازك: زيد نفس السطر UI_I18N_ENABLED=false في ملف .env وبعدين php artisan optimize:clear)
+     الموقع برجع عربي 100% زي قبل.
+
+  ب) امسح السطر اللي زدته في AppServiceProvider.php (الخطوة 3)، واحفظ، وبعدين:
+         php artisan optimize:clear
+     وارفعه على GitHub زي الخطوة 6.
+
+  ج) رجوع كامل: ارجع للنسخة الاحتياطية من الخطوة 1،
+     أو بالأوامر:  git revert HEAD  وبعدين  git push
+
+ملاحظة أمان: الكود معمول بحيث إذا صار أي خطأ بالترجمة، الصفحة بتطلع بالعربي العادي، وما بتطلع صفحة خطأ 500.
+
+
+الجزء الثاني: التطبيق (Flutter)
+=============================
+
+⚠️ مهم: ملف lib.zip (كود التطبيق) ما وصلني بهاي الجلسة. عشان هيك ما قدرت أعدّل شاشات التطبيق نفسها.
+الملف alwaleed_app_english.zip فيه "عدّة الترجمة" كاملة وجاهزة وتم تجريبها:
+  lib/i18n/i18n.dart             ← الملف اللي بتعمله import
+  lib/i18n/app_language.dart     ← حفظ اللغة (SharedPreferences) + tr() + تحديث التطبيق كله فورًا
+  lib/i18n/language_switch.dart  ← زر/سطر تغيير اللغة جاهز لشاشة الإعدادات
+  lib/i18n/translator.dart       ← نفس قواعد ترجمة الموقع
+  lib/i18n/en_dictionary.dart    ← نفس قاموس الموقع (12,655 جملة)
+  EXAMPLE_main.dart              ← مثال كامل لملف main.dart بعد التعديل
+
+✅ الطريقة الأسهل (أنصحك فيها):
+   ابعتلي lib.zip وملف pubspec.yaml بجلسة جديدة، وأنا بلف كل النصوص العربية اللي بتظهر للمستخدم
+   بشكل تلقائي، وبترجم الناقص، وبعطيك مجلد lib كامل جاهز تبدّله. الأداة جاهزة ومجرّبة.
+
+إذا بدك تركّب العدّة بنفسك هلأ:
+ 1. نسخة احتياطية: انسخ مجلد lib بالتطبيق وسمّيه lib_backup.
+ 2. فك alwaleed_app_english.zip وانسخ مجلد lib/i18n لجوا مجلد lib عندك.
+ 3. افتح pubspec.yaml، وتحت dependencies: تأكد إنه موجودين هدول السطرين (إذا مش موجودين زيدهم،
+    وانتبه للمسافات بالزبط: سطر flutter_localizations قبله مسافتين، وسطر sdk قبله 4 مسافات):
+        shared_preferences: ^2.3.2
+        flutter_localizations:
+          sdk: flutter
+ 4. في main.dart (قارن مع EXAMPLE_main.dart):
+      - قبل runApp:   WidgetsFlutterBinding.ensureInitialized();  و  await AppLanguage.instance.load();
+      - لفّ الـ MaterialApp بـ  AppLanguageBuilder(builder: (context, lang) => MaterialApp(...))
+      - جوا MaterialApp:  locale: lang.locale,  supportedLocales: AppLanguage.supportedLocales,
+      - وإذا عندك Directionality(textDirection: TextDirection.rtl ...) خليها:  textDirection: lang.textDirection
+ 5. بشاشة الإعدادات أو البروفايل، جوا القائمة، زيد:   const LanguageSwitchTile(),
+ 6. بكل طلب للـ API زيد الهيدرز:   headers: {...AppLanguage.instance.headers, ...الهيدرز القديمة}
+    (عشان السيرفر يرجّع الرسائل بنفس لغة التطبيق)
+ 7. أي نص عربي بيظهر للمستخدم:  Text('الإشعارات')  ←  Text('الإشعارات'.tr())
+    وإذا كان قبلها const احذف كلمة const.
+    ⚠️ ما تحط tr() على قيم بتنقارن أو بتنبعت للسيرفر (مثل status == 'مقبول').
+ 8. بالـ Terminal جوا مجلد التطبيق:
+        flutter pub get
+        flutter run
+ 9. للتراجع: امسح lib وارجع lib_backup مكانه، وارجع pubspec.yaml زي ما كان.
+
+ملاحظة: إذا تطبيقك بستعمل مكتبة GetX أو easy_localization، هدول عندهم tr خاص فيهم.
+احكيلي قبل ما تركّب، عشان أغيّر الاسم وما يصير تعارض.

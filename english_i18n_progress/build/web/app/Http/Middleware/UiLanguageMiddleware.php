@@ -21,7 +21,7 @@ use Symfony\Component\HttpFoundation\StreamedResponse;
  *
  * It is registered globally and in the web/api groups; running twice is harmless.
  */
-class SetLocale
+class UiLanguageMiddleware
 {
     public function handle(Request $request, Closure $next)
     {
@@ -121,7 +121,7 @@ class SetLocale
         $english = UiLocale::isEnglish();
 
         if ($english) {
-            $css = '<link rel="stylesheet" href="' . e(asset('css/ltr.css')) . '" id="ui-ltr-css">';
+            $css = '<link rel="stylesheet" href="' . e(asset('css/ui-ltr.css')) . '" id="ui-ltr-css">';
             $pos = stripos($html, '</head>');
             $html = $pos === false ? $css . $html : substr_replace($html, $css, $pos, 0);
         }

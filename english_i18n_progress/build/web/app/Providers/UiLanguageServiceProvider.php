@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use App\Http\Controllers\UiLocaleController;
-use App\Http\Middleware\SetLocale;
+use App\Http\Middleware\UiLanguageMiddleware;
 use App\Support\Localization\AutoTranslator;
 use App\Support\Localization\Dictionary;
 use App\View\TranslatingCompilerEngine;
@@ -18,11 +18,11 @@ use Illuminate\View\Engines\EngineResolver;
  * English interface for the whole platform (Arabic stays the default).
  *
  * Enabled from AppServiceProvider::register() with one line:
- *     $this->app->register(\App\Providers\LocalizationServiceProvider::class);
+ *     $this->app->register(\App\Providers\UiLanguageServiceProvider::class);
  *
  * Turn everything off without touching code: UI_I18N_ENABLED=false in .env
  */
-class LocalizationServiceProvider extends ServiceProvider
+class UiLanguageServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
@@ -63,13 +63,13 @@ class LocalizationServiceProvider extends ServiceProvider
 
         try {
             $router = $this->app['router'];
-            $router->pushMiddlewareToGroup('web', SetLocale::class);
-            $router->pushMiddlewareToGroup('api', SetLocale::class);
+            $router->pushMiddlewareToGroup('web', UiLanguageMiddleware::class);
+            $router->pushMiddlewareToGroup('api', UiLanguageMiddleware::class);
 
             // Also globally, so 404 pages and requests outside the groups follow the choice.
             $kernel = $this->app->make(HttpKernel::class);
-            if (method_exists($kernel, 'hasMiddleware') && method_exists($kernel, 'pushMiddleware') && !$kernel->hasMiddleware(SetLocale::class)) {
-                $kernel->pushMiddleware(SetLocale::class);
+            if (method_exists($kernel, 'hasMiddleware') && method_exists($kernel, 'pushMiddleware') && !$kernel->hasMiddleware(UiLanguageMiddleware::class)) {
+                $kernel->pushMiddleware(UiLanguageMiddleware::class);
             }
         } catch (\Throwable $e) {
             report($e);
