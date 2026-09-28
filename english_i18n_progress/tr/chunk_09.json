@@ -1,0 +1,1227 @@
+[
+{
+"id": 2712,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تغير سعر الصرف أو الرسوم. أعد عرض السعر ووافق عليه قبل إنشاء الطلب."
+},
+{
+"id": 2713,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طريقة الدفع لا تدعم شحن المحفظة."
+},
+{
+"id": 2714,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "أنشئ طلب الشحن أولًا ثم أكمل كلمة المرور وOTP قبل تقديم الإيصال أو المرجع."
+},
+{
+"id": 2715,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "أُوقف إيداع العملات الرقمية اليدوي؛ استخدم الإيداع الآلي لاختيار العملة والشبكة وعنوانك المخصص."
+},
+{
+"id": 2716,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم حساب نشط وبريد موثق."
+},
+{
+"id": 2717,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طلب الشحن ليس في مرحلة التأكيد."
+},
+{
+"id": 2718,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "رمز تأكيد طلب شحن محفظتك رقم"
+},
+{
+"id": 2719,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تعذر إرسال رمز الشحن إلى البريد الموثق. حاول مجددًا."
+},
+{
+"id": 2720,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هذا الطلب لا ينتظر رمزًا."
+},
+{
+"id": 2721,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "انتهت صلاحية الرمز أو تجاوزت المحاولات."
+},
+{
+"id": 2722,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "بوابة الدفع غير مهيأة."
+},
+{
+"id": 2723,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "بوابة الدفع لم تُرجع رابطًا صالحًا."
+},
+{
+"id": 2724,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم إرفاق إشعار التحويل عند تقديم طلب الشحن للمراجعة."
+},
+{
+"id": 2725,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "إشعار التحويل مطلوب."
+},
+{
+"id": 2726,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "معرف المعاملة لا يطابق صيغة الشبكة؛ أدخل معرف التحويل الحقيقي ولا تستخدم عنوان المحفظة."
+},
+{
+"id": 2727,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تم استخدام معرف المعاملة الرقمية في طلب آخر."
+},
+{
+"id": 2728,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لا يمكن اعتماد إيداع حسابك بنفسك."
+},
+{
+"id": 2729,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "الطلب ليس في حالة مراجعة قابلة للاعتماد."
+},
+{
+"id": 2730,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لم يكتمل تقديم الدفع عبر وسيلة الدفع المحددة."
+},
+{
+"id": 2731,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لا يوجد إثبات دفع أو سجل بوابة مؤكد."
+},
+{
+"id": 2732,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لا يمكن اعتماد إيداع العملات الرقمية قبل تحقق المسؤول من المعاملة على الشبكة."
+},
+{
+"id": 2733,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "مرجع الشبكة المؤكد لا يطابق"
+},
+{
+"id": 2734,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المرسل من العميل."
+},
+{
+"id": 2735,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "معاملة الشبكة سبق اعتمادها في طلب آخر."
+},
+{
+"id": 2736,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هذه المعاملة أُودعت تلقائيًا عبر نظام الإيداع الرقمي."
+},
+{
+"id": 2737,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "أدخل مبلغ الحوالة المحصل بعملة الدفع للتحقق من مطابقته لعرض الصرف."
+},
+{
+"id": 2738,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "سحب الرصيد الشخصي يتطلب حساب استلام شخصيًا باسم صاحب المحفظة."
+},
+{
+"id": 2739,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يجب اختيار حساب استلام المكتب الموثق الموجود في المنصة."
+},
+{
+"id": 2740,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يجب اختيار حساب استلام المهندس الموثق الموجود في المنصة."
+},
+{
+"id": 2741,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "نوع الحساب غير مخول لسحب المستحقات."
+},
+{
+"id": 2742,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تم إلغاء السحب إلى محافظ العملات الرقمية. راجع الإدارة لتسوية أي طلب سابق."
+},
+{
+"id": 2743,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم اعتماد حساب الاستلام لدى الإدارة أولًا."
+},
+{
+"id": 2744,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "عملة حساب الاستلام لا تطابق عملة المحفظة."
+},
+{
+"id": 2745,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم توثيق المكتب قبل السحب."
+},
+{
+"id": 2746,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تغيرت بيانات حساب استلام المستحقات؛ يلزم إلغاء الطلب وتقديم طلب جديد بعد اعتماد الحساب."
+},
+{
+"id": 2747,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يجب توثيق البريد الإلكتروني للمسؤول أولًا."
+},
+{
+"id": 2748,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طلب السحب غير متاح للاعتماد."
+},
+{
+"id": 2749,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "رمز اعتماد طلب السحب رقم"
+},
+{
+"id": 2750,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تعذر إرسال رمز المسؤول."
+},
+{
+"id": 2751,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يجب توثيق البريد الإلكتروني أولًا."
+},
+{
+"id": 2752,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم إتمام KYC قبل سحب الأموال."
+},
+{
+"id": 2753,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "رمز تأكيد طلب السحب من محفظة الوليد:"
+},
+{
+"id": 2754,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "رمز تأكيد سحب المحفظة"
+},
+{
+"id": 2755,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تعذر إرسال رمز التأكيد إلى البريد. حاول مرة أخرى لاحقًا."
+},
+{
+"id": 2756,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "مصدر السحب غير صالح."
+},
+{
+"id": 2757,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "سحب المستحقات مخصص للمهندسين ومالكي المكاتب."
+},
+{
+"id": 2758,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يلزم إتمام KYC قبل طلب السحب."
+},
+{
+"id": 2759,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المبلغ أقل من الحد الأدنى للسحب."
+},
+{
+"id": 2760,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "انتهت صلاحية رمز السحب أو تجاوزت عدد المحاولات."
+},
+{
+"id": 2761,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لا يمكن اعتماد سحب حسابك بنفسك."
+},
+{
+"id": 2762,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "بعد اعتماد السحب يجب إثبات تنفيذ التحويل قبل أي تحرير للمبلغ المحجوز."
+},
+{
+"id": 2763,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "انتظر رد المستخدم على المعلومات المطلوبة."
+},
+{
+"id": 2764,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "فشل فحص KYC قبل الصرف."
+},
+{
+"id": 2765,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "أدخل OTP الخاص بالمسؤول لاعتماد السحب."
+},
+{
+"id": 2766,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "انتهت صلاحية رمز المسؤول أو تغير الطلب."
+},
+{
+"id": 2767,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لم يُعتمد طلب السحب أو سبق تسويته."
+},
+{
+"id": 2768,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تعذر إكمال السحب: الحساب أو توثيقه غير نشط."
+},
+{
+"id": 2769,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "مرجع التحويل مستخدم لطلب سحب آخر."
+},
+{
+"id": 2770,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لإكمال سحب العملات الرقمية أدخل"
+},
+{
+"id": 2771,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "الصحيح بعد تنفيذ التحويل والتحقق منه."
+},
+{
+"id": 2772,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هذه المعاملة تم استخدامها لسحب آخر."
+},
+{
+"id": 2773,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طلب السحب ليس بحاجة إلى معلومات إضافية."
+},
+{
+"id": 2774,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طلب معلومات إضافية بشأن عملية محفظة رقم"
+},
+{
+"id": 2775,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يرجى الرد على بريد الدعم الرسمي أو تحديث طلبك من داخل المحفظة."
+},
+{
+"id": 2776,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "طلب معلومات إضافية — محفظة الوليد رقم"
+},
+{
+"id": 2777,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لم ينجح إرسال البريد؛ لم نؤكد للعميل استلام طلب المعلومات."
+},
+{
+"id": 2778,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تم دفع الاستشارة سابقًا."
+},
+{
+"id": 2779,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تغير سعر الاستشارة. راجع السعر النهائي قبل الدفع."
+},
+{
+"id": 2780,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هناك محاولة دفع خارجية معلقة لهذه الاستشارة؛ يلزم تسويتها أو إلغاؤها قبل الدفع من المحفظة."
+},
+{
+"id": 2781,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هناك عملية دفع خارجية مرتبطة بمرجع الاستشارة."
+},
+{
+"id": 2782,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لم يحن موعد هذه الدفعة أو تم دفعها سابقًا."
+},
+{
+"id": 2783,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هناك محاولة دفع أخرى لهذه الدفعة؛ يلزم تسويتها أولًا."
+},
+{
+"id": 2784,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هناك عملية دفع خارجية مرتبطة بهذا القسط."
+},
+{
+"id": 2785,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "هذه الدفعة مرتبطة بحجز مالي قائم."
+},
+{
+"id": 2786,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "عملة المشروع غير مدعومة."
+},
+{
+"id": 2787,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "تغير سعر أو عملة الدفعة. راجع السعر النهائي قبل الدفع."
+},
+{
+"id": 2788,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المستحق مستخدم أو سبق تحويله."
+},
+{
+"id": 2789,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المستحق لم يُعتمد للتصفية بعد أو عليه حجز."
+},
+{
+"id": 2790,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المكتب غير معتمد."
+},
+{
+"id": 2791,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "حساب المستفيد غير نشط."
+},
+{
+"id": 2792,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المستفيد غير معتمد."
+},
+{
+"id": 2793,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لا يمكنك اعتماد مستحقاتك بنفسك."
+},
+{
+"id": 2794,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "المستحق لم يعد مرتبطًا بالمكتب المُكلّف بالاستشارة."
+},
+{
+"id": 2795,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يُتاح صرف مستحق المكتب بعد إنجاز الاستشارة واعتمادها."
+},
+{
+"id": 2796,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "لم يُعتمد استحقاق المكتب بعد."
+},
+{
+"id": 2797,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "الاستشارة في حالة استرداد."
+},
+{
+"id": 2798,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يوجد طلب استرداد مرتبط بالاستشارة."
+},
+{
+"id": 2799,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "مستحق الاستشارة التابعة لمكتب يُدار عبر مالية المكتب وليس كمستحق مهندس مستقل."
+},
+{
+"id": 2800,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "الاستشارة لم تُحصّل بالكامل أو بدأت عملية استرداد."
+},
+{
+"id": 2801,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يوجد طلب استرداد لهذا المبلغ، لا يمكن تحويل المستحق للمحفظة."
+},
+{
+"id": 2802,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "دفعة المشروع غير معتمدة أو تم رد أموال منها."
+},
+{
+"id": 2803,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "يوجد طلب استرداد مرتبط بدفعة المشروع."
+},
+{
+"id": 2804,
+"f": "app/Services/AlwaleedWalletOperations.php",
+"ar": "في مشاريع المكاتب تُحوَّل حصة المكتب مرة واحدة ولا يُعاد اعتماد حصص مهندسيه لدى المنصة."
+},
+{
+"id": 2805,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "باقة"
+},
+{
+"id": 2806,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "أكمل طلب توثيق المهندس من مسار المتطلبات قبل شراء الباقة."
+},
+{
+"id": 2807,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "هذه باقة مهندس شهرية."
+},
+{
+"id": 2808,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "أكمل KYC والتحقق المهني قبل شراء باقة المهندس."
+},
+{
+"id": 2809,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "أكمل متطلبات تأسيس/توثيق المكتب أولًا."
+},
+{
+"id": 2810,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "يجب اعتماد توثيق صاحب المكتب والمكتب."
+},
+{
+"id": 2811,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "الباقة المخصصة تحتاج عرض سعر معتمدًا من الإدارة."
+},
+{
+"id": 2812,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "هناك طلب اشتراك قيد المراجعة."
+},
+{
+"id": 2813,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "باقة AI شهرية."
+},
+{
+"id": 2814,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "لا تتطلب شراءً؛ استخدم الاشتراك المجاني الحالي."
+},
+{
+"id": 2815,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "أنت داخل الخطة بالفعل؛ يمكنك اختيار باقة أخرى للترقية."
+},
+{
+"id": 2816,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "عملة الباقة غير مدعومة في المحفظة."
+},
+{
+"id": 2817,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "الباقة مجانية؛ استخدم مسار الاشتراك المجاني الحالي دون سحب من المحفظة."
+},
+{
+"id": 2818,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "رقم عملية الشراء غير صالح."
+},
+{
+"id": 2819,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "تعارض مفتاح الطلب."
+},
+{
+"id": 2820,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "تغير سعر الباقة؛ راجع السعر الحالي ثم أكد الطلب مجددًا."
+},
+{
+"id": 2821,
+"f": "app/Services/AlwaleedWalletPackagePurchases.php",
+"ar": "رصيد عملة الباقة غير كافٍ أو تغير سعر الصرف/الرصيد؛ أعد عرض السعر وأكّد التحويل من جديد."
+},
+{
+"id": 2822,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "المحفظة للعرض والاختبار فقط حتى اعتماد التشغيل المالي وربط مزود الدفع."
+},
+{
+"id": 2823,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "أدخل مبلغًا موجبًا صحيحًا بعدد الخانات المسموح للعملة."
+},
+{
+"id": 2824,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "المبلغ خارج الحدود المسموح بها."
+},
+{
+"id": 2825,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "عملة أو فئة حساب محاسبي غير مدعومة."
+},
+{
+"id": 2826,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "قيد المحفظة غير صالح."
+},
+{
+"id": 2827,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "مفتاح العملية مستخدم لبيانات مالية مختلفة."
+},
+{
+"id": 2828,
+"f": "app/Services/AlwaleedWalletService.php",
+"ar": "الرصيد المتاح غير كافٍ لإتمام العملية."
+},
+{
+"id": 2829,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "المكتب"
+},
+{
+"id": 2830,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "العربية"
+},
+{
+"id": 2831,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تحليل الملفات"
+},
+{
+"id": 2832,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "الصوت"
+},
+{
+"id": 2833,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "الحسابات الهندسية"
+},
+{
+"id": 2834,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تحليل وحسابات هندسية مع توضيح الافتراضات."
+},
+{
+"id": 2835,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مراجعة المخططات"
+},
+{
+"id": 2836,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مراجعة المخططات وتقديم ملاحظات منظمة."
+},
+{
+"id": 2837,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تحليل الكميات"
+},
+{
+"id": 2838,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تحليل جداول الكميات والبنود."
+},
+{
+"id": 2839,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "أكواد البناء"
+},
+{
+"id": 2840,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "شرح متطلبات الأكواد عند توفر السياق."
+},
+{
+"id": 2841,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "التقارير الفنية"
+},
+{
+"id": 2842,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "صياغة وتلخيص التقارير الفنية."
+},
+{
+"id": 2843,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "المساعدة في الأكواد والبرمجيات والمراجعة التقنية."
+},
+{
+"id": 2844,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بسياق مشاريع المستخدم المصرح بها."
+},
+{
+"id": 2845,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بسياق الاستشارات المصرح بها."
+},
+{
+"id": 2846,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بسياق حالة الدفعات دون كشف بيانات حساسة."
+},
+{
+"id": 2847,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بسياق عضويات المكتب والفريق."
+},
+{
+"id": 2848,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بعدد الإشعارات وحالتها."
+},
+{
+"id": 2849,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "السماح بسياق طلبات الدعم الخاصة بالمستخدم."
+},
+{
+"id": 2850,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "والصور وTXT وCSV حسب الباقة."
+},
+{
+"id": 2851,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "إدخال صوتي ورد صوتي."
+},
+{
+"id": 2852,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "أدوات هندسية وصور"
+},
+{
+"id": 2853,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تفعيل المهارات الهندسية وتوليد/تعديل الصور وتحليل المخططات داخل المساعد."
+},
+{
+"id": 2854,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مساعد التقارير والملفات"
+},
+{
+"id": 2855,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "وBOQ والعروض ومحاضر الاجتماعات وتقارير المشاريع، ومع Code ملفات برمجية وZIP للاستبدال."
+},
+{
+"id": 2856,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تحويل الطلبات المعقدة إلى خطة تنفيذ ومهام ومخاطر وملخص إداري."
+},
+{
+"id": 2857,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "تفضيلات المساعد الخاصة بالمستخدم"
+},
+{
+"id": 2858,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "لغة الرد المفضلة:"
+},
+{
+"id": 2859,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "اتبع لغة المستخدم إذا طلب لغة أخرى صراحة."
+},
+{
+"id": 2860,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مفعّل: راجع الإجابة داخليًا للتأكد من الاتساق والدقة قبل إرسالها. لا تعرض سلسلة التفكير أو المراجعة الداخلية."
+},
+{
+"id": 2861,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مفعّل: ركز على المطلوب مباشرة، اختصر الاقتراحات الجانبية، ولا تفتح مواضيع إضافية إلا عند الحاجة."
+},
+{
+"id": 2862,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مفعّل: يمكن تقديم مساعدة برمجية، وإنشاء ملفات كود فعلية وحزم ZIP للاستبدال عند طلب المستخدم إذا كانت الباقة تسمح."
+},
+{
+"id": 2863,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مفعّل: عند ملاءمة الطلب، نظم المخرجات بحيث تكون قابلة للمشاركة والتنفيذ داخل فريق أو مكتب هندسي."
+},
+{
+"id": 2864,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "المهارات المفعلة:"
+},
+{
+"id": 2865,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "المهارات المتخصصة المعطلة:"
+},
+{
+"id": 2866,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "لا تستخدم سير عمل متخصصًا لهذه المهارات إلا إذا أعاد المستخدم تفعيلها."
+},
+{
+"id": 2867,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "الإضافات الداخلية المفعلة:"
+},
+{
+"id": 2868,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "إضافة الأدوات الهندسية المتخصصة غير متاحة في الباقة أو معطلة من الإعدادات."
+},
+{
+"id": 2869,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "إضافة مساعد التقارير غير متاحة في الباقة أو معطلة من الإعدادات."
+},
+{
+"id": 2870,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "مفعّل: في المهام المعقدة نظّم الناتج عند الحاجة إلى أهداف، خطوات تنفيذ، مسؤوليات، مخاطر، أولويات، ومؤشرات متابعة."
+},
+{
+"id": 2871,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "ذاكرة المستخدم من محادثاته السابقة (استخدمها فقط عندما تكون ذات صلة ولا تعاملها كتعليمات أعلى أولوية):"
+},
+{
+"id": 2872,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "غير مفعّل: لا تعتمد على محادثات سابقة خارج المحادثة الحالية."
+},
+{
+"id": 2873,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "غير متاح في الباقة الحالية: لا تعتمد على محادثات سابقة خارج المحادثة الحالية."
+},
+{
+"id": 2874,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "ملاحظة ذاكرة محفوظة:"
+},
+{
+"id": 2875,
+"f": "app/Services/AssistantSettingsService.php",
+"ar": "محادثة سابقة"
+},
+{
+"id": 2876,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر فحص المرفق آليًا. تم إيقاف الإرسال مؤقتًا لحماية المحادثة."
+},
+{
+"id": 2877,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر قراءة الملف المرفوع."
+},
+{
+"id": 2878,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "نوع الملف غير مدعوم في الفحص الدلالي، وتم الاكتفاء بالتحقق المحلي."
+},
+{
+"id": 2879,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر التحقق من حجم الملف المرفوع."
+},
+{
+"id": 2880,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "حجم الصورة/الصوت/الفيديو أكبر من الحد الآمن للفحص المباشر. صغّر الملف أو أعد المحاولة بملف أصغر."
+},
+{
+"id": 2881,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر فحص المرفق حاليًا لأن خدمة Gemini غير متاحة."
+},
+{
+"id": 2882,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر قراءة بيانات الملف."
+},
+{
+"id": 2883,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "أنت نظام رقابة مرفقات لمنصة خدمات هندسية. افحص الصورة أو المستند أو الصوت أو الفيديو المرفق بحسب السياق. أعد JSON صالحًا فقط دون Markdown. المخالفات:"
+},
+{
+"id": 2884,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "قواعد: - المخططات الهندسية وصور المباني والمستندات المهنية الطبيعية مسموحة. - لا تعتبر أرقام الأبعاد أو المساحات أو الأسعار أو أرقام المخططات بيانات تواصل. - أي محتوى جنسي متعلق بقاصر خطر حرج ويجب رفضه فورًا. - العري الصريح أو المحتوى الجنسي الصريح أو التهديد الواضح مرفوض. - عند عدم وضوح المحتوى اختر"
+},
+{
+"id": 2885,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "يعني السماح. - needs_review يعني منع مؤقت للمراجعة دون تحذير تلقائي. - rejected يعني منع واضح. - issue_warning يكون true فقط عند مخالفة واضحة. - suspend_immediately للحالات الحرجة جدًا فقط. السياق:"
+},
+{
+"id": 2886,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "أعد:"
+},
+{
+"id": 2887,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تعذر تفسير نتيجة فحص المرفق. تم إيقاف الإرسال مؤقتًا."
+},
+{
+"id": 2888,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "المرفق يحتاج إلى مراجعة."
+},
+{
+"id": 2889,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تم إيقاف المرفق مؤقتًا وإرساله إلى الإدارة للمراجعة."
+},
+{
+"id": 2890,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "تم منع المرفق لأنه يخالف سياسة استخدام المنصة."
+},
+{
+"id": 2891,
+"f": "app/Services/AttachmentModerationService.php",
+"ar": "المرفق آمن."
+},
+{
+"id": 2892,
+"f": "app/Services/AttachmentSecurityService.php",
+"ar": "حجم المرفق يتجاوز الحد المسموح."
+},
+{
+"id": 2893,
+"f": "app/Services/AttachmentSecurityService.php",
+"ar": "تم رفض المرفق لأن فحص الحماية اكتشف ملفًا غير آمن."
+},
+{
+"id": 2894,
+"f": "app/Services/AttachmentSecurityService.php",
+"ar": "تعذر فحص المرفق أمنيًا. حاول لاحقًا."
+},
+{
+"id": 2895,
+"f": "app/Services/AttachmentSecurityService.php",
+"ar": "فاحص المرفقات غير متاح على الخادم."
+},
+{
+"id": 2896,
+"f": "app/Services/BillingDocumentService.php",
+"ar": "دفعة عبر منصة الوليد الهندسية"
+},
+{
+"id": 2897,
+"f": "app/Services/BillingDocumentService.php",
+"ar": "خدمة منصة الوليد الهندسية"
+},
+{
+"id": 2898,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تطابق الهوية والوجه"
+},
+{
+"id": 2899,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "خدمة التحقق المحلية غير مهيأة. اضبط BIOMETRIC_LOCAL_SERVICE_TOKEN على Laravel وخدمة Biometric بنفس القيمة."
+},
+{
+"id": 2900,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "طلب التوثيق قيد التأكيد النهائي. حدّث الحالة بعد انتهاء المراجعة."
+},
+{
+"id": 2901,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر بدء التحقق من الوجه للاسترداد. تأكد أن للحساب توثيق KYC مقبولًا عبر"
+},
+{
+"id": 2902,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر بدء جلسة التحقق من الهوية حاليًا. حاول بعد قليل."
+},
+{
+"id": 2903,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "ارفع صورة الوجه الأمامي للهوية أولاً، ثم ابدأ التحقق من الوجه."
+},
+{
+"id": 2904,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "لا يوجد مرجع حيوي KYC ناجح لهذا الحساب."
+},
+{
+"id": 2905,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "مزود التحقق ثلاثي الأبعاد غير مهيأ على الخادم."
+},
+{
+"id": 2906,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر إنشاء جلسة التحقق ثلاثي الأبعاد."
+},
+{
+"id": 2907,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "استجابة مزود التحقق غير مكتملة."
+},
+{
+"id": 2908,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "انتهت صلاحية رابط التحقق. اطلب رابطاً جديداً."
+},
+{
+"id": 2909,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر فحص وضع الوجه."
+},
+{
+"id": 2910,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "هذه الجلسة ليست جلسة تحقق محلي."
+},
+{
+"id": 2911,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "صورة الهوية الأمامية غير موجودة."
+},
+{
+"id": 2912,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "مرجع الهوية غير موجود."
+},
+{
+"id": 2913,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "مرجع KYC الحيوي غير موجود."
+},
+{
+"id": 2914,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر تحليل الوجه بالذكاء الاصطناعي. تأكد أن خدمة Biometric تعمل ثم أعد المحاولة."
+},
+{
+"id": 2915,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تم التحقق بنجاح بعد دمج ArcFace مع مراجعة جودة الجلسة بواسطة الذكاء الاصطناعي."
+},
+{
+"id": 2916,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "ظهرت إشارة بصرية غير مؤكدة لاحتمال إعادة عرض صورة أو شاشة؛ تم تحويل الحالة للمراجعة بدل رفضها تلقائيًا."
+},
+{
+"id": 2917,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "اكتمل الفحص، لكن الجلسة تحتاج مراجعة أمان إضافية."
+},
+{
+"id": 2918,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تم اجتياز فحص الحيوية متعدد التحديات ومطابقة ArcFace متعددة اللقطات مع مرجع KYC الحيوي المشفر. قد تُستخدم مراجعة Gemini لجودة الجلسة فقط عند تفعيلها، ولا تستخدم لتحديد الهوية."
+},
+{
+"id": 2919,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "فارغ. ضع رابط خدمة Biometric على"
+},
+{
+"id": 2920,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "غير صحيح. استخدم رابطاً كاملاً مثل https://service.up.railway.app أو"
+},
+{
+"id": 2921,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تم اجتياز فحص الحيوية ومطابقة الوجه تلقائياً مع مرجع"
+},
+{
+"id": 2922,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "دقيقة للتوثيق التلقائي."
+},
+{
+"id": 2923,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "التحقق من هويتك قيد الإنهاء"
+},
+{
+"id": 2924,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "اجتزت التحقق من الهوية بنسبة تطابق"
+},
+{
+"id": 2925,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "سيتم توثيق حسابك تلقائيًا خلال"
+},
+{
+"id": 2926,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "دقيقة تقريبًا."
+},
+{
+"id": 2927,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "رقم الهوية المدخل لا يطابق الرقم الظاهر في الوثيقة."
+},
+{
+"id": 2928,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "لم يجتز التحقق من الهوية أو الوجه لدى مزوّد التحقق."
+},
+{
+"id": 2929,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "نسبة تطابق الهوية والوجه"
+},
+{
+"id": 2930,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "أقل من الحد المطلوب"
+},
+{
+"id": 2931,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "نتيجة التحقق تحتاج مراجعة بشرية."
+},
+{
+"id": 2932,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "توثيق تلقائي عبر Didit — تطابق الهوية والوجه"
+},
+{
+"id": 2933,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تم توثيق حسابك"
+},
+{
+"id": 2934,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "اكتمل توثيق هويتك بنجاح."
+},
+{
+"id": 2935,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "لم تعد نتيجة التحقق تستوفي شروط التوثيق التلقائي عند إعادة الفحص."
+},
+{
+"id": 2936,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "رفض تلقائي"
+},
+{
+"id": 2937,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "تعذر توثيق حسابك تلقائيًا"
+},
+{
+"id": 2938,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "لم يتم توثيق حسابك تلقائيًا:"
+},
+{
+"id": 2939,
+"f": "app/Services/BiometricVerificationService.php",
+"ar": "أُحيل طلبك إلى فريق الإدارة للمراجعة."
+},
+{
+"id": 2940,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "رقم الفاتورة:"
+},
+{
+"id": 2941,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "تحميل الفاتورة"
+},
+{
+"id": 2942,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "استشارة هندسية"
+},
+{
+"id": 2943,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "عرض الاستشارة"
+},
+{
+"id": 2944,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "تم تأكيد دفع الاستشارة رقم"
+},
+{
+"id": 2945,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "طلب استشارة مدفوع"
+},
+{
+"id": 2946,
+"f": "app/Services/ConsultationPaymentSettlementService.php",
+"ar": "تم تأكيد الدفع وإصدار الفاتورة"
+},
+{
+"id": 2947,
+"f": "app/Services/ContractService.php",
+"ar": "الشروط والأحكام"
+},
+{
+"id": 2948,
+"f": "app/Services/ContractService.php",
+"ar": "مدة التنفيذ"
+},
+{
+"id": 2949,
+"f": "app/Services/ContractService.php",
+"ar": "نطاق الأعمال"
+},
+{
+"id": 2950,
+"f": "app/Services/ContractService.php",
+"ar": "يلتزم مقدم الخدمة بتنفيذ نطاق الأعمال المثبت في العرض المعتمد والعقد، وأي أعمال إضافية تتطلب أمر تغيير معتمد داخل المنصة."
+},
+{
+"id": 2951,
+"f": "app/Services/ContractService.php",
+"ar": "قيمة المشروع والدفعات"
+},
+{
+"id": 2952,
+"f": "app/Services/ContractService.php",
+"ar": "تسدد قيمة المشروع وفق جدول الدفعات المعتمد داخل المنصة، ويعد سجل الدفعات والإيصالات المعتمدة جزءًا من السجل المالي للمشروع."
+},
+{
+"id": 2953,
+"f": "app/Services/ContractService.php",
+"ar": "مدة التنفيذ هي المدة المثبتة في هذا العقد، ويبدأ احتسابها من تاريخ بدء المشروع المسجل في المنصة مع مراعاة التوقفات والتمديدات وأوامر التغيير المعتمدة."
+},
+{
+"id": 2954,
+"f": "app/Services/ContractService.php",
+"ar": "التعديلات"
+},
+{
+"id": 2955,
+"f": "app/Services/ContractService.php",
+"ar": "التعديلات الواقعة ضمن النطاق المتفق عليه توثق داخل المشروع، وأي تعديل جوهري يؤثر على السعر أو المدة يجب اعتماده كأمر تغيير."
+},
+{
+"id": 2956,
+"f": "app/Services/ContractService.php",
+"ar": "تسلم الملفات والمخرجات من خلال المنصة، وتعد حالات الاعتماد والرفض وطلب التعديل المسجلة في النظام مرجعًا لحالة التسليم."
+}
+]

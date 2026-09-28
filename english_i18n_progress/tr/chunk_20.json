@@ -1,0 +1,2207 @@
+[
+{
+"id": 6599,
+"f": "views/admin/offices/show.blade.php",
+"ar": "تفاصيل المكتب الهندسي"
+},
+{
+"id": 6600,
+"f": "views/admin/offices/show.blade.php",
+"ar": "تعذر حفظ التعديل:"
+},
+{
+"id": 6601,
+"f": "views/admin/offices/show.blade.php",
+"ar": "مراجعة بيانات المكتب وتحديث حالته التشغيلية."
+},
+{
+"id": 6602,
+"f": "views/admin/offices/show.blade.php",
+"ar": "العودة إلى المكاتب"
+},
+{
+"id": 6603,
+"f": "views/admin/offices/show.blade.php",
+"ar": "سبب إيقاف المكتب"
+},
+{
+"id": 6604,
+"f": "views/admin/offices/show.blade.php",
+"ar": "لم تتم إضافة نبذة تعريفية عن المكتب."
+},
+{
+"id": 6605,
+"f": "views/admin/offices/show.blade.php",
+"ar": "المهندسون الفعالون المسجلون في المكتب."
+},
+{
+"id": 6606,
+"f": "views/admin/offices/show.blade.php",
+"ar": "لا يوجد أعضاء فعالون في المكتب حاليًا."
+},
+{
+"id": 6607,
+"f": "views/admin/offices/show.blade.php",
+"ar": "بيانات الاشتراك"
+},
+{
+"id": 6608,
+"f": "views/admin/offices/show.blade.php",
+"ar": "تاريخ انتهاء الاشتراك"
+},
+{
+"id": 6609,
+"f": "views/admin/offices/show.blade.php",
+"ar": "مراجعة الاشتراكات"
+},
+{
+"id": 6610,
+"f": "views/admin/offices/show.blade.php",
+"ar": "تحديث حالة المكتب"
+},
+{
+"id": 6611,
+"f": "views/admin/offices/show.blade.php",
+"ar": "الحالة الجديدة"
+},
+{
+"id": 6612,
+"f": "views/admin/offices/show.blade.php",
+"ar": "سبب الإيقاف أو الإغلاق"
+},
+{
+"id": 6613,
+"f": "views/admin/offices/show.blade.php",
+"ar": "يُكتب السبب عند إيقاف المكتب أو إغلاقه"
+},
+{
+"id": 6614,
+"f": "views/admin/offices/show.blade.php",
+"ar": "هل أنت متأكد من تحديث حالة المكتب؟"
+},
+{
+"id": 6615,
+"f": "views/admin/offices/show.blade.php",
+"ar": "حفظ حالة المكتب"
+},
+{
+"id": 6616,
+"f": "views/admin/packages/index.blade.php",
+"ar": "متوقف"
+},
+{
+"id": 6617,
+"f": "views/admin/packages/index.blade.php",
+"ar": "إدارة الباقات والعروض"
+},
+{
+"id": 6618,
+"f": "views/admin/packages/index.blade.php",
+"ar": "باقات المكاتب"
+},
+{
+"id": 6619,
+"f": "views/admin/packages/index.blade.php",
+"ar": "باقات المهندسين"
+},
+{
+"id": 6620,
+"f": "views/admin/packages/index.blade.php",
+"ar": "السعر الشهري"
+},
+{
+"id": 6621,
+"f": "views/admin/packages/index.blade.php",
+"ar": "قيمة ثابتة"
+},
+{
+"id": 6622,
+"f": "views/admin/packages/index.blade.php",
+"ar": "لا توجد كوبونات."
+},
+{
+"id": 6623,
+"f": "views/admin/packages/index.blade.php",
+"ar": "اضغط على أي باقة لفتح صفحة إدارة كاملة: السعر، الحدود، الخصائص، التفعيل والكوبونات الخاصة بها."
+},
+{
+"id": 6624,
+"f": "views/admin/packages/index.blade.php",
+"ar": "كوبون مسجل"
+},
+{
+"id": 6625,
+"f": "views/admin/packages/index.blade.php",
+"ar": "كوبونات مفعلة"
+},
+{
+"id": 6626,
+"f": "views/admin/packages/index.blade.php",
+"ar": "الكوبونات متوقفة"
+},
+{
+"id": 6627,
+"f": "views/admin/packages/index.blade.php",
+"ar": "إدارة الباقة"
+},
+{
+"id": 6628,
+"f": "views/admin/packages/index.blade.php",
+"ar": "الكوبونات مرتبطة بالباقات نفسها"
+},
+{
+"id": 6629,
+"f": "views/admin/packages/index.blade.php",
+"ar": "لإنشاء كوبون افتح الباقة المطلوبة ثم أضف الكوبون من داخلها. لن يتم إنشاء باقة جديدة، وسيعمل الكوبون فقط على الباقة التي اخترتها."
+},
+{
+"id": 6630,
+"f": "views/admin/packages/index.blade.php",
+"ar": "إدارة الكوبونات الحالية"
+},
+{
+"id": 6631,
+"f": "views/admin/packages/index.blade.php",
+"ar": "الكوبون المستخدم سابقًا يُعطّل بدل حذفه حتى تبقى سجلات الدفع صحيحة."
+},
+{
+"id": 6632,
+"f": "views/admin/packages/index.blade.php",
+"ar": "رمز الكوبون"
+},
+{
+"id": 6633,
+"f": "views/admin/packages/index.blade.php",
+"ar": "اسم العرض"
+},
+{
+"id": 6634,
+"f": "views/admin/packages/index.blade.php",
+"ar": "نوع الخصم"
+},
+{
+"id": 6635,
+"f": "views/admin/packages/index.blade.php",
+"ar": "نسبة مئوية"
+},
+{
+"id": 6636,
+"f": "views/admin/packages/index.blade.php",
+"ar": "قيمة الخصم"
+},
+{
+"id": 6637,
+"f": "views/admin/packages/index.blade.php",
+"ar": "بداية العرض"
+},
+{
+"id": 6638,
+"f": "views/admin/packages/index.blade.php",
+"ar": "نهاية العرض"
+},
+{
+"id": 6639,
+"f": "views/admin/packages/index.blade.php",
+"ar": "حفظ التعديل"
+},
+{
+"id": 6640,
+"f": "views/admin/packages/index.blade.php",
+"ar": "حذف الكوبون؟ إذا كان مستخدمًا سابقًا فسيتم تعطيله بدل حذفه."
+},
+{
+"id": 6641,
+"f": "views/admin/packages/index.blade.php",
+"ar": "حذف / تعطيل الكوبون"
+},
+{
+"id": 6642,
+"f": "views/admin/packages/show.blade.php",
+"ar": "السعر الحالي"
+},
+{
+"id": 6643,
+"f": "views/admin/packages/show.blade.php",
+"ar": "سعر مخصص"
+},
+{
+"id": 6644,
+"f": "views/admin/packages/show.blade.php",
+"ar": "كل الباقات"
+},
+{
+"id": 6645,
+"f": "views/admin/packages/show.blade.php",
+"ar": "اشتراك/حساب مرتبط"
+},
+{
+"id": 6646,
+"f": "views/admin/packages/show.blade.php",
+"ar": "تفاصيل وإعدادات الباقة"
+},
+{
+"id": 6647,
+"f": "views/admin/packages/show.blade.php",
+"ar": "اسم الباقة"
+},
+{
+"id": 6648,
+"f": "views/admin/packages/show.blade.php",
+"ar": "ثابت"
+},
+{
+"id": 6649,
+"f": "views/admin/packages/show.blade.php",
+"ar": "ترتيب الظهور"
+},
+{
+"id": 6650,
+"f": "views/admin/packages/show.blade.php",
+"ar": "الباقة فعالة"
+},
+{
+"id": 6651,
+"f": "views/admin/packages/show.blade.php",
+"ar": "السماح بإدخال كوبون عند الدفع"
+},
+{
+"id": 6652,
+"f": "views/admin/packages/show.blade.php",
+"ar": "أقصى فرق"
+},
+{
+"id": 6653,
+"f": "views/admin/packages/show.blade.php",
+"ar": "أقصى ملف"
+},
+{
+"id": 6654,
+"f": "views/admin/packages/show.blade.php",
+"ar": "خصائص وحدود الباقة"
+},
+{
+"id": 6655,
+"f": "views/admin/packages/show.blade.php",
+"ar": "حفظ كل إعدادات الباقة"
+},
+{
+"id": 6656,
+"f": "views/admin/packages/show.blade.php",
+"ar": "إضافة كوبون لهذه الباقة"
+},
+{
+"id": 6657,
+"f": "views/admin/packages/show.blade.php",
+"ar": "ولن يعمل على باقات أخرى."
+},
+{
+"id": 6658,
+"f": "views/admin/packages/show.blade.php",
+"ar": "فعّل «السماح بإدخال كوبون» أولًا."
+},
+{
+"id": 6659,
+"f": "views/admin/packages/show.blade.php",
+"ar": "اسم الكوبون"
+},
+{
+"id": 6660,
+"f": "views/admin/packages/show.blade.php",
+"ar": "نسبة %"
+},
+{
+"id": 6661,
+"f": "views/admin/packages/show.blade.php",
+"ar": "لكل مستخدم"
+},
+{
+"id": 6662,
+"f": "views/admin/packages/show.blade.php",
+"ar": "بداية العرض (اختياري)"
+},
+{
+"id": 6663,
+"f": "views/admin/packages/show.blade.php",
+"ar": "نهاية العرض (اختياري)"
+},
+{
+"id": 6664,
+"f": "views/admin/packages/show.blade.php",
+"ar": "عنوان العرض"
+},
+{
+"id": 6665,
+"f": "views/admin/packages/show.blade.php",
+"ar": "رسالة العرض"
+},
+{
+"id": 6666,
+"f": "views/admin/packages/show.blade.php",
+"ar": "صورة العرض (تظهر عند هز الهاتف)"
+},
+{
+"id": 6667,
+"f": "views/admin/packages/show.blade.php",
+"ar": "هز الهاتف"
+},
+{
+"id": 6668,
+"f": "views/admin/packages/show.blade.php",
+"ar": "إضافة الكوبون"
+},
+{
+"id": 6669,
+"f": "views/admin/packages/show.blade.php",
+"ar": "كوبونات الباقة"
+},
+{
+"id": 6670,
+"f": "views/admin/packages/show.blade.php",
+"ar": "استخدم"
+},
+{
+"id": 6671,
+"f": "views/admin/packages/show.blade.php",
+"ar": "لا يوجد كوبون مرتبط مباشرة بهذه الباقة."
+},
+{
+"id": 6672,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "بحث"
+},
+{
+"id": 6673,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "مركز عمليات الدعم"
+},
+{
+"id": 6674,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "مخصص"
+},
+{
+"id": 6675,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "صلاحيات المسميات الوظيفية"
+},
+{
+"id": 6676,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "الصلاحيات الأساسية تُدار حسب المسمى الوظيفي، وليس حسب كل حساب. ويمكن للمدير منح حساب محدد صلاحيات إضافية عند الحاجة."
+},
+{
+"id": 6677,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "المسميات الوظيفية"
+},
+{
+"id": 6678,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "أي تعديل هنا ينعكس على جميع الحسابات التي تحمل نفس المسمى الوظيفي ونفس نوع الدور."
+},
+{
+"id": 6679,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "مسمى"
+},
+{
+"id": 6680,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "افتراضي"
+},
+{
+"id": 6681,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "فتح صلاحيات المسمى"
+},
+{
+"id": 6682,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "حفظ صلاحيات"
+},
+{
+"id": 6683,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "لا توجد مسميات وظيفية مسجلة حاليًا في ملفات الموظفين."
+},
+{
+"id": 6684,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "استخدمها فقط عندما يحتاج شخص بعينه صلاحية زيادة فوق صلاحيات مسماه الوظيفي."
+},
+{
+"id": 6685,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "ابحث بالاسم أو البريد أو الهاتف أو"
+},
+{
+"id": 6686,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "إضافية"
+},
+{
+"id": 6687,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "اختيار الصلاحيات الإضافية"
+},
+{
+"id": 6688,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "موروثة من المسمى الوظيفي"
+},
+{
+"id": 6689,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "إضافة خاصة لهذا الحساب"
+},
+{
+"id": 6690,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "حفظ الصلاحيات الإضافية"
+},
+{
+"id": 6691,
+"f": "views/admin/permissions/index.blade.php",
+"ar": "لا توجد حسابات مطابقة للبحث."
+},
+{
+"id": 6692,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "عمولات المنصة"
+},
+{
+"id": 6693,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "النسب هنا عامة وتطبق على العمليات الجديدة. المهندس يرى النسبة وعمولة المنصة وصافي ما سيستلمه قبل إرسال عرض المشروع."
+},
+{
+"id": 6694,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "عرض مالي فقط"
+},
+{
+"id": 6695,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "إعدادات العمولة لم تُفعّل في قاعدة البيانات بعد. شغّل"
+},
+{
+"id": 6696,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "على Railway ثم عيّن النسب."
+},
+{
+"id": 6697,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "عمولة المنصة على المشاريع %"
+},
+{
+"id": 6698,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "تظهر للمهندس عند كتابة عرضه."
+},
+{
+"id": 6699,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "عمولة المنصة على الاستشارات %"
+},
+{
+"id": 6700,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "تطبق على مستحقات الاستشارات الجديدة."
+},
+{
+"id": 6701,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "إذا كان عرض المشروع"
+},
+{
+"id": 6702,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "وعمولة المنصة 10%، حصة المنصة"
+},
+{
+"id": 6703,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "وصافي مقدم الخدمة"
+},
+{
+"id": 6704,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "النسبة تُحفظ كـSnapshot مع العرض/العملية الجديدة حتى لا يتغير السجل التاريخي إذا عدّلت النسبة لاحقاً."
+},
+{
+"id": 6705,
+"f": "views/admin/platform-commissions/edit.blade.php",
+"ar": "حفظ نسب العمولة"
+},
+{
+"id": 6706,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "الحوادث العامة والبنرات"
+},
+{
+"id": 6707,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "عنوان الحادثة"
+},
+{
+"id": 6708,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "الرسالة العامة"
+},
+{
+"id": 6709,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "إظهار بانر للموقع والتطبيق"
+},
+{
+"id": 6710,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "إنشاء حادثة"
+},
+{
+"id": 6711,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "التذكرة المرتبطة"
+},
+{
+"id": 6712,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "ربط تذكرة بالحادثة"
+},
+{
+"id": 6713,
+"f": "views/admin/support-incidents/index.blade.php",
+"ar": "مرتبط:"
+},
+{
+"id": 6714,
+"f": "views/admin/support/index.blade.php",
+"ar": "منخفضة"
+},
+{
+"id": 6715,
+"f": "views/admin/support/index.blade.php",
+"ar": "عاجلة"
+},
+{
+"id": 6716,
+"f": "views/admin/support/index.blade.php",
+"ar": "الأولوية"
+},
+{
+"id": 6717,
+"f": "views/admin/support/index.blade.php",
+"ar": "قيد المعالجة"
+},
+{
+"id": 6718,
+"f": "views/admin/support/index.blade.php",
+"ar": "متوسطة"
+},
+{
+"id": 6719,
+"f": "views/admin/support/index.blade.php",
+"ar": "بانتظار العميل"
+},
+{
+"id": 6720,
+"f": "views/admin/support/index.blade.php",
+"ar": "مرتفعة"
+},
+{
+"id": 6721,
+"f": "views/admin/support/index.blade.php",
+"ar": "دقيقة"
+},
+{
+"id": 6722,
+"f": "views/admin/support/index.blade.php",
+"ar": "بانتظار الدعم"
+},
+{
+"id": 6723,
+"f": "views/admin/support/index.blade.php",
+"ar": "كل الأولويات"
+},
+{
+"id": 6724,
+"f": "views/admin/support/index.blade.php",
+"ar": "تطبيق الفلاتر"
+},
+{
+"id": 6725,
+"f": "views/admin/support/index.blade.php",
+"ar": "بانتظار موظف"
+},
+{
+"id": 6726,
+"f": "views/admin/support/index.blade.php",
+"ar": "توثيق"
+},
+{
+"id": 6727,
+"f": "views/admin/support/index.blade.php",
+"ar": "تجاوز"
+},
+{
+"id": 6728,
+"f": "views/admin/support/index.blade.php",
+"ar": "العاجلة"
+},
+{
+"id": 6729,
+"f": "views/admin/support/index.blade.php",
+"ar": "المصعّدة"
+},
+{
+"id": 6730,
+"f": "views/admin/support/index.blade.php",
+"ar": "تقني"
+},
+{
+"id": 6731,
+"f": "views/admin/support/index.blade.php",
+"ar": "مصعّدة للمدير"
+},
+{
+"id": 6732,
+"f": "views/admin/support/index.blade.php",
+"ar": "كل الأقسام"
+},
+{
+"id": 6733,
+"f": "views/admin/support/index.blade.php",
+"ar": "إلغاء الفلاتر"
+},
+{
+"id": 6734,
+"f": "views/admin/support/index.blade.php",
+"ar": "ملاحظات داخلية"
+},
+{
+"id": 6735,
+"f": "views/admin/support/index.blade.php",
+"ar": "آخر نشاط"
+},
+{
+"id": 6736,
+"f": "views/admin/support/index.blade.php",
+"ar": "رسالة"
+},
+{
+"id": 6737,
+"f": "views/admin/support/index.blade.php",
+"ar": "ملاحظة داخلية"
+},
+{
+"id": 6738,
+"f": "views/admin/support/index.blade.php",
+"ar": "دعم بشري"
+},
+{
+"id": 6739,
+"f": "views/admin/support/index.blade.php",
+"ar": "كل التذاكر في مكان واحد: الدعم البشري وAI، التصعيد، انتظار العميل، الملاحظات الداخلية، المرفقات، قوالب الرد والبريد الإلكتروني."
+},
+{
+"id": 6740,
+"f": "views/admin/support/index.blade.php",
+"ar": "إعداد موظف الدعم الأساسي"
+},
+{
+"id": 6741,
+"f": "views/admin/support/index.blade.php",
+"ar": "المناوبات"
+},
+{
+"id": 6742,
+"f": "views/admin/support/index.blade.php",
+"ar": "تقارير الأداء"
+},
+{
+"id": 6743,
+"f": "views/admin/support/index.blade.php",
+"ar": "بوابة التذكرة العامة"
+},
+{
+"id": 6744,
+"f": "views/admin/support/index.blade.php",
+"ar": "واجهة موظفي الدعم"
+},
+{
+"id": 6745,
+"f": "views/admin/support/index.blade.php",
+"ar": "كل التذاكر"
+},
+{
+"id": 6746,
+"f": "views/admin/support/index.blade.php",
+"ar": "مفتوحة الآن"
+},
+{
+"id": 6747,
+"f": "views/admin/support/index.blade.php",
+"ar": "على المناوبة الآن"
+},
+{
+"id": 6748,
+"f": "views/admin/support/index.blade.php",
+"ar": "رسائل عميل غير مقروءة"
+},
+{
+"id": 6749,
+"f": "views/admin/support/index.blade.php",
+"ar": "جديدة اليوم"
+},
+{
+"id": 6750,
+"f": "views/admin/support/index.blade.php",
+"ar": "حُلّت اليوم"
+},
+{
+"id": 6751,
+"f": "views/admin/support/index.blade.php",
+"ar": "محسوب من أحدث التذاكر التي استلمت ردًا."
+},
+{
+"id": 6752,
+"f": "views/admin/support/index.blade.php",
+"ar": "موظف الدعم الأساسي"
+},
+{
+"id": 6753,
+"f": "views/admin/support/index.blade.php",
+"ar": "عيّن موظفًا من الإعدادات"
+},
+{
+"id": 6754,
+"f": "views/admin/support/index.blade.php",
+"ar": "المناوبون الآن"
+},
+{
+"id": 6755,
+"f": "views/admin/support/index.blade.php",
+"ar": "لا يوجد موظف داخل مناوبة محددة"
+},
+{
+"id": 6756,
+"f": "views/admin/support/index.blade.php",
+"ar": "إدارة المناوبات"
+},
+{
+"id": 6757,
+"f": "views/admin/support/index.blade.php",
+"ar": "المقترح للرد الأول"
+},
+{
+"id": 6758,
+"f": "views/admin/support/index.blade.php",
+"ar": "مرتفع 1س"
+},
+{
+"id": 6759,
+"f": "views/admin/support/index.blade.php",
+"ar": "متوسط 4س"
+},
+{
+"id": 6760,
+"f": "views/admin/support/index.blade.php",
+"ar": "منخفض 8س"
+},
+{
+"id": 6761,
+"f": "views/admin/support/index.blade.php",
+"ar": "التذاكر المتجاوزة تظهر تلقائيًا في فلتر"
+},
+{
+"id": 6762,
+"f": "views/admin/support/index.blade.php",
+"ar": "رقم التذكرة، العميل، البريد، الموضوع..."
+},
+{
+"id": 6763,
+"f": "views/admin/support/index.blade.php",
+"ar": "كل الموظفين"
+},
+{
+"id": 6764,
+"f": "views/admin/support/index.blade.php",
+"ar": "بشري"
+},
+{
+"id": 6765,
+"f": "views/admin/support/index.blade.php",
+"ar": "غير المسندة"
+},
+{
+"id": 6766,
+"f": "views/admin/support/index.blade.php",
+"ar": "نتيجة حسب الفلاتر الحالية"
+},
+{
+"id": 6767,
+"f": "views/admin/support/index.blade.php",
+"ar": "قوالب"
+},
+{
+"id": 6768,
+"f": "views/admin/support/index.blade.php",
+"ar": "التذكرة / العميل"
+},
+{
+"id": 6769,
+"f": "views/admin/support/index.blade.php",
+"ar": "القسم / النمط"
+},
+{
+"id": 6770,
+"f": "views/admin/support/index.blade.php",
+"ar": "إدارة سريعة"
+},
+{
+"id": 6771,
+"f": "views/admin/support/index.blade.php",
+"ar": "متجاوز"
+},
+{
+"id": 6772,
+"f": "views/admin/support/index.blade.php",
+"ar": "قائمة الانتظار"
+},
+{
+"id": 6773,
+"f": "views/admin/support/index.blade.php",
+"ar": "أول رد:"
+},
+{
+"id": 6774,
+"f": "views/admin/support/index.blade.php",
+"ar": "لا توجد تذاكر مطابقة."
+},
+{
+"id": 6775,
+"f": "views/admin/support/index.blade.php",
+"ar": "موجود حاليًا داخل الدعم"
+},
+{
+"id": 6776,
+"f": "views/admin/support/index.blade.php",
+"ar": "قوالب رد جاهزة"
+},
+{
+"id": 6777,
+"f": "views/admin/support/index.blade.php",
+"ar": "إرسال الرد للمنصة والبريد الإلكتروني"
+},
+{
+"id": 6778,
+"f": "views/admin/support/index.blade.php",
+"ar": "ملاحظات داخلية لا يراها العميل"
+},
+{
+"id": 6779,
+"f": "views/admin/support/index.blade.php",
+"ar": "رفع ملفات وصور للتذكرة"
+},
+{
+"id": 6780,
+"f": "views/admin/support/index.blade.php",
+"ar": "إدارة التشغيل"
+},
+{
+"id": 6781,
+"f": "views/admin/support/index.blade.php",
+"ar": "انتظار العميل / انتظار الموظف"
+},
+{
+"id": 6782,
+"f": "views/admin/support/index.blade.php",
+"ar": "إسناد وإعادة إسناد من المدير"
+},
+{
+"id": 6783,
+"f": "views/admin/support/index.blade.php",
+"ar": "تصعيد للمدير"
+},
+{
+"id": 6784,
+"f": "views/admin/support/index.blade.php",
+"ar": "قياس أول رد وتنبيه"
+},
+{
+"id": 6785,
+"f": "views/admin/support/index.blade.php",
+"ar": "الخطوة التالية المقترحة"
+},
+{
+"id": 6786,
+"f": "views/admin/support/index.blade.php",
+"ar": "تقييم العميل بعد إغلاق التذكرة"
+},
+{
+"id": 6787,
+"f": "views/admin/support/index.blade.php",
+"ar": "أوقات دوام ومناوبات فريق الدعم"
+},
+{
+"id": 6788,
+"f": "views/admin/support/index.blade.php",
+"ar": "تقارير أداء لكل موظف دعم"
+},
+{
+"id": 6789,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "يستخدمها"
+},
+{
+"id": 6790,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "تعديل المقالة"
+},
+{
+"id": 6791,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "السؤال / العنوان"
+},
+{
+"id": 6792,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "الإجابة المعتمدة"
+},
+{
+"id": 6793,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "الكلمات المفتاحية"
+},
+{
+"id": 6794,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "الترتيب"
+},
+{
+"id": 6795,
+"f": "views/admin/support/knowledge/form.blade.php",
+"ar": "تظهر للعميل"
+},
+{
+"id": 6796,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "بحث..."
+},
+{
+"id": 6797,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "قاعدة معرفة الدعم"
+},
+{
+"id": 6798,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "السؤال"
+},
+{
+"id": 6799,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "مقالة جديدة"
+},
+{
+"id": 6800,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "المقالات المفعّل لها AI تدخل مباشرة في سياق مساعد الدعم."
+},
+{
+"id": 6801,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "المشاهدات"
+},
+{
+"id": 6802,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "حذف المقالة؟"
+},
+{
+"id": 6803,
+"f": "views/admin/support/knowledge/index.blade.php",
+"ar": "لا توجد مقالات."
+},
+{
+"id": 6804,
+"f": "views/admin/support/performance.blade.php",
+"ar": "المحلولة"
+},
+{
+"id": 6805,
+"f": "views/admin/support/performance.blade.php",
+"ar": "المفتوحة الآن"
+},
+{
+"id": 6806,
+"f": "views/admin/support/performance.blade.php",
+"ar": "متوسط الحل"
+},
+{
+"id": 6807,
+"f": "views/admin/support/performance.blade.php",
+"ar": "تقارير أداء الدعم"
+},
+{
+"id": 6808,
+"f": "views/admin/support/performance.blade.php",
+"ar": "حتى اليوم"
+},
+{
+"id": 6809,
+"f": "views/admin/support/performance.blade.php",
+"ar": "تذاكر جديدة"
+},
+{
+"id": 6810,
+"f": "views/admin/support/performance.blade.php",
+"ar": "تقييمات"
+},
+{
+"id": 6811,
+"f": "views/admin/support/settings.blade.php",
+"ar": "الصفحة الشخصية"
+},
+{
+"id": 6812,
+"f": "views/admin/support/settings.blade.php",
+"ar": "جاري الحفظ..."
+},
+{
+"id": 6813,
+"f": "views/admin/support/settings.blade.php",
+"ar": "إعداد موظف الدعم"
+},
+{
+"id": 6814,
+"f": "views/admin/support/settings.blade.php",
+"ar": "لوحة إدارة الدعم الفني"
+},
+{
+"id": 6815,
+"f": "views/admin/support/settings.blade.php",
+"ar": "ابحث بالاسم أو البريد الإلكتروني..."
+},
+{
+"id": 6816,
+"f": "views/admin/support/settings.blade.php",
+"ar": "اختر الموظف"
+},
+{
+"id": 6817,
+"f": "views/admin/support/settings.blade.php",
+"ar": "اختر حسابًا واحدًا فقط."
+},
+{
+"id": 6818,
+"f": "views/admin/support/settings.blade.php",
+"ar": "كل التذاكر الجديدة ستُسند إليه تلقائيًا."
+},
+{
+"id": 6819,
+"f": "views/admin/support/settings.blade.php",
+"ar": "موظف الدعم الفني المتاح"
+},
+{
+"id": 6820,
+"f": "views/admin/support/settings.blade.php",
+"ar": "لا توجد حسابات متاحة."
+},
+{
+"id": 6821,
+"f": "views/admin/support/settings.blade.php",
+"ar": "إلغاء الأمر"
+},
+{
+"id": 6822,
+"f": "views/admin/support/settings.blade.php",
+"ar": "نظام إدارة الدعم الفني — منصة الوليد الهندسية"
+},
+{
+"id": 6823,
+"f": "views/admin/support/settings.blade.php",
+"ar": "يرجى اختيار موظف الدعم الفني."
+},
+{
+"id": 6824,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "حذف"
+},
+{
+"id": 6825,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "فعالة"
+},
+{
+"id": 6826,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "اليوم"
+},
+{
+"id": 6827,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الوقت"
+},
+{
+"id": 6828,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الاثنين"
+},
+{
+"id": 6829,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الثلاثاء"
+},
+{
+"id": 6830,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الأربعاء"
+},
+{
+"id": 6831,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الخميس"
+},
+{
+"id": 6832,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الجمعة"
+},
+{
+"id": 6833,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "السبت"
+},
+{
+"id": 6834,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "ملاحظة اختيارية"
+},
+{
+"id": 6835,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "مناوبات فريق الدعم"
+},
+{
+"id": 6836,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "رجوع للدعم"
+},
+{
+"id": 6837,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "إضافة مناوبة"
+},
+{
+"id": 6838,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "إضافة المناوبة"
+},
+{
+"id": 6839,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "الحالة الآن"
+},
+{
+"id": 6840,
+"f": "views/admin/support/shifts.blade.php",
+"ar": "المنطقة"
+},
+{
+"id": 6841,
+"f": "views/ai/admin.blade.php",
+"ar": "الكل"
+},
+{
+"id": 6842,
+"f": "views/ai/admin.blade.php",
+"ar": "الإجراء"
+},
+{
+"id": 6843,
+"f": "views/ai/admin.blade.php",
+"ar": "معلقة"
+},
+{
+"id": 6844,
+"f": "views/ai/admin.blade.php",
+"ar": "مدفوعة"
+},
+{
+"id": 6845,
+"f": "views/ai/admin.blade.php",
+"ar": "مرفوضة"
+},
+{
+"id": 6846,
+"f": "views/ai/admin.blade.php",
+"ar": "لا توجد طلبات."
+},
+{
+"id": 6847,
+"f": "views/ai/admin.blade.php",
+"ar": "مفعلة"
+},
+{
+"id": 6848,
+"f": "views/ai/admin.blade.php",
+"ar": "باقات"
+},
+{
+"id": 6849,
+"f": "views/ai/admin.blade.php",
+"ar": "ملاحظة"
+},
+{
+"id": 6850,
+"f": "views/ai/admin.blade.php",
+"ar": "طلبات معلقة"
+},
+{
+"id": 6851,
+"f": "views/ai/admin.blade.php",
+"ar": "الإيصال"
+},
+{
+"id": 6852,
+"f": "views/ai/admin.blade.php",
+"ar": "إدارة المساعد الذكي"
+},
+{
+"id": 6853,
+"f": "views/ai/admin.blade.php",
+"ar": "اعتماد المدفوعات، التحكم بالأسعار والـCredits، ومراجعة المحافظ والاستهلاك."
+},
+{
+"id": 6854,
+"f": "views/ai/admin.blade.php",
+"ar": "طلبات مدفوعة"
+},
+{
+"id": 6855,
+"f": "views/ai/admin.blade.php",
+"ar": "محافظ فعالة"
+},
+{
+"id": 6856,
+"f": "views/ai/admin.blade.php",
+"ar": "إعدادات محرك"
+},
+{
+"id": 6857,
+"f": "views/ai/admin.blade.php",
+"ar": "وتكلفة الاستخدام"
+},
+{
+"id": 6858,
+"f": "views/ai/admin.blade.php",
+"ar": "تغيير الموديل أو تكلفة Credits يطبق على الطلبات الجديدة بدون تعديل الكود."
+},
+{
+"id": 6859,
+"f": "views/ai/admin.blade.php",
+"ar": "الموديل"
+},
+{
+"id": 6860,
+"f": "views/ai/admin.blade.php",
+"ar": "صوت إضافية"
+},
+{
+"id": 6861,
+"f": "views/ai/admin.blade.php",
+"ar": "تحليل ملف"
+},
+{
+"id": 6862,
+"f": "views/ai/admin.blade.php",
+"ar": "حفظ إعدادات المحرك"
+},
+{
+"id": 6863,
+"f": "views/ai/admin.blade.php",
+"ar": "طلبات شراء"
+},
+{
+"id": 6864,
+"f": "views/ai/admin.blade.php",
+"ar": "بحث بالمرجع أو المستخدم"
+},
+{
+"id": 6865,
+"f": "views/ai/admin.blade.php",
+"ar": "المستخدم/المكتب"
+},
+{
+"id": 6866,
+"f": "views/ai/admin.blade.php",
+"ar": "المنتج"
+},
+{
+"id": 6867,
+"f": "views/ai/admin.blade.php",
+"ar": "مرجع التحويل"
+},
+{
+"id": 6868,
+"f": "views/ai/admin.blade.php",
+"ar": "أحدث محافظ"
+},
+{
+"id": 6869,
+"f": "views/ai/admin.blade.php",
+"ar": "هذه المحفظة غير محدودة ولا تحتاج تعديل"
+},
+{
+"id": 6870,
+"f": "views/ai/assistant.blade.php",
+"ar": "مساحة"
+},
+{
+"id": 6871,
+"f": "views/ai/assistant.blade.php",
+"ar": "عنصر"
+},
+{
+"id": 6872,
+"f": "views/ai/assistant.blade.php",
+"ar": "مساعد الوليد الهندسية"
+},
+{
+"id": 6873,
+"f": "views/ai/assistant.blade.php",
+"ar": "المكتبة البرمجية"
+},
+{
+"id": 6874,
+"f": "views/ai/assistant.blade.php",
+"ar": "المهام المجدولة"
+},
+{
+"id": 6875,
+"f": "views/ai/assistant.blade.php",
+"ar": "مساعد الوليد الهندسي"
+},
+{
+"id": 6876,
+"f": "views/ai/assistant.blade.php",
+"ar": "بحث وتصفية"
+},
+{
+"id": 6877,
+"f": "views/ai/assistant.blade.php",
+"ar": "الصور والتحليل البصري"
+},
+{
+"id": 6878,
+"f": "views/ai/assistant.blade.php",
+"ar": "محدّث"
+},
+{
+"id": 6879,
+"f": "views/ai/assistant.blade.php",
+"ar": "المحادثات الأخيرة"
+},
+{
+"id": 6880,
+"f": "views/ai/assistant.blade.php",
+"ar": "المحادثة:"
+},
+{
+"id": 6881,
+"f": "views/ai/assistant.blade.php",
+"ar": "مشاركة الجلسة"
+},
+{
+"id": 6882,
+"f": "views/ai/assistant.blade.php",
+"ar": "خيارات إضافية"
+},
+{
+"id": 6883,
+"f": "views/ai/assistant.blade.php",
+"ar": "قد يقع الذكاء الاصطناعي في الخطأ أحياناً. تحقق دائماً من سلامة الأكواد والملفات البرمجية قبل النشر على الإنتاج."
+},
+{
+"id": 6884,
+"f": "views/ai/assistant.blade.php",
+"ar": "تعذر تنفيذ الطلب."
+},
+{
+"id": 6885,
+"f": "views/ai/assistant.blade.php",
+"ar": "محادثة AI جديدة مرتبطة هنا"
+},
+{
+"id": 6886,
+"f": "views/ai/assistant.blade.php",
+"ar": "مكتبة جديدة"
+},
+{
+"id": 6887,
+"f": "views/ai/assistant.blade.php",
+"ar": "لا توجد عناصر حالياً."
+},
+{
+"id": 6888,
+"f": "views/ai/assistant.blade.php",
+"ar": "اسم المكتبة الجديدة:"
+},
+{
+"id": 6889,
+"f": "views/ai/assistant.blade.php",
+"ar": "تعذر التحميل"
+},
+{
+"id": 6890,
+"f": "views/ai/assistant.blade.php",
+"ar": "حدث خطأ."
+},
+{
+"id": 6891,
+"f": "views/ai/landing.blade.php",
+"ar": "ابدأ الآن"
+},
+{
+"id": 6892,
+"f": "views/ai/landing.blade.php",
+"ar": "واجهة بدء مساعد منصة الوليد الهندسية"
+},
+{
+"id": 6893,
+"f": "views/ai/landing.blade.php",
+"ar": "واجهة بدء مساعد منصة الوليد الهندسية للكمبيوتر"
+},
+{
+"id": 6894,
+"f": "views/ai/landing.blade.php",
+"ar": "تخطي والرجوع"
+},
+{
+"id": 6895,
+"f": "views/ai/landing.blade.php",
+"ar": "تخطي"
+},
+{
+"id": 6896,
+"f": "views/ai/landing.blade.php",
+"ar": "ابدأ الآن والدخول إلى المحادثة"
+},
+{
+"id": 6897,
+"f": "views/ai/premium.blade.php",
+"ar": "قاعدة المعرفة"
+},
+{
+"id": 6898,
+"f": "views/ai/premium.blade.php",
+"ar": "أنت داخل الخطة بالفعل"
+},
+{
+"id": 6899,
+"f": "views/ai/premium.blade.php",
+"ar": "إكمال الدفع من محفظتي لهذه الباقة"
+},
+{
+"id": 6900,
+"f": "views/ai/premium.blade.php",
+"ar": "إجمالي الاستخدام"
+},
+{
+"id": 6901,
+"f": "views/ai/premium.blade.php",
+"ar": "نهاية الفترة"
+},
+{
+"id": 6902,
+"f": "views/ai/premium.blade.php",
+"ar": "ترقية المساعد الذكي"
+},
+{
+"id": 6903,
+"f": "views/ai/premium.blade.php",
+"ar": "رصيد شخصي للحساب"
+},
+{
+"id": 6904,
+"f": "views/ai/premium.blade.php",
+"ar": "الباقة والرصيد للمساعد الذكي"
+},
+{
+"id": 6905,
+"f": "views/ai/premium.blade.php",
+"ar": "نفس المساعد الذكي يتطور حسب باقتك. تابع رصيد حسابك، واختر Plus أو Pro أو Business حسب الأدوات التي تحتاجها، واشترِ رصيدًا إضافيًا عند الحاجة."
+},
+{
+"id": 6906,
+"f": "views/ai/premium.blade.php",
+"ar": "استخدام غير محدود بدون خصم"
+},
+{
+"id": 6907,
+"f": "views/ai/premium.blade.php",
+"ar": "استهلاك الشهري:"
+},
+{
+"id": 6908,
+"f": "views/ai/premium.blade.php",
+"ar": "متبقي شهري:"
+},
+{
+"id": 6909,
+"f": "views/ai/premium.blade.php",
+"ar": "رصيد مشتَرى لا ينتهي شهريًا"
+},
+{
+"id": 6910,
+"f": "views/ai/premium.blade.php",
+"ar": "يُستخدم بعد انتهاء الرصيد الشهري."
+},
+{
+"id": 6911,
+"f": "views/ai/premium.blade.php",
+"ar": "منذ تفعيل المساعد على حسابك."
+},
+{
+"id": 6912,
+"f": "views/ai/premium.blade.php",
+"ar": "حدود الاستخدام الذكية"
+},
+{
+"id": 6913,
+"f": "views/ai/premium.blade.php",
+"ar": "حدا 5 ساعات و7 أيام متحركان (Rolling)، بينما عداد الشهر يتبع دورة اشتراكك."
+},
+{
+"id": 6914,
+"f": "views/ai/premium.blade.php",
+"ar": "متاح الآن للعملية الواحدة حتى"
+},
+{
+"id": 6915,
+"f": "views/ai/premium.blade.php",
+"ar": "يتحرر تدريجيًا بعد مرور 5 ساعات على كل استخدام"
+},
+{
+"id": 6916,
+"f": "views/ai/premium.blade.php",
+"ar": "نافذة متحركة وليست تصفيرًا أسبوعيًا ثابتًا"
+},
+{
+"id": 6917,
+"f": "views/ai/premium.blade.php",
+"ar": "يتجدد مع تاريخ تجديد اشتراكك"
+},
+{
+"id": 6918,
+"f": "views/ai/premium.blade.php",
+"ar": "غير محدود لمدير المنصة"
+},
+{
+"id": 6919,
+"f": "views/ai/premium.blade.php",
+"ar": "اشتراك AI الحالي"
+},
+{
+"id": 6920,
+"f": "views/ai/premium.blade.php",
+"ar": "تفاصيل الباقة النشطة والفترة الحالية واستهلاك الرصيد المرتبط بحسابك."
+},
+{
+"id": 6921,
+"f": "views/ai/premium.blade.php",
+"ar": "بداية الفترة"
+},
+{
+"id": 6922,
+"f": "views/ai/premium.blade.php",
+"ar": "الترقية الشهرية"
+},
+{
+"id": 6923,
+"f": "views/ai/premium.blade.php",
+"ar": "كل مستوى يفتح استخدامات وأدوات إضافية فعليًا داخل المساعد. الأدوات المقفلة لا تعمل من السيرفر قبل الترقية."
+},
+{
+"id": 6924,
+"f": "views/ai/premium.blade.php",
+"ar": "الأكثر توازنًا"
+},
+{
+"id": 6925,
+"f": "views/ai/premium.blade.php",
+"ar": "يفتح لك:"
+},
+{
+"id": 6926,
+"f": "views/ai/premium.blade.php",
+"ar": "إكمال الدفع بوسيلة أخرى لباقة"
+},
+{
+"id": 6927,
+"f": "views/ai/premium.blade.php",
+"ar": "كوبون الخصم"
+},
+{
+"id": 6928,
+"f": "views/ai/premium.blade.php",
+"ar": "إنشاء طلب"
+},
+{
+"id": 6929,
+"f": "views/ai/premium.blade.php",
+"ar": "تدرج الأدوات:"
+},
+{
+"id": 6930,
+"f": "views/ai/premium.blade.php",
+"ar": "يفتح Thinking والصوت والملفات والذاكرة والتقارير، Pro يضيف Work والتحليل المتقدم والأدوات الهندسية وربط سياق المنصة، وBusiness يضيف Cowork و"
+},
+{
+"id": 6931,
+"f": "views/ai/premium.blade.php",
+"ar": "وأعلى حدود وذاكرة أوسع."
+},
+{
+"id": 6932,
+"f": "views/ai/premium.blade.php",
+"ar": "شراء رصيد إضافي"
+},
+{
+"id": 6933,
+"f": "views/ai/premium.blade.php",
+"ar": "الرصيد الإضافي مخصص لزيادة الاستخدام داخل باقتك الحالية ولا يفتح أدوات باقة أعلى. الاشتراك الشهري يبقى أوفر عند الاستخدام المستمر."
+},
+{
+"id": 6934,
+"f": "views/ai/premium.blade.php",
+"ar": "استخدام مكثف"
+},
+{
+"id": 6935,
+"f": "views/ai/premium.blade.php",
+"ar": "الأكثر قيمة"
+},
+{
+"id": 6936,
+"f": "views/ai/premium.blade.php",
+"ar": "ملفات وتحليل"
+},
+{
+"id": 6937,
+"f": "views/ai/premium.blade.php",
+"ar": "إضافة سريعة"
+},
+{
+"id": 6938,
+"f": "views/ai/premium.blade.php",
+"ar": "يبقى خاضعًا لحدود 5 ساعات و7 أيام في باقتك الحالية."
+},
+{
+"id": 6939,
+"f": "views/ai/premium.blade.php",
+"ar": "سيُضاف الرصيد إلى حسابك الشخصي فقط."
+},
+{
+"id": 6940,
+"f": "views/ai/premium.blade.php",
+"ar": "إرسال طلب الشراء"
+},
+{
+"id": 6941,
+"f": "views/ai/premium.blade.php",
+"ar": "آخر طلبات الشراء"
+},
+{
+"id": 6942,
+"f": "views/ai/premium.blade.php",
+"ar": "إلغاء الطلب"
+},
+{
+"id": 6943,
+"f": "views/ai/premium.blade.php",
+"ar": "لا توجد طلبات شراء حتى الآن."
+},
+{
+"id": 6944,
+"f": "views/ai/premium.blade.php",
+"ar": "سجل استهلاك"
+},
+{
+"id": 6945,
+"f": "views/ai/premium.blade.php",
+"ar": "لا يوجد استخدام مسجل بعد."
+},
+{
+"id": 6946,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "إظهار كلمة المرور"
+},
+{
+"id": 6947,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "استعادة حساب مؤرشف"
+},
+{
+"id": 6948,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "يومًا"
+},
+{
+"id": 6949,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "إذا طلبت حذف الحساب، يمكنك استعادته قبل مرور"
+},
+{
+"id": 6950,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "باستخدام البريد الإلكتروني وكلمة المرور ورمز التحقق."
+},
+{
+"id": 6951,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "الخطوة الأولى"
+},
+{
+"id": 6952,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "الخطوة 1: التحقق من الهوية"
+},
+{
+"id": 6953,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "الخطوة الثانية"
+},
+{
+"id": 6954,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "الخطوة 2: رمز التحقق"
+},
+{
+"id": 6955,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "تم إرسال الطلب"
+},
+{
+"id": 6956,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "في انتظار الرمز"
+},
+{
+"id": 6957,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "أدخل الرمز المرسل"
+},
+{
+"id": 6958,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "رمز التحقق المكون من 6 أرقام"
+},
+{
+"id": 6959,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "تأكد من فحص الرسائل غير المرغوب فيها (Spam) إذا لم تجد رسالة التحقق."
+},
+{
+"id": 6960,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "إخفاء كلمة المرور"
+},
+{
+"id": 6961,
+"f": "views/auth/account-archive-restore.blade.php",
+"ar": "٠-٩"
+},
+{
+"id": 6962,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "حالة استرداد الحساب"
+},
+{
+"id": 6963,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "رقم تذكرة الدعم:"
+},
+{
+"id": 6964,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "تم إرسال رقم التذكرة إلى بريد المتابعة:"
+},
+{
+"id": 6965,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "فتح بوابة متابعة التذكرة والرسائل"
+},
+{
+"id": 6966,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "قيد مراجعة الدعم"
+},
+{
+"id": 6967,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "تم توثيق الهوية"
+},
+{
+"id": 6968,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "تم إنهاء الاسترداد. إذا أصدر موظف الدعم كلمة مرور مؤقتة، سيقوم بإرسالها عبر وسيلة التواصل البديلة التي تم التحقق منها. استخدمها لتسجيل الدخول، ثم سيطلب منك النظام تعيين كلمة مرور جديدة فورًا."
+},
+{
+"id": 6969,
+"f": "views/auth/account-recovery-manual-status.blade.php",
+"ar": "سيتم تحديث الصفحة تلقائيًا. قد يتواصل معك موظف الدعم لطلب تحقق إضافي قبل تنفيذ أي تغيير على الحساب."
+},
+{
+"id": 6970,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "الملف"
+},
+{
+"id": 6971,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "العودة لتسجيل الدخول"
+},
+{
+"id": 6972,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "إرسال طلب الاسترداد للدعم الفني"
+},
+{
+"id": 6973,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "متابعة تذكرة الدعم"
+},
+{
+"id": 6974,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "استرداد الحساب عبر الدعم الفني - منصة الوليد الهندسية"
+},
+{
+"id": 6975,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "هذا المسار مخصص حصراً لمن فقد الوصول إلى البريد الأساسي أو وسائل التحقق. لن يتم تغيير البريد أو فك التحقق بخطوتين (2FA) أو إصدار كلمة مرور جديدة قبل التحقق الصارم من هوية صاحب الحساب الأصلية ومطابقتها."
+},
+{
+"id": 6976,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "شرط الاسترداد عبر الدعم"
+},
+{
+"id": 6977,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "يجب أن يكون الحساب موثقاً بالهوية الوطنية / رخصة الممارسة (KYC) قبل فقدان الوصول إليه. إذا لم يكن الحساب موثقاً فلن يتمكن الدعم الفني من استرداده عبر هذا المسار، حفاظاً على حقوق الملكية وحماية البيانات الهندسية من انتحال الهوية."
+},
+{
+"id": 6978,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "أدخل بيانات الحساب وبريد متابعة آمناً يمكنك الوصول إليه حالياً. سنرسل إلى بريد المتابعة رقم تذكرة أمان، ومن خلال التذكرة"
+},
+{
+"id": 6979,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "البريد يمكنك متابعة ردود الفريق والتحقق الفني دون الحاجة لتسجيل الدخول."
+},
+{
+"id": 6980,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "البريد المسجل أو رقم الهاتف"
+},
+{
+"id": 6981,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "البريد المعتمد أو رقم الهاتف المسجل"
+},
+{
+"id": 6982,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "لا يُشترط أن يكون البريد المسجل متاحاً لديك الآن؛ يكفي أن يكون مطابقاً لبيانات الحساب."
+},
+{
+"id": 6983,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "الاسم الكامل لصاحب الحساب"
+},
+{
+"id": 6984,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "الاسم المعتمد في وثيقة الحساب أو الهوية"
+},
+{
+"id": 6985,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "بريد المتابعة الآمن"
+},
+{
+"id": 6986,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "سيُرسل إليه رقم التذكرة وإشعارات ردود الدعم. استخدم بريداً آمناً تستطيع فتحه الآن."
+},
+{
+"id": 6987,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "وسيلة تواصل إضافية"
+},
+{
+"id": 6988,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "بريد إضافي"
+},
+{
+"id": 6989,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "رقم هاتف أو وسيلة تواصل بديلة"
+},
+{
+"id": 6990,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "اشرح ما حدث"
+},
+{
+"id": 6991,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "اشرح كيف فقدت الوصول، وما آخر إجراء تتذكره قبل انقطاع الوصول عن الحساب..."
+},
+{
+"id": 6992,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "إثباتات مساعدة (اختياري)"
+},
+{
+"id": 6993,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "اختيار الملفات"
+},
+{
+"id": 6994,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "أو سحبها وإفلاتها هنا"
+},
+{
+"id": 6995,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "حتى 5 ملفات"
+},
+{
+"id": 6996,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "بحد أقصى 8MB لكل ملف. لا ترفق معلومات بنكية أو سرية؛ فقط إثباتات الهوية عند الحاجة."
+},
+{
+"id": 6997,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تُرفع المرفقات عبر المسار الآمن للمنصة"
+},
+{
+"id": 6998,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "أفهم أن الاسترداد عبر الدعم متاح فقط للحسابات الموثقة KYC، وأن الدعم الفني قد يطلب فحص وجه حي ومطابقته بمرجع KYC المعتمد، وأن رقم تذكرة المتابعة سيرسل إلى بريد المتابعة أعلاه لمواصلة الإجراءات."
+},
+{
+"id": 6999,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "سياسة الخصوصية والأمان المتقدم"
+},
+{
+"id": 7000,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم إرسال الطلب إلى فريق الدعم."
+},
+{
+"id": 7001,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "رقم تذكرة الدعم"
+},
+{
+"id": 7002,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "سيتم إرسال رقم التذكرة إلى بريد المتابعة."
+},
+{
+"id": 7003,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "متابعة ردود الدعم"
+},
+{
+"id": 7004,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "كافة العمليات والطلبات مسجلة ومحمية ضمن ضوابط الأمان المعتمدة في المنصة."
+},
+{
+"id": 7005,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "أكبر من"
+},
+{
+"id": 7006,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم الاحتفاظ بأول 5 ملفات فقط."
+},
+{
+"id": 7007,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "اكتب تفاصيل أكثر عن سبب فقدان الوصول (20 حرفًا على الأقل)."
+},
+{
+"id": 7008,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "يجب الموافقة على شرط KYC وسياسة الاسترداد."
+},
+{
+"id": 7009,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "جارٍ إرسال الطلب..."
+},
+{
+"id": 7010,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تعذر إرسال طلب الاسترداد."
+},
+{
+"id": 7011,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم الإنشاء"
+},
+{
+"id": 7012,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم إرسال رقم التذكرة إلى"
+},
+{
+"id": 7013,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم إنشاء طلب الاسترداد بنجاح."
+},
+{
+"id": 7014,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم إرسال الطلب إلى فريق الدعم الفني للمراجعة."
+},
+{
+"id": 7015,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "تم إرسال طلب الاسترداد بنجاح."
+},
+{
+"id": 7016,
+"f": "views/auth/account-recovery-manual.blade.php",
+"ar": "حدث خطأ أثناء إرسال الطلب."
+},
+{
+"id": 7017,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم التحقق من الهوية"
+},
+{
+"id": 7018,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم رفض الطلب"
+},
+{
+"id": 7019,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم الاسترجاع"
+},
+{
+"id": 7020,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "في الانتظار"
+},
+{
+"id": 7021,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "استرجاع الوصول"
+},
+{
+"id": 7022,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم استرجاع الحساب"
+},
+{
+"id": 7023,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "المرحلة الحالية"
+},
+{
+"id": 7024,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم التحقق"
+},
+{
+"id": 7025,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "إكمال تسجيل الدخول"
+},
+{
+"id": 7026,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم استلام طلبك وهو الآن بانتظار أن يستلمه أحد موظفي الدعم الفني المخوّلين."
+},
+{
+"id": 7027,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "يقوم فريق الدعم الفني بمراجعة طلبك والتحقق من بيانات الهوية المقدمة."
+},
+{
+"id": 7028,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم التحقق من هويتك بنجاح، والطلب جاهز لإتمام استرجاع الوصول إلى الحساب."
+},
+{
+"id": 7029,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تمت إعادة الوصول إلى حسابك ويمكنك الآن إكمال تسجيل الدخول وإعداد وسائل أمان جديدة."
+},
+{
+"id": 7030,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تعذر اعتماد طلب الاسترداد. راجع سبب الرفض أدناه أو تواصل مع الدعم إذا احتجت للمساعدة."
+},
+{
+"id": 7031,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "طلب الاسترداد قيد المعالجة."
+},
+{
+"id": 7032,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "حالة طلب استرداد الحساب"
+},
+{
+"id": 7033,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تتحدث الصفحة تلقائيًا كل 20 ثانية"
+},
+{
+"id": 7034,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم استلام الطلب"
+},
+{
+"id": 7035,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم تسجيل الطلب"
+},
+{
+"id": 7036,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "اكتملت المراجعة"
+},
+{
+"id": 7037,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم إيقاف المسار بعد رفض الطلب"
+},
+{
+"id": 7038,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "تم استرجاع الوصول بنجاح"
+},
+{
+"id": 7039,
+"f": "views/auth/account-recovery-status.blade.php",
+"ar": "يمكنك إكمال تسجيل الدخول الآن. بعد الدخول أعد إعداد وسائل التحقق ومفاتيح المرور الجديدة من إعدادات الأمان."
+}
+]

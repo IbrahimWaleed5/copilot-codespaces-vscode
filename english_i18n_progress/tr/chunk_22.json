@@ -1,0 +1,2112 @@
+[
+{
+"id": 7452,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحليل أعمق حسب مستوى الباقة."
+},
+{
+"id": 7453,
+"f": "views/components/support-bot.blade.php",
+"ar": "ملفات وصور"
+},
+{
+"id": 7454,
+"f": "views/components/support-bot.blade.php",
+"ar": "حجم الملف الأقصى تحدده الباقة."
+},
+{
+"id": 7455,
+"f": "views/components/support-bot.blade.php",
+"ar": "إملاء ومحادثة صوتية عندما تكون متاحة."
+},
+{
+"id": 7456,
+"f": "views/components/support-bot.blade.php",
+"ar": "للبرمجة والتحليل والمخرجات المنظمة."
+},
+{
+"id": 7457,
+"f": "views/components/support-bot.blade.php",
+"ar": "بيانات المنصة"
+},
+{
+"id": 7458,
+"f": "views/components/support-bot.blade.php",
+"ar": "مشاريع واستشارات وبيانات مصرح بها فقط."
+},
+{
+"id": 7459,
+"f": "views/components/support-bot.blade.php",
+"ar": "استخدام الذاكرة"
+},
+{
+"id": 7460,
+"f": "views/components/support-bot.blade.php",
+"ar": "يسمح للمساعد باستخدام سياق آمن من محادثاتك السابقة عندما يكون ذلك مفيدًا."
+},
+{
+"id": 7461,
+"f": "views/components/support-bot.blade.php",
+"ar": "أضف تفضيلًا يساعد على تحسين الردود. لا تضع كلمات مرور أو بيانات حساسة."
+},
+{
+"id": 7462,
+"f": "views/components/support-bot.blade.php",
+"ar": "مثال: أفضل الردود المنظمة والمختصرة، واستخدم العربية في الشرح..."
+},
+{
+"id": 7463,
+"f": "views/components/support-bot.blade.php",
+"ar": "حفظ الملاحظة"
+},
+{
+"id": 7464,
+"f": "views/components/support-bot.blade.php",
+"ar": "الحد الأقصى 2000 حرف"
+},
+{
+"id": 7465,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحسين الإجابة قبل عرضها"
+},
+{
+"id": 7466,
+"f": "views/components/support-bot.blade.php",
+"ar": "يسمح للمساعد بمراجعة الرد وإظهار اقتراحات أو صياغة أوضح عند الحاجة."
+},
+{
+"id": 7467,
+"f": "views/components/support-bot.blade.php",
+"ar": "وضع التركيز"
+},
+{
+"id": 7468,
+"f": "views/components/support-bot.blade.php",
+"ar": "يقلل العناصر الثانوية أثناء المحادثة ويعطي الأولوية للمهمة الحالية."
+},
+{
+"id": 7469,
+"f": "views/components/support-bot.blade.php",
+"ar": "مساعد البرمجة"
+},
+{
+"id": 7470,
+"f": "views/components/support-bot.blade.php",
+"ar": "مراجعة الأكواد، شرح الأخطاء، بناء الملفات واقتراح تعديلات منظمة عندما تطلب ذلك."
+},
+{
+"id": 7471,
+"f": "views/components/support-bot.blade.php",
+"ar": "حسب الباقة"
+},
+{
+"id": 7472,
+"f": "views/components/support-bot.blade.php",
+"ar": "الأدوات المتقدمة مثل Work والتحليل البرمجي الكبير قد تتطلب Pro أو"
+},
+{
+"id": 7473,
+"f": "views/components/support-bot.blade.php",
+"ar": "مساحة العمل الجماعي"
+},
+{
+"id": 7474,
+"f": "views/components/support-bot.blade.php",
+"ar": "ينظم المساعد الأهداف والخطة والمهام والمخرجات بحيث تكون قابلة للمشاركة والتنفيذ داخل الفريق."
+},
+{
+"id": 7475,
+"f": "views/components/support-bot.blade.php",
+"ar": "إذا كانت غير متاحة في باقتك سيطلب النظام الترقية بدل تنفيذها."
+},
+{
+"id": 7476,
+"f": "views/components/support-bot.blade.php",
+"ar": "استخدام سياق الصفحة الحالية"
+},
+{
+"id": 7477,
+"f": "views/components/support-bot.blade.php",
+"ar": "يسمح للمساعد بمعرفة اسم الصفحة والمسار وبعض السياق الحالي داخل منصة الوليد فقط، بدون صلاحيات إضافية."
+},
+{
+"id": 7478,
+"f": "views/components/support-bot.blade.php",
+"ar": "المهارات المتخصصة"
+},
+{
+"id": 7479,
+"f": "views/components/support-bot.blade.php",
+"ar": "اختر المهارات التي تريد أن تكون متاحة للمساعد في حسابك."
+},
+{
+"id": 7480,
+"f": "views/components/support-bot.blade.php",
+"ar": "حدد الأجزاء التي يسمح للمساعد باستخدامها كسياق، مثل المشاريع أو الاستشارات أو أجزاء الحساب المصرح بها."
+},
+{
+"id": 7481,
+"f": "views/components/support-bot.blade.php",
+"ar": "تتحكم فعليًا في وظائف مثل الصوت وتحليل الملفات وبعض الأدوات الداخلية."
+},
+{
+"id": 7482,
+"f": "views/components/support-bot.blade.php",
+"ar": "إنهاء المحادثة الصوتية"
+},
+{
+"id": 7483,
+"f": "views/components/support-bot.blade.php",
+"ar": "محادثة صوتية مع المساعد الذكي"
+},
+{
+"id": 7484,
+"f": "views/components/support-bot.blade.php",
+"ar": "بدء الاستماع"
+},
+{
+"id": 7485,
+"f": "views/components/support-bot.blade.php",
+"ar": "إنهاء"
+},
+{
+"id": 7486,
+"f": "views/components/support-bot.blade.php",
+"ar": "التكلفة النهائية تحسب من استهلاك Gemini الفعلي بعد كل طلب."
+},
+{
+"id": 7487,
+"f": "views/components/support-bot.blade.php",
+"ar": "اسأل، خطط، وأنجز بثقة"
+},
+{
+"id": 7488,
+"f": "views/components/support-bot.blade.php",
+"ar": "حلل لي أحدث اتجاهات إعادة الإعمار بعد النزاعات من منظور هندسي وعملي."
+},
+{
+"id": 7489,
+"f": "views/components/support-bot.blade.php",
+"ar": "اتجاهات إعادة الإعمار بعد النزاعات"
+},
+{
+"id": 7490,
+"f": "views/components/support-bot.blade.php",
+"ar": "ساعدني في صياغة رسالة بريد إلكتروني هندسية احترافية."
+},
+{
+"id": 7491,
+"f": "views/components/support-bot.blade.php",
+"ar": "أريد تحليل ملف هندسي؛ ساعدني في تحديد ما أحتاج رفعه وتحليله."
+},
+{
+"id": 7492,
+"f": "views/components/support-bot.blade.php",
+"ar": "جاري تحميل المحادثة..."
+},
+{
+"id": 7493,
+"f": "views/components/support-bot.blade.php",
+"ar": "أسئلة مقترحة"
+},
+{
+"id": 7494,
+"f": "views/components/support-bot.blade.php",
+"ar": "أسئلة مقترحة للبدء السريع:"
+},
+{
+"id": 7495,
+"f": "views/components/support-bot.blade.php",
+"ar": "احسب لي تسليح كمرة مستمرة واشرح لي خطوات الحساب"
+},
+{
+"id": 7496,
+"f": "views/components/support-bot.blade.php",
+"ar": "حساب تسليح كمرة مستمرة"
+},
+{
+"id": 7497,
+"f": "views/components/support-bot.blade.php",
+"ar": "ما أهم متطلبات كود البناء السعودي التي يجب أن أراعيها؟"
+},
+{
+"id": 7498,
+"f": "views/components/support-bot.blade.php",
+"ar": "متطلبات كود البناء السعودي"
+},
+{
+"id": 7499,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنشئ تقرير حالة المشروع Word وPDF واحفظه في ملفات المشروع"
+},
+{
+"id": 7500,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنشئ BOQ من بيانات المشروع بصيغة"
+},
+{
+"id": 7501,
+"f": "views/components/support-bot.blade.php",
+"ar": "جهز عرض سعر فني ومالي Word و"
+},
+{
+"id": 7502,
+"f": "views/components/support-bot.blade.php",
+"ar": "عرض سعر"
+},
+{
+"id": 7503,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنشئ محضر آخر اجتماع Word و"
+},
+{
+"id": 7504,
+"f": "views/components/support-bot.blade.php",
+"ar": "حوّل محضر الاجتماع الأخير إلى مهام للمشروع"
+},
+{
+"id": 7505,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنشئ BOQ للمشروع واعتمده داخل المشروع"
+},
+{
+"id": 7506,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنشئ لي ملف"
+},
+{
+"id": 7507,
+"f": "views/components/support-bot.blade.php",
+"ar": "كامل وجاهز للاستبدال"
+},
+{
+"id": 7508,
+"f": "views/components/support-bot.blade.php",
+"ar": "جهز لي ZIP ملفات استبدال للكود مع الحفاظ على مسارات المشروع"
+},
+{
+"id": 7509,
+"f": "views/components/support-bot.blade.php",
+"ar": "ولد لي صورة واجهة فيلا مودرن بتصميم معماري فاخر"
+},
+{
+"id": 7510,
+"f": "views/components/support-bot.blade.php",
+"ar": "توليد صورة"
+},
+{
+"id": 7511,
+"f": "views/components/support-bot.blade.php",
+"ar": "أفلت أي ملف هنا"
+},
+{
+"id": 7512,
+"f": "views/components/support-bot.blade.php",
+"ar": "صور، فيديو، صوت،"
+},
+{
+"id": 7513,
+"f": "views/components/support-bot.blade.php",
+"ar": "ملفات برمجية، مضغوطة وأي امتداد آخر. سيُضاف للمحادثة ولن يُرسل حتى تضغط إرسال."
+},
+{
+"id": 7514,
+"f": "views/components/support-bot.blade.php",
+"ar": "اسأل أي شيء..."
+},
+{
+"id": 7515,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحليل الملفات معطل من الإعدادات"
+},
+{
+"id": 7516,
+"f": "views/components/support-bot.blade.php",
+"ar": "لا توجد خيارات متاحة."
+},
+{
+"id": 7517,
+"f": "views/components/support-bot.blade.php",
+"ar": "يجب تسجيل الدخول لحفظ إعدادات المساعد."
+},
+{
+"id": 7518,
+"f": "views/components/support-bot.blade.php",
+"ar": "بيانات حسابك وكلمة المرور والتحقق بخطوتين."
+},
+{
+"id": 7519,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحكم في كيفية استخدام الذاكرة والسياق والملفات."
+},
+{
+"id": 7520,
+"f": "views/components/support-bot.blade.php",
+"ar": "الاشتراك الحالي والرصيد والترقية وشراء"
+},
+{
+"id": 7521,
+"f": "views/components/support-bot.blade.php",
+"ar": "رصيدك وحدود 5 ساعات و7 أيام والدورة الشهرية."
+},
+{
+"id": 7522,
+"f": "views/components/support-bot.blade.php",
+"ar": "راجع الأدوات والقدرات المفتوحة في باقتك الحالية."
+},
+{
+"id": 7523,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحكم في استخدام سياق آمن من محادثاتك السابقة."
+},
+{
+"id": 7524,
+"f": "views/components/support-bot.blade.php",
+"ar": "مراجعة وتحسين الرد قبل عرضه عند الحاجة."
+},
+{
+"id": 7525,
+"f": "views/components/support-bot.blade.php",
+"ar": "تقليل الإلهاءات وإبقاء المساعد على المهمة الحالية."
+},
+{
+"id": 7526,
+"f": "views/components/support-bot.blade.php",
+"ar": "مساعدة برمجية ومراجعة أكواد حسب مستوى باقتك."
+},
+{
+"id": 7527,
+"f": "views/components/support-bot.blade.php",
+"ar": "تنظيم الأهداف والمهام والمخرجات للعمل الجماعي."
+},
+{
+"id": 7528,
+"f": "views/components/support-bot.blade.php",
+"ar": "التحكم في استخدام سياق الصفحة الحالية داخل المنصة."
+},
+{
+"id": 7529,
+"f": "views/components/support-bot.blade.php",
+"ar": "اختر المهارات المتخصصة المتاحة للمساعد."
+},
+{
+"id": 7530,
+"f": "views/components/support-bot.blade.php",
+"ar": "حدد بيانات المنصة التي يسمح للمساعد باستخدامها كسياق."
+},
+{
+"id": 7531,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحكم بالصوت والملفات والأدوات الداخلية للمساعد."
+},
+{
+"id": 7532,
+"f": "views/components/support-bot.blade.php",
+"ar": "حدث خطأ أثناء تنفيذ الطلب."
+},
+{
+"id": 7533,
+"f": "views/components/support-bot.blade.php",
+"ar": "إجابة مباشرة وسريعة"
+},
+{
+"id": 7534,
+"f": "views/components/support-bot.blade.php",
+"ar": "كود وأخطاء وتحليل تقني"
+},
+{
+"id": 7535,
+"f": "views/components/support-bot.blade.php",
+"ar": "مخططات وحسابات وتحليل هندسي"
+},
+{
+"id": 7536,
+"f": "views/components/support-bot.blade.php",
+"ar": "أعلى عمق للحالات المعقدة"
+},
+{
+"id": 7537,
+"f": "views/components/support-bot.blade.php",
+"ar": "التكلفة النهائية حسب استهلاك Gemini الفعلي"
+},
+{
+"id": 7538,
+"f": "views/components/support-bot.blade.php",
+"ar": "وضع الزائر"
+},
+{
+"id": 7539,
+"f": "views/components/support-bot.blade.php",
+"ar": "المحادثات المحفوظة بعد تسجيل الدخول"
+},
+{
+"id": 7540,
+"f": "views/components/support-bot.blade.php",
+"ar": "ترقية"
+},
+{
+"id": 7541,
+"f": "views/components/support-bot.blade.php",
+"ar": "استخدام غير محدود لحساب المدير"
+},
+{
+"id": 7542,
+"f": "views/components/support-bot.blade.php",
+"ar": "لا يوجد حد منفصل لهذه النافذة"
+},
+{
+"id": 7543,
+"f": "views/components/support-bot.blade.php",
+"ar": "استخدمت"
+},
+{
+"id": 7544,
+"f": "views/components/support-bot.blade.php",
+"ar": "لا توجد محادثات سابقة."
+},
+{
+"id": 7545,
+"f": "views/components/support-bot.blade.php",
+"ar": "إعادة تسمية"
+},
+{
+"id": 7546,
+"f": "views/components/support-bot.blade.php",
+"ar": "اسم المحادثة"
+},
+{
+"id": 7547,
+"f": "views/components/support-bot.blade.php",
+"ar": "أرشفة هذه المحادثة؟"
+},
+{
+"id": 7548,
+"f": "views/components/support-bot.blade.php",
+"ar": "بانتظار موافقتك"
+},
+{
+"id": 7549,
+"f": "views/components/support-bot.blade.php",
+"ar": "تم التنفيذ"
+},
+{
+"id": 7550,
+"f": "views/components/support-bot.blade.php",
+"ar": "منتهية"
+},
+{
+"id": 7551,
+"f": "views/components/support-bot.blade.php",
+"ar": "تم استبدالها"
+},
+{
+"id": 7552,
+"f": "views/components/support-bot.blade.php",
+"ar": "مسودة تنفيذ آمنة"
+},
+{
+"id": 7553,
+"f": "views/components/support-bot.blade.php",
+"ar": "المرحلة:"
+},
+{
+"id": 7554,
+"f": "views/components/support-bot.blade.php",
+"ar": "لا يتم إنشاء أي مهمة قبل اعتمادك الصريح."
+},
+{
+"id": 7555,
+"f": "views/components/support-bot.blade.php",
+"ar": "الاعتماد سينشئ BOQ فعليًا ثم يرسله للمراجعة ويعتمده وفق صلاحياتك الحالية."
+},
+{
+"id": 7556,
+"f": "views/components/support-bot.blade.php",
+"ar": "اعتماد وتنفيذ"
+},
+{
+"id": 7557,
+"f": "views/components/support-bot.blade.php",
+"ar": "اكتب التعديل المطلوب على المسودة. مثال: غيّر موعد مهمة مراجعة المخطط إلى 2026-10-02، أو غيّر كمية البند 01.002 إلى"
+},
+{
+"id": 7558,
+"f": "views/components/support-bot.blade.php",
+"ar": "اكتب التعديل المطلوب بوضوح."
+},
+{
+"id": 7559,
+"f": "views/components/support-bot.blade.php",
+"ar": "سيتم الآن تعديل بيانات المشروع فعليًا وفق المسودة المعروضة. هل تريد اعتماد وتنفيذ هذه النسخة؟"
+},
+{
+"id": 7560,
+"f": "views/components/support-bot.blade.php",
+"ar": "إلغاء هذه المسودة؟ لن يتم تعديل أي سجل في المشروع."
+},
+{
+"id": 7561,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر تنفيذ أمر المسودة."
+},
+{
+"id": 7562,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر نسخ الرد من المتصفح."
+},
+{
+"id": 7563,
+"f": "views/components/support-bot.blade.php",
+"ar": "استماع"
+},
+{
+"id": 7564,
+"f": "views/components/support-bot.blade.php",
+"ar": "نعم، تم حل المشكلة"
+},
+{
+"id": 7565,
+"f": "views/components/support-bot.blade.php",
+"ar": "لا، تواصل مع موظف"
+},
+{
+"id": 7566,
+"f": "views/components/support-bot.blade.php",
+"ar": "تحويل إلى موظف الدعم"
+},
+{
+"id": 7567,
+"f": "views/components/support-bot.blade.php",
+"ar": "بانتظار موظف الدعم"
+},
+{
+"id": 7568,
+"f": "views/components/support-bot.blade.php",
+"ar": "المحادثة مع موظف الدعم"
+},
+{
+"id": 7569,
+"f": "views/components/support-bot.blade.php",
+"ar": "أنا مساعد منصة الوليد الهندسية. أقدر أساعدك في استخدام المنصة، الأعمال الهندسية، التلخيص، إعداد النصوص والتحليل. يمكنك أيضًا التحدث معي بالصوت. سجّل حسابًا لتحفظ محادثاتك وتحصل على"
+},
+{
+"id": 7570,
+"f": "views/components/support-bot.blade.php",
+"ar": "مجانية."
+},
+{
+"id": 7571,
+"f": "views/components/support-bot.blade.php",
+"ar": "جاري فتح المحادثة..."
+},
+{
+"id": 7572,
+"f": "views/components/support-bot.blade.php",
+"ar": "أستمع إليك الآن..."
+},
+{
+"id": 7573,
+"f": "views/components/support-bot.blade.php",
+"ar": "اسمح للمتصفح باستخدام الميكروفون ثم أعد المحاولة."
+},
+{
+"id": 7574,
+"f": "views/components/support-bot.blade.php",
+"ar": "صلاحية الميكروفون مطلوبة للمحادثة الصوتية."
+},
+{
+"id": 7575,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر التقاط الصوت. حاول مرة أخرى."
+},
+{
+"id": 7576,
+"f": "views/components/support-bot.blade.php",
+"ar": "المتصفح الحالي لا يدعم تحويل الكلام إلى نص. استخدم Chrome/Edge حديثًا أو اكتب الرسالة."
+},
+{
+"id": 7577,
+"f": "views/components/support-bot.blade.php",
+"ar": "الميكروفون الصوتي غير مدعوم في هذا المتصفح."
+},
+{
+"id": 7578,
+"f": "views/components/support-bot.blade.php",
+"ar": "مقطع برمجي"
+},
+{
+"id": 7579,
+"f": "views/components/support-bot.blade.php",
+"ar": "المساعد يرد عليك..."
+},
+{
+"id": 7580,
+"f": "views/components/support-bot.blade.php",
+"ar": "تفضل، أكمل حديثك..."
+},
+{
+"id": 7581,
+"f": "views/components/support-bot.blade.php",
+"ar": "اضغط بدء الاستماع وتحدث بشكل طبيعي"
+},
+{
+"id": 7582,
+"f": "views/components/support-bot.blade.php",
+"ar": "معاينة"
+},
+{
+"id": 7583,
+"f": "views/components/support-bot.blade.php",
+"ar": "إزالة المرفق"
+},
+{
+"id": 7584,
+"f": "views/components/support-bot.blade.php",
+"ar": "المرفق"
+},
+{
+"id": 7585,
+"f": "views/components/support-bot.blade.php",
+"ar": "صورة مرفقة"
+},
+{
+"id": 7586,
+"f": "views/components/support-bot.blade.php",
+"ar": "اضغط للفتح"
+},
+{
+"id": 7587,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر الرفع"
+},
+{
+"id": 7588,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر رفع الملف. تحقق من الاتصال وحاول مرة أخرى."
+},
+{
+"id": 7589,
+"f": "views/components/support-bot.blade.php",
+"ar": "اكتب ما الذي تريد من المساعد تحليله في الملف."
+},
+{
+"id": 7590,
+"f": "views/components/support-bot.blade.php",
+"ar": "جاري التفكير والرد..."
+},
+{
+"id": 7591,
+"f": "views/components/support-bot.blade.php",
+"ar": "سجّل الدخول لاستخدام تحليل الملفات داخل المساعد."
+},
+{
+"id": 7592,
+"f": "views/components/support-bot.blade.php",
+"ar": "تعذر إكمال المحادثة الصوتية."
+},
+{
+"id": 7593,
+"f": "views/components/support-bot.blade.php",
+"ar": "استخدم زر «ترقية» أعلى المساعد."
+},
+{
+"id": 7594,
+"f": "views/components/support-bot.blade.php",
+"ar": "تم حل المشكلة"
+},
+{
+"id": 7595,
+"f": "views/components/support-bot.blade.php",
+"ar": "تم إغلاق المحادثة"
+},
+{
+"id": 7596,
+"f": "views/components/support-bot.blade.php",
+"ar": "حفظ الذاكرة"
+},
+{
+"id": 7597,
+"f": "views/components/support-bot.blade.php",
+"ar": "سجّل الدخول لإرفاق الملفات مع المساعد."
+},
+{
+"id": 7598,
+"f": "views/components/support-bot.blade.php",
+"ar": "لم يتم العثور على ملف صالح في عملية السحب."
+},
+{
+"id": 7599,
+"f": "views/components/support-bot.blade.php",
+"ar": "تم اختيار أول ملف. أرسل كل ملف في رسالة مستقلة ليتم تحليله بدقة."
+},
+{
+"id": 7600,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "مركز الدعم"
+},
+{
+"id": 7601,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "قسم صغير داخل لوحة المدير. افتح لوحة الدعم الكاملة للوصول لكل الأدوات."
+},
+{
+"id": 7602,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "افتح لوحة الدعم الكاملة؛ الأدوات تظهر حسب صلاحيات حسابك."
+},
+{
+"id": 7603,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "إدارة كاملة"
+},
+{
+"id": 7604,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "صلاحية دعم"
+},
+{
+"id": 7605,
+"f": "views/components/support-center-dashboard.blade.php",
+"ar": "فتح اللوحة الكاملة"
+},
+{
+"id": 7606,
+"f": "views/components/verified-badge.blade.php",
+"ar": "مكتب موثق احترافيًا على منصة الوليد الهندسية"
+},
+{
+"id": 7607,
+"f": "views/components/verified-badge.blade.php",
+"ar": "مهندس موثق احترافيًا على منصة الوليد الهندسية"
+},
+{
+"id": 7608,
+"f": "views/consultations/assign.blade.php",
+"ar": "تم الدفع"
+},
+{
+"id": 7609,
+"f": "views/consultations/assign.blade.php",
+"ar": "لا يوجد مهندسون متاحون حاليًا."
+},
+{
+"id": 7610,
+"f": "views/consultations/assign.blade.php",
+"ar": "تعيين مهندس وموعد التسليم"
+},
+{
+"id": 7611,
+"f": "views/consultations/assign.blade.php",
+"ar": "اختر المهندس وحدد تاريخ بدء العمل وموعد التسليم المتوقع"
+},
+{
+"id": 7612,
+"f": "views/consultations/assign.blade.php",
+"ar": "مواعيد تنفيذ الاستشارة"
+},
+{
+"id": 7613,
+"f": "views/consultations/assign.blade.php",
+"ar": "حدد تاريخ بدء العمل وموعد التسليم المتوقع."
+},
+{
+"id": 7614,
+"f": "views/consultations/assign.blade.php",
+"ar": "تاريخ بدء العمل"
+},
+{
+"id": 7615,
+"f": "views/consultations/assign.blade.php",
+"ar": "موعد التسليم المتوقع"
+},
+{
+"id": 7616,
+"f": "views/consultations/assign.blade.php",
+"ar": "يجب أن يكون موعد التسليم بعد تاريخ بدء العمل."
+},
+{
+"id": 7617,
+"f": "views/consultations/assign.blade.php",
+"ar": "حفظ المهندس وموعد التسليم"
+},
+{
+"id": 7618,
+"f": "views/consultations/assign.blade.php",
+"ar": "عند تعيين المهندس سيتم إرسال إشعار له، وسيظهر موعد التسليم للمهندس والعميل."
+},
+{
+"id": 7619,
+"f": "views/consultations/create.blade.php",
+"ar": "مستخدم النظام"
+},
+{
+"id": 7620,
+"f": "views/consultations/create.blade.php",
+"ar": "مراحل الطلب"
+},
+{
+"id": 7621,
+"f": "views/consultations/create.blade.php",
+"ar": "نظام الاستشارات الذكي"
+},
+{
+"id": 7622,
+"f": "views/consultations/create.blade.php",
+"ar": "البحث في الطلبات..."
+},
+{
+"id": 7623,
+"f": "views/consultations/create.blade.php",
+"ar": "طلبات الاستشارة"
+},
+{
+"id": 7624,
+"f": "views/consultations/create.blade.php",
+"ar": "أدخل تفاصيل مشروعك وارفع الملفات اللازمة، ثم أكمل عملية الدفع"
+},
+{
+"id": 7625,
+"f": "views/consultations/create.blade.php",
+"ar": "إضافة التفاصيل"
+},
+{
+"id": 7626,
+"f": "views/consultations/create.blade.php",
+"ar": "أنت هنا الآن"
+},
+{
+"id": 7627,
+"f": "views/consultations/create.blade.php",
+"ar": "رفع إيصال الدفع"
+},
+{
+"id": 7628,
+"f": "views/consultations/create.blade.php",
+"ar": "مراجعة المدير"
+},
+{
+"id": 7629,
+"f": "views/consultations/create.blade.php",
+"ar": "بدء الاستشارة"
+},
+{
+"id": 7630,
+"f": "views/consultations/create.blade.php",
+"ar": "قبل إرسال الطلب"
+},
+{
+"id": 7631,
+"f": "views/consultations/create.blade.php",
+"ar": "اكتب وصفًا واضحًا ومفصلًا للمشروع."
+},
+{
+"id": 7632,
+"f": "views/consultations/create.blade.php",
+"ar": "أرفق المخططات أو الصور المتوفرة."
+},
+{
+"id": 7633,
+"f": "views/consultations/create.blade.php",
+"ar": "سعر جميع الاستشارات ثابت: 40 دولارًا."
+},
+{
+"id": 7634,
+"f": "views/consultations/create.blade.php",
+"ar": "سيتم حفظ الطلب أولًا ثم تحويلك للدفع."
+},
+{
+"id": 7635,
+"f": "views/consultations/create.blade.php",
+"ar": "المهندس المختار"
+},
+{
+"id": 7636,
+"f": "views/consultations/create.blade.php",
+"ar": "سيتم إرسال الطلب لهذا المهندس بعد تأكيد الدفع"
+},
+{
+"id": 7637,
+"f": "views/consultations/create.blade.php",
+"ar": "اختر نوع الاستشارة"
+},
+{
+"id": 7638,
+"f": "views/consultations/create.blade.php",
+"ar": "مثال: تصميم منزل سكني أو تطوير نظام برمجي"
+},
+{
+"id": 7639,
+"f": "views/consultations/create.blade.php",
+"ar": "حرف"
+},
+{
+"id": 7640,
+"f": "views/consultations/create.blade.php",
+"ar": "اشرح تفاصيل المشروع، المتطلبات، والملاحظات المهمة..."
+},
+{
+"id": 7641,
+"f": "views/consultations/create.blade.php",
+"ar": "سعر الاستشارة"
+},
+{
+"id": 7642,
+"f": "views/consultations/create.blade.php",
+"ar": "اضغط لاختيار ملف"
+},
+{
+"id": 7643,
+"f": "views/consultations/create.blade.php",
+"ar": "أو اسحب الملف هنا مباشرة"
+},
+{
+"id": 7644,
+"f": "views/consultations/create.blade.php",
+"ar": "الملف المختار:"
+},
+{
+"id": 7645,
+"f": "views/consultations/create.blade.php",
+"ar": "حفظ والمتابعة للدفع"
+},
+{
+"id": 7646,
+"f": "views/consultations/engineer.blade.php",
+"ar": "أعمالي"
+},
+{
+"id": 7647,
+"f": "views/consultations/engineer.blade.php",
+"ar": "ع"
+},
+{
+"id": 7648,
+"f": "views/consultations/engineer.blade.php",
+"ar": "المساعدة"
+},
+{
+"id": 7649,
+"f": "views/consultations/engineer.blade.php",
+"ar": "حالة الدفع"
+},
+{
+"id": 7650,
+"f": "views/consultations/engineer.blade.php",
+"ar": "جاهزة للبدء"
+},
+{
+"id": 7651,
+"f": "views/consultations/engineer.blade.php",
+"ar": "غير مدفوع"
+},
+{
+"id": 7652,
+"f": "views/consultations/engineer.blade.php",
+"ar": "استشاراتي الهندسية"
+},
+{
+"id": 7653,
+"f": "views/consultations/engineer.blade.php",
+"ar": "عرض الملف النهائي"
+},
+{
+"id": 7654,
+"f": "views/consultations/engineer.blade.php",
+"ar": "الحالة الحالية"
+},
+{
+"id": 7655,
+"f": "views/consultations/engineer.blade.php",
+"ar": "لوحة التحكم الاحترافية"
+},
+{
+"id": 7656,
+"f": "views/consultations/engineer.blade.php",
+"ar": "نظام CreativeHome الهندسي"
+},
+{
+"id": 7657,
+"f": "views/consultations/engineer.blade.php",
+"ar": "بحث في الاستشارات..."
+},
+{
+"id": 7658,
+"f": "views/consultations/engineer.blade.php",
+"ar": "تابع المشاريع المعينة لك وارفع الملفات النهائية."
+},
+{
+"id": 7659,
+"f": "views/consultations/engineer.blade.php",
+"ar": "التصفية"
+},
+{
+"id": 7660,
+"f": "views/consultations/engineer.blade.php",
+"ar": "مسح الفلتر"
+},
+{
+"id": 7661,
+"f": "views/consultations/engineer.blade.php",
+"ar": "الاستشارات الواردة"
+},
+{
+"id": 7662,
+"f": "views/consultations/engineer.blade.php",
+"ar": "الملفات والمرفقات"
+},
+{
+"id": 7663,
+"f": "views/consultations/engineer.blade.php",
+"ar": "تحميل ملف العميل"
+},
+{
+"id": 7664,
+"f": "views/consultations/engineer.blade.php",
+"ar": "لا يوجد ملف للعميل."
+},
+{
+"id": 7665,
+"f": "views/consultations/engineer.blade.php",
+"ar": "تابع العمل وارفع الملف النهائي عند الانتهاء."
+},
+{
+"id": 7666,
+"f": "views/consultations/engineer.blade.php",
+"ar": "مراسلة العميل"
+},
+{
+"id": 7667,
+"f": "views/consultations/engineer.blade.php",
+"ar": "رفع الملف النهائي"
+},
+{
+"id": 7668,
+"f": "views/consultations/engineer.blade.php",
+"ar": "اختر الملف النهائي"
+},
+{
+"id": 7669,
+"f": "views/consultations/engineer.blade.php",
+"ar": "أو صور المشروع"
+},
+{
+"id": 7670,
+"f": "views/consultations/engineer.blade.php",
+"ar": "إرسال الملف"
+},
+{
+"id": 7671,
+"f": "views/consultations/engineer.blade.php",
+"ar": "لا توجد استشارات معينة لك"
+},
+{
+"id": 7672,
+"f": "views/consultations/engineer.blade.php",
+"ar": "ستظهر هنا الاستشارات بعد تعيينها لك من الإدارة."
+},
+{
+"id": 7673,
+"f": "views/consultations/engineer.blade.php",
+"ar": "جاري الرفع..."
+},
+{
+"id": 7674,
+"f": "views/consultations/index.blade.php",
+"ar": "استشارة جديدة"
+},
+{
+"id": 7675,
+"f": "views/consultations/index.blade.php",
+"ar": "جميع المكاتب"
+},
+{
+"id": 7676,
+"f": "views/consultations/index.blade.php",
+"ar": "سجل الاستشارات"
+},
+{
+"id": 7677,
+"f": "views/consultations/index.blade.php",
+"ar": "مشرف النظام"
+},
+{
+"id": 7678,
+"f": "views/consultations/index.blade.php",
+"ar": "جميع المهندسين"
+},
+{
+"id": 7679,
+"f": "views/consultations/index.blade.php",
+"ar": "قيد الفحص"
+},
+{
+"id": 7680,
+"f": "views/consultations/index.blade.php",
+"ar": "إلغاء تحويل المكتب الهندسي"
+},
+{
+"id": 7681,
+"f": "views/consultations/index.blade.php",
+"ar": "ملف العميل"
+},
+{
+"id": 7682,
+"f": "views/consultations/index.blade.php",
+"ar": "بحث عن استشارة..."
+},
+{
+"id": 7683,
+"f": "views/consultations/index.blade.php",
+"ar": "متابعة جميع الطلبات، الدفع، المهندسين وحالة التنفيذ."
+},
+{
+"id": 7684,
+"f": "views/consultations/index.blade.php",
+"ar": "إجمالي قيمة الصفحة"
+},
+{
+"id": 7685,
+"f": "views/consultations/index.blade.php",
+"ar": "اسم العميل أو رقم الاستشارة"
+},
+{
+"id": 7686,
+"f": "views/consultations/index.blade.php",
+"ar": "مثال: CONS-123 أو اسم العميل"
+},
+{
+"id": 7687,
+"f": "views/consultations/index.blade.php",
+"ar": "من تاريخ"
+},
+{
+"id": 7688,
+"f": "views/consultations/index.blade.php",
+"ar": "إلى تاريخ"
+},
+{
+"id": 7689,
+"f": "views/consultations/index.blade.php",
+"ar": "جميع طلبات الاستشارة وحالاتها الحالية"
+},
+{
+"id": 7690,
+"f": "views/consultations/index.blade.php",
+"ar": "إضافة استشارة"
+},
+{
+"id": 7691,
+"f": "views/consultations/index.blade.php",
+"ar": "عنوان الطلب"
+},
+{
+"id": 7692,
+"f": "views/consultations/index.blade.php",
+"ar": "غير محولة لمكتب"
+},
+{
+"id": 7693,
+"f": "views/consultations/index.blade.php",
+"ar": "تعيين مهندس"
+},
+{
+"id": 7694,
+"f": "views/consultations/index.blade.php",
+"ar": "تغيير المكتب الهندسي"
+},
+{
+"id": 7695,
+"f": "views/consultations/index.blade.php",
+"ar": "تحويل إلى مكتب هندسي"
+},
+{
+"id": 7696,
+"f": "views/consultations/index.blade.php",
+"ar": "هل أنت متأكد من إلغاء تحويل هذه الاستشارة من المكتب الهندسي؟ سيتم أيضًا إزالة المهندس المعيّن من المكتب."
+},
+{
+"id": 7697,
+"f": "views/consultations/index.blade.php",
+"ar": "فتح محادثة العميل والمهندس — قراءة فقط للإدارة"
+},
+{
+"id": 7698,
+"f": "views/consultations/index.blade.php",
+"ar": "لا توجد استشارات حتى الآن."
+},
+{
+"id": 7699,
+"f": "views/consultations/messages.blade.php",
+"ar": "المحادثة"
+},
+{
+"id": 7700,
+"f": "views/consultations/messages.blade.php",
+"ar": "نظام الاستشارات"
+},
+{
+"id": 7701,
+"f": "views/consultations/messages.blade.php",
+"ar": "مساعدة"
+},
+{
+"id": 7702,
+"f": "views/consultations/messages.blade.php",
+"ar": "تم تأكيد الدفع"
+},
+{
+"id": 7703,
+"f": "views/consultations/messages.blade.php",
+"ar": "يكتب الآن..."
+},
+{
+"id": 7704,
+"f": "views/consultations/messages.blade.php",
+"ar": "إرفاق ملف"
+},
+{
+"id": 7705,
+"f": "views/consultations/messages.blade.php",
+"ar": "الطلبات"
+},
+{
+"id": 7706,
+"f": "views/consultations/messages.blade.php",
+"ar": "لا توجد إشعارات حاليًا"
+},
+{
+"id": 7707,
+"f": "views/consultations/messages.blade.php",
+"ar": "أهلًا بك،"
+},
+{
+"id": 7708,
+"f": "views/consultations/messages.blade.php",
+"ar": "اضغط لفتح الملف"
+},
+{
+"id": 7709,
+"f": "views/consultations/messages.blade.php",
+"ar": "اكتب رسالتك هنا..."
+},
+{
+"id": 7710,
+"f": "views/consultations/messages.blade.php",
+"ar": "لوحة التحكم الرئيسية"
+},
+{
+"id": 7711,
+"f": "views/consultations/messages.blade.php",
+"ar": "بحث عن طلبات، عملاء..."
+},
+{
+"id": 7712,
+"f": "views/consultations/messages.blade.php",
+"ar": "مساعدة المحادثة"
+},
+{
+"id": 7713,
+"f": "views/consultations/messages.blade.php",
+"ar": "يمكنك إرسال رسالة نصية أو ملف أو تسجيل صوتي."
+},
+{
+"id": 7714,
+"f": "views/consultations/messages.blade.php",
+"ar": "جميع المرفقات محمية ولا تظهر إلا لأطراف الاستشارة."
+},
+{
+"id": 7715,
+"f": "views/consultations/messages.blade.php",
+"ar": "استشارة نشطة"
+},
+{
+"id": 7716,
+"f": "views/consultations/messages.blade.php",
+"ar": "إجمالي رسائل الاستشارة"
+},
+{
+"id": 7717,
+"f": "views/consultations/messages.blade.php",
+"ar": "لا توجد رسائل حتى الآن"
+},
+{
+"id": 7718,
+"f": "views/consultations/messages.blade.php",
+"ar": "ابدأ المحادثة بإرسال أول رسالة"
+},
+{
+"id": 7719,
+"f": "views/consultations/messages.blade.php",
+"ar": "نوع الخدمة"
+},
+{
+"id": 7720,
+"f": "views/consultations/messages.blade.php",
+"ar": "الملفات المشتركة"
+},
+{
+"id": 7721,
+"f": "views/consultations/messages.blade.php",
+"ar": "رسالة صوتية"
+},
+{
+"id": 7722,
+"f": "views/consultations/messages.blade.php",
+"ar": "لا توجد ملفات مشتركة حتى الآن"
+},
+{
+"id": 7723,
+"f": "views/consultations/messages.blade.php",
+"ar": "نشط الآن"
+},
+{
+"id": 7724,
+"f": "views/consultations/messages.blade.php",
+"ar": "تعذر إرسال الرسالة. حاول مرة أخرى."
+},
+{
+"id": 7725,
+"f": "views/consultations/messages.blade.php",
+"ar": "تفاصيل الاستشارة والملفات"
+},
+{
+"id": 7726,
+"f": "views/consultations/messages.blade.php",
+"ar": "زر الإعدادات يفتح تفاصيل الاستشارة والملفات المشتركة."
+},
+{
+"id": 7727,
+"f": "views/consultations/messages.blade.php",
+"ar": "أنت الآن داخل محادثة الاستشارة رقم"
+},
+{
+"id": 7728,
+"f": "views/consultations/messages.blade.php",
+"ar": "المهندس المسؤول عن الاستشارة"
+},
+{
+"id": 7729,
+"f": "views/consultations/messages.blade.php",
+"ar": "صاحب الاستشارة"
+},
+{
+"id": 7730,
+"f": "views/consultations/messages.blade.php",
+"ar": "محادثة الاستشارة"
+},
+{
+"id": 7731,
+"f": "views/consultations/messages.blade.php",
+"ar": "ملفات وتفاصيل الاستشارة"
+},
+{
+"id": 7732,
+"f": "views/consultations/messages.blade.php",
+"ar": "معلومات الاستشارة"
+},
+{
+"id": 7733,
+"f": "views/consultations/messages.blade.php",
+"ar": "تفاصيل الاستشارة"
+},
+{
+"id": 7734,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "الاستشارات الهندسية"
+},
+{
+"id": 7735,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "بحث عن معاملة..."
+},
+{
+"id": 7736,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "لا توجد استشارات حتى الآن"
+},
+{
+"id": 7737,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "إنشاء استشارة"
+},
+{
+"id": 7738,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "الشعار"
+},
+{
+"id": 7739,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "تابع حالة الطلب، الدفع، والمخططات الهندسية النهائية."
+},
+{
+"id": 7740,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "الطلبات المكتملة"
+},
+{
+"id": 7741,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "الاستشارات النشطة"
+},
+{
+"id": 7742,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "أكمل الدفع"
+},
+{
+"id": 7743,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "الإيصال تحت المراجعة"
+},
+{
+"id": 7744,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "عرض فاتورة المكتب"
+},
+{
+"id": 7745,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "جاري تجهيز فاتورة المكتب"
+},
+{
+"id": 7746,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "تحميل الملف النهائي"
+},
+{
+"id": 7747,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "المحادثة مع المهندس"
+},
+{
+"id": 7748,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "صفحة المهندس"
+},
+{
+"id": 7749,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "فتح المشروع الكامل"
+},
+{
+"id": 7750,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "متابعة طلب المشروع"
+},
+{
+"id": 7751,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "هل تريد طلب تنفيذ مشروع كامل مع نفس المهندس؟"
+},
+{
+"id": 7752,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "تقييمك"
+},
+{
+"id": 7753,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "أضف تقييمك"
+},
+{
+"id": 7754,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "بدء العمل:"
+},
+{
+"id": 7755,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "التسليم المتوقع:"
+},
+{
+"id": 7756,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "متأخرة عن موعد التسليم"
+},
+{
+"id": 7757,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "أرسل أول طلب استشارة وابدأ متابعة مشروعك."
+},
+{
+"id": 7758,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "هل تحتاج إلى استشارة أخرى؟"
+},
+{
+"id": 7759,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "يمكنك البدء بطلب استشارة جديدة في أي وقت. مهندسونا جاهزون لتحويل رؤيتك إلى واقع."
+},
+{
+"id": 7760,
+"f": "views/consultations/my-consultations.blade.php",
+"ar": "اختصارات مهمة"
+},
+{
+"id": 7761,
+"f": "views/contracts/index.blade.php",
+"ar": "إدارة العقود الإلكترونية"
+},
+{
+"id": 7762,
+"f": "views/contracts/index.blade.php",
+"ar": "العقود الإلكترونية"
+},
+{
+"id": 7763,
+"f": "views/contracts/index.blade.php",
+"ar": "نظرة عامة على أداء العقود وحالتها"
+},
+{
+"id": 7764,
+"f": "views/contracts/index.blade.php",
+"ar": "إجمالي العقود الظاهرة في الصفحة الحالية"
+},
+{
+"id": 7765,
+"f": "views/contracts/index.blade.php",
+"ar": "العقود النافذة"
+},
+{
+"id": 7766,
+"f": "views/contracts/index.blade.php",
+"ar": "عقود مكتملة التوقيع ونافذة"
+},
+{
+"id": 7767,
+"f": "views/contracts/index.blade.php",
+"ar": "تحتاج متابعة أو توقيع من أحد الأطراف"
+},
+{
+"id": 7768,
+"f": "views/contracts/index.blade.php",
+"ar": "البحث في العقود..."
+},
+{
+"id": 7769,
+"f": "views/contracts/index.blade.php",
+"ar": "تصفية المعلقة"
+},
+{
+"id": 7770,
+"f": "views/contracts/index.blade.php",
+"ar": "لا توجد عقود إلكترونية حتى الآن."
+},
+{
+"id": 7771,
+"f": "views/contracts/show.blade.php",
+"ar": "نسخ البصمة"
+},
+{
+"id": 7772,
+"f": "views/contracts/show.blade.php",
+"ar": "الإصدار الحالي"
+},
+{
+"id": 7773,
+"f": "views/contracts/show.blade.php",
+"ar": "التواقيع المكتسبة"
+},
+{
+"id": 7774,
+"f": "views/contracts/show.blade.php",
+"ar": "تحديث السجل"
+},
+{
+"id": 7775,
+"f": "views/contracts/show.blade.php",
+"ar": "لا يوجد سجل إصدارات متاح لهذا العقد."
+},
+{
+"id": 7776,
+"f": "views/conversations/index.blade.php",
+"ar": "محادثة استشارة"
+},
+{
+"id": 7777,
+"f": "views/conversations/index.blade.php",
+"ar": "مركز المحادثات"
+},
+{
+"id": 7778,
+"f": "views/conversations/index.blade.php",
+"ar": "تابع جميع محادثاتك، والرسائل، والملفات، والتسجيلات الصوتية من مكان واحد."
+},
+{
+"id": 7779,
+"f": "views/conversations/index.blade.php",
+"ar": "بدء محادثة جديدة"
+},
+{
+"id": 7780,
+"f": "views/conversations/index.blade.php",
+"ar": "حدث خطأ:"
+},
+{
+"id": 7781,
+"f": "views/conversations/index.blade.php",
+"ar": "إجمالي المحادثات"
+},
+{
+"id": 7782,
+"f": "views/conversations/index.blade.php",
+"ar": "محادثات مباشرة"
+},
+{
+"id": 7783,
+"f": "views/conversations/index.blade.php",
+"ar": "محادثات الاستشارات"
+},
+{
+"id": 7784,
+"f": "views/conversations/index.blade.php",
+"ar": "الرسائل في الصفحة"
+},
+{
+"id": 7785,
+"f": "views/conversations/index.blade.php",
+"ar": "أحدث المحادثات تظهر أولًا."
+},
+{
+"id": 7786,
+"f": "views/conversations/index.blade.php",
+"ar": "ابحث في المحادثات..."
+},
+{
+"id": 7787,
+"f": "views/conversations/index.blade.php",
+"ar": "استشارة رقم"
+},
+{
+"id": 7788,
+"f": "views/conversations/index.blade.php",
+"ar": "مباشرة"
+},
+{
+"id": 7789,
+"f": "views/conversations/index.blade.php",
+"ar": "لا توجد محادثات حتى الآن"
+},
+{
+"id": 7790,
+"f": "views/conversations/index.blade.php",
+"ar": "ستظهر محادثات الاستشارات هنا بعد تأكيد الدفع، ويمكن للمدير بدء محادثة مباشرة من صفحة المستخدمين."
+},
+{
+"id": 7791,
+"f": "views/conversations/index.blade.php",
+"ar": "اختيار مستخدم للمحادثة"
+},
+{
+"id": 7792,
+"f": "views/conversations/show.blade.php",
+"ar": "نشطة"
+},
+{
+"id": 7793,
+"f": "views/conversations/show.blade.php",
+"ar": "المدة:"
+},
+{
+"id": 7794,
+"f": "views/conversations/show.blade.php",
+"ar": "محادثة مباشرة داخل النظام"
+},
+{
+"id": 7795,
+"f": "views/conversations/show.blade.php",
+"ar": "لا تتطلب دفعًا"
+},
+{
+"id": 7796,
+"f": "views/conversations/show.blade.php",
+"ar": "تفاصيل المحادثة والملفات"
+},
+{
+"id": 7797,
+"f": "views/conversations/show.blade.php",
+"ar": "زر الإعدادات يفتح تفاصيل المحادثة والملفات المشتركة."
+},
+{
+"id": 7798,
+"f": "views/conversations/show.blade.php",
+"ar": "أنت الآن داخل المحادثة رقم"
+},
+{
+"id": 7799,
+"f": "views/conversations/show.blade.php",
+"ar": "المستخدم الآخر"
+},
+{
+"id": 7800,
+"f": "views/conversations/show.blade.php",
+"ar": "اضغط لتحميل الملف"
+},
+{
+"id": 7801,
+"f": "views/conversations/show.blade.php",
+"ar": "وضع مراجعة الإدارة — محادثة العميل والمهندس للقراءة فقط"
+},
+{
+"id": 7802,
+"f": "views/conversations/show.blade.php",
+"ar": "ملفات وتفاصيل المحادثة"
+},
+{
+"id": 7803,
+"f": "views/conversations/show.blade.php",
+"ar": "معلومات المحادثة"
+},
+{
+"id": 7804,
+"f": "views/conversations/show.blade.php",
+"ar": "تفاصيل المحادثة"
+},
+{
+"id": 7805,
+"f": "views/conversations/show.blade.php",
+"ar": "وصف المحادثة"
+},
+{
+"id": 7806,
+"f": "views/conversations/show.blade.php",
+"ar": "التسجيل الصوتي غير مدعوم في هذا المتصفح."
+},
+{
+"id": 7807,
+"f": "views/conversations/show.blade.php",
+"ar": "تعذر الوصول إلى الميكروفون. تأكد من السماح للموقع باستخدامه."
+},
+{
+"id": 7808,
+"f": "views/crm/dashboard.blade.php",
+"ar": "تم التواصل"
+},
+{
+"id": 7809,
+"f": "views/crm/dashboard.blade.php",
+"ar": "تم إرسال العرض"
+},
+{
+"id": 7810,
+"f": "views/crm/dashboard.blade.php",
+"ar": "عرض الكل"
+},
+{
+"id": 7811,
+"f": "views/crm/dashboard.blade.php",
+"ar": "إجمالي"
+},
+{
+"id": 7812,
+"f": "views/crm/dashboard.blade.php",
+"ar": "النظام الرئيسي"
+},
+{
+"id": 7813,
+"f": "views/crm/dashboard.blade.php",
+"ar": "متابعات متأخرة"
+},
+{
+"id": 7814,
+"f": "views/crm/dashboard.blade.php",
+"ar": "مكتسب"
+},
+{
+"id": 7815,
+"f": "views/crm/dashboard.blade.php",
+"ar": "غداً"
+},
+{
+"id": 7816,
+"f": "views/crm/dashboard.blade.php",
+"ar": "إدارة علاقات العملاء والمبيعات"
+},
+{
+"id": 7817,
+"f": "views/crm/dashboard.blade.php",
+"ar": "من أول Lead حتى تحويله إلى استشارة ثم إلى دورة المشروع الحالية."
+},
+{
+"id": 7818,
+"f": "views/crm/dashboard.blade.php",
+"ar": "كل العملاء المحتملين"
+},
+{
+"id": 7819,
+"f": "views/crm/dashboard.blade.php",
+"ar": "فرص مفتوحة"
+},
+{
+"id": 7820,
+"f": "views/crm/dashboard.blade.php",
+"ar": "يتطلب إجراء"
+},
+{
+"id": 7821,
+"f": "views/crm/dashboard.blade.php",
+"ar": "إلى استشارات"
+},
+{
+"id": 7822,
+"f": "views/crm/dashboard.blade.php",
+"ar": "متابعات اليوم"
+},
+{
+"id": 7823,
+"f": "views/crm/dashboard.blade.php",
+"ar": "أحدث العملاء المحتملين"
+},
+{
+"id": 7824,
+"f": "views/crm/dashboard.blade.php",
+"ar": "لا توجد Leads حتى الآن."
+},
+{
+"id": 7825,
+"f": "views/crm/dashboard.blade.php",
+"ar": "المتابعات القادمة"
+},
+{
+"id": 7826,
+"f": "views/crm/dashboard.blade.php",
+"ar": "عرض الأجندة"
+},
+{
+"id": 7827,
+"f": "views/crm/dashboard.blade.php",
+"ar": "لا توجد متابعات معلقة."
+},
+{
+"id": 7828,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "العملاء"
+},
+{
+"id": 7829,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "متابعة"
+},
+{
+"id": 7830,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "اليوم،"
+},
+{
+"id": 7831,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "غداً،"
+},
+{
+"id": 7832,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "بحث بالاسم أو الملاحظة..."
+},
+{
+"id": 7833,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "لا توجد ملاحظات إضافية لهذه المتابعة."
+},
+{
+"id": 7834,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "إنجاز"
+},
+{
+"id": 7835,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "تم إنجاز المتابعة"
+},
+{
+"id": 7836,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "تم إلغاء المتابعة"
+},
+{
+"id": 7837,
+"f": "views/crm/follow-ups/index.blade.php",
+"ar": "لا توجد متابعات مطابقة للحالة المختارة."
+},
+{
+"id": 7838,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الاسم الكامل"
+},
+{
+"id": 7839,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "ملاحظات إضافية"
+},
+{
+"id": 7840,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "تقديم عرض"
+},
+{
+"id": 7841,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "خسارة"
+},
+{
+"id": 7842,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الميزانية التقديرية"
+},
+{
+"id": 7843,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الموقع الإلكتروني"
+},
+{
+"id": 7844,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "اتصال هاتفي"
+},
+{
+"id": 7845,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "تابع للمنصة"
+},
+{
+"id": 7846,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "تواصل أولي"
+},
+{
+"id": 7847,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "يوجد خطأ في بعض البيانات:"
+},
+{
+"id": 7848,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "المعلومات الشخصية"
+},
+{
+"id": 7849,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "أدخل اسم العميل..."
+},
+{
+"id": 7850,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الشركة / المؤسسة"
+},
+{
+"id": 7851,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "اسم الشركة (إن وجد)"
+},
+{
+"id": 7852,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "مصدر العميل"
+},
+{
+"id": 7853,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "مثال: تصميم معماري / تصميم داخلي..."
+},
+{
+"id": 7854,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "أدخل المبلغ..."
+},
+{
+"id": 7855,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "ملاحظات عامة"
+},
+{
+"id": 7856,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "أضف أي تفاصيل أخرى حول العميل أو المشروع هنا..."
+},
+{
+"id": 7857,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "سبب الخسارة"
+},
+{
+"id": 7858,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "اذكر أسباب عدم إتمام الصفقة..."
+},
+{
+"id": 7859,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "التعيين"
+},
+{
+"id": 7860,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "المكتب المسؤول"
+},
+{
+"id": 7861,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "معين إلى"
+},
+{
+"id": 7862,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الحالة والتقييم"
+},
+{
+"id": 7863,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "درجة العميل"
+},
+{
+"id": 7864,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "مرحلة العميل"
+},
+{
+"id": 7865,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "المستخدم المرتبط (بوابة العملاء)"
+},
+{
+"id": 7866,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "لا يوجد حساب عميل متاح للربط حالياً"
+},
+{
+"id": 7867,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الموقع الجغرافي"
+},
+{
+"id": 7868,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "المملكة العربية السعودية"
+},
+{
+"id": 7869,
+"f": "views/crm/leads/_form.blade.php",
+"ar": "الرياض، جدة، غزة..."
+},
+{
+"id": 7870,
+"f": "views/crm/leads/create.blade.php",
+"ar": "البحث..."
+},
+{
+"id": 7871,
+"f": "views/crm/leads/create.blade.php",
+"ar": "حفظ العميل"
+},
+{
+"id": 7872,
+"f": "views/crm/leads/create.blade.php",
+"ar": "إضافة عميل محتمل - الإصدار الجبار الفاخر"
+},
+{
+"id": 7873,
+"f": "views/crm/leads/create.blade.php",
+"ar": "قم بإدخال بيانات العميل بدقة لضمان أفضل تجربة هندسية."
+}
+]

@@ -1,0 +1,2547 @@
+[
+{
+"id": 4083,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ات"
+},
+{
+"id": 4084,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "دوت"
+},
+{
+"id": 4085,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نقطه"
+},
+{
+"id": 4086,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يوزر"
+},
+{
+"id": 4087,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "معرف"
+},
+{
+"id": 4088,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "صفر"
+},
+{
+"id": 4089,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اثنين"
+},
+{
+"id": 4090,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اثنان"
+},
+{
+"id": 4091,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ثلاثه"
+},
+{
+"id": 4092,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ثلاث"
+},
+{
+"id": 4093,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اربعه"
+},
+{
+"id": 4094,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اربع"
+},
+{
+"id": 4095,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "خمسه"
+},
+{
+"id": 4096,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "خمس"
+},
+{
+"id": 4097,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سته"
+},
+{
+"id": 4098,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ست"
+},
+{
+"id": 4099,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سبعه"
+},
+{
+"id": 4100,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سبع"
+},
+{
+"id": 4101,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ثمانيه"
+},
+{
+"id": 4102,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ثمان"
+},
+{
+"id": 4103,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تسعه"
+},
+{
+"id": 4104,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تسع"
+},
+{
+"id": 4105,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سبب عربي مختصر"
+},
+{
+"id": 4106,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "إ"
+},
+{
+"id": 4107,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "آ"
+},
+{
+"id": 4108,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ى"
+},
+{
+"id": 4109,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ة"
+},
+{
+"id": 4110,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ؤ"
+},
+{
+"id": 4111,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ئ"
+},
+{
+"id": 4112,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ه"
+},
+{
+"id": 4113,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اطفال)."
+},
+{
+"id": 4114,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اباحي)."
+},
+{
+"id": 4115,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اطفال"
+},
+{
+"id": 4116,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف محتوى جنسي متعلق بقاصر."
+},
+{
+"id": 4117,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سوف"
+},
+{
+"id": 4118,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "راح"
+},
+{
+"id": 4119,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "رح)?"
+},
+{
+"id": 4120,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اقتلك"
+},
+{
+"id": 4121,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اذبحك"
+},
+{
+"id": 4122,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "افجرك"
+},
+{
+"id": 4123,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اضربك"
+},
+{
+"id": 4124,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اكسرك"
+},
+{
+"id": 4125,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ادبحك"
+},
+{
+"id": 4126,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بقتلك"
+},
+{
+"id": 4127,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بذبحك"
+},
+{
+"id": 4128,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بفجرك"
+},
+{
+"id": 4129,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بضربك"
+},
+{
+"id": 4130,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بكسرك"
+},
+{
+"id": 4131,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "قتل"
+},
+{
+"id": 4132,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ذبح"
+},
+{
+"id": 4133,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تفجير"
+},
+{
+"id": 4134,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "لك"
+},
+{
+"id": 4135,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "عليك"
+},
+{
+"id": 4136,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "فيك"
+},
+{
+"id": 4137,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف تهديد مباشر أو محتوى عنيف."
+},
+{
+"id": 4138,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اباحيه"
+},
+{
+"id": 4139,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "جنس صريح"
+},
+{
+"id": 4140,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "صور عاريه"
+},
+{
+"id": 4141,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "صور عري"
+},
+{
+"id": 4142,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "مقاطع جنسيه"
+},
+{
+"id": 4143,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نودز"
+},
+{
+"id": 4144,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نامي معي"
+},
+{
+"id": 4145,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تعال للفراش"
+},
+{
+"id": 4146,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اريد جسدك"
+},
+{
+"id": 4147,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ابعت صور خاصه"
+},
+{
+"id": 4148,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف محتوى جنسي صريح أو طلب جنسي مخالف."
+},
+{
+"id": 4149,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تحرش"
+},
+{
+"id": 4150,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "كلام جنسي"
+},
+{
+"id": 4151,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "طلب جنسي"
+},
+{
+"id": 4152,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ابعتي صورتك الخاصه"
+},
+{
+"id": 4153,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ابعت صورتك الخاصه"
+},
+{
+"id": 4154,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف تحرش أو طلب ذي طابع جنسي."
+},
+{
+"id": 4155,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "محاولة نقل العميل أو الاتفاق أو الدفع خارج المنصة."
+},
+{
+"id": 4156,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "حيوان"
+},
+{
+"id": 4157,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "حقير"
+},
+{
+"id": 4158,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "وسخ"
+},
+{
+"id": 4159,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "كلب"
+},
+{
+"id": 4160,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "غبي"
+},
+{
+"id": 4161,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تافه"
+},
+{
+"id": 4162,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "لعنه عليك"
+},
+{
+"id": 4163,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف إساءة أو شتيمة وتحتاج إلى مراجعة."
+},
+{
+"id": 4164,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "لم يتم اكتشاف مخالفة واضحة."
+},
+{
+"id": 4165,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "هات"
+},
+{
+"id": 4166,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اعطني"
+},
+{
+"id": 4167,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ارسل"
+},
+{
+"id": 4168,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ابعث"
+},
+{
+"id": 4169,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ابعت"
+},
+{
+"id": 4170,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اكتب"
+},
+{
+"id": 4171,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "رقمك"
+},
+{
+"id": 4172,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "رقم الجوال"
+},
+{
+"id": 4173,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يوزرك"
+},
+{
+"id": 4174,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "معرفك"
+},
+{
+"id": 4175,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "احكي معي"
+},
+{
+"id": 4176,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اتصل بي"
+},
+{
+"id": 4177,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اتصل في"
+},
+{
+"id": 4178,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نتفق"
+},
+{
+"id": 4179,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نشتغل"
+},
+{
+"id": 4180,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نكمل"
+},
+{
+"id": 4181,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ننجز"
+},
+{
+"id": 4182,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نتعامل"
+},
+{
+"id": 4183,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بيننا"
+},
+{
+"id": 4184,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "برا المنصه"
+},
+{
+"id": 4185,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "برا الموقع"
+},
+{
+"id": 4186,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ادفع"
+},
+{
+"id": 4187,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "مباشر"
+},
+{
+"id": 4188,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "على حسابي"
+},
+{
+"id": 4189,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سعر اقل"
+},
+{
+"id": 4190,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اوفر لك"
+},
+{
+"id": 4191,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ارخص"
+},
+{
+"id": 4192,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "هدا"
+},
+{
+"id": 4193,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "هيك"
+},
+{
+"id": 4194,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "واتسابي"
+},
+{
+"id": 4195,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "واتسي"
+},
+{
+"id": 4196,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يوزري"
+},
+{
+"id": 4197,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "معرفي"
+},
+{
+"id": 4198,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يوزرنيم"
+},
+{
+"id": 4199,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تيك"
+},
+{
+"id": 4200,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "توك"
+},
+{
+"id": 4201,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ان"
+},
+{
+"id": 4202,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اتصل"
+},
+{
+"id": 4203,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "جوال"
+},
+{
+"id": 4204,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "موبايل"
+},
+{
+"id": 4205,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ايميل"
+},
+{
+"id": 4206,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "نقطة"
+},
+{
+"id": 4207,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "أنت نظام رقابة محتوى لمنصة خدمات هندسية. حلل النص بحسب السياق، وأعد JSON صالحًا فقط دون Markdown. المخالفات: - threats_violence: التهديد المباشر أو التحريض على العنف. - abuse_harassment: الشتائم والإساءة والتحرش والتنمر. - hate_content: خطاب الكراهية ضد فئة محمية. - sexual_content: إيحاء أو محتوى جنسي. - explicit_sexual_content: محتوى جنسي صريح أو عري أو طلب صور خاصة. - sexual_harassment: تحرش أو طلب جنسي غير مرغوب. - sexual_minors: أي محتوى جنسي متعلق بقاصر، وهو خطر حرج. - fraud_extortion: الاحتيال أو الابتزاز. - sensitive_personal_data: نشر بيانات شخصية حساسة. - off_platform_solicitation: محاولة المهندس أو المكتب أو الموظف أخذ العميل خارج المنصة. - external_payment_request: طلب الدفع أو التحويل خارج المنصة. - contact_information_request: طلب رقم الهاتف أو واتساب أو حساب خارجي بقصد نقل العمل. - dangerous_link: رابط مشبوه أو ضار. قواعد مهمة: - لا تعتبر رقم مساحة أرض أو مبلغًا أو تاريخًا أو رقم مخطط بيانات تواصل من دون سياق. - المحتوى الطبي أو التعليمي المشروع ليس جنسيًا لمجرد وجود مصطلحات تشريحية. - محاولة المهندس أو المكتب نقل العميل خارج المنصة مرفوضة. - التهديد المباشر والمحتوى الجنسي الصريح والمحتوى الجنسي المتعلق بقاصر مرفوض. - عند الشك البسيط اختر needs_review بدل"
+},
+{
+"id": 4208,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يعني السماح. - needs_review يعني إيقاف مؤقت للمراجعة دون تحذير تلقائي. - rejected يعني منع المحتوى. - issue_warning يكون true فقط للمخالفة الواضحة. - suspend_immediately يكون true فقط للحالات الحرجة جدًا مثل sexual_minors أو تهديد شديد ووشيك. السياق:"
+},
+{
+"id": 4209,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "النص:"
+},
+{
+"id": 4210,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "أعد هذا الشكل فقط:"
+},
+{
+"id": 4211,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم اكتشاف محتوى يحتاج إلى مراجعة."
+},
+{
+"id": 4212,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "يمنع طلب بيانات التواصل أو نقل الاتفاق والدفع خارج المنصة. جميع المحادثات والمدفوعات يجب أن تتم داخل الموقع."
+},
+{
+"id": 4213,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم منع المحتوى لأنه يخالف سياسة المنصة الخاصة بالمحتوى الجنسي والتحرش."
+},
+{
+"id": 4214,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم منع الرسالة لأنها تحتوي على تهديد أو محتوى عنيف."
+},
+{
+"id": 4215,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم إيقاف المحتوى مؤقتًا وإرساله إلى الإدارة للمراجعة."
+},
+{
+"id": 4216,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تم منع المحتوى لمخالفته سياسة استخدام المنصة."
+},
+{
+"id": 4217,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "المحتوى آمن."
+},
+{
+"id": 4218,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "الكوبون لم يبدأ بعد."
+},
+{
+"id": 4219,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "انتهت صلاحية الكوبون."
+},
+{
+"id": 4220,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "وصلت للحد الأقصى لاستخدام هذا الكوبون."
+},
+{
+"id": 4221,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "الكوبون غير صالح أو غير مفعل."
+},
+{
+"id": 4222,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "تم استنفاد الكوبون."
+},
+{
+"id": 4223,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "الكوبون لا ينطبق على هذا النوع من الباقات."
+},
+{
+"id": 4224,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "الكوبون لا ينطبق على الباقة المختارة."
+},
+{
+"id": 4225,
+"f": "app/Services/UniversalPackageCouponService.php",
+"ar": "عملة الكوبون لا تطابق عملة الباقة."
+},
+{
+"id": 4226,
+"f": "app/Services/UserActivityService.php",
+"ar": "غير معروف"
+},
+{
+"id": 4227,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم رصد محاولة تسجيل دخول فاشلة إلى حسابك."
+},
+{
+"id": 4228,
+"f": "app/Services/UserActivityService.php",
+"ar": "محاولة تسجيل دخول فاشلة"
+},
+{
+"id": 4229,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم فتح صفحة أو مورد داخل حسابك."
+},
+{
+"id": 4230,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ عملية إرسال أو إنشاء داخل حسابك."
+},
+{
+"id": 4231,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ عملية تعديل داخل حسابك."
+},
+{
+"id": 4232,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ عملية حذف داخل حسابك."
+},
+{
+"id": 4233,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ نشاط داخل حسابك."
+},
+{
+"id": 4234,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تسجيل الدخول إلى حسابك بنجاح."
+},
+{
+"id": 4235,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تسجيل الخروج من حسابك."
+},
+{
+"id": 4236,
+"f": "app/Services/UserActivityService.php",
+"ar": "تسجيل دخول جديد إلى حسابك"
+},
+{
+"id": 4237,
+"f": "app/Services/UserActivityService.php",
+"ar": "تسجيل خروج من حسابك"
+},
+{
+"id": 4238,
+"f": "app/Services/UserActivityService.php",
+"ar": "نشاط جديد على حسابك"
+},
+{
+"id": 4239,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ عملية جديدة على حسابك"
+},
+{
+"id": 4240,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تعديل بيانات على حسابك"
+},
+{
+"id": 4241,
+"f": "app/Services/UserActivityService.php",
+"ar": "تم تنفيذ عملية حذف على حسابك"
+},
+{
+"id": 4242,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "شحن المحفظة بعملة دفع مختلفة غير مفعل بعد. اشحن SAR ثم حوّل الرصيد من المحفظة."
+},
+{
+"id": 4243,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "اختر وسيلة دفع وعملة رصيد مختلفتين ومدعومتين."
+},
+{
+"id": 4244,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "التحويل بين عملة الدفع وعملة المحفظة متاح فقط للحوالات اليدوية التي يراجعها المدير المالي."
+},
+{
+"id": 4245,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "لا تتوفر سيولة كافية بعملة الرصيد المطلوبة. اختر الشحن بنفس عملة الدفع أو تواصل مع الإدارة المالية."
+},
+{
+"id": 4246,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "سيُخصم المبلغ بعملة وسيلة الدفع، ولن يُضاف الرصيد إلا بعد إثبات التحصيل الفعلي ومراجعة الإدارة المالية."
+},
+{
+"id": 4247,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "طلب الشحن لم يعد قابلًا للاعتماد."
+},
+{
+"id": 4248,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "بيانات عرض الصرف لا تطابق طلب الشحن. أوقف التسوية وراجع القيود."
+},
+{
+"id": 4249,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "المبلغ المحصّل فعليًا لا يطابق مبلغ الدفع المثبت في طلب الشحن."
+},
+{
+"id": 4250,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "بيانات السعر أو الرسوم المخزنة غير متسقة."
+},
+{
+"id": 4251,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "هذا المرجع البنكي سبق استخدامه في طلب شحن آخر."
+},
+{
+"id": 4252,
+"f": "app/Services/WalletDepositFxService.php",
+"ar": "رصيد مخزون عملة المحفظة غير كافٍ للتسوية. لم يُضف أي رصيد ولم يُغيّر طلب الشحن."
+},
+{
+"id": 4253,
+"f": "app/Services/WalletFxService.php",
+"ar": "المرجع"
+},
+{
+"id": 4254,
+"f": "app/Services/WalletFxService.php",
+"ar": "زوج العملات غير صالح."
+},
+{
+"id": 4255,
+"f": "app/Services/WalletFxService.php",
+"ar": "لا يوجد سعر صرف مرجعي ساري لهذا الزوج."
+},
+{
+"id": 4256,
+"f": "app/Services/WalletFxService.php",
+"ar": "القيمة النهائية بعد هامش الصرف والرسوم غير موجبة."
+},
+{
+"id": 4257,
+"f": "app/Services/WalletFxService.php",
+"ar": "سعر صرف معتمد في المنصة؛ التحويل الداخلي يتم فورًا عند توفر رصيدك وسيولة العملة المستلمة لدى المنصة."
+},
+{
+"id": 4258,
+"f": "app/Services/WalletFxService.php",
+"ar": "التحويل الفوري غير مفعّل؛ لا يتم حجز أي أموال أو إنشاء طلب صرف معلّق."
+},
+{
+"id": 4259,
+"f": "app/Services/WalletFxService.php",
+"ar": "مفتاح الطلب مستخدم لعملية مختلفة."
+},
+{
+"id": 4260,
+"f": "app/Services/WalletFxService.php",
+"ar": "تغير السعر أو الرسوم؛ راجع العرض الجديد قبل التأكيد."
+},
+{
+"id": 4261,
+"f": "app/Services/WalletFxService.php",
+"ar": "السيولة المتاحة للعملة المستلمة غير كافية. لا يمكن إتمام التحويل الآن."
+},
+{
+"id": 4262,
+"f": "app/Services/WalletFxService.php",
+"ar": "تحويل داخلي فوري من مخزون العملة الممول مسبقًا."
+},
+{
+"id": 4263,
+"f": "app/Services/WalletFxService.php",
+"ar": "اكتمل التحويل الداخلي"
+},
+{
+"id": 4264,
+"f": "app/Services/WalletFxService.php",
+"ar": "اكتب سبب الإفراج عن الحجز (8 أحرف على الأقل)."
+},
+{
+"id": 4265,
+"f": "app/Services/WalletFxService.php",
+"ar": "الطلب غير معلق أو تمت تسويته بالفعل؛ لا يمكن الإفراج عنه مرتين."
+},
+{
+"id": 4266,
+"f": "app/Services/WalletFxService.php",
+"ar": "بيانات الحجز غير صالحة؛ راجع السجلات المالية."
+},
+{
+"id": 4267,
+"f": "app/Services/WalletFxService.php",
+"ar": "لا يوجد قيد حجز أصلي مطابق؛ أوقف الإفراج وراجع الحسابات."
+},
+{
+"id": 4268,
+"f": "app/Services/WalletFxService.php",
+"ar": "توجد حركة سابقة لهذا الطلب؛ لا يمكن الإفراج قبل التدقيق."
+},
+{
+"id": 4269,
+"f": "app/Services/WalletFxService.php",
+"ar": "الحجز المتاح لا يغطي هذا الطلب؛ لا يتم الإفراج من أرصدة طلبات أخرى."
+},
+{
+"id": 4270,
+"f": "app/Services/WalletFxService.php",
+"ar": "إفراج إداري عن الحجز الأصلي:"
+},
+{
+"id": 4271,
+"f": "app/Services/WalletFxService.php",
+"ar": "أُلغي طلب التحويل"
+},
+{
+"id": 4272,
+"f": "app/Services/WalletFxService.php",
+"ar": "وأُعيد مبلغ العملة الأصلية إلى رصيدك المتاح. لم يتم صرف العملة المستلمة."
+},
+{
+"id": 4273,
+"f": "app/Services/WalletFxService.php",
+"ar": "لا يمكن إلغاء الطلب بعد إتمام مراجعته."
+},
+{
+"id": 4274,
+"f": "app/Services/WalletFxService.php",
+"ar": "ألغيت العملية"
+},
+{
+"id": 4275,
+"f": "app/Services/WalletFxService.php",
+"ar": "وأعيد الرصيد الأصلي إلى رصيدك المتاح."
+},
+{
+"id": 4276,
+"f": "app/Services/WalletFxService.php",
+"ar": "قيم طلب الصرف القديم غير صالحة، ويجب مراجعته يدويًا."
+},
+{
+"id": 4277,
+"f": "app/Services/WalletFxService.php",
+"ar": "طلب صرف قديم بسعر أو مبلغ غير متطابق: لا تُكمل التحويل قبل مراجعة العرض الأصلي مع صاحب الحساب."
+},
+{
+"id": 4278,
+"f": "app/Services/WalletFxService.php",
+"ar": "لا يوجد قيد حجز أصلي مطابق لهذا الطلب. يلزم التدقيق المالي أولًا."
+},
+{
+"id": 4279,
+"f": "app/Services/WalletFxService.php",
+"ar": "يوجد قيد إضافة عملة سابق لهذه العملية؛ يلزم التدقيق قبل التكرار."
+},
+{
+"id": 4280,
+"f": "app/Services/WalletFxService.php",
+"ar": "يجب توثيق بريد المسؤول."
+},
+{
+"id": 4281,
+"f": "app/Services/WalletFxService.php",
+"ar": "طلب غير قابل للاعتماد."
+},
+{
+"id": 4282,
+"f": "app/Services/WalletFxService.php",
+"ar": "رمز اعتماد صرف المحفظة"
+},
+{
+"id": 4283,
+"f": "app/Services/WalletFxService.php",
+"ar": "تعذر إرسال OTP للمسؤول."
+},
+{
+"id": 4284,
+"f": "app/Services/WalletFxService.php",
+"ar": "اكتب سبب المراجعة."
+},
+{
+"id": 4285,
+"f": "app/Services/WalletFxService.php",
+"ar": "الطلب تمت معالجته."
+},
+{
+"id": 4286,
+"f": "app/Services/WalletFxService.php",
+"ar": "المرجع المستقل لتسوية وصرف العملة الهدف مطلوب."
+},
+{
+"id": 4287,
+"f": "app/Services/WalletFxService.php",
+"ar": "مرجع التسوية مستخدم سابقًا."
+},
+{
+"id": 4288,
+"f": "app/Services/WalletFxService.php",
+"ar": "مخزون العملة المستلمة الممول فعليًا غير كافٍ لإكمال هذا الطلب القديم."
+},
+{
+"id": 4289,
+"f": "app/Services/WalletFxService.php",
+"ar": "غير صالح."
+},
+{
+"id": 4290,
+"f": "app/Services/WalletFxService.php",
+"ar": "تم اعتماد صرف العملة وإضافة الرصيد الصافي"
+},
+{
+"id": 4291,
+"f": "app/Services/WalletFxService.php",
+"ar": "رُفض طلب الصرف وأعيد المبلغ المحجوز"
+},
+{
+"id": 4292,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "إيداع"
+},
+{
+"id": 4293,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "سحب"
+},
+{
+"id": 4294,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "بانتظار التسوية"
+},
+{
+"id": 4295,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "اكتملت تسوية طلب"
+},
+{
+"id": 4296,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "رُفض طلب"
+},
+{
+"id": 4297,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "تحديث طلب المحفظة"
+},
+{
+"id": 4298,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "الطلب رقم"
+},
+{
+"id": 4299,
+"f": "app/Services/WalletMobilePushService.php",
+"ar": "افتح مراجعة المحفظة للاطلاع على التفاصيل."
+},
+{
+"id": 4300,
+"f": "app/Services/WalletPackageAutoFx.php",
+"ar": "التحويل الفوري غير متاح أو لا يوجد رصيد كافٍ بسعر صرف ساري."
+},
+{
+"id": 4301,
+"f": "app/Services/WhatsAppSupportService.php",
+"ar": "فشل إرسال"
+},
+{
+"id": 4302,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "الدفعة"
+},
+{
+"id": 4303,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "الموعد:"
+},
+{
+"id": 4304,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "سداد دفعة مشروع:"
+},
+{
+"id": 4305,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "موعد مرحلة مشروع:"
+},
+{
+"id": 4306,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "التقدم"
+},
+{
+"id": 4307,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "يحتاج رد:"
+},
+{
+"id": 4308,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "يحتاج مراجعة:"
+},
+{
+"id": 4309,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "نزاع يحتاج متابعة:"
+},
+{
+"id": 4310,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "استرداد يحتاج تنفيذ:"
+},
+{
+"id": 4311,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "مستحق مهندس جاهز للصرف"
+},
+{
+"id": 4312,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "مستحق مكتب جاهز للصرف"
+},
+{
+"id": 4313,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "اعتماد حزمة تسليم:"
+},
+{
+"id": 4314,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "موعد SLA يقترب"
+},
+{
+"id": 4315,
+"f": "app/Services/WorkflowSlaService.php",
+"ar": "فتح الإجراء"
+},
+{
+"id": 4316,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "غزة"
+},
+{
+"id": 4317,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "تقييم هندسي لمبنى سكني"
+},
+{
+"id": 4318,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "فحص مبدئي وتوثيق الأضرار وإعداد مقترح تأهيل"
+},
+{
+"id": 4319,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "تصميم مركز خدمات مجتمعي"
+},
+{
+"id": 4320,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "إعداد التصورات المعمارية وتوزيع الفراغات والخدمات"
+},
+{
+"id": 4321,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "دراسة تأهيل شبكة مياه"
+},
+{
+"id": 4322,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "تقييم الشبكة وإعداد المخططات وجداول الكميات الأولية"
+},
+{
+"id": 4323,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "شمال غزة"
+},
+{
+"id": 4324,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "تصميم مبنى متعدد الاستخدامات"
+},
+{
+"id": 4325,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "مخططات معمارية وإنشائية ودراسة احتياجات الاستخدام"
+},
+{
+"id": 4326,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "بيانات تجريبية للعرض فقط، ليست طلبًا حقيقيًا."
+},
+{
+"id": 4327,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "عرض تجريبي: مراجعة المتطلبات، إعداد المخططات والتسليم المرحلي. ليس عرضًا حقيقيًا."
+},
+{
+"id": 4328,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "مراجعة فنية، مخططات أولية، تقارير متابعة تجريبية"
+},
+{
+"id": 4329,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "التنفيذ الميداني والمشتريات"
+},
+{
+"id": 4330,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "لا يمكن استخدام هذا العرض كتعاقد فعلي."
+},
+{
+"id": 4331,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "مراجعة مخطط معماري"
+},
+{
+"id": 4332,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "تقييم أولي لأضرار مبنى"
+},
+{
+"id": 4333,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "مراجعة جدول كميات"
+},
+{
+"id": 4334,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "استشارة اختبار فقط؛ لا تُسند ولا تُدفع."
+},
+{
+"id": 4335,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "اقتراح تحسين تصفح الخدمات"
+},
+{
+"id": 4336,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "اقتراح إضافة تقرير للمشروع"
+},
+{
+"id": 4337,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "استفسار حول إجراءات المتابعة"
+},
+{
+"id": 4338,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "مستخدم تجريبي"
+},
+{
+"id": 4339,
+"f": "app/Support/AwDemoShowcase.php",
+"ar": "ملاحظة تجريبية لا تمثل رأيًا حقيقيًا من عميل."
+},
+{
+"id": 4340,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مثال:"
+},
+{
+"id": 4341,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "م"
+},
+{
+"id": 4342,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العملة"
+},
+{
+"id": 4343,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "استشارة"
+},
+{
+"id": 4344,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المهندس الرئيسي"
+},
+{
+"id": 4345,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مكتب"
+},
+{
+"id": 4346,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أو"
+},
+{
+"id": 4347,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق العمل"
+},
+{
+"id": 4348,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقريبي"
+},
+{
+"id": 4349,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع النظام"
+},
+{
+"id": 4350,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصميم"
+},
+{
+"id": 4351,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تنفيذ"
+},
+{
+"id": 4352,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المعيار"
+},
+{
+"id": 4353,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "صور المشروع الرئيسية"
+},
+{
+"id": 4354,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات المشروع التخصصية"
+},
+{
+"id": 4355,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الطوابق"
+},
+{
+"id": 4356,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الفراغ"
+},
+{
+"id": 4357,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وملفات المصدر."
+},
+{
+"id": 4358,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام الري"
+},
+{
+"id": 4359,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مبنى"
+},
+{
+"id": 4360,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خزان"
+},
+{
+"id": 4361,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصريف أمطار"
+},
+{
+"id": 4362,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "م أو كم"
+},
+{
+"id": 4363,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "السعة التصميمية"
+},
+{
+"id": 4364,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق التنسيق"
+},
+{
+"id": 4365,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "محطة ضخ"
+},
+{
+"id": 4366,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الأنظمة المشمولة"
+},
+{
+"id": 4367,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الكود / المعيار"
+},
+{
+"id": 4368,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وملفات المصدر داخل"
+},
+{
+"id": 4369,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع"
+},
+{
+"id": 4370,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التخزين"
+},
+{
+"id": 4371,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إن وجدت"
+},
+{
+"id": 4372,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منصة التحكم"
+},
+{
+"id": 4373,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد نقاط"
+},
+{
+"id": 4374,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP للمصدر."
+},
+{
+"id": 4375,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات المصدر داخل"
+},
+{
+"id": 4376,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تخصص هندسي عام"
+},
+{
+"id": 4377,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "صور أو لقطات شاشة المشروع"
+},
+{
+"id": 4378,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "صور أو لقطات توضيحية آمنة"
+},
+{
+"id": 4379,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "صور أو لوحات توضيحية"
+},
+{
+"id": 4380,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع الهندسي"
+},
+{
+"id": 4381,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إشراف"
+},
+{
+"id": 4382,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسة"
+},
+{
+"id": 4383,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تطوير / تأهيل"
+},
+{
+"id": 4384,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مصمم"
+},
+{
+"id": 4385,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مهندس تنفيذ"
+},
+{
+"id": 4386,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مهندس إشراف"
+},
+{
+"id": 4387,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منسق مشروع"
+},
+{
+"id": 4388,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستشار"
+},
+{
+"id": 4389,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر نطاق مسؤوليتك بالمشروع"
+},
+{
+"id": 4390,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الكود / المعيار المستخدم"
+},
+{
+"id": 4391,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مثال: كود محلي / دولي"
+},
+{
+"id": 4392,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أبرز تحدٍ هندسي"
+},
+{
+"id": 4393,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر المشكلة والحل باختصار"
+},
+{
+"id": 4394,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ارفع ملفات المشروع الأصلية أو نسخة ZIP آمنة مع ملفات"
+},
+{
+"id": 4395,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع المعماري"
+},
+{
+"id": 4396,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "فيلا سكنية"
+},
+{
+"id": 4397,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عمارة سكنية"
+},
+{
+"id": 4398,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تجاري"
+},
+{
+"id": 4399,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إداري"
+},
+{
+"id": 4400,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ضيافة"
+},
+{
+"id": 4401,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تعليمي"
+},
+{
+"id": 4402,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "صحي"
+},
+{
+"id": 4403,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ثقافي"
+},
+{
+"id": 4404,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "استخدام المبنى"
+},
+{
+"id": 4405,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سكني / تجاري / صحي..."
+},
+{
+"id": 4406,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطابع المعماري"
+},
+{
+"id": 4407,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الفكرة التصميمية"
+},
+{
+"id": 4408,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "لخّص الكونسبت والمعالجة المكانية"
+},
+{
+"id": 4409,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات العمارة والتقديم"
+},
+{
+"id": 4410,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات CAD/BIM، لوحات عرض، ملفات Revit/IFC أو ZIP للمصدر."
+},
+{
+"id": 4411,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات التصميم الداخلي"
+},
+{
+"id": 4412,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سكني"
+},
+{
+"id": 4413,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مطعم / كافيه"
+},
+{
+"id": 4414,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متجر"
+},
+{
+"id": 4415,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "فندق"
+},
+{
+"id": 4416,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عيادة"
+},
+{
+"id": 4417,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة ضيافة"
+},
+{
+"id": 4418,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "فيلا / شقة / مكتب / مطعم..."
+},
+{
+"id": 4419,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الفراغات الرئيسية"
+},
+{
+"id": 4420,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الستايل الداخلي"
+},
+{
+"id": 4421,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الخامات والألوان"
+},
+{
+"id": 4422,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خشب، رخام، معدن..."
+},
+{
+"id": 4423,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "لوحات التصميم الداخلي"
+},
+{
+"id": 4424,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات تصميم الواجهات"
+},
+{
+"id": 4425,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "واجهة فيلا"
+},
+{
+"id": 4426,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "واجهة برج"
+},
+{
+"id": 4427,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "واجهة تجارية"
+},
+{
+"id": 4428,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إعادة تأهيل واجهة"
+},
+{
+"id": 4429,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة الواجهات التقريبية (م"
+},
+{
+"id": 4430,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام الواجهة"
+},
+{
+"id": 4431,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الخامات الرئيسية"
+},
+{
+"id": 4432,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر الخامات المقترحة"
+},
+{
+"id": 4433,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "معالجة الشمس والفتحات"
+},
+{
+"id": 4434,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اشرح التظليل ونسبة الفتحات"
+},
+{
+"id": 4435,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الواجهة والتفاصيل"
+},
+{
+"id": 4436,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وملفات"
+},
+{
+"id": 4437,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع اللاندسكيب"
+},
+{
+"id": 4438,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حديقة سكنية"
+},
+{
+"id": 4439,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منتزه"
+},
+{
+"id": 4440,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة عامة"
+},
+{
+"id": 4441,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "واجهة بحرية"
+},
+{
+"id": 4442,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منتجع"
+},
+{
+"id": 4443,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة الموقع (م"
+},
+{
+"id": 4444,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المساحة الخارجية"
+},
+{
+"id": 4445,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حديقة / ممشى / ساحة..."
+},
+{
+"id": 4446,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الغطاء النباتي المقترح"
+},
+{
+"id": 4447,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أشجار / شجيرات / غطاء أرضي..."
+},
+{
+"id": 4448,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات الموقع والري والزراعة"
+},
+{
+"id": 4449,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع المدني"
+},
+{
+"id": 4450,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "بنية تحتية"
+},
+{
+"id": 4451,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طرق"
+},
+{
+"id": 4452,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أعمال موقع"
+},
+{
+"id": 4453,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إشراف وتنفيذ"
+},
+{
+"id": 4454,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إعادة تأهيل"
+},
+{
+"id": 4455,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق الأعمال المدنية"
+},
+{
+"id": 4456,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إنشاءات / طرق / شبكات / أعمال موقع"
+},
+{
+"id": 4457,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام التنفيذ"
+},
+{
+"id": 4458,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خرسانة / فولاذ / مختلط..."
+},
+{
+"id": 4459,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حجم المشروع التقريبي"
+},
+{
+"id": 4460,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة / طول / عدد وحدات"
+},
+{
+"id": 4461,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "كود محلي..."
+},
+{
+"id": 4462,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وتقارير الأعمال المدنية"
+},
+{
+"id": 4463,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات، جداول كميات،"
+},
+{
+"id": 4464,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير ونسخة ZIP للمصدر."
+},
+{
+"id": 4465,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع الإنشائي"
+},
+{
+"id": 4466,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خرسانة مسلحة"
+},
+{
+"id": 4467,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منشأ فولاذي"
+},
+{
+"id": 4468,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مبنى مرتفع"
+},
+{
+"id": 4469,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "جسر"
+},
+{
+"id": 4470,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تدعيم وتقوية"
+},
+{
+"id": 4471,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "النظام الإنشائي"
+},
+{
+"id": 4472,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أكبر بحر تقريبي (م)"
+},
+{
+"id": 4473,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "كود التصميم"
+},
+{
+"id": 4474,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات التحليل والتصميم الإنشائي"
+},
+{
+"id": 4475,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وملفات ZIP للمصدر."
+},
+{
+"id": 4476,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الجيوتقنية والأساسات"
+},
+{
+"id": 4477,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقرير تربة"
+},
+{
+"id": 4478,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصميم أساسات"
+},
+{
+"id": 4479,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حفر وتدعيم"
+},
+{
+"id": 4480,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خوازيق"
+},
+{
+"id": 4481,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تحسين تربة"
+},
+{
+"id": 4482,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وصف طبقات التربة"
+},
+{
+"id": 4483,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "رملية / طينية / ردم..."
+},
+{
+"id": 4484,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الجسات"
+},
+{
+"id": 4485,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الأساسات"
+},
+{
+"id": 4486,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منفصلة / لبشة / خوازيق..."
+},
+{
+"id": 4487,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منسوب المياه الجوفية (م)"
+},
+{
+"id": 4488,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير التربة والأساسات"
+},
+{
+"id": 4489,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الطرق والمواصلات"
+},
+{
+"id": 4490,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طريق حضري"
+},
+{
+"id": 4491,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طريق إقليمي"
+},
+{
+"id": 4492,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقاطع"
+},
+{
+"id": 4493,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مواقف"
+},
+{
+"id": 4494,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسة مرورية"
+},
+{
+"id": 4495,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مسار نقل عام"
+},
+{
+"id": 4496,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصنيف الطريق / المنشأة"
+},
+{
+"id": 4497,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "محلي / تجميعي / شرياني..."
+},
+{
+"id": 4498,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطول التقريبي (كم)"
+},
+{
+"id": 4499,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الحارات"
+},
+{
+"id": 4500,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "السرعة التصميمية (كم/س)"
+},
+{
+"id": 4501,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الطريق والمرور"
+},
+{
+"id": 4502,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المساحة والجيوماتكس"
+},
+{
+"id": 4503,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "رفع طبوغرافي"
+},
+{
+"id": 4504,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توقيع مساحي"
+},
+{
+"id": 4505,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مسح ليزري"
+},
+{
+"id": 4506,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المسح"
+},
+{
+"id": 4507,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام الإحداثيات"
+},
+{
+"id": 4508,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة التغطية"
+},
+{
+"id": 4509,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أو هكتار أو كم"
+},
+{
+"id": 4510,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الدقة المطلوبة / المحققة"
+},
+{
+"id": 4511,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات المساحة والبيانات المكانية"
+},
+{
+"id": 4512,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير الدقة وZIP للبيانات الأصلية."
+},
+{
+"id": 4513,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع البنية التحتية"
+},
+{
+"id": 4514,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكات خدمات"
+},
+{
+"id": 4515,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طرق وخدمات"
+},
+{
+"id": 4516,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "موقع عام"
+},
+{
+"id": 4517,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الشبكة / الخدمة"
+},
+{
+"id": 4518,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طرق / مياه / صرف / تصريف / خدمات"
+},
+{
+"id": 4519,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إجمالي الأطوال التقريبية"
+},
+{
+"id": 4520,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تدفق / مستخدمين / خدمة"
+},
+{
+"id": 4521,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر الشبكات المتقاطعة والتعارضات"
+},
+{
+"id": 4522,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وتقارير البنية التحتية"
+},
+{
+"id": 4523,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المياه والصرف الصحي"
+},
+{
+"id": 4524,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكة مياه"
+},
+{
+"id": 4525,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكة صرف"
+},
+{
+"id": 4526,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "محطة معالجة"
+},
+{
+"id": 4527,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مياه / صرف / معالجة / ضخ"
+},
+{
+"id": 4528,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التدفق التصميمي"
+},
+{
+"id": 4529,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد السكان / المستخدمين المخدومين"
+},
+{
+"id": 4530,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أقطار الأنابيب الرئيسية"
+},
+{
+"id": 4531,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الشبكات والهيدروليك"
+},
+{
+"id": 4532,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الري والهيدروليك"
+},
+{
+"id": 4533,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكة ري"
+},
+{
+"id": 4534,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "قناة"
+},
+{
+"id": 4535,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منشأة هيدروليكية"
+},
+{
+"id": 4536,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسة جريان"
+},
+{
+"id": 4537,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "النظام الهيدروليكي"
+},
+{
+"id": 4538,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكة ضغط / قناة مفتوحة / ضخ"
+},
+{
+"id": 4539,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التصرف التصميمي"
+},
+{
+"id": 4540,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طول الشبكة / القناة"
+},
+{
+"id": 4541,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ضغط التشغيل"
+},
+{
+"id": 4542,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الهيدروليك والري"
+},
+{
+"id": 4543,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع الكهربائي"
+},
+{
+"id": 4544,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "قوى وإنارة"
+},
+{
+"id": 4545,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مولدات و"
+},
+{
+"id": 4546,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تنفيذ وإشراف"
+},
+{
+"id": 4547,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الحمل المتصل / المطلوب"
+},
+{
+"id": 4548,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مصدر التغذية"
+},
+{
+"id": 4549,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام الحماية والتأريض"
+},
+{
+"id": 4550,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر الحماية الرئيسية ونظام التأريض"
+},
+{
+"id": 4551,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وحسابات الكهرباء"
+},
+{
+"id": 4552,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ارفع ملفات البرامج الأصلية داخل"
+},
+{
+"id": 4553,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات شبكات القوى الكهربائية"
+},
+{
+"id": 4554,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توزيع"
+},
+{
+"id": 4555,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شبكات"
+},
+{
+"id": 4556,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "محطة فرعية"
+},
+{
+"id": 4557,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسة قصر"
+},
+{
+"id": 4558,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "جهد الشبكة"
+},
+{
+"id": 4559,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "قدرة الشبكة / المحطة"
+},
+{
+"id": 4560,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الدراسة"
+},
+{
+"id": 4561,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستوى القصر التصميمي"
+},
+{
+"id": 4562,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسات وملفات شبكة القوى"
+},
+{
+"id": 4563,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الملفات الأصلية داخل"
+},
+{
+"id": 4564,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات أنظمة التيار الخفيف"
+},
+{
+"id": 4565,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد النقاط / الأجهزة التقريبي"
+},
+{
+"id": 4566,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المعايير المستخدمة"
+},
+{
+"id": 4567,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وجداول أنظمة"
+},
+{
+"id": 4568,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP لملفات المصدر."
+},
+{
+"id": 4569,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المشروع الميكانيكي"
+},
+{
+"id": 4570,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "معدات دوارة"
+},
+{
+"id": 4571,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "محطات ميكانيكية"
+},
+{
+"id": 4572,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصميم وتنفيذ"
+},
+{
+"id": 4573,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "النظام / المعدات"
+},
+{
+"id": 4574,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المعدات الرئيسية"
+},
+{
+"id": 4575,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وحسابات الميكانيكا"
+},
+{
+"id": 4576,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المساحة المكيفة (م"
+},
+{
+"id": 4577,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الحمل التبريدي"
+},
+{
+"id": 4578,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التهوية والدخان"
+},
+{
+"id": 4579,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر الأنظمة الخاصة إن وجدت"
+},
+{
+"id": 4580,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حسابات ومخططات"
+},
+{
+"id": 4581,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مكافحة الحريق والسلامة"
+},
+{
+"id": 4582,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصنيف الإشغال"
+},
+{
+"id": 4583,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الأنظمة"
+},
+{
+"id": 4584,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "درجة الخطورة"
+},
+{
+"id": 4585,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الكود المرجعي"
+},
+{
+"id": 4586,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الحريق والسلامة"
+},
+{
+"id": 4587,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات السباكة والأنظمة الصحية"
+},
+{
+"id": 4588,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الوحدات الصحية التقريبي"
+},
+{
+"id": 4589,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطلب / التدفق التصميمي"
+},
+{
+"id": 4590,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سعة التخزين / الخزانات"
+},
+{
+"id": 4591,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وحسابات السباكة"
+}
+]

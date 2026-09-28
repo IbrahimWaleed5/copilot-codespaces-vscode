@@ -1,0 +1,1692 @@
+[
+{
+"id": 324,
+"f": "app/Http/Controllers/Api/AiPremiumApiController.php",
+"ar": "تم تحديث إعدادات"
+},
+{
+"id": 325,
+"f": "app/Http/Controllers/Api/AiPremiumApiController.php",
+"ar": "تم تحديث حزمة الرصيد."
+},
+{
+"id": 326,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "متاحة للشحن"
+},
+{
+"id": 327,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم الدفع من المحفظة وتسجيل/تفعيل الاشتراك في النظام الحالي."
+},
+{
+"id": 328,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم إنشاء طلب الشحن. الخطوة التالية: كلمة المرور ثم رمز البريد."
+},
+{
+"id": 329,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "أرسلنا رمز التأكيد إلى بريدك الموثق. أدخله لاستكمال طلب الشحن."
+},
+{
+"id": 330,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم تأكيد الحساب. أكمل الدفع وأرسل إيصال التحويل واسم المرسل للمراجعة."
+},
+{
+"id": 331,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم إرسال إثبات الدفع للمراجعة. الرصيد لم يُضف بعد."
+},
+{
+"id": 332,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "أرسلنا رمز السحب إلى بريدك الموثق."
+},
+{
+"id": 333,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم حجز المبلغ وإرسال طلب السحب إلى المدير المالي."
+},
+{
+"id": 334,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "وصل التوضيح إلى المراجعة المالية دون تغيير مبلغ السحب أو حساب الاستلام."
+},
+{
+"id": 335,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم دفع الاستشارة من المحفظة وتأكيدها بالنظام الحالي."
+},
+{
+"id": 336,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم دفع قسط المشروع وتوزيع المستحقات وفق نظام المنصة الحالي."
+},
+{
+"id": 337,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم قيد الإيداع بعد تأكيد وصول الأموال."
+},
+{
+"id": 338,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم رفض طلب الإيداع دون إضافة رصيد."
+},
+{
+"id": 339,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "أرسلنا رمز اعتماد السحب إلى البريد الموثق للمسؤول."
+},
+{
+"id": 340,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم إرسال البريد إلى المستلم المحدد وتوثيق طلب المعلومات."
+},
+{
+"id": 341,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم اعتماد السحب بعد OTP الخاص بالمسؤول. لم يُسجل التحويل البنكي بعد."
+},
+{
+"id": 342,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم رفض الطلب وإلغاء الحجز وإرجاع الرصيد."
+},
+{
+"id": 343,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "يلزم التأكد من إرسال العملات الرقمية إلى عنوان المستفيد على الشبكة المحددة قبل تسجيل تنفيذ السحب."
+},
+{
+"id": 344,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم السحب بنجاح بعد إثبات تحويل الأموال للمستفيد."
+},
+{
+"id": 345,
+"f": "app/Http/Controllers/Api/AlwaleedWalletApiController.php",
+"ar": "تم تحويل المستحق المعتمد إلى المحفظة مرة واحدة فقط."
+},
+{
+"id": 346,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "فتح مركز الأمان"
+},
+{
+"id": 347,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "انتهت صلاحية كلمة المرور المؤقتة. تواصل مع الدعم لإصدار كلمة جديدة."
+},
+{
+"id": 348,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم إرسال رمز تحقق إلى بريدك الإلكتروني."
+},
+{
+"id": 349,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "انتهت صلاحية كلمة المرور المؤقتة."
+},
+{
+"id": 350,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تنبيه أمني: محاولات دخول غير ناجحة"
+},
+{
+"id": 351,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم رصد محاولات تسجيل دخول غير ناجحة على حسابك. إذا لم تكن أنت، غيّر كلمة المرور وراجع مركز الأمان."
+},
+{
+"id": 352,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "بيانات الدخول غير صحيحة."
+},
+{
+"id": 353,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "يجب تعيين كلمة مرور جديدة قبل الدخول."
+},
+{
+"id": 354,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "جلسة تغيير كلمة المرور غير صالحة. أعد تسجيل الدخول بالكلمة المؤقتة."
+},
+{
+"id": 355,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "انتهت جلسة تغيير كلمة المرور. أعد تسجيل الدخول بالكلمة المؤقتة."
+},
+{
+"id": 356,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "لا يحتاج الحساب إلى تغيير كلمة المرور المؤقتة."
+},
+{
+"id": 357,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "قام صاحب الحساب بتغيير كلمة المرور المؤقتة من تطبيق الهاتف."
+},
+{
+"id": 358,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تعذر إرسال رسالة استعادة كلمة المرور حاليًا. تحقق من إعدادات البريد في الخادم ثم أعد المحاولة."
+},
+{
+"id": 359,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم إرسال طلب استعادة مؤخرًا. انتظر قليلًا ثم أعد المحاولة."
+},
+{
+"id": 360,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تعذر إرسال رسالة استعادة كلمة المرور حاليًا. أعد المحاولة لاحقًا."
+},
+{
+"id": 361,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "إذا كان البريد مسجلًا لدينا فسيصلك رابط استعادة كلمة المرور خلال دقائق."
+},
+{
+"id": 362,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم تغيير كلمة مرور حسابك بنجاح. إذا لم تكن أنت من نفذ العملية فتواصل مع الدعم فورًا."
+},
+{
+"id": 363,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "رابط الاستعادة غير صالح أو منتهي. اطلب رابطًا جديدًا."
+},
+{
+"id": 364,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم تغيير كلمة المرور بنجاح. يمكنك تسجيل الدخول الآن."
+},
+{
+"id": 365,
+"f": "app/Http/Controllers/Api/AuthController.php",
+"ar": "تم تسجيل الخروج بنجاح."
+},
+{
+"id": 366,
+"f": "app/Http/Controllers/Api/BillingDocumentApiController.php",
+"ar": "تم إنشاء المستند المالي."
+},
+{
+"id": 367,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "لا يمكنك طلب استشارة من نفسك."
+},
+{
+"id": 368,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "المهندس المختار غير نشط أو انتهى اشتراكه."
+},
+{
+"id": 369,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "المكتب المختار غير متاح لاستقبال الاستشارات حاليًا."
+},
+{
+"id": 370,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "تم حفظ الطلب. أكمل الدفع لإرساله إلى المهندس."
+},
+{
+"id": 371,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "ليس لديك صلاحية رفع الملف النهائي لهذه الاستشارة."
+},
+{
+"id": 372,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "لا يمكن رفع ملف نهائي لاستشارة ملغاة."
+},
+{
+"id": 373,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "لا يمكن رفع الملف النهائي قبل تأكيد الدفع."
+},
+{
+"id": 374,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "حساب المهندس غير نشط. يجب تجديد الاشتراك أولًا."
+},
+{
+"id": 375,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "يجب اختيار ملف التسليم النهائي."
+},
+{
+"id": 376,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "الملف يجب أن يكون PDF أو صورة أو"
+},
+{
+"id": 377,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "حجم الملف يجب ألا يتجاوز 500 ميجابايت."
+},
+{
+"id": 378,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "الملف النهائي جاهز"
+},
+{
+"id": 379,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "تم رفع الملف النهائي للاستشارة رقم"
+},
+{
+"id": 380,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "يمكنك الآن تقييم المهندس."
+},
+{
+"id": 381,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "تم رفع الملف النهائي وأصبحت الاستشارة مكتملة."
+},
+{
+"id": 382,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "اختر مهندسًا أو مكتبًا للاستشارة، وليس الاثنين معًا."
+},
+{
+"id": 383,
+"f": "app/Http/Controllers/Api/ConsultationApiController.php",
+"ar": "تم حفظ الطلب للمكتب. أكمل الدفع لإرساله إلى المكتب."
+},
+{
+"id": 384,
+"f": "app/Http/Controllers/Api/ConsultationMessageApiController.php",
+"ar": "اكتب رسالة أو أرفق ملفًا."
+},
+{
+"id": 385,
+"f": "app/Http/Controllers/Api/ConsultationMessageApiController.php",
+"ar": "نوع الملف المرفق غير مسموح."
+},
+{
+"id": 386,
+"f": "app/Http/Controllers/Api/ConsultationMessageApiController.php",
+"ar": "حجم الملف يجب ألا يتجاوز 20 ميجابايت."
+},
+{
+"id": 387,
+"f": "app/Http/Controllers/Api/ConsultationMessageApiController.php",
+"ar": "رسالة جديدة في الاستشارة"
+},
+{
+"id": 388,
+"f": "app/Http/Controllers/Api/ConsultationMessageApiController.php",
+"ar": "وصلتك رسالة جديدة في الاستشارة رقم"
+},
+{
+"id": 389,
+"f": "app/Http/Controllers/Api/ConversationApiController.php",
+"ar": "لا يمكنك بدء محادثة مع نفسك."
+},
+{
+"id": 390,
+"f": "app/Http/Controllers/Api/ConversationApiController.php",
+"ar": "نوع المستخدم غير مسموح به."
+},
+{
+"id": 391,
+"f": "app/Http/Controllers/Api/ConversationApiController.php",
+"ar": "لا يمكن بدء هذه المحادثة من هنا."
+},
+{
+"id": 392,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "حساب العميل المختار خارج نطاق CRM المسموح لك."
+},
+{
+"id": 393,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إسناد Lead إليك"
+},
+{
+"id": 394,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "ليس لديك صلاحية الوصول إلى"
+},
+{
+"id": 395,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء العميل المحتمل في"
+},
+{
+"id": 396,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "اكتب سبب خسارة العميل المحتمل."
+},
+{
+"id": 397,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تغيير مرحلة العميل من"
+},
+{
+"id": 398,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تغيير المسؤول عن العميل المحتمل."
+},
+{
+"id": 399,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تحديث العميل المحتمل."
+},
+{
+"id": 400,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تسجيل النشاط."
+},
+{
+"id": 401,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء متابعة:"
+},
+{
+"id": 402,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء المتابعة."
+},
+{
+"id": 403,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "لا يمكن تعديل متابعة مغلقة."
+},
+{
+"id": 404,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تحديث المتابعة."
+},
+{
+"id": 405,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إكمال المتابعة:"
+},
+{
+"id": 406,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إكمال المتابعة."
+},
+{
+"id": 407,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إلغاء المتابعة."
+},
+{
+"id": 408,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء فرصة بيع:"
+},
+{
+"id": 409,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء الفرصة البيعية."
+},
+{
+"id": 410,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تغيير مرحلة الفرصة"
+},
+{
+"id": 411,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم تحديث الفرصة البيعية."
+},
+{
+"id": 412,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "المهندس المختار غير مسموح لهذا العميل."
+},
+{
+"id": 413,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم التحويل إلى الاستشارة"
+},
+{
+"id": 414,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إسناد العميل المحتمل"
+},
+{
+"id": 415,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "إليك في"
+},
+{
+"id": 416,
+"f": "app/Http/Controllers/Api/CrmApiController.php",
+"ar": "تم إنشاء العميل المحتمل."
+},
+{
+"id": 417,
+"f": "app/Http/Controllers/Api/CryptoAssetWithdrawalApiController.php",
+"ar": "تم إرسال رمز التحقق إلى بريدك الموثق."
+},
+{
+"id": 418,
+"f": "app/Http/Controllers/Api/CryptoDepositApiController.php",
+"ar": "الإيداع غير مفعّل أو الشبكات/عقود العملات غير مكتملة؛ لا ترسل أي أموال."
+},
+{
+"id": 419,
+"f": "app/Http/Controllers/Api/CryptoDualWalletApiController.php",
+"ar": "لا توجد عملة وشبكة جاهزتان للتحويل. تظهر العملات المهيأة للعرض فقط."
+},
+{
+"id": 420,
+"f": "app/Http/Controllers/Api/CryptoDualWalletApiController.php",
+"ar": "التحويل قيد الاختبار."
+},
+{
+"id": 421,
+"f": "app/Http/Controllers/Api/CryptoExchangeAdminApiController.php",
+"ar": "السعر المعتمد يجب أن يكون موجبًا."
+},
+{
+"id": 422,
+"f": "app/Http/Controllers/Api/CryptoExchangeAdminApiController.php",
+"ar": "السعر أعلى من الحد المسموح."
+},
+{
+"id": 423,
+"f": "app/Http/Controllers/Api/CryptoExchangeAdminApiController.php",
+"ar": "تم حفظ الإعدادات."
+},
+{
+"id": 424,
+"f": "app/Http/Controllers/Api/CryptoWithdrawalApiController.php",
+"ar": "أُرسل رمز التحقق إلى بريدك الموثق."
+},
+{
+"id": 425,
+"f": "app/Http/Controllers/Api/CryptoWithdrawalApiController.php",
+"ar": "أُرسل رمز اعتماد السحب إلى بريد المسؤول."
+},
+{
+"id": 426,
+"f": "app/Http/Controllers/Api/CustomerEmailCenterApiController.php",
+"ar": "شغّل migrations أولًا."
+},
+{
+"id": 427,
+"f": "app/Http/Controllers/Api/CustomerEmailCenterApiController.php",
+"ar": "تم حفظ تفضيلات البريد."
+},
+{
+"id": 428,
+"f": "app/Http/Controllers/Api/DashboardApiController.php",
+"ar": "مدير النظام"
+},
+{
+"id": 429,
+"f": "app/Http/Controllers/Api/DashboardApiController.php",
+"ar": "موظف الدعم الفني"
+},
+{
+"id": 430,
+"f": "app/Http/Controllers/Api/DashboardApiController.php",
+"ar": "لوحة هذا الدور تحتاج API مخصصًا في مرحلة لاحقة."
+},
+{
+"id": 431,
+"f": "app/Http/Controllers/Api/DashboardApiController.php",
+"ar": "مالك مكتب هندسي"
+},
+{
+"id": 432,
+"f": "app/Http/Controllers/Api/DashboardApiController.php",
+"ar": "لا يوجد مكتب مرتبط بهذا الحساب حاليًا."
+},
+{
+"id": 433,
+"f": "app/Http/Controllers/Api/DeviceTokenApiController.php",
+"ar": "تم تسجيل جهاز الإشعارات."
+},
+{
+"id": 434,
+"f": "app/Http/Controllers/Api/DeviceTokenApiController.php",
+"ar": "تم إلغاء تسجيل جهاز الإشعارات."
+},
+{
+"id": 435,
+"f": "app/Http/Controllers/Api/DisputeCaseApiController.php",
+"ar": "تم فتح النزاع وحجز المستحقات المرتبطة به."
+},
+{
+"id": 436,
+"f": "app/Http/Controllers/Api/DisputeCaseApiController.php",
+"ar": "تمت إضافة الرسالة."
+},
+{
+"id": 437,
+"f": "app/Http/Controllers/Api/DisputeCaseApiController.php",
+"ar": "تم تحديث النزاع."
+},
+{
+"id": 438,
+"f": "app/Http/Controllers/Api/EmailVerificationApiController.php",
+"ar": "تم إرسال رابط تأكيد جديد إلى بريدك الإلكتروني."
+},
+{
+"id": 439,
+"f": "app/Http/Controllers/Api/EmailVerificationApiController.php",
+"ar": "جلسة الدخول غير صالحة."
+},
+{
+"id": 440,
+"f": "app/Http/Controllers/Api/EmailVerificationApiController.php",
+"ar": "البريد الإلكتروني مؤكد بالفعل."
+},
+{
+"id": 441,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "موظف"
+},
+{
+"id": 442,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "مالك المكتب"
+},
+{
+"id": 443,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "تم إنشاء حسابك"
+},
+{
+"id": 444,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "تم إنشاء حساب جديد لك في نظام المكتب الهندسي."
+},
+{
+"id": 445,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "لا يمكنك تعطيل حسابك الحالي."
+},
+{
+"id": 446,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "لا يمكنك إزالة صلاحية المدير من حسابك الحالي."
+},
+{
+"id": 447,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "تم تحديث بيانات المستخدم بنجاح."
+},
+{
+"id": 448,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "لا يمكنك حذف حسابك الحالي."
+},
+{
+"id": 449,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "لا يمكن حذف مالك مكتب قبل نقل أو إزالة ملكية المكتب."
+},
+{
+"id": 450,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "تم حذف المستخدم بنجاح."
+},
+{
+"id": 451,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "تم إضافة المستخدم بنجاح."
+},
+{
+"id": 452,
+"f": "app/Http/Controllers/Api/EmployeeApiController.php",
+"ar": "اختر المكتب المراد تعيينه."
+},
+{
+"id": 453,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "الكوبون غير متاح لهذه الباقة."
+},
+{
+"id": 454,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "لديك طلب دفع قيد المراجعة حاليًا."
+},
+{
+"id": 455,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "لديك طلب دفع قيد المراجعة."
+},
+{
+"id": 456,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "ارفع إيصال دفع الباقة المختارة."
+},
+{
+"id": 457,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "يجب تحديد التخصص الهندسي."
+},
+{
+"id": 458,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "يجب رفع الشهادة الهندسية."
+},
+{
+"id": 459,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "تم إرسال طلب المهندس والمستندات الخاصة بالباقة المختارة."
+},
+{
+"id": 460,
+"f": "app/Http/Controllers/Api/EngineerApplicationApiController.php",
+"ar": "تم إرسال طلب تجديد باقة المهندس للمراجعة."
+},
+{
+"id": 461,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "تم تفعيل باقة"
+},
+{
+"id": 462,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "على حسابك."
+},
+{
+"id": 463,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "تم تفعيل الباقة المجانية."
+},
+{
+"id": 464,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "أدخل مرجع الدفع أو أرفق إيصال الدفع للباقة المدفوعة."
+},
+{
+"id": 465,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "طلب باقة"
+},
+{
+"id": 466,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "مراجعة الطلب"
+},
+{
+"id": 467,
+"f": "app/Http/Controllers/Api/EngineerCloudPlanApiController.php",
+"ar": "تم إرسال طلب الباقة للمراجعة."
+},
+{
+"id": 468,
+"f": "app/Http/Controllers/Api/EngineerDirectoryApiController.php",
+"ar": "الاسم"
+},
+{
+"id": 469,
+"f": "app/Http/Controllers/Api/EngineerDirectoryApiController.php",
+"ar": "الأعلى تقييمًا"
+},
+{
+"id": 470,
+"f": "app/Http/Controllers/Api/EngineerDirectoryApiController.php",
+"ar": "الأكثر أعمالًا"
+},
+{
+"id": 471,
+"f": "app/Http/Controllers/Api/EngineerDirectoryApiController.php",
+"ar": "الأكثر استشارات مكتملة"
+},
+{
+"id": 472,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "مدير المنصة فقط يستطيع تنفيذ التحويل البنكي."
+},
+{
+"id": 473,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "هذا المستحق تابع لمكتب هندسي ويجب إدارته من مالية المكاتب."
+},
+{
+"id": 474,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "أكد البنك التحويل وتم تسجيل المستحق مدفوعًا."
+},
+{
+"id": 475,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "لا يمكن تعديل النسبة بعد بدء التحويل البنكي أو اكتماله."
+},
+{
+"id": 476,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "لا يمكن تعديل مستحق ملغي."
+},
+{
+"id": 477,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "بدأ المدير تحويل مستحق مهندس الاستشارة عبر البنك."
+},
+{
+"id": 478,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "تم تحديث نسبة المهندس المباشر."
+},
+{
+"id": 479,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "تم تحديث نسبة المهندس بنجاح."
+},
+{
+"id": 480,
+"f": "app/Http/Controllers/Api/EngineerEarningApiController.php",
+"ar": "تم إرسال طلب التحويل للبنك وبانتظار التأكيد."
+},
+{
+"id": 481,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "أخرى"
+},
+{
+"id": 482,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "مهندس معماري"
+},
+{
+"id": 483,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "مهندس مدني"
+},
+{
+"id": 484,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "مهندس كهرباء"
+},
+{
+"id": 485,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "مهندس ميكانيك"
+},
+{
+"id": 486,
+"f": "app/Http/Controllers/Api/EngineerMetaApiController.php",
+"ar": "مصمم داخلي"
+},
+{
+"id": 487,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "تم تقييم هذه الاستشارة سابقًا."
+},
+{
+"id": 488,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "اختر عدد النجوم."
+},
+{
+"id": 489,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "التقييم يجب أن يكون بين نجمة وخمس نجوم."
+},
+{
+"id": 490,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "من 5 نجوم للاستشارة رقم"
+},
+{
+"id": 491,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "تم إرسال تقييم المهندس بنجاح."
+},
+{
+"id": 492,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "لا يمكنك تقييم هذه الاستشارة."
+},
+{
+"id": 493,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "لا يوجد مهندس معيّن لهذه الاستشارة."
+},
+{
+"id": 494,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "لا يمكن تقييم المهندس قبل اكتمال الاستشارة."
+},
+{
+"id": 495,
+"f": "app/Http/Controllers/Api/EngineerReviewApiController.php",
+"ar": "لا يمكن تقييم استشارة غير مدفوعة."
+},
+{
+"id": 496,
+"f": "app/Http/Controllers/Api/EngineerSpecialtyApiController.php",
+"ar": "غير مصرح لك بعرض بيانات التخصص."
+},
+{
+"id": 497,
+"f": "app/Http/Controllers/Api/EngineerSpecialtyApiController.php",
+"ar": "غير مصرح لك بتعديل بيانات التخصص."
+},
+{
+"id": 498,
+"f": "app/Http/Controllers/Api/EngineerSpecialtyApiController.php",
+"ar": "تم حفظ التخصص والنبذة المهنية بنجاح."
+},
+{
+"id": 499,
+"f": "app/Http/Controllers/Api/EngineerWorkStoreApiController.php",
+"ar": "تم حذف العمل بنجاح."
+},
+{
+"id": 500,
+"f": "app/Http/Controllers/Api/EngineerWorkStoreApiController.php",
+"ar": "ملف 3D يجب أن يكون GLB أو GLTF أو OBJ أو FBX أو SKP أو"
+},
+{
+"id": 501,
+"f": "app/Http/Controllers/Api/EngineerWorkStoreApiController.php",
+"ar": "تم نشر العمل مباشرة بعد اجتياز رقابة المحتوى."
+},
+{
+"id": 502,
+"f": "app/Http/Controllers/Api/EngineerWorkspaceApiController.php",
+"ar": "هذه الصفحة متاحة للمهندسين النشطين فقط."
+},
+{
+"id": 503,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم حذف"
+},
+{
+"id": 504,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم إرسال اختبار Webhook إلى طابور التسليم."
+},
+{
+"id": 505,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم تحديث إعدادات المؤسسة."
+},
+{
+"id": 506,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "انسخه الآن؛ لن يظهر كاملًا مرة أخرى."
+},
+{
+"id": 507,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم إنشاء Webhook. احفظ secret الآن."
+},
+{
+"id": 508,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم إنشاء دعوة المؤسسة."
+},
+{
+"id": 509,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "الدعوة غير صالحة لهذا الحساب."
+},
+{
+"id": 510,
+"f": "app/Http/Controllers/Api/Enterprise/EnterpriseManagementApiController.php",
+"ar": "تم الانضمام إلى المؤسسة بنجاح."
+},
+{
+"id": 511,
+"f": "app/Http/Controllers/Api/Enterprise/ExternalApiController.php",
+"ar": "لا يملك الصلاحية المطلوبة:"
+},
+{
+"id": 512,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "الميزانية مقفلة."
+},
+{
+"id": 513,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إرسال المصروف للاعتماد."
+},
+{
+"id": 514,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إلغاء المصروف."
+},
+{
+"id": 515,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم اعتماد المصروف."
+},
+{
+"id": 516,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إنشاء المصروف كمسودة."
+},
+{
+"id": 517,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تحديث المصروف."
+},
+{
+"id": 518,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "المصروف ليس بانتظار الاعتماد."
+},
+{
+"id": 519,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم رفض المصروف:"
+},
+{
+"id": 520,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم رفض المصروف."
+},
+{
+"id": 521,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تمت إعادة المصروف للمراجعة:"
+},
+{
+"id": 522,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تمت إعادة المصروف للتعديل."
+},
+{
+"id": 523,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "يجب اعتماد المصروف أولاً."
+},
+{
+"id": 524,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تسجيل عملية الدفع."
+},
+{
+"id": 525,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تحديث التصنيف."
+},
+{
+"id": 526,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تحديث المورد."
+},
+{
+"id": 527,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم حفظ ميزانية المشروع."
+},
+{
+"id": 528,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تمت إضافة بند الميزانية."
+},
+{
+"id": 529,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تحديث بند الميزانية."
+},
+{
+"id": 530,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم حذف بند الميزانية."
+},
+{
+"id": 531,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "يجب اختيار مشروع للمصروف المرتبط بمشروع."
+},
+{
+"id": 532,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إنشاء المصروف من التطبيق."
+},
+{
+"id": 533,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تحديث المصروف من التطبيق."
+},
+{
+"id": 534,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إرسال المصروف للاعتماد من التطبيق."
+},
+{
+"id": 535,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم إلغاء المصروف من التطبيق."
+},
+{
+"id": 536,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم اعتماد المصروف من التطبيق."
+},
+{
+"id": 537,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تم تسجيل المصروف كمدفوع من التطبيق."
+},
+{
+"id": 538,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تمت إضافة التصنيف."
+},
+{
+"id": 539,
+"f": "app/Http/Controllers/Api/ExpenseApiController.php",
+"ar": "تمت إضافة المورد."
+},
+{
+"id": 540,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "المحتوى:"
+},
+{
+"id": 541,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تمت معالجة هذا الطعن مسبقًا."
+},
+{
+"id": 542,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تعذر إرسال الملاحظة لأنها تخالف سياسة استخدام المنصة."
+},
+{
+"id": 543,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم استلام الملاحظة وستراجعها الإدارة قبل اعتمادها."
+},
+{
+"id": 544,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "يجب اعتماد الرأي أولًا قبل تمييزه."
+},
+{
+"id": 545,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم حفظ رد الإدارة."
+},
+{
+"id": 546,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم تثبيت تعليق الحساب."
+},
+{
+"id": 547,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "حسابك غير معلّق."
+},
+{
+"id": 548,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "لديك طعن قيد المراجعة بالفعل."
+},
+{
+"id": 549,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "لا يمكن إلغاء الطعن بعد بدء مراجعته."
+},
+{
+"id": 550,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم إلغاء طلب الطعن."
+},
+{
+"id": 551,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "هذا الطعن تحت المراجعة بالفعل."
+},
+{
+"id": 552,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم رفض الطعن وتثبيت تعليق الحساب."
+},
+{
+"id": 553,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم إرسال رأيك أو ملاحظتك بنجاح."
+},
+{
+"id": 554,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم تحديث الرأي أو الملاحظة."
+},
+{
+"id": 555,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "التحذير ملغى بالفعل."
+},
+{
+"id": 556,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "التحذير مؤكد بالفعل."
+},
+{
+"id": 557,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم تأكيد التحذير."
+},
+{
+"id": 558,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم إلغاء التحذير."
+},
+{
+"id": 559,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تمت إعادة تفعيل الحساب."
+},
+{
+"id": 560,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم إرسال الطعن إلى الإدارة بنجاح."
+},
+{
+"id": 561,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "لا يمكن بدء مراجعة هذا الطعن في حالته الحالية."
+},
+{
+"id": 562,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم بدء مراجعة الطعن."
+},
+{
+"id": 563,
+"f": "app/Http/Controllers/Api/FinalizationApiController.php",
+"ar": "تم قبول الطعن وإعادة تفعيل الحساب."
+},
+{
+"id": 564,
+"f": "app/Http/Controllers/Api/FinancialManagerCenterApiController.php",
+"ar": "تم تحديث حالة الكوبون."
+},
+{
+"id": 565,
+"f": "app/Http/Controllers/Api/FinancialManagerCenterApiController.php",
+"ar": "تم فك التعليق الأمني عن الصرف. لم يتم نقل أي رصيد محجوز."
+},
+{
+"id": 566,
+"f": "app/Http/Controllers/Api/IdentityVerificationApiController.php",
+"ar": "خدمة Didit غير مفعلة على الخادم."
+},
+{
+"id": 567,
+"f": "app/Http/Controllers/Api/IdentityVerificationApiController.php",
+"ar": "أكمل إعداد مفاتيح Didit وسير عمل KYC على الخادم."
+},
+{
+"id": 568,
+"f": "app/Http/Controllers/Api/IdentityVerificationApiController.php",
+"ar": "هويتك موثّقة بالفعل."
+},
+{
+"id": 569,
+"f": "app/Http/Controllers/Api/IdentityVerificationApiController.php",
+"ar": "تعذر بدء التوثيق لحساب معلّق."
+},
+{
+"id": 570,
+"f": "app/Http/Controllers/Api/IdentityVerificationApiController.php",
+"ar": "رابط Didit غير صالح."
+},
+{
+"id": 571,
+"f": "app/Http/Controllers/Api/IdentityVerificationCheckApiController.php",
+"ar": "حسابك موثّق الهوية بالفعل."
+},
+{
+"id": 572,
+"f": "app/Http/Controllers/Api/IdentityVerificationCheckApiController.php",
+"ar": "تم استلام بياناتك، وجاري التأكيد النهائي خلال دقائق."
+},
+{
+"id": 573,
+"f": "app/Http/Controllers/Api/IdentityVerificationCheckApiController.php",
+"ar": "تم استلام طلبك وهو قيد المراجعة اليدوية من الإدارة."
+},
+{
+"id": 574,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "لا توجد جلسة تحقق محلية. ابدأ جلسة جديدة أولاً."
+},
+{
+"id": 575,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "انتهت صلاحية جلسة التحقق. ابدأ جلسة جديدة."
+},
+{
+"id": 576,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "غير مجهز على الخادم. شغّل Migration الخاص بالتوثيق."
+},
+{
+"id": 577,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تعذر تحميل مركز التوثيق من الخادم. امسح Cache وتأكد من"
+},
+{
+"id": 578,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "أكمل التحقق من الوجه ثلاثي الأبعاد والحيوية قبل إرسال"
+},
+{
+"id": 579,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تم تجهيز مستند الهوية للتحقق من الوجه."
+},
+{
+"id": 580,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "حالة KYC الحالية لا تسمح ببدء جلسة جديدة."
+},
+{
+"id": 581,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "بدأ المستخدم فحص حيوية الوجه ثلاثي الأبعاد."
+},
+{
+"id": 582,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تم إنشاء جلسة التحقق ثلاثي الأبعاد."
+},
+{
+"id": 583,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تم التحقق بالذكاء الاصطناعي ومطابقة الوجه مع الهوية بنجاح."
+},
+{
+"id": 584,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "اكتمل فحص الذكاء الاصطناعي، والنتيجة حدّية وتحتاج مراجعة بشرية قبل الاعتماد."
+},
+{
+"id": 585,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "لم يجتز فحص الحيوية أو مطابقة الهوية. أعد المحاولة بإضاءة جيدة واتبع التعليمات."
+},
+{
+"id": 586,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "عنوان خدمة Biometric غير صحيح. ضع BIOMETRIC_LOCAL_SERVICE_URL كرابط كامل يبدأ بـ https:// للدومين العام، أو http:// لعنوان Railway الداخلي."
+},
+{
+"id": 587,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "خدمة Biometric غير متاحة من خادم الموقع. إذا كان Laravel على Railway فلا تستخدم 127.0.0.1؛ ضع رابط خدمة Biometric الحقيقي في"
+},
+{
+"id": 588,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "المستندات المطلوبة غير مكتملة."
+},
+{
+"id": 589,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تم رفع مستندات KYC من التطبيق."
+},
+{
+"id": 590,
+"f": "app/Http/Controllers/Api/KycApiController.php",
+"ar": "تم إرسال طلب التوثيق للمراجعة."
+},
+{
+"id": 591,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "مغلق"
+},
+{
+"id": 592,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تمت الترسية"
+},
+{
+"id": 593,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "يستقبل عروضًا"
+},
+{
+"id": 594,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "اختر مهندسًا فعالًا من أعضاء المكتب."
+},
+{
+"id": 595,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "ومدة"
+},
+{
+"id": 596,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "يومًا."
+},
+{
+"id": 597,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "قام"
+},
+{
+"id": 598,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "منشور"
+},
+{
+"id": 599,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "الأحدث"
+},
+{
+"id": 600,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "انتهى استقبال عروض الأسعار لهذا المشروع."
+},
+{
+"id": 601,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "لم يعد هذا العرض متاحًا للتعديل."
+},
+{
+"id": 602,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "عروض مستلمة"
+},
+{
+"id": 603,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "مكاتب أديرها"
+},
+{
+"id": 604,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "ترسيات مكتملة"
+},
+{
+"id": 605,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "فرص متاحة حاليًا"
+},
+{
+"id": 606,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "المهندسون والمكاتب"
+},
+{
+"id": 607,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "المشروع تم ترسيته بالفعل."
+},
+{
+"id": 608,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "لا يمكن إلغاء المشروع بعد اختيار عرض وإنشاء المشروع الرسمي."
+},
+{
+"id": 609,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم إلغاء طلب المشروع من السوق."
+},
+{
+"id": 610,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "يوجد عرض قائم بالفعل من هذا المهندس/المكتب. يمكنك تحديثه بدل إنشاء عرض مكرر."
+},
+{
+"id": 611,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "عرض سعر جديد على مشروعك"
+},
+{
+"id": 612,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "قدم"
+},
+{
+"id": 613,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "عرضًا بقيمة"
+},
+{
+"id": 614,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم إرسال عرض السعر للعميل بنجاح."
+},
+{
+"id": 615,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم تحديث عرض سعر على مشروعك"
+},
+{
+"id": 616,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "بتحديث عرضه إلى"
+},
+{
+"id": 617,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم تحديث عرض السعر وإشعار العميل."
+},
+{
+"id": 618,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "لا يمكن سحب هذا العرض في حالته الحالية."
+},
+{
+"id": 619,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم سحب عرض سعر"
+},
+{
+"id": 620,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "بسحب عرضه من المشروع"
+},
+{
+"id": 621,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم سحب عرض السعر."
+},
+{
+"id": 622,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم اختيار العرض وإنشاء المشروع بنجاح."
+},
+{
+"id": 623,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تحول إلى مشروع"
+},
+{
+"id": 624,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "الأقرب انتهاءً"
+},
+{
+"id": 625,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "الميزانية الأقل"
+},
+{
+"id": 626,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "الميزانية الأعلى"
+},
+{
+"id": 627,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "المكتب المختار غير متاح لاستقبال طلبات المشاريع حاليًا."
+},
+{
+"id": 628,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم نشر المشروع في سوق المشاريع بنجاح."
+},
+{
+"id": 629,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم إغلاق استقبال العروض"
+},
+{
+"id": 630,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "أغلق العميل استقبال عروض جديدة للمشروع:"
+},
+{
+"id": 631,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "العروض الحالية ما زالت محفوظة للمقارنة."
+},
+{
+"id": 632,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم إغلاق استقبال عروض جديدة."
+},
+{
+"id": 633,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم إلغاء مشروع من السوق"
+},
+{
+"id": 634,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "ألغى العميل المشروع:"
+},
+{
+"id": 635,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "فتح السوق"
+},
+{
+"id": 636,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "فرصة جديدة في سوق المشاريع"
+},
+{
+"id": 637,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "تم نشر مشروع جديد:"
+},
+{
+"id": 638,
+"f": "app/Http/Controllers/Api/MarketplaceApiController.php",
+"ar": "افتح السوق للاطلاع على التفاصيل وتقديم عرضك."
+},
+{
+"id": 639,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تم تحديد جميع الإشعارات كمقروءة."
+},
+{
+"id": 640,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تم حذف الإشعار."
+},
+{
+"id": 641,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "إشعار تجريبي"
+},
+{
+"id": 642,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تم ربط إشعارات منصة الوليد الهندسية بنجاح."
+},
+{
+"id": 643,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تعذر تحميل بعض الإشعارات القديمة مؤقتًا."
+},
+{
+"id": 644,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "لا توجد إشعارات لتحديثها."
+},
+{
+"id": 645,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "غير مهيأ على الخادم. تحقق من بيانات Firebase أولًا."
+},
+{
+"id": 646,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "لا يوجد جهاز مسجل لهذا الحساب. افتح التطبيق واسمح بالإشعارات ثم أعد المحاولة."
+},
+{
+"id": 647,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تعذر إرسال الإشعار التجريبي إلى الجهاز المسجل. راجع إعدادات Firebase أو أعد تسجيل الجهاز."
+},
+{
+"id": 648,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تم إرسال الإشعار التجريبي إلى جهاز المدير بنجاح."
+},
+{
+"id": 649,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "عنوان الإشعار يجب ألا يتجاوز 120 حرفًا."
+},
+{
+"id": 650,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "اكتب نص الإشعار أولًا."
+},
+{
+"id": 651,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "نص الإشعار يجب ألا يتجاوز 1200 حرف."
+},
+{
+"id": 652,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "إشعار من إدارة المنصة"
+},
+{
+"id": 653,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "فتح الإشعارات"
+},
+{
+"id": 654,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "تم إرسال الإشعار لجميع المستخدمين بنجاح"
+},
+{
+"id": 655,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "مستخدم)."
+},
+{
+"id": 656,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "الإشعار غير موجود أو لا يخص هذا الحساب."
+},
+{
+"id": 657,
+"f": "app/Http/Controllers/Api/NotificationApiController.php",
+"ar": "هذه العملية متاحة لمدير النظام فقط."
+},
+{
+"id": 658,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لديك طلب مكتب قيد المراجعة بالفعل."
+},
+{
+"id": 659,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "هذا المكتب لا يستقبل طلبات انضمام حاليًا."
+},
+{
+"id": 660,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "أنت عضو بالفعل في هذا المكتب."
+},
+{
+"id": 661,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لديك طلب انضمام قيد المراجعة لهذا المكتب."
+}
+]

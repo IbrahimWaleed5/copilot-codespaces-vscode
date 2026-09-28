@@ -1,0 +1,1752 @@
+[
+{
+"id": 662,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "ليس لديك صلاحية إدارة مكتب."
+},
+{
+"id": 663,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لديك مكتب مسجل بالفعل."
+},
+{
+"id": 664,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "نوع الملف غير صحيح."
+},
+{
+"id": 665,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "ليس لديك صلاحية الوصول إلى هذا الملف."
+},
+{
+"id": 666,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لم يتم العثور على مسار الملف."
+},
+{
+"id": 667,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "الملف غير موجود في التخزين."
+},
+{
+"id": 668,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم إرسال طلب الانضمام إلى مدير المكتب بنجاح."
+},
+{
+"id": 669,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم تحديث الملف الشخصي للمكتب بنجاح."
+},
+{
+"id": 670,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكن تعديل صلاحيات مالك المكتب."
+},
+{
+"id": 671,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "مالك المكتب فقط يستطيع إدارة صلاحيات المديرين."
+},
+{
+"id": 672,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم تحديث بيانات عضو المكتب بنجاح."
+},
+{
+"id": 673,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكن إزالة مالك المكتب."
+},
+{
+"id": 674,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكنك إزالة نفسك من المكتب بهذه الطريقة."
+},
+{
+"id": 675,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "مالك المكتب فقط يستطيع إزالة مدير."
+},
+{
+"id": 676,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تمت إزالة العضو من فريق المكتب."
+},
+{
+"id": 677,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكنك مراجعة طلبات هذا المكتب."
+},
+{
+"id": 678,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكن قبول مهندسين لأن المكتب غير فعال حاليًا."
+},
+{
+"id": 679,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم رفض طلب انضمام المهندس."
+},
+{
+"id": 680,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم قبول المهندس وإضافته إلى فريق المكتب."
+},
+{
+"id": 681,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "لا يمكن دفع اشتراك مكتب مغلق أو مرفوض."
+},
+{
+"id": 682,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "يوجد إيصال اشتراك قيد المراجعة بالفعل."
+},
+{
+"id": 683,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "هذه الباقة تحتاج عرض سعر مخصص من إدارة المنصة."
+},
+{
+"id": 684,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "إيصال الدفع مطلوب لهذه الطريقة."
+},
+{
+"id": 685,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "اشتراك مجاني بالكامل بواسطة كوبون."
+},
+{
+"id": 686,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم تفعيل الباقة بالكامل بواسطة الكوبون."
+},
+{
+"id": 687,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "هذه الاستشارة غير محولة إلى مكتبك."
+},
+{
+"id": 688,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "المكتب غير فعال حاليًا."
+},
+{
+"id": 689,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "المهندس المختار ليس عضوًا فعالًا في المكتب."
+},
+{
+"id": 690,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم تعيين المهندس للاستشارة بنجاح."
+},
+{
+"id": 691,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "الأكثر مشاريع"
+},
+{
+"id": 692,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم إرسال طلب المكتب والمستندات للباقة المختارة. بعد موافقة الإدارة تبدأ التجربة على نفس الباقة."
+},
+{
+"id": 693,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم تجهيز بوابة الدفع."
+},
+{
+"id": 694,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم إرسال دفعة الباقة للمراجعة. الأيام المتبقية من التجربة أو الاشتراك الحالي محفوظة."
+},
+{
+"id": 695,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تمت جدولة الإلغاء عند نهاية الفترة المدفوعة."
+},
+{
+"id": 696,
+"f": "app/Http/Controllers/Api/OfficeApiController.php",
+"ar": "تم التراجع عن إلغاء الاشتراك."
+},
+{
+"id": 697,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "لا يمكن دفع هذا المستحق."
+},
+{
+"id": 698,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "هذه الاستشارة ليست تابعة لمكتبك."
+},
+{
+"id": 699,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "يجب إسناد الاستشارة إلى مهندس أولاً."
+},
+{
+"id": 700,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "المهندس المسند للاستشارة ليس مهندساً فعالاً في المكتب."
+},
+{
+"id": 701,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "مدير المنصة لم يحدد نسبة المكتب لهذه الاستشارة بعد."
+},
+{
+"id": 702,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تحديد نسبة المهندس من حصة المكتب بنجاح."
+},
+{
+"id": 703,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تسجيل دفع مستحق المهندس من المكتب."
+},
+{
+"id": 704,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تسجيل دفع مستحق مهندس المشروع من المكتب."
+},
+{
+"id": 705,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "يجب تحويل الاستشارة إلى مكتب أولاً."
+},
+{
+"id": 706,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تحديث نسبة المكتب وحساب مستحقاته بنجاح."
+},
+{
+"id": 707,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تسجيل دفع مستحق المكتب للاستشارة."
+},
+{
+"id": 708,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "هذا المشروع غير مرتبط بمكتب هندسي."
+},
+{
+"id": 709,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "تم تحديث نسبة المكتب من المشروع."
+},
+{
+"id": 710,
+"f": "app/Http/Controllers/Api/OfficeFinanceApiController.php",
+"ar": "هذه الصفحة مخصصة لمالك المكتب."
+},
+{
+"id": 711,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "تم نشر العمل في مكتبة المكتب."
+},
+{
+"id": 712,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "لا يمكن أن يتجاوز مجموع مرفقات العمل 12 ملفًا. احذف بعض المرفقات الحالية أولًا."
+},
+{
+"id": 713,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "تم تحديث العمل في مكتبة المكتب."
+},
+{
+"id": 714,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "تم حذف العمل من مكتبة المكتب."
+},
+{
+"id": 715,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "التقييم متاح للعملاء فقط."
+},
+{
+"id": 716,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "يمكن تقييم المكتب بعد اكتمال مشروعك معه فقط."
+},
+{
+"id": 717,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "تم تقييم هذا المشروع مسبقًا."
+},
+{
+"id": 718,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "نوع الملف غير مدعوم. الأنواع المسموحة:"
+},
+{
+"id": 719,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "تم نشر تقييمك الموثق."
+},
+{
+"id": 720,
+"f": "app/Http/Controllers/Api/OfficePublicContentApiController.php",
+"ar": "ليس لديك صلاحية إدارة مكتبة مكتب."
+},
+{
+"id": 721,
+"f": "app/Http/Controllers/Api/OfficeTenantApiController.php",
+"ar": "تم تحديد مساحة المكتب الحالية."
+},
+{
+"id": 722,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "حد 5 ساعات"
+},
+{
+"id": 723,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "حد 7 أيام"
+},
+{
+"id": 724,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "أعضاء كل فريق"
+},
+{
+"id": 725,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "الرصيد الشهري"
+},
+{
+"id": 726,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "التخزين السحابي"
+},
+{
+"id": 727,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "فرق العمل"
+},
+{
+"id": 728,
+"f": "app/Http/Controllers/Api/PackageCenterApiController.php",
+"ar": "أقصى حجم ملف"
+},
+{
+"id": 729,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "هذه الاستشارة مدفوعة بالفعل."
+},
+{
+"id": 730,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "يرجى إرفاق إيصال الدفع للمراجعة."
+},
+{
+"id": 731,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "سيتم تحويلك إلى منصة الدفع المختارة."
+},
+{
+"id": 732,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "تم حفظ الحوالة والإيصال بانتظار التحقق."
+},
+{
+"id": 733,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "عملة وسيلة الدفع لا تطابق عملة الاستشارة. اختر وسيلة دفع بعملة"
+},
+{
+"id": 734,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "تم استلام الإيصال وإرسال الدفعة للمراجعة الإدارية."
+},
+{
+"id": 735,
+"f": "app/Http/Controllers/Api/PaymentApiController.php",
+"ar": "تم بدء عملية الدفع."
+},
+{
+"id": 736,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "حساب الاستلام مرتبط بطلب سحب قائم؛ يجب تسوية الطلب قبل تغيير حالة توثيق المستفيد."
+},
+{
+"id": 737,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "أدخل رقم الحساب أو"
+},
+{
+"id": 738,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "تم حفظ حساب الاستلام وإرساله للمراجعة."
+},
+{
+"id": 739,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "تم حفظ حساب استلام المكتب وإرساله للمراجعة."
+},
+{
+"id": 740,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "تم توثيق الحساب البنكي."
+},
+{
+"id": 741,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "تم رفض الحساب البنكي."
+},
+{
+"id": 742,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "حساب الاستلام مرتبط بطلب سحب قائم؛ انتظر إتمام الطلب أو رفضه قبل تعديل البيانات."
+},
+{
+"id": 743,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "أدخل اسم البنك."
+},
+{
+"id": 744,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "أدخل آخر 4 أرقام من البطاقة."
+},
+{
+"id": 745,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "أدخل اسم مزود الصرف."
+},
+{
+"id": 746,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "أدخل"
+},
+{
+"id": 747,
+"f": "app/Http/Controllers/Api/PayoutAccountApiController.php",
+"ar": "الصادر من مزود الصرف."
+},
+{
+"id": 748,
+"f": "app/Http/Controllers/Api/PayoutQueueApiController.php",
+"ar": "تم بدء الصرف."
+},
+{
+"id": 749,
+"f": "app/Http/Controllers/Api/PayoutQueueApiController.php",
+"ar": "تم تأكيد التحويل."
+},
+{
+"id": 750,
+"f": "app/Http/Controllers/Api/PlatformCommissionApiController.php",
+"ar": "تم تحديث نسب عمولة المنصة."
+},
+{
+"id": 751,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "تمت إضافة طريقة الدفع."
+},
+{
+"id": 752,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "تم إلغاء طرق الدفع الرقمية."
+},
+{
+"id": 753,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "تم تحديث طريقة الدفع."
+},
+{
+"id": 754,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "السعودية تدعم البنك أو المحفظة فقط."
+},
+{
+"id": 755,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "الدفع الرقمي في هذه النسخة يدعم التسوية بالدولار فقط."
+},
+{
+"id": 756,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "حدد العملة والشبكة وعنوان الاستلام."
+},
+{
+"id": 757,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "غير مدعوم بهذه الإعدادات."
+},
+{
+"id": 758,
+"f": "app/Http/Controllers/Api/PlatformPaymentMethodApiController.php",
+"ar": "تم تعطيل طريقة الدفع."
+},
+{
+"id": 759,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم حفظ"
+},
+{
+"id": 760,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم إنشاء الكوبون."
+},
+{
+"id": 761,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "النسبة لا تتجاوز"
+},
+{
+"id": 762,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم حذف الكوبون."
+},
+{
+"id": 763,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "اكتمل فحص المطابقة."
+},
+{
+"id": 764,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "رمز الكوبون مستخدم مسبقًا."
+},
+{
+"id": 765,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم تحديث الكوبون."
+},
+{
+"id": 766,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم تعطيل الكوبون لأنه مستخدم مسبقًا."
+},
+{
+"id": 767,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تمت جدولة تغيير الخطة."
+},
+{
+"id": 768,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "لا يمكن إلغاء هذا الطلب بعد تطبيقه."
+},
+{
+"id": 769,
+"f": "app/Http/Controllers/Api/ProductionControlApiController.php",
+"ar": "تم إلغاء تغيير الخطة."
+},
+{
+"id": 770,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "لا توجد طريقة دفع مفعلة حاليًا."
+},
+{
+"id": 771,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "التوثيق الاحترافي متاح للمهندسين وملاك المكاتب فقط."
+},
+{
+"id": 772,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "لا تستوفي شروط التقديم الحالية التي حددها مدير المنصة."
+},
+{
+"id": 773,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "تم إرسال طلب توثيق المهندس للمدير."
+},
+{
+"id": 774,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "يجب أن يكون المكتب فعالًا واشتراك تشغيل المكتب ساريًا قبل طلب التوثيق."
+},
+{
+"id": 775,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "تم إرسال طلب توثيق المكتب للمدير."
+},
+{
+"id": 776,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "يجب اعتماد طلب التوثيق أولًا."
+},
+{
+"id": 777,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "لم يحدد مدير المنصة سعر اشتراك التوثيق بعد."
+},
+{
+"id": 778,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "لديك دفعة توثيق قيد المراجعة بالفعل."
+},
+{
+"id": 779,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "تم إرسال إيصال اشتراك التوثيق للمراجعة."
+},
+{
+"id": 780,
+"f": "app/Http/Controllers/Api/ProfessionalVerificationApiController.php",
+"ar": "لديك طلب توثيق قائم بالفعل."
+},
+{
+"id": 781,
+"f": "app/Http/Controllers/Api/ProfileApiController.php",
+"ar": "تم حفظ البيانات الشخصية بنجاح."
+},
+{
+"id": 782,
+"f": "app/Http/Controllers/Api/ProfileApiController.php",
+"ar": "تم تغيير كلمة المرور بنجاح."
+},
+{
+"id": 783,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تمت إضافة"
+},
+{
+"id": 784,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم تحديث الموعد."
+},
+{
+"id": 785,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم اعتماد نتيجة المراجعة."
+},
+{
+"id": 786,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "الحالة الحالية لا تسمح بإرسال Revision جديد."
+},
+{
+"id": 787,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم إرسال Revision جديد للمراجعة."
+},
+{
+"id": 788,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم حفظ محضر الاجتماع."
+},
+{
+"id": 789,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم إلغاء الاجتماع."
+},
+{
+"id": 790,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "هذا البند مقفل ولا يمكن تعديله."
+},
+{
+"id": 791,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم تحديث نسبة الإنجاز."
+},
+{
+"id": 792,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "يمكن حذف Draft فقط."
+},
+{
+"id": 793,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم تحديث القسم."
+},
+{
+"id": 794,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم حذف القسم."
+},
+{
+"id": 795,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "صف."
+},
+{
+"id": 796,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم إنشاء Submittal وإرسال R0 للمراجعة."
+},
+{
+"id": 797,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تمت إضافة بند إلى"
+},
+{
+"id": 798,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم إنشاء الموعد."
+},
+{
+"id": 799,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم حذف الموعد."
+},
+{
+"id": 800,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تمت إضافة القسم."
+},
+{
+"id": 801,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تمت إضافة البند."
+},
+{
+"id": 802,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم تحديث البند."
+},
+{
+"id": 803,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم حذف البند."
+},
+{
+"id": 804,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "تم تسجيل تقدم البند."
+},
+{
+"id": 805,
+"f": "app/Http/Controllers/Api/ProjectAdvancedApiController.php",
+"ar": "بند وتجاوز"
+},
+{
+"id": 806,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "يمكن الإسناد إلى مشارك في المشروع فقط."
+},
+{
+"id": 807,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "تم تحديث التعارض."
+},
+{
+"id": 808,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "صيغة نموذج BIM غير مدعومة."
+},
+{
+"id": 809,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "تم رفع نموذج"
+},
+{
+"id": 810,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "تم رفع إصدار"
+},
+{
+"id": 811,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "اكتمل"
+},
+{
+"id": 812,
+"f": "app/Http/Controllers/Api/ProjectBimApiController.php",
+"ar": "تم استيراد تقرير"
+},
+{
+"id": 813,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "يجب الموافقة على شروط العقد قبل التوقيع."
+},
+{
+"id": 814,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "اكتب اسمك لتأكيد التوقيع الإلكتروني."
+},
+{
+"id": 815,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "تم تسجيل توقيع إلكتروني على عقد المشروع"
+},
+{
+"id": 816,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "تم تسجيل توقيعك واكتملت جميع التواقيع. العقد أصبح نافذًا."
+},
+{
+"id": 817,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "تم تسجيل توقيعك الإلكتروني بنجاح. العقد بانتظار بقية الأطراف."
+},
+{
+"id": 818,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "اكتب سبب رفض العقد."
+},
+{
+"id": 819,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "لا يمكن رفض العقد من هذا الحساب بعد تسجيل توقيعه."
+},
+{
+"id": 820,
+"f": "app/Http/Controllers/Api/ProjectContractApiController.php",
+"ar": "تم تسجيل رفض العقد وسبب الرفض."
+},
+{
+"id": 821,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "مشاركة الـMarkup مع العميل تحتاج صلاحية قائد/إدارة المشروع."
+},
+{
+"id": 822,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم تحديث الملاحظات."
+},
+{
+"id": 823,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم إنشاء طبقة ملاحظات على"
+},
+{
+"id": 824,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم حفظ طبقة الملاحظات."
+},
+{
+"id": 825,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تعارض في نسخة الـMarkup. حدّث النسخة أو اختر الاحتفاظ بنسخة الخادم."
+},
+{
+"id": 826,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم تحديث طبقة Markup على"
+},
+{
+"id": 827,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم إغلاق طبقة ملاحظات على"
+},
+{
+"id": 828,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم إغلاق الملاحظات."
+},
+{
+"id": 829,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم حذف طبقة Markup من"
+},
+{
+"id": 830,
+"f": "app/Http/Controllers/Api/ProjectDrawingMarkupApiController.php",
+"ar": "تم حذف طبقة الملاحظات."
+},
+{
+"id": 831,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "يمكن تحديد نسبة لمهندس فعال من نفس المكتب فقط."
+},
+{
+"id": 832,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "مجموع نسب مهندسي المشروع لا يمكن أن يتجاوز"
+},
+{
+"id": 833,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "تم تحديد نسبة المهندس"
+},
+{
+"id": 834,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "تم حفظ نسبة المهندس بنجاح."
+},
+{
+"id": 835,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "تم إلغاء نسبة المهندس من المشروع."
+},
+{
+"id": 836,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "ليس لديك صلاحية إدارة نسب مهندسي هذا المشروع."
+},
+{
+"id": 837,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "في المشروع عبر تطبيق"
+},
+{
+"id": 838,
+"f": "app/Http/Controllers/Api/ProjectEngineerAllocationApiController.php",
+"ar": "تم إلغاء نسبة المهندس من المشروع عبر تطبيق"
+},
+{
+"id": 839,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إرسال طلب إنهاء المشروع للعميل."
+},
+{
+"id": 840,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وافق العميل على أمر التغيير"
+},
+{
+"id": 841,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "رفض العميل أمر التغيير"
+},
+{
+"id": 842,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم بدء تنفيذ المشروع"
+},
+{
+"id": 843,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "استئناف المشروع"
+},
+{
+"id": 844,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم استئناف تنفيذ المشروع"
+},
+{
+"id": 845,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفع تسليم مرحلة جديد للمشروع"
+},
+{
+"id": 846,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إرسال تسليم المرحلة للعميل للمراجعة."
+},
+{
+"id": 847,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد تسليم المرحلة والإفراج عن الدفعة المحتجزة."
+},
+{
+"id": 848,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض تسليم المرحلة مع إبقاء مبلغ الضمان محتجزًا."
+},
+{
+"id": 849,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وإتاحتها للعميل."
+},
+{
+"id": 850,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وطلب Version جديد."
+},
+{
+"id": 851,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا توجد نسخة معتمدة متاحة للعميل."
+},
+{
+"id": 852,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم حذف ملف المشروع"
+},
+{
+"id": 853,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم حذف الملف من قائمة المشروع."
+},
+{
+"id": 854,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "بنجاح."
+},
+{
+"id": 855,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا يمكن إنشاء أمر تغيير لمشروع غير نشط."
+},
+{
+"id": 856,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "قيمة المشروع بعد أمر التغيير يجب أن تكون أكبر من صفر."
+},
+{
+"id": 857,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "مدة المشروع بعد أمر التغيير يجب أن تكون أكبر من صفر."
+},
+{
+"id": 858,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إنشاء أمر تغيير"
+},
+{
+"id": 859,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أمر تغيير جديد للمشروع"
+},
+{
+"id": 860,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أرسل المهندس أمر تغيير"
+},
+{
+"id": 861,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إرسال أمر التغيير للعميل."
+},
+{
+"id": 862,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أمر التغيير لم يعد متاحًا للموافقة."
+},
+{
+"id": 863,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد أمر التغيير"
+},
+{
+"id": 864,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد أمر التغيير وتحديث المشروع."
+},
+{
+"id": 865,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أمر التغيير لم يعد متاحًا للرفض."
+},
+{
+"id": 866,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض أمر التغيير"
+},
+{
+"id": 867,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض أمر التغيير."
+},
+{
+"id": 868,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "يمكن بدء المشروع فقط إذا كانت حالته معتمدة."
+},
+{
+"id": 869,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "بدأ تنفيذ المشروع"
+},
+{
+"id": 870,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم بدء المشروع."
+},
+{
+"id": 871,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "يمكن إيقاف المشروع مؤقتًا فقط أثناء التنفيذ."
+},
+{
+"id": 872,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إيقاف المشروع مؤقتًا:"
+},
+{
+"id": 873,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "إيقاف المشروع مؤقتًا"
+},
+{
+"id": 874,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إيقاف المشروع"
+},
+{
+"id": 875,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "مؤقتًا."
+},
+{
+"id": 876,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم إيقاف المشروع مؤقتًا."
+},
+{
+"id": 877,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "المشروع ليس في حالة إيقاف مؤقت."
+},
+{
+"id": 878,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم استئناف المشروع."
+},
+{
+"id": 879,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا يمكن طلب إنهاء المشروع من حالته الحالية."
+},
+{
+"id": 880,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "طلب اعتماد إنهاء المشروع"
+},
+{
+"id": 881,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا يوجد طلب إنهاء بانتظار موافقتك."
+},
+{
+"id": 882,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد إنهاء المشروع"
+},
+{
+"id": 883,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وافق العميل على إنهاء المشروع"
+},
+{
+"id": 884,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد إنهاء المشروع."
+},
+{
+"id": 885,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا يوجد طلب إنهاء بانتظار المراجعة."
+},
+{
+"id": 886,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "رفض العميل إنهاء المشروع:"
+},
+{
+"id": 887,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض طلب إنهاء المشروع"
+},
+{
+"id": 888,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "رفض العميل طلب إنهاء المشروع"
+},
+{
+"id": 889,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض الإنهاء وإعادة المشروع للتنفيذ."
+},
+{
+"id": 890,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "التقرير النهائي متاح بعد اكتمال المشروع فقط."
+},
+{
+"id": 891,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد المرحلة والإفراج عن مبلغ الضمان."
+},
+{
+"id": 892,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض التسليم ويمكن رفع Revision جديد."
+},
+{
+"id": 893,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفع Version جديد وبانتظار المراجعة."
+},
+{
+"id": 894,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم اعتماد Version وإتاحته للعميل."
+},
+{
+"id": 895,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم رفض Version الحالي."
+},
+{
+"id": 896,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "من العميل عبر تطبيق"
+},
+{
+"id": 897,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم سحب إتاحة النسخة المعتمدة من العميل."
+},
+{
+"id": 898,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "من تطبيق Flutter مع إبقاء السجل."
+},
+{
+"id": 899,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم تسجيل الإجابة الرسمية."
+},
+{
+"id": 900,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تمت إضافة التعليق."
+},
+{
+"id": 901,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "لا يمكن خفض قيمة المشروع لأقل من إجمالي الدفعات المجدولة."
+},
+{
+"id": 902,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تغيرت قيمة أو مدة المشروع. اطلب إنشاء أمر تغيير جديد."
+},
+{
+"id": 903,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "القيمة الجديدة أقل من إجمالي الدفعات المجدولة."
+},
+{
+"id": 904,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وافق العميل على أمر التغيير وتم تحديث المشروع."
+},
+{
+"id": 905,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "رفض العميل أمر التغيير."
+},
+{
+"id": 906,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم بدء تنفيذ المشروع."
+},
+{
+"id": 907,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "تم استئناف تنفيذ المشروع."
+},
+{
+"id": 908,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أكمل جميع المهام أولًا. المتبقي:"
+},
+{
+"id": 909,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "يجب تسوية جميع دفعات المشروع قبل طلب الإنهاء."
+},
+{
+"id": 910,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "أنهى المهندس تنفيذ المشروع وينتظر موافقتك."
+},
+{
+"id": 911,
+"f": "app/Http/Controllers/Api/ProjectExecutionApiController.php",
+"ar": "وافق العميل على إنهاء المشروع."
+},
+{
+"id": 912,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "تم رفع المرفق."
+},
+{
+"id": 913,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "تم إنشاء سجل إدارة الموقع."
+},
+{
+"id": 914,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "تم تحديث سجل إدارة الموقع."
+},
+{
+"id": 915,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "تم تحديث حالة سجل الموقع."
+},
+{
+"id": 916,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "تعذر مزامنة العملية حاليًا."
+},
+{
+"id": 917,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "يمكن إسناد سجل الموقع إلى أحد المشاركين في هذا المشروع فقط."
+},
+{
+"id": 918,
+"f": "app/Http/Controllers/Api/ProjectFieldApiController.php",
+"ar": "السجل غير موجود على الخادم."
+},
+{
+"id": 919,
+"f": "app/Http/Controllers/Api/ProjectFileApiController.php",
+"ar": "لا يمكن رفع ملفات إلى مشروع غير نشط."
+},
+{
+"id": 920,
+"f": "app/Http/Controllers/Api/ProjectFileApiController.php",
+"ar": "تم رفع الملف"
+},
+{
+"id": 921,
+"f": "app/Http/Controllers/Api/ProjectFileApiController.php",
+"ar": "كـ V1 للمشروع"
+},
+{
+"id": 922,
+"f": "app/Http/Controllers/Api/ProjectFileApiController.php",
+"ar": "تم رفع الملف كـ V1 وهو الآن بانتظار المراجعة."
+},
+{
+"id": 923,
+"f": "app/Http/Controllers/Api/ProjectHandoverApiController.php",
+"ar": "تم رفع ملف التسليم."
+},
+{
+"id": 924,
+"f": "app/Http/Controllers/Api/ProjectHandoverApiController.php",
+"ar": "تم حذف المرفق."
+},
+{
+"id": 925,
+"f": "app/Http/Controllers/Api/ProjectHandoverApiController.php",
+"ar": "تم إرسال الحزمة للعميل."
+},
+{
+"id": 926,
+"f": "app/Http/Controllers/Api/ProjectHandoverApiController.php",
+"ar": "تم إرسال ملاحظاتك."
+},
+{
+"id": 927,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "من المشروع"
+},
+{
+"id": 928,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "المهندس المحدد ليس ضمن فريق هذا المشروع."
+},
+{
+"id": 929,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم إنشاء مرحلة جديدة للمشروع"
+},
+{
+"id": 930,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تمت إضافة مرحلة المشروع بنجاح."
+},
+{
+"id": 931,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تعديل مرحلة المشروع"
+},
+{
+"id": 932,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تحديث المرحلة."
+},
+{
+"id": 933,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم حذف مرحلة"
+},
+{
+"id": 934,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم حذف المرحلة وجميع مهامها."
+},
+{
+"id": 935,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم إنشاء مهمة"
+},
+{
+"id": 936,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "ضمن المشروع"
+},
+{
+"id": 937,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تمت إضافة المهمة."
+},
+{
+"id": 938,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تعديل المهمة"
+},
+{
+"id": 939,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تحديث المهمة."
+},
+{
+"id": 940,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تحديث حالة المهمة"
+},
+{
+"id": 941,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم تحديث حالة المهمة."
+},
+{
+"id": 942,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم حذف المهمة"
+},
+{
+"id": 943,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "تم حذف المهمة."
+},
+{
+"id": 944,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "يمكن إسناد المهمة إلى مهندس نشط فقط."
+},
+{
+"id": 945,
+"f": "app/Http/Controllers/Api/ProjectMilestoneApiController.php",
+"ar": "لا يمكن تعديل خطة مشروع غير معتمد."
+},
+{
+"id": 946,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "هذا المشروع غير تابع لمكتب هندسي."
+},
+{
+"id": 947,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "طلب تنفيذ مشروع كامل"
+},
+{
+"id": 948,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "يمكن طلب مشروع كامل بعد اكتمال الاستشارة فقط."
+},
+{
+"id": 949,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يمكن طلب مشروع كامل قبل اكتمال دفع الاستشارة."
+},
+{
+"id": 950,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يوجد مهندس مرتبط بهذه الاستشارة."
+},
+{
+"id": 951,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "المهندس المسؤول لم يعد عضوًا فعالًا في المكتب الهندسي."
+},
+{
+"id": 952,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "طلب العميل تحويل الاستشارة رقم"
+},
+{
+"id": 953,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "إلى مشروع كامل."
+},
+{
+"id": 954,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم إرسال طلب المشروع للمهندس."
+},
+{
+"id": 955,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم اعتماد هذا الطلب كمشروع بالفعل."
+},
+{
+"id": 956,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "أرسل المهندس عرض المشروع بقيمة"
+},
+{
+"id": 957,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم إرسال عرض المشروع للعميل."
+},
+{
+"id": 958,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "هذا العرض لم يعد متاحًا للموافقة."
+},
+{
+"id": 959,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "المهندس الرئيسي لم يعد عضوًا فعالًا في المكتب الهندسي."
+},
+{
+"id": 960,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم اعتماد المشروع"
+},
+{
+"id": 961,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم اعتماد العرض وإنشاء المشروع بنجاح."
+},
+{
+"id": 962,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "مجموع نسب دفعات المشروع لا يمكن أن يتجاوز"
+},
+{
+"id": 963,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تمت إضافة الدفعة إلى جدول المشروع."
+},
+{
+"id": 964,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم استلام الإيصال وإرسال دفعة المشروع للمراجعة الإدارية."
+},
+{
+"id": 965,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم رفع الإيصال وإرساله للمراجعة المالية."
+},
+{
+"id": 966,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا توجد دفعة معلقة تحتاج إلى تأكيد."
+},
+{
+"id": 967,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم احتجاز الدفعة في Escrow بنجاح."
+},
+{
+"id": 968,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "يمكن إضافة حساب مهندس نشط فقط إلى فريق المشروع."
+},
+{
+"id": 969,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "المهندس الرئيسي موجود أصلًا ضمن المشروع."
+},
+{
+"id": 970,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تمت إضافة المهندس إلى فريق المشروع."
+},
+{
+"id": 971,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يمكن تعديل نسبة المكتب بعد دفع مستحقات مالية للمكتب."
+},
+{
+"id": 972,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "أكد البنك التحويل وتم تسجيل مستحق المكتب مدفوعًا."
+},
+{
+"id": 973,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "المشروع مغلق ماليًا مسبقًا."
+},
+{
+"id": 974,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يمكن الإغلاق المالي قبل اكتمال المشروع."
+},
+{
+"id": 975,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم الإغلاق المالي النهائي للمشروع."
+},
+{
+"id": 976,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "المشروع ليس مغلقًا ماليًا."
+},
+{
+"id": 977,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تمت إعادة فتح المشروع ماليًا."
+},
+{
+"id": 978,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم اعتماد عرض المشروع من تطبيق Flutter وإنشاء المشروع."
+},
+{
+"id": 979,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "وافق العميل على عرض المشروع وتم إنشاء المشروع"
+},
+{
+"id": 980,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "هذه الدفعة مؤكدة بالفعل."
+},
+{
+"id": 981,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم تأكيد دفعة المشروع من تطبيق"
+},
+{
+"id": 982,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم تأكيد الدفعة واحتساب المستحقات."
+},
+{
+"id": 983,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم رفض إيصال دفعة مشروع من تطبيق"
+},
+{
+"id": 984,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم رفض الإيصال وإعادة الدفعة للحالة السابقة."
+},
+{
+"id": 985,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم إيداع دفعة المشروع في حساب الضمان من تطبيق"
+},
+{
+"id": 986,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم الإفراج عن مبلغ الضمان من تطبيق"
+},
+{
+"id": 987,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم الإفراج عن مبلغ الضمان وتوزيع المستحقات."
+},
+{
+"id": 988,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "يمكن إضافة مهندسين فعالين من نفس المكتب فقط."
+},
+{
+"id": 989,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تمت إضافة مهندس إلى فريق المشروع من تطبيق"
+},
+{
+"id": 990,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم حذف مهندس من فريق المشروع من تطبيق"
+},
+{
+"id": 991,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم حذف المهندس من فريق المشروع."
+},
+{
+"id": 992,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "بدأ المدير تحويل مستحق مهندس المشروع من تطبيق"
+},
+{
+"id": 993,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم إرسال طلب التحويل للبنك وبانتظار تأكيده."
+},
+{
+"id": 994,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم تحديد نسبة المكتب في المشروع من تطبيق"
+},
+{
+"id": 995,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم تحديد نسبة المكتب في المشروع."
+},
+{
+"id": 996,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "بدأ المدير تحويل مستحق المكتب من تطبيق"
+},
+{
+"id": 997,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم إرسال طلب تحويل مستحق المكتب للبنك وبانتظار تأكيده."
+},
+{
+"id": 998,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يمكن الإغلاق المالي. توجد دفعات غير مسددة أو غير محسومة."
+},
+{
+"id": 999,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "لا يمكن الإغلاق المالي. توجد عمولة مهندس مشروع بانتظار الدفع."
+},
+{
+"id": 1000,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تم الإغلاق المالي النهائي للمشروع من تطبيق"
+},
+{
+"id": 1001,
+"f": "app/Http/Controllers/Api/ProjectWorkflowApiController.php",
+"ar": "تمت إعادة فتح المشروع ماليًا من تطبيق"
+},
+{
+"id": 1002,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "تعذر العثور على تذكرة بهذه البيانات. تحقق من البريد ورقم التذكرة."
+},
+{
+"id": 1003,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "التذكرة مغلقة."
+},
+{
+"id": 1004,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "تم إرسال رسالتك إلى الدعم."
+},
+{
+"id": 1005,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "جلسة متابعة التذكرة غير صالحة. أعد إدخال البريد ورقم التذكرة."
+},
+{
+"id": 1006,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "انتهت جلسة متابعة التذكرة. أعد إدخال البريد ورقم التذكرة."
+},
+{
+"id": 1007,
+"f": "app/Http/Controllers/Api/PublicSupportApiController.php",
+"ar": "بيانات الوصول للتذكرة غير متطابقة."
+},
+{
+"id": 1008,
+"f": "app/Http/Controllers/Api/RegisterApiController.php",
+"ar": "هذا البريد مستخدم في حساب موجود أو مؤرشف؛ استعد حسابك الأصلي."
+},
+{
+"id": 1009,
+"f": "app/Http/Controllers/Api/RegisterApiController.php",
+"ar": "رقم الهاتف غير صحيح بالنسبة للدولة المختارة."
+},
+{
+"id": 1010,
+"f": "app/Http/Controllers/Api/RegisterApiController.php",
+"ar": "تعذر قراءة رقم الهاتف. تأكد من الدولة والرقم."
+},
+{
+"id": 1011,
+"f": "app/Http/Controllers/Api/RegisterApiController.php",
+"ar": "رقم الهاتف مستخدم في حساب آخر."
+}
+]

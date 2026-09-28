@@ -1,0 +1,2177 @@
+[
+{
+"id": 5300,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "زر الدفع,سبب"
+},
+{
+"id": 5301,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن طلب استشارة عاجلة؟"
+},
+{
+"id": 5302,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن طلب استشارة عاجلة؟"
+},
+{
+"id": 5303,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تقسيم المشروع إلى مراحل؟"
+},
+{
+"id": 5304,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تقسيم المشروع إلى مراحل؟"
+},
+{
+"id": 5305,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن إضافة ملاحظات بعد بدء التنفيذ؟"
+},
+{
+"id": 5306,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن إضافة ملاحظات بعد بدء التنفيذ؟"
+},
+{
+"id": 5307,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من يحدد السعر النهائي؟"
+},
+{
+"id": 5308,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يحدد حسب نوع الخدمة ونطاقها، وقد يكون من سعر الاستشارة أو عرض مقدم الخدمة أو الإدارة."
+},
+{
+"id": 5309,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يشمل السعر التعديلات؟"
+},
+{
+"id": 5310,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يشمل السعر التعديلات؟"
+},
+{
+"id": 5311,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعرف موعد التسليم؟"
+},
+{
+"id": 5312,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "موعد التسليم"
+},
+{
+"id": 5313,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعرف موعد التسليم؟"
+},
+{
+"id": 5314,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "موعد التسليم,طريقة"
+},
+{
+"id": 5315,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميمًا معماريًا؟"
+},
+{
+"id": 5316,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميمًا معماريًا؟"
+},
+{
+"id": 5317,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميمًا داخليًا؟"
+},
+{
+"id": 5318,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميمًا داخليًا؟"
+},
+{
+"id": 5319,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميمًا إنشائيًا؟"
+},
+{
+"id": 5320,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميمًا إنشائيًا؟"
+},
+{
+"id": 5321,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون كهرباء وميكانيكا؟"
+},
+{
+"id": 5322,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون كهرباء وميكانيكا؟"
+},
+{
+"id": 5323,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون حصر كميات؟"
+},
+{
+"id": 5324,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون حصر كميات؟"
+},
+{
+"id": 5325,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن مراجعة مخطط؟"
+},
+{
+"id": 5326,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن مراجعة مخطط؟"
+},
+{
+"id": 5327,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تصميم واجهة؟"
+},
+{
+"id": 5328,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تصميم واجهة؟"
+},
+{
+"id": 5329,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تطبيق كود بناء لدولة معينة؟"
+},
+{
+"id": 5330,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تطبيق كود بناء لدولة معينة؟"
+},
+{
+"id": 5331,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميم لاندسكيب؟"
+},
+{
+"id": 5332,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميم لاندسكيب؟"
+},
+{
+"id": 5333,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون إخراجًا معماريًا؟"
+},
+{
+"id": 5334,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون إخراجًا معماريًا؟"
+},
+{
+"id": 5335,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون نمذجة ثلاثية الأبعاد؟"
+},
+{
+"id": 5336,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون نمذجة ثلاثية الأبعاد؟"
+},
+{
+"id": 5337,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون مخططات تنفيذية؟"
+},
+{
+"id": 5338,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون مخططات تنفيذية؟"
+},
+{
+"id": 5339,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون استشارة تربة؟"
+},
+{
+"id": 5340,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون استشارة تربة؟"
+},
+{
+"id": 5341,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون حساب كميات مواد؟"
+},
+{
+"id": 5342,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون حساب كميات مواد؟"
+},
+{
+"id": 5343,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميم مكاتب ومحلات؟"
+},
+{
+"id": 5344,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميم مكاتب ومحلات؟"
+},
+{
+"id": 5345,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون تصميم فلل وشاليهات؟"
+},
+{
+"id": 5346,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون تصميم فلل وشاليهات؟"
+},
+{
+"id": 5347,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون إعادة تصميم أو تعديل مخطط؟"
+},
+{
+"id": 5348,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون إعادة تصميم أو تعديل مخطط؟"
+},
+{
+"id": 5349,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تقدمون استشارات ترميم؟"
+},
+{
+"id": 5350,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تقدمون استشارات ترميم؟"
+},
+{
+"id": 5351,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن الاعتماد على التصميم للتنفيذ مباشرة؟"
+},
+{
+"id": 5352,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن الاعتماد على التصميم للتنفيذ مباشرة؟"
+},
+{
+"id": 5353,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أصبح مهندسًا؟"
+},
+{
+"id": 5354,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أصبح مهندس,انضمام"
+},
+{
+"id": 5355,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أصبح مهندسًا؟"
+},
+{
+"id": 5356,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أصبح مهندس,انضمام,طريقة"
+},
+{
+"id": 5357,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما مستندات المهندس؟"
+},
+{
+"id": 5358,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تشمل الهوية والسيرة والشهادة والترخيص والخبرة ونماذج الأعمال."
+},
+{
+"id": 5359,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مستندات,شهادة,ترخيص"
+},
+{
+"id": 5360,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كم تستغرق مراجعة طلب المهندس؟"
+},
+{
+"id": 5361,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعتمد على اكتمال البيانات وحجم الطلبات والتحقق من المستندات."
+},
+{
+"id": 5362,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مدة المراجعة"
+},
+{
+"id": 5363,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا رفض طلبي؟"
+},
+{
+"id": 5364,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض المهندس"
+},
+{
+"id": 5365,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب رفض طلبي؟"
+},
+{
+"id": 5366,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض المهندس,سبب"
+},
+{
+"id": 5367,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أضيف تخصصي ونبذتي؟"
+},
+{
+"id": 5368,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تخصص,نبذة"
+},
+{
+"id": 5369,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أضيف تخصصي ونبذتي؟"
+},
+{
+"id": 5370,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تخصص,نبذة,طريقة"
+},
+{
+"id": 5371,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أضيف أعمالي؟"
+},
+{
+"id": 5372,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أعمالي,بورتفوليو"
+},
+{
+"id": 5373,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أضيف أعمالي؟"
+},
+{
+"id": 5374,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أعمالي,بورتفوليو,طريقة"
+},
+{
+"id": 5375,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا يظهر عملي؟"
+},
+{
+"id": 5376,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "العمل لا يظهر"
+},
+{
+"id": 5377,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا يظهر عملي؟"
+},
+{
+"id": 5378,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "العمل لا يظهر,سبب"
+},
+{
+"id": 5379,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أحذف عملًا؟"
+},
+{
+"id": 5380,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حذف عمل"
+},
+{
+"id": 5381,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أحذف عملًا؟"
+},
+{
+"id": 5382,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حذف عمل,طريقة"
+},
+{
+"id": 5383,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أرى استشاراتي؟"
+},
+{
+"id": 5384,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "طلبات المهندس"
+},
+{
+"id": 5385,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أرى استشاراتي؟"
+},
+{
+"id": 5386,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "طلبات المهندس,طريقة"
+},
+{
+"id": 5387,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أرفع التسليم النهائي؟"
+},
+{
+"id": 5388,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفع التسليم"
+},
+{
+"id": 5389,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أرفع التسليم النهائي؟"
+},
+{
+"id": 5390,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفع التسليم,طريقة"
+},
+{
+"id": 5391,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن التواصل مع العميل؟"
+},
+{
+"id": 5392,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن التواصل مع العميل؟"
+},
+{
+"id": 5393,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يجوز طلب دفع خارج المنصة؟"
+},
+{
+"id": 5394,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يجوز طلب دفع خارج المنصة؟"
+},
+{
+"id": 5395,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف تُحسب تقييماتي؟"
+},
+{
+"id": 5396,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة تُحسب تقييماتي؟"
+},
+{
+"id": 5397,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تعديل ملف التسليم بعد الرفع؟"
+},
+{
+"id": 5398,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تعديل ملف التسليم بعد الرفع؟"
+},
+{
+"id": 5399,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ماذا أفعل إذا كانت معلومات العميل ناقصة؟"
+},
+{
+"id": 5400,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اطلب التفاصيل عبر المحادثة ولا تبدأ الجزء المتأثر قبل التوضيح."
+},
+{
+"id": 5401,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "معلومات ناقصة"
+},
+{
+"id": 5402,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أسجل مكتبًا هندسيًا؟"
+},
+{
+"id": 5403,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تسجيل مكتب"
+},
+{
+"id": 5404,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أسجل مكتبًا هندسيًا؟"
+},
+{
+"id": 5405,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تسجيل مكتب,طريقة"
+},
+{
+"id": 5406,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أتابع طلب المكتب؟"
+},
+{
+"id": 5407,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "متابعة المكتب"
+},
+{
+"id": 5408,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أتابع طلب المكتب؟"
+},
+{
+"id": 5409,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "متابعة المكتب,طريقة"
+},
+{
+"id": 5410,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما حالات طلب المكتب؟"
+},
+{
+"id": 5411,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد يكون قيد المراجعة أو مقبولًا أو مرفوضًا أو بحاجة لاستكمال."
+},
+{
+"id": 5412,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ماذا يحدث بعد قبول المكتب؟"
+},
+{
+"id": 5413,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يُنشأ ملف المكتب ويُمنح المالك الصلاحيات لإدارة الاشتراك والأعضاء والاستشارات."
+},
+{
+"id": 5414,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا رفض طلب المكتب؟"
+},
+{
+"id": 5415,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض المكتب"
+},
+{
+"id": 5416,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب رفض طلب المكتب؟"
+},
+{
+"id": 5417,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض المكتب,سبب"
+},
+{
+"id": 5418,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل اشتراك المكتب إلزامي؟"
+},
+{
+"id": 5419,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل اشتراك المكتب إلزامي؟"
+},
+{
+"id": 5420,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أدفع الاشتراك؟"
+},
+{
+"id": 5421,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "دفع الاشتراك"
+},
+{
+"id": 5422,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أدفع الاشتراك؟"
+},
+{
+"id": 5423,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "دفع الاشتراك,طريقة"
+},
+{
+"id": 5424,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا المكتب غير تشغيلي؟"
+},
+{
+"id": 5425,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "غير تشغيلي"
+},
+{
+"id": 5426,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب المكتب غير تشغيلي؟"
+},
+{
+"id": 5427,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "غير تشغيلي,سبب"
+},
+{
+"id": 5428,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعدل ملف المكتب؟"
+},
+{
+"id": 5429,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعديل المكتب"
+},
+{
+"id": 5430,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعدل ملف المكتب؟"
+},
+{
+"id": 5431,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعديل المكتب,طريقة"
+},
+{
+"id": 5432,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف ينضم مهندس للمكتب؟"
+},
+{
+"id": 5433,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "انضمام مهندس"
+},
+{
+"id": 5434,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة ينضم مهندس للمكتب؟"
+},
+{
+"id": 5435,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "انضمام مهندس,طريقة"
+},
+{
+"id": 5436,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أراجع طلبات العضوية؟"
+},
+{
+"id": 5437,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "طلبات العضوية"
+},
+{
+"id": 5438,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أراجع طلبات العضوية؟"
+},
+{
+"id": 5439,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "طلبات العضوية,طريقة"
+},
+{
+"id": 5440,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أدير الأعضاء؟"
+},
+{
+"id": 5441,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إدارة الأعضاء"
+},
+{
+"id": 5442,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أدير الأعضاء؟"
+},
+{
+"id": 5443,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إدارة الأعضاء,طريقة"
+},
+{
+"id": 5444,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن إزالة مهندس؟"
+},
+{
+"id": 5445,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن إزالة مهندس؟"
+},
+{
+"id": 5446,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف تُحوّل الاستشارة للمكتب؟"
+},
+{
+"id": 5447,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحويل للمكتب"
+},
+{
+"id": 5448,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة تُحوّل الاستشارة للمكتب؟"
+},
+{
+"id": 5449,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحويل للمكتب,طريقة"
+},
+{
+"id": 5450,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف يعين المكتب مهندسًا؟"
+},
+{
+"id": 5451,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعيين داخلي"
+},
+{
+"id": 5452,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة يعين المكتب مهندسًا؟"
+},
+{
+"id": 5453,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعيين داخلي,طريقة"
+},
+{
+"id": 5454,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن للمكتب العمل دون اشتراك؟"
+},
+{
+"id": 5455,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن للمكتب العمل دون اشتراك؟"
+},
+{
+"id": 5456,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أحمّل إيصال الاشتراك؟"
+},
+{
+"id": 5457,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إيصال الاشتراك"
+},
+{
+"id": 5458,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أحمّل إيصال الاشتراك؟"
+},
+{
+"id": 5459,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إيصال الاشتراك,طريقة"
+},
+{
+"id": 5460,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أدفع للاستشارة؟"
+},
+{
+"id": 5461,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "دفع الاستشارة"
+},
+{
+"id": 5462,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أدفع للاستشارة؟"
+},
+{
+"id": 5463,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "دفع الاستشارة,طريقة"
+},
+{
+"id": 5464,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طرق الدفع؟"
+},
+{
+"id": 5465,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تظهر الطرق المتاحة وقد تشمل البنك أو البطاقة أو المحفظة أو النقد حسب الدولة."
+},
+{
+"id": 5466,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا رُفض الإيصال؟"
+},
+{
+"id": 5467,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب رُفض الإيصال؟"
+},
+{
+"id": 5468,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض الإيصال,سبب"
+},
+{
+"id": 5469,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن رفع إيصال جديد؟"
+},
+{
+"id": 5470,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن رفع إيصال جديد؟"
+},
+{
+"id": 5471,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "دفعت ولم تتغير الحالة"
+},
+{
+"id": 5472,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تكون العملية قيد المراجعة أو بانتظار مزود الدفع."
+},
+{
+"id": 5473,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لم يتأكد الدفع"
+},
+{
+"id": 5474,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن استرداد المبلغ؟"
+},
+{
+"id": 5475,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن استرداد المبلغ؟"
+},
+{
+"id": 5476,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أحصل على الفاتورة؟"
+},
+{
+"id": 5477,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أحصل على الفاتورة؟"
+},
+{
+"id": 5478,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "فاتورة,طريقة"
+},
+{
+"id": 5479,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا تفتح الفاتورة؟"
+},
+{
+"id": 5480,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الفاتورة لا تفتح"
+},
+{
+"id": 5481,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا تفتح الفاتورة؟"
+},
+{
+"id": 5482,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الفاتورة لا تفتح,سبب"
+},
+{
+"id": 5483,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تخزنون بيانات بطاقتي؟"
+},
+{
+"id": 5484,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تخزنون بيانات بطاقتي؟"
+},
+{
+"id": 5485,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن الدفع بعملة مختلفة؟"
+},
+{
+"id": 5486,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن الدفع بعملة مختلفة؟"
+},
+{
+"id": 5487,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من يتحمل رسوم التحويل؟"
+},
+{
+"id": 5488,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تطبق وفق ما يظهر في صفحة الدفع أو شروط مزود الدفع."
+},
+{
+"id": 5489,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رسوم التحويل"
+},
+{
+"id": 5490,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن دفع جزء من المبلغ؟"
+},
+{
+"id": 5491,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن دفع جزء من المبلغ؟"
+},
+{
+"id": 5492,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعرف أن الدفع نجح؟"
+},
+{
+"id": 5493,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نجاح الدفع"
+},
+{
+"id": 5494,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعرف أن الدفع نجح؟"
+},
+{
+"id": 5495,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نجاح الدفع,طريقة"
+},
+{
+"id": 5496,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "متى تفتح المحادثة؟"
+},
+{
+"id": 5497,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تفتح بعد تأكيد الدفع أو تحقق شروط الطلب."
+},
+{
+"id": 5498,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أرسل رسالة؟"
+},
+{
+"id": 5499,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إرسال رسالة"
+},
+{
+"id": 5500,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أرسل رسالة؟"
+},
+{
+"id": 5501,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إرسال رسالة,طريقة"
+},
+{
+"id": 5502,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن إرسال مرفقات؟"
+},
+{
+"id": 5503,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن إرسال مرفقات؟"
+},
+{
+"id": 5504,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من يرى المحادثة؟"
+},
+{
+"id": 5505,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الأطراف المصرح لهم والإدارة عند الحاجة التشغيلية أو الأمنية."
+},
+{
+"id": 5506,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من يرى"
+},
+{
+"id": 5507,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن حذف الرسالة؟"
+},
+{
+"id": 5508,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن حذف الرسالة؟"
+},
+{
+"id": 5509,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا أستطيع الإرسال؟"
+},
+{
+"id": 5510,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا أستطيع الإرسال"
+},
+{
+"id": 5511,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا أستطيع الإرسال؟"
+},
+{
+"id": 5512,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا أستطيع الإرسال,سبب"
+},
+{
+"id": 5513,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما الفرق بين المباشرة والاستشارة؟"
+},
+{
+"id": 5514,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "محادثة الاستشارة مرتبطة بطلب، والمباشرة قد تبدأها الإدارة."
+},
+{
+"id": 5515,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مباشرة,استشارة"
+},
+{
+"id": 5516,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن مشاركة رقم الهاتف؟"
+},
+{
+"id": 5517,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن مشاركة رقم الهاتف؟"
+},
+{
+"id": 5518,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تصل الرسائل فورًا؟"
+},
+{
+"id": 5519,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تصل الرسائل فورًا؟"
+},
+{
+"id": 5520,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا يظهر المرفق؟"
+},
+{
+"id": 5521,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المرفق لا يظهر"
+},
+{
+"id": 5522,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا يظهر المرفق؟"
+},
+{
+"id": 5523,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المرفق لا يظهر,سبب"
+},
+{
+"id": 5524,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما أنواع الملفات المسموحة؟"
+},
+{
+"id": 5525,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تختلف حسب الصفحة وغالبًا PDF وJPG وJPEG وPNG وWEBP وقد تشمل"
+},
+{
+"id": 5526,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أنواع الملفات"
+},
+{
+"id": 5527,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما الحد الأقصى للحجم؟"
+},
+{
+"id": 5528,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يختلف حسب القسم ويظهر بجوار حقل الرفع."
+},
+{
+"id": 5529,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا رُفض الملف؟"
+},
+{
+"id": 5530,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض الملف"
+},
+{
+"id": 5531,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب رُفض الملف؟"
+},
+{
+"id": 5532,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض الملف,سبب"
+},
+{
+"id": 5533,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أصغر الملف؟"
+},
+{
+"id": 5534,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ضغط الملف"
+},
+{
+"id": 5535,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أصغر الملف؟"
+},
+{
+"id": 5536,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ضغط الملف,طريقة"
+},
+{
+"id": 5537,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل ملفاتي عامة؟"
+},
+{
+"id": 5538,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل ملفاتي عامة؟"
+},
+{
+"id": 5539,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ظهر 403 عند فتح ملف"
+},
+{
+"id": 5540,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الحساب غير مصرح له بالوصول."
+},
+{
+"id": 5541,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ظهر 404 عند فتح ملف"
+},
+{
+"id": 5542,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الملف أو الرابط غير موجود؛ افتحه من صفحة الطلب."
+},
+{
+"id": 5543,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يتم فحص الصور؟"
+},
+{
+"id": 5544,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يتم فحص الصور؟"
+},
+{
+"id": 5545,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن رفع ملف مضغوط"
+},
+{
+"id": 5546,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن رفع ملف مضغوط"
+},
+{
+"id": 5547,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن رفع"
+},
+{
+"id": 5548,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن رفع"
+},
+{
+"id": 5549,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن رفع أكثر من ملف؟"
+},
+{
+"id": 5550,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن رفع أكثر من ملف؟"
+},
+{
+"id": 5551,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أحمي بياناتي في المخطط؟"
+},
+{
+"id": 5552,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إخفاء البيانات"
+},
+{
+"id": 5553,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أحمي بياناتي في المخطط؟"
+},
+{
+"id": 5554,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إخفاء البيانات,طريقة"
+},
+{
+"id": 5555,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أقيم المهندس؟"
+},
+{
+"id": 5556,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أقيم المهندس؟"
+},
+{
+"id": 5557,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا يظهر زر التقييم؟"
+},
+{
+"id": 5558,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "زر التقييم"
+},
+{
+"id": 5559,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا يظهر زر التقييم؟"
+},
+{
+"id": 5560,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "زر التقييم,سبب"
+},
+{
+"id": 5561,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يظهر التقييم فورًا؟"
+},
+{
+"id": 5562,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يظهر التقييم فورًا؟"
+},
+{
+"id": 5563,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن حذف التقييم؟"
+},
+{
+"id": 5564,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن حذف التقييم؟"
+},
+{
+"id": 5565,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما التقييمات الممنوعة؟"
+},
+{
+"id": 5566,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الوهمية أو المدفوعة أو المسيئة أو التشهيرية."
+},
+{
+"id": 5567,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تقييم ممنوع"
+},
+{
+"id": 5568,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تعديل التقييم؟"
+},
+{
+"id": 5569,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تعديل التقييم؟"
+},
+{
+"id": 5570,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا رُفض تقييمي؟"
+},
+{
+"id": 5571,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض التقييم"
+},
+{
+"id": 5572,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب رُفض تقييمي؟"
+},
+{
+"id": 5573,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض التقييم,سبب"
+},
+{
+"id": 5574,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف يعمل البوت؟"
+},
+{
+"id": 5575,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عمل البوت"
+},
+{
+"id": 5576,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة يعمل البوت؟"
+},
+{
+"id": 5577,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عمل البوت,طريقة"
+},
+{
+"id": 5578,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل رد البوت نهائي؟"
+},
+{
+"id": 5579,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل رد البوت نهائي؟"
+},
+{
+"id": 5580,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أحول لموظف؟"
+},
+{
+"id": 5581,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أحول لموظف؟"
+},
+{
+"id": 5582,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحويل لموظف,طريقة"
+},
+{
+"id": 5583,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما معنى بانتظار موظف؟"
+},
+{
+"id": 5584,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ماذا تعني بانتظار موظف؟"
+},
+{
+"id": 5585,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "متى يظهر رد الموظف؟"
+},
+{
+"id": 5586,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يظهر تلقائيًا خلال ثوانٍ أو عند فتح المحادثة مجددًا."
+},
+{
+"id": 5587,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رد الموظف"
+},
+{
+"id": 5588,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن إغلاق التذكرة؟"
+},
+{
+"id": 5589,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن إغلاق التذكرة؟"
+},
+{
+"id": 5590,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أفتح تذكرة جديدة؟"
+},
+{
+"id": 5591,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أفتح تذكرة جديدة؟"
+},
+{
+"id": 5592,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تذكرة جديدة,طريقة"
+},
+{
+"id": 5593,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يرى الموظف رسائل البوت؟"
+},
+{
+"id": 5594,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يرى الموظف رسائل البوت؟"
+},
+{
+"id": 5595,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ماذا أرسل للدعم؟"
+},
+{
+"id": 5596,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رقم الطلب ووصف المشكلة ووقت الخطأ وصورة شاشة دون كلمة المرور."
+},
+{
+"id": 5597,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "بيانات الدعم"
+},
+{
+"id": 5598,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا يجد البوت جوابًا؟"
+},
+{
+"id": 5599,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا يجد جواب"
+},
+{
+"id": 5600,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا يجد البوت جوابًا؟"
+},
+{
+"id": 5601,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا يجد جواب,سبب"
+},
+{
+"id": 5602,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل أستطيع إرسال صورة؟"
+},
+{
+"id": 5603,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل أستطيع إرسال صورة؟"
+},
+{
+"id": 5604,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل الدعم متاح دائمًا؟"
+},
+{
+"id": 5605,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل الدعم متاح دائمًا؟"
+},
+{
+"id": 5606,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعرف رقم التذكرة؟"
+},
+{
+"id": 5607,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رقم التذكرة,"
+},
+{
+"id": 5608,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعرف رقم التذكرة؟"
+},
+{
+"id": 5609,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رقم التذكرة,SUP,طريقة"
+},
+{
+"id": 5610,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا أغلقت التذكرة؟"
+},
+{
+"id": 5611,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أغلقت التذكرة"
+},
+{
+"id": 5612,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب أغلقت التذكرة؟"
+},
+{
+"id": 5613,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أغلقت التذكرة,سبب"
+},
+{
+"id": 5614,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أين أجد الإشعارات؟"
+},
+{
+"id": 5615,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من أيقونة الجرس أو صفحة الإشعارات."
+},
+{
+"id": 5616,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الجرس"
+},
+{
+"id": 5617,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعلّم الكل كمقروء؟"
+},
+{
+"id": 5618,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قراءة الكل"
+},
+{
+"id": 5619,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعلّم الكل كمقروء؟"
+},
+{
+"id": 5620,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قراءة الكل,طريقة"
+},
+{
+"id": 5621,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا لا يصل البريد؟"
+},
+{
+"id": 5622,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "البريد لا يصل"
+},
+{
+"id": 5623,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب لا يصل البريد؟"
+},
+{
+"id": 5624,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "البريد لا يصل,سبب"
+},
+{
+"id": 5625,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن حذف إشعار؟"
+},
+{
+"id": 5626,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن حذف إشعار؟"
+},
+{
+"id": 5627,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لماذا يظهر عدد إشعارات غير صحيح؟"
+},
+{
+"id": 5628,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عدد الإشعارات"
+},
+{
+"id": 5629,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما سبب يظهر عدد إشعارات غير صحيح؟"
+},
+{
+"id": 5630,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عدد الإشعارات,سبب"
+},
+{
+"id": 5631,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أين سياسة الخصوصية؟"
+},
+{
+"id": 5632,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أين الشروط والأحكام؟"
+},
+{
+"id": 5633,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الشروط"
+},
+{
+"id": 5634,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما البيانات التي تجمعونها؟"
+},
+{
+"id": 5635,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "بيانات الحساب والاستشارات والملفات والمدفوعات والمحادثات والسجلات التقنية وفق السياسة."
+},
+{
+"id": 5636,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "جمع البيانات"
+},
+{
+"id": 5637,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل تبيعون بياناتي؟"
+},
+{
+"id": 5638,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل تبيعون بياناتي؟"
+},
+{
+"id": 5639,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أطلب نسخة من بياناتي؟"
+},
+{
+"id": 5640,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نسخة بياناتي"
+},
+{
+"id": 5641,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أطلب نسخة من بياناتي؟"
+},
+{
+"id": 5642,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نسخة بياناتي,طريقة"
+},
+{
+"id": 5643,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أطلب حذف بياناتي؟"
+},
+{
+"id": 5644,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حذف البيانات"
+},
+{
+"id": 5645,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أطلب حذف بياناتي؟"
+},
+{
+"id": 5646,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حذف البيانات,طريقة"
+},
+{
+"id": 5647,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما العقوبات؟"
+},
+{
+"id": 5648,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تنبيه أو إزالة محتوى أو تقييد أو تعليق أو إلغاء طلب أو حظر نهائي حسب الجسامة."
+},
+{
+"id": 5649,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "العقوبات"
+},
+{
+"id": 5650,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن حظري دون إنذار؟"
+},
+{
+"id": 5651,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن حظري دون إنذار؟"
+},
+{
+"id": 5652,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن الاعتراض؟"
+},
+{
+"id": 5653,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن الاعتراض؟"
+},
+{
+"id": 5654,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما القانون المطبق؟"
+},
+{
+"id": 5655,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تطبق القوانين المحلية في دولة المستخدم وموقع المشروع، مع الحقوق الإلزامية."
+},
+{
+"id": 5656,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "القانون المطبق"
+},
+{
+"id": 5657,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يحق للمنصة حذف المحتوى؟"
+},
+{
+"id": 5658,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يحق للمنصة حذف المحتوى؟"
+},
+{
+"id": 5659,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن تجميد دفعة؟"
+},
+{
+"id": 5660,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن تجميد دفعة؟"
+},
+{
+"id": 5661,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما المخالفات الجسيمة؟"
+},
+{
+"id": 5662,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الاختراق والاحتيال والتزوير وتسريب البيانات والابتزاز والمحتوى غير القانوني."
+},
+{
+"id": 5663,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مخالفة جسيمة"
+},
+{
+"id": 5664,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف تحمون الحساب؟"
+},
+{
+"id": 5665,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة تحمون الحساب؟"
+},
+{
+"id": 5666,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حماية الحساب,طريقة"
+},
+{
+"id": 5667,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "وصلتني رسالة تطلب كلمة المرور"
+},
+{
+"id": 5668,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا ترسلها وأبلغ الدعم."
+},
+{
+"id": 5669,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أبلغ عن ثغرة؟"
+},
+{
+"id": 5670,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ثغرة"
+},
+{
+"id": 5671,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أبلغ عن ثغرة؟"
+},
+{
+"id": 5672,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ثغرة,طريقة"
+},
+{
+"id": 5673,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يجوز اختبار الموقع؟"
+},
+{
+"id": 5674,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يجوز اختبار الموقع؟"
+},
+{
+"id": 5675,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "غيّر كلمة المرور وافتح بلاغًا أمنيًا."
+},
+{
+"id": 5676,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اختراق الحساب"
+},
+{
+"id": 5677,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل روابط الملفات آمنة؟"
+},
+{
+"id": 5678,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل روابط الملفات آمنة؟"
+},
+{
+"id": 5679,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أعرف الرسالة الرسمية؟"
+},
+{
+"id": 5680,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رسالة رسمية"
+},
+{
+"id": 5681,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أعرف الرسالة الرسمية؟"
+},
+{
+"id": 5682,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رسالة رسمية,طريقة"
+},
+{
+"id": 5683,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "هل يمكن حظر جهاز؟"
+},
+{
+"id": 5684,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أريد أن أعرف: هل يمكن حظر جهاز؟"
+},
+{
+"id": 5685,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حدّث الصفحة وتحقق من الإنترنت وامسح الكاش وجرب متصفحًا آخر."
+},
+{
+"id": 5686,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "انتهت جلسة الحماية؛ حدّث وسجل الدخول."
+},
+{
+"id": 5687,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا تملك الصلاحية."
+},
+{
+"id": 5688,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الصفحة أو السجل غير موجود."
+},
+{
+"id": 5689,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "بيانات الإدخال غير صالحة؛ راجع رسائل الحقول."
+},
+{
+"id": 5690,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "خطأ داخلي؛ أعد المحاولة ثم تواصل مع الدعم."
+},
+{
+"id": 5691,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "زر الإرسال لا يعمل"
+},
+{
+"id": 5692,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحقق من الحقول ثم حدّث الصفحة."
+},
+{
+"id": 5693,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "زر الإرسال"
+},
+{
+"id": 5694,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفع الملف يتوقف"
+},
+{
+"id": 5695,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحقق من الحجم والنوع والاتصال."
+},
+{
+"id": 5696,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الموقع يعمل على جهاز ولا يعمل على آخر"
+},
+{
+"id": 5697,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "امسح الكاش والكوكيز وجرب نافذة خاصة وعطل الإضافات."
+},
+{
+"id": 5698,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "جهاز آخر"
+},
+{
+"id": 5699,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "التحديث لا يظهر"
+},
+{
+"id": 5700,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "استخدم تحديثًا قويًا وامسح الكاش."
+},
+{
+"id": 5701,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الكاش"
+},
+{
+"id": 5702,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كيف أرسل خطأ للدعم؟"
+},
+{
+"id": 5703,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تفاصيل الخطأ"
+},
+{
+"id": 5704,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما طريقة أرسل خطأ للدعم؟"
+},
+{
+"id": 5705,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تفاصيل الخطأ,طريقة"
+},
+{
+"id": 5706,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حدّث الصفحة وتأكد من تسجيل الدخول ثم افحص Console إذا كنت مطورًا."
+},
+{
+"id": 5707,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الرسائل تتكرر"
+},
+{
+"id": 5708,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حدّث الصفحة وتأكد من استخدام آخر نسخة من واجهة البوت."
+},
+{
+"id": 5709,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تكرار الرسائل"
+},
+{
+"id": 5710,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "انتظر ثوانٍ أو أعد فتح المحادثة وتأكد أن التذكرة غير مغلقة."
+},
+{
+"id": 5711,
+"f": "database/migrations/2026_07_23_115152_add_payment_id_to_invoices_table.php",
+"ar": "منصة الوليد الهندسية"
+},
+{
+"id": 5712,
+"f": "database/migrations/2026_08_02_182856_set_all_consultation_prices_and_add_programming.php",
+"ar": "استشارة برمجية"
+},
+{
+"id": 5713,
+"f": "database/migrations/2026_08_12_140002_add_versioning_to_project_files_table.php",
+"ar": "تم إنشاء V1 تلقائيًا من الملف الموجود قبل تفعيل نظام الإصدارات."
+},
+{
+"id": 5714,
+"f": "database/migrations/2026_08_12_140002_add_versioning_to_project_files_table.php",
+"ar": "اعتماد سابق تم ترحيله تلقائيًا إلى نظام الإصدارات."
+},
+{
+"id": 5715,
+"f": "database/migrations/2026_08_12_140002_add_versioning_to_project_files_table.php",
+"ar": "اعتماد سابق تم ترحيله تلقائيًا."
+},
+{
+"id": 5716,
+"f": "database/migrations/2026_08_13_161500_repair_platform_feedback_and_migrate_legacy_feedback.php",
+"ar": "ملاحظة من النظام القديم"
+},
+{
+"id": 5717,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الميكانيكية"
+},
+{
+"id": 5718,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة المعمارية"
+},
+{
+"id": 5719,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة المدنية"
+},
+{
+"id": 5720,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الإنشائية"
+},
+{
+"id": 5721,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الكهربائية"
+},
+{
+"id": 5722,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الصناعية"
+},
+{
+"id": 5723,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الكيميائية"
+},
+{
+"id": 5724,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة البيئية"
+},
+{
+"id": 5725,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الطرق والمواصلات"
+},
+{
+"id": 5726,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة المساحة والجيوماتكس"
+},
+{
+"id": 5727,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة المياه والصرف الصحي"
+},
+{
+"id": 5728,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الري والهيدروليك"
+},
+{
+"id": 5729,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الجيوتقنية والأساسات"
+},
+{
+"id": 5730,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "إدارة المشاريع الهندسية"
+},
+{
+"id": 5731,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة التكاليف وحصر الكميات"
+},
+{
+"id": 5732,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "التخطيط الحضري والإقليمي"
+},
+{
+"id": 5733,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة المدن الذكية"
+},
+{
+"id": 5734,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الطاقة والطاقة المتجددة"
+}
+]

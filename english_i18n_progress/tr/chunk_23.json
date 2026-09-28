@@ -1,0 +1,1977 @@
+[
+{
+"id": 7874,
+"f": "views/crm/leads/edit.blade.php",
+"ar": "تعديل عميل محتمل - الإصدار الجبار الفاخر"
+},
+{
+"id": 7875,
+"f": "views/crm/leads/edit.blade.php",
+"ar": "حدّث بيانات العميل بدقة مع الحفاظ على سجل CRM الحالي."
+},
+{
+"id": 7876,
+"f": "views/crm/leads/index.blade.php",
+"ar": "إحالة"
+},
+{
+"id": 7877,
+"f": "views/crm/leads/index.blade.php",
+"ar": "إنستغرام"
+},
+{
+"id": 7878,
+"f": "views/crm/leads/index.blade.php",
+"ar": "لينكدإن"
+},
+{
+"id": 7879,
+"f": "views/crm/leads/index.blade.php",
+"ar": "زيارة مباشرة"
+},
+{
+"id": 7880,
+"f": "views/crm/leads/index.blade.php",
+"ar": "عميل سابق"
+},
+{
+"id": 7881,
+"f": "views/crm/leads/index.blade.php",
+"ar": "الخدمة المطلوبة"
+},
+{
+"id": 7882,
+"f": "views/crm/leads/index.blade.php",
+"ar": "الميزانية"
+},
+{
+"id": 7883,
+"f": "views/crm/leads/index.blade.php",
+"ar": "تم الفوز"
+},
+{
+"id": 7884,
+"f": "views/crm/leads/index.blade.php",
+"ar": "يتم عرض العملاء المحتملين المرتبطين بمكتبك فقط أو المعينين لك مباشرة."
+},
+{
+"id": 7885,
+"f": "views/crm/leads/index.blade.php",
+"ar": "تصفية وبحث"
+},
+{
+"id": 7886,
+"f": "views/crm/leads/index.blade.php",
+"ar": "بحث سريع"
+},
+{
+"id": 7887,
+"f": "views/crm/leads/index.blade.php",
+"ar": "الاسم، الهاتف، البريد، أو المعرف..."
+},
+{
+"id": 7888,
+"f": "views/crm/leads/index.blade.php",
+"ar": "معلومات الاتصال"
+},
+{
+"id": 7889,
+"f": "views/crm/leads/index.blade.php",
+"ar": "المكتب / التعيين"
+},
+{
+"id": 7890,
+"f": "views/crm/leads/index.blade.php",
+"ar": "منصة"
+},
+{
+"id": 7891,
+"f": "views/crm/leads/index.blade.php",
+"ar": "عميل محتمل"
+},
+{
+"id": 7892,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تأكيد التحويل"
+},
+{
+"id": 7893,
+"f": "views/crm/leads/show.blade.php",
+"ar": "اتصال"
+},
+{
+"id": 7894,
+"f": "views/crm/leads/show.blade.php",
+"ar": "الفرصة المرتبطة"
+},
+{
+"id": 7895,
+"f": "views/crm/leads/show.blade.php",
+"ar": "اختر النوع"
+},
+{
+"id": 7896,
+"f": "views/crm/leads/show.blade.php",
+"ar": "عنوان الاستشارة"
+},
+{
+"id": 7897,
+"f": "views/crm/leads/show.blade.php",
+"ar": "إضافة متابعة"
+},
+{
+"id": 7898,
+"f": "views/crm/leads/show.blade.php",
+"ar": "مرحلة التفاوض"
+},
+{
+"id": 7899,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تأهيل"
+},
+{
+"id": 7900,
+"f": "views/crm/leads/show.blade.php",
+"ar": "مقترح فني"
+},
+{
+"id": 7901,
+"f": "views/crm/leads/show.blade.php",
+"ar": "بريد إلكتروني"
+},
+{
+"id": 7902,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تغيير مرحلة"
+},
+{
+"id": 7903,
+"f": "views/crm/leads/show.blade.php",
+"ar": "آخر تواصل"
+},
+{
+"id": 7904,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لم يتم"
+},
+{
+"id": 7905,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تعديل الملاحظات"
+},
+{
+"id": 7906,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا توجد ملاحظات مسجلة لهذا العميل حتى الآن."
+},
+{
+"id": 7907,
+"f": "views/crm/leads/show.blade.php",
+"ar": "سبب الخسارة:"
+},
+{
+"id": 7908,
+"f": "views/crm/leads/show.blade.php",
+"ar": "الفرص المرتبطة"
+},
+{
+"id": 7909,
+"f": "views/crm/leads/show.blade.php",
+"ar": "متوقع:"
+},
+{
+"id": 7910,
+"f": "views/crm/leads/show.blade.php",
+"ar": "يحدد لاحقاً"
+},
+{
+"id": 7911,
+"f": "views/crm/leads/show.blade.php",
+"ar": "احتمالية"
+},
+{
+"id": 7912,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تعديل بيانات الفرصة"
+},
+{
+"id": 7913,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تحديث الفرصة"
+},
+{
+"id": 7914,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا توجد فرصة حتى الآن."
+},
+{
+"id": 7915,
+"f": "views/crm/leads/show.blade.php",
+"ar": "إضافة فرصة جديدة"
+},
+{
+"id": 7916,
+"f": "views/crm/leads/show.blade.php",
+"ar": "عنوان الفرصة"
+},
+{
+"id": 7917,
+"f": "views/crm/leads/show.blade.php",
+"ar": "حسب"
+},
+{
+"id": 7918,
+"f": "views/crm/leads/show.blade.php",
+"ar": "إنشاء الفرصة"
+},
+{
+"id": 7919,
+"f": "views/crm/leads/show.blade.php",
+"ar": "نوع النشاط"
+},
+{
+"id": 7920,
+"f": "views/crm/leads/show.blade.php",
+"ar": "أضف ملاحظة أو سجل اتصال..."
+},
+{
+"id": 7921,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تسجيل النشاط"
+},
+{
+"id": 7922,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تحويل إلى استشارة (مشروع)"
+},
+{
+"id": 7923,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تم تحويل هذا Lead إلى الاستشارة"
+},
+{
+"id": 7924,
+"f": "views/crm/leads/show.blade.php",
+"ar": "بعد الدفع تستمر على مسار الاستشارة"
+},
+{
+"id": 7925,
+"f": "views/crm/leads/show.blade.php",
+"ar": "فتح الدفع"
+},
+{
+"id": 7926,
+"f": "views/crm/leads/show.blade.php",
+"ar": "العميل جاهز للبدء؟ قم بتحويله إلى Consultation عادية حتى يدخل إلى مسار الدفع ثم المشروع والعقد بدون تجاوز دورة النظام."
+},
+{
+"id": 7927,
+"f": "views/crm/leads/show.blade.php",
+"ar": "اختر الحساب"
+},
+{
+"id": 7928,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا يوجد حساب عميل مطابق/مسموح. أنشئ أو اربط حساب العميل أولاً."
+},
+{
+"id": 7929,
+"f": "views/crm/leads/show.blade.php",
+"ar": "المهندس — اختياري"
+},
+{
+"id": 7930,
+"f": "views/crm/leads/show.blade.php",
+"ar": "يُحدد لاحقاً"
+},
+{
+"id": 7931,
+"f": "views/crm/leads/show.blade.php",
+"ar": "بدون فرصة"
+},
+{
+"id": 7932,
+"f": "views/crm/leads/show.blade.php",
+"ar": "المهام والمتابعات"
+},
+{
+"id": 7933,
+"f": "views/crm/leads/show.blade.php",
+"ar": "عنوان المتابعة"
+},
+{
+"id": 7934,
+"f": "views/crm/leads/show.blade.php",
+"ar": "تمت"
+},
+{
+"id": 7935,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا توجد متابعات."
+},
+{
+"id": 7936,
+"f": "views/crm/leads/show.blade.php",
+"ar": "نظرة"
+},
+{
+"id": 7937,
+"f": "views/crm/leads/show.blade.php",
+"ar": "للعميل"
+},
+{
+"id": 7938,
+"f": "views/crm/leads/show.blade.php",
+"ar": "الفرص المفتوحة"
+},
+{
+"id": 7939,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا توجد استشارات ضمن نطاقك."
+},
+{
+"id": 7940,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لا توجد مشاريع ضمن نطاقك."
+},
+{
+"id": 7941,
+"f": "views/crm/leads/show.blade.php",
+"ar": "يرى السجل الكامل؛ المكتب يرى فقط تعاملات العميل مع مكتبه."
+},
+{
+"id": 7942,
+"f": "views/crm/leads/show.blade.php",
+"ar": "لم يتم ربط Lead بحساب مستخدم بعد."
+},
+{
+"id": 7943,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "تم التحويل"
+},
+{
+"id": 7944,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "تصدير"
+},
+{
+"id": 7945,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "مؤهل"
+},
+{
+"id": 7946,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "تفاوض"
+},
+{
+"id": 7947,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "فوز"
+},
+{
+"id": 7948,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "القيمة المرجحة"
+},
+{
+"id": 7949,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "نشط حالياً"
+},
+{
+"id": 7950,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "الفرصة"
+},
+{
+"id": 7951,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "فرصة"
+},
+{
+"id": 7952,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "تقديم العرض"
+},
+{
+"id": 7953,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "بحث عام..."
+},
+{
+"id": 7954,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "الفرص البيعية"
+},
+{
+"id": 7955,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "الفرص المرتبطة بالـLeads التي يحق لك رؤيتها فقط."
+},
+{
+"id": 7956,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "فرصة جديدة"
+},
+{
+"id": 7957,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "إجمالي الفرص"
+},
+{
+"id": 7958,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "ضمن نطاق صلاحياتك"
+},
+{
+"id": 7959,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "قيمة المسار"
+},
+{
+"id": 7960,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "بناءً على احتمالية الإغلاق"
+},
+{
+"id": 7961,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "بحث في الفرص..."
+},
+{
+"id": 7962,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "المرحلة (الكل)"
+},
+{
+"id": 7963,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "العميل المحتمل"
+},
+{
+"id": 7964,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "الاحتمالية"
+},
+{
+"id": 7965,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "تاريخ الإغلاق المتوقع"
+},
+{
+"id": 7966,
+"f": "views/crm/opportunities/index.blade.php",
+"ar": "لا توجد فرص بيعية مطابقة للفلاتر الحالية."
+},
+{
+"id": 7967,
+"f": "views/crm/partials/flash.blade.php",
+"ar": "إغلاق رسالة النجاح"
+},
+{
+"id": 7968,
+"f": "views/crm/partials/flash.blade.php",
+"ar": "إغلاق رسالة الخطأ"
+},
+{
+"id": 7969,
+"f": "views/crm/partials/flash.blade.php",
+"ar": "إغلاق أخطاء التحقق"
+},
+{
+"id": 7970,
+"f": "views/crm/partials/nav.blade.php",
+"ar": "المتابعات"
+},
+{
+"id": 7971,
+"f": "views/crm/partials/nav.blade.php",
+"ar": "العملاء المحتملون"
+},
+{
+"id": 7972,
+"f": "views/crm/partials/nav.blade.php",
+"ar": "لوحة النظام"
+},
+{
+"id": 7973,
+"f": "views/crm/partials/nav.blade.php",
+"ar": "الفرص"
+},
+{
+"id": 7974,
+"f": "views/crm/partials/nav.blade.php",
+"ar": "بحث في العملاء المحتملين..."
+},
+{
+"id": 7975,
+"f": "views/crm/pipeline.blade.php",
+"ar": "خدمة غير محددة"
+},
+{
+"id": 7976,
+"f": "views/dashboard.blade.php",
+"ar": "الفريق"
+},
+{
+"id": 7977,
+"f": "views/dashboard.blade.php",
+"ar": "طلب استشارة"
+},
+{
+"id": 7978,
+"f": "views/dashboard.blade.php",
+"ar": "أعمال المهندسين"
+},
+{
+"id": 7979,
+"f": "views/dashboard.blade.php",
+"ar": "فقد الوصول للحسابات"
+},
+{
+"id": 7980,
+"f": "views/dashboard.blade.php",
+"ar": "مهندس نشط"
+},
+{
+"id": 7981,
+"f": "views/dashboard.blade.php",
+"ar": "تجديد اشتراك المهندس"
+},
+{
+"id": 7982,
+"f": "views/dashboard.blade.php",
+"ar": "مراجعة الدفعات"
+},
+{
+"id": 7983,
+"f": "views/dashboard.blade.php",
+"ar": "مهندس غير نشط"
+},
+{
+"id": 7984,
+"f": "views/dashboard.blade.php",
+"ar": "اسأل مساعد منصة الوليد الهندسية أو اطلب التحويل إلى موظف الدعم."
+},
+{
+"id": 7985,
+"f": "views/dashboard.blade.php",
+"ar": "رسوماتي ومراجعاتي"
+},
+{
+"id": 7986,
+"f": "views/dashboard.blade.php",
+"ar": "طلبات انضمامي"
+},
+{
+"id": 7987,
+"f": "views/dashboard.blade.php",
+"ar": "دليل المكاتب"
+},
+{
+"id": 7988,
+"f": "views/dashboard.blade.php",
+"ar": "مكاتب موثقة"
+},
+{
+"id": 7989,
+"f": "views/dashboard.blade.php",
+"ar": "مالية المشاريع"
+},
+{
+"id": 7990,
+"f": "views/dashboard.blade.php",
+"ar": "دفعات بانتظار المراجعة"
+},
+{
+"id": 7991,
+"f": "views/dashboard.blade.php",
+"ar": "دفعات المشاريع"
+},
+{
+"id": 7992,
+"f": "views/dashboard.blade.php",
+"ar": "لوحة الدعم الكاملة"
+},
+{
+"id": 7993,
+"f": "views/dashboard.blade.php",
+"ar": "يمكنك إدارة حسابك وطلباتك ومشاريعك من لوحة التحكم."
+},
+{
+"id": 7994,
+"f": "views/dashboard.blade.php",
+"ar": "اشتراك المهندس فعال حتى:"
+},
+{
+"id": 7995,
+"f": "views/dashboard.blade.php",
+"ar": "انتهت مدة اشتراك المهندس. يمكنك استخدام الموقع كعميل ورفع إيصال دفع جديد لإعادة جميع صلاحياتك."
+},
+{
+"id": 7996,
+"f": "views/dashboard.blade.php",
+"ar": "أرسل تفاصيل مشروعك واختر نوع الخدمة."
+},
+{
+"id": 7997,
+"f": "views/dashboard.blade.php",
+"ar": "تابع الدفع والحالة والملفات النهائية."
+},
+{
+"id": 7998,
+"f": "views/dashboard.blade.php",
+"ar": "تابع مشاريعك الكاملة وجدول الدفعات ومواعيد الاستحقاق."
+},
+{
+"id": 7999,
+"f": "views/dashboard.blade.php",
+"ar": "تصفح أعمال المهندسين النشطين وأرسل طلبك لمهندس محدد."
+},
+{
+"id": 8000,
+"f": "views/dashboard.blade.php",
+"ar": "طلب التوظيف كمهندس"
+},
+{
+"id": 8001,
+"f": "views/dashboard.blade.php",
+"ar": "ارفع إيصال دفع جديد لإعادة تفعيل جميع صلاحيات المهندس مع الاحتفاظ ببياناتك وأعمالك."
+},
+{
+"id": 8002,
+"f": "views/dashboard.blade.php",
+"ar": "ارفع الشهادة والسيرة الذاتية وإيصال الدفع لتقديم طلب الانضمام."
+},
+{
+"id": 8003,
+"f": "views/dashboard.blade.php",
+"ar": "انشر مشروعك واستقبل عروض أسعار سرية من المهندسين والمكاتب، ثم قارن العروض واختر الأنسب."
+},
+{
+"id": 8004,
+"f": "views/dashboard.blade.php",
+"ar": "افتح تذكرة دعم وتابع الرد مع موظف الدعم الفني."
+},
+{
+"id": 8005,
+"f": "views/dashboard.blade.php",
+"ar": "دفعات مشاريع مستحقة"
+},
+{
+"id": 8006,
+"f": "views/dashboard.blade.php",
+"ar": "حان موعد دفع إحدى دفعات مشاريعك."
+},
+{
+"id": 8007,
+"f": "views/dashboard.blade.php",
+"ar": "الاستشارات المسندة إلي"
+},
+{
+"id": 8008,
+"f": "views/dashboard.blade.php",
+"ar": "تابع طلبات العملاء وارفع الملف النهائي."
+},
+{
+"id": 8009,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة موقعي"
+},
+{
+"id": 8010,
+"f": "views/dashboard.blade.php",
+"ar": "وIR وNCR وPunch وSafety وفحص المواد وارفع الصور والمرفقات للمشاريع المسندة لك."
+},
+{
+"id": 8011,
+"f": "views/dashboard.blade.php",
+"ar": "ارفع PDF/DWG والصور، وتابع Versions والمراجعات وMarkup وCompare للمشاريع المسندة لك."
+},
+{
+"id": 8012,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع التي تعمل عليها كعضو ضمن فريق المشروع."
+},
+{
+"id": 8013,
+"f": "views/dashboard.blade.php",
+"ar": "أعمالي وإنجازاتي"
+},
+{
+"id": 8014,
+"f": "views/dashboard.blade.php",
+"ar": "تابع مشاريعك وصور الإنجازات السابقة."
+},
+{
+"id": 8015,
+"f": "views/dashboard.blade.php",
+"ar": "ارفع صور عمل جديد للمراجعة والنشر."
+},
+{
+"id": 8016,
+"f": "views/dashboard.blade.php",
+"ar": "اطلب استشارة من مهندس آخر."
+},
+{
+"id": 8017,
+"f": "views/dashboard.blade.php",
+"ar": "استشاراتي كعميل"
+},
+{
+"id": 8018,
+"f": "views/dashboard.blade.php",
+"ar": "تابع الاستشارات التي طلبتها من مهندسين آخرين."
+},
+{
+"id": 8019,
+"f": "views/dashboard.blade.php",
+"ar": "تصفح المكاتب وقدّم طلب انضمام إلى المكتب المناسب."
+},
+{
+"id": 8020,
+"f": "views/dashboard.blade.php",
+"ar": "تابع حالة طلبات الانضمام إلى المكاتب الهندسية."
+},
+{
+"id": 8021,
+"f": "views/dashboard.blade.php",
+"ar": "مكتبي الحالي"
+},
+{
+"id": 8022,
+"f": "views/dashboard.blade.php",
+"ar": "مالك"
+},
+{
+"id": 8023,
+"f": "views/dashboard.blade.php",
+"ar": "تصفح مشاريع العملاء المفتوحة وقدّم عرضك الفني والمالي ضمن منافسة سرية."
+},
+{
+"id": 8024,
+"f": "views/dashboard.blade.php",
+"ar": "تواصل مع موظف الدعم وتابع جميع تذاكرك."
+},
+{
+"id": 8025,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع الكاملة"
+},
+{
+"id": 8026,
+"f": "views/dashboard.blade.php",
+"ar": "طلبات المشاريع ومشاريعي"
+},
+{
+"id": 8027,
+"f": "views/dashboard.blade.php",
+"ar": "تابع طلبات تحويل الاستشارات إلى مشاريع، والعروض، وجدول الدفعات ونسبها ومواعيدها."
+},
+{
+"id": 8028,
+"f": "views/dashboard.blade.php",
+"ar": "راجع طلبات العملاء وأرسل نطاق العمل والسعر والمدة."
+},
+{
+"id": 8029,
+"f": "views/dashboard.blade.php",
+"ar": "مشاريعي ودفعاتها"
+},
+{
+"id": 8030,
+"f": "views/dashboard.blade.php",
+"ar": "حدّد نسب الدفعات ومواعيدها وتابع الإيصالات وحالة كل دفعة."
+},
+{
+"id": 8031,
+"f": "views/dashboard.blade.php",
+"ar": "الإدارة الرئيسية"
+},
+{
+"id": 8032,
+"f": "views/dashboard.blade.php",
+"ar": "وصول سريع إلى أهم مراكز الإدارة والمتابعة."
+},
+{
+"id": 8033,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة المهندسين"
+},
+{
+"id": 8034,
+"f": "views/dashboard.blade.php",
+"ar": "رقابة المحتوى"
+},
+{
+"id": 8035,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة اشتراكات المهندسين والمكاتب."
+},
+{
+"id": 8036,
+"f": "views/dashboard.blade.php",
+"ar": "اشتراكات المهندسين"
+},
+{
+"id": 8037,
+"f": "views/dashboard.blade.php",
+"ar": "الانضمام، التجديد وفترات التفعيل."
+},
+{
+"id": 8038,
+"f": "views/dashboard.blade.php",
+"ar": "مراجعة الإيصالات والتفعيل والتجديد."
+},
+{
+"id": 8039,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة التوثيق الاحترافي"
+},
+{
+"id": 8040,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة الطلبات"
+},
+{
+"id": 8041,
+"f": "views/dashboard.blade.php",
+"ar": "الإعدادات الكاملة"
+},
+{
+"id": 8042,
+"f": "views/dashboard.blade.php",
+"ar": "مهندسون موثقون"
+},
+{
+"id": 8043,
+"f": "views/dashboard.blade.php",
+"ar": "أسعار وشروط التوثيق"
+},
+{
+"id": 8044,
+"f": "views/dashboard.blade.php",
+"ar": "السعر المحفوظ هنا هو السعر الفعلي عند إنشاء الاشتراك."
+},
+{
+"id": 8045,
+"f": "views/dashboard.blade.php",
+"ar": "توثيق المهندس / شهر"
+},
+{
+"id": 8046,
+"f": "views/dashboard.blade.php",
+"ar": "توثيق المكتب / شهر"
+},
+{
+"id": 8047,
+"f": "views/dashboard.blade.php",
+"ar": "التقييم من"
+},
+{
+"id": 8048,
+"f": "views/dashboard.blade.php",
+"ar": "التقييم إلى"
+},
+{
+"id": 8049,
+"f": "views/dashboard.blade.php",
+"ar": "أقل أعمال"
+},
+{
+"id": 8050,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع المنشورة، عروض الأسعار، الترسية والتحويل إلى مشروع رسمي."
+},
+{
+"id": 8051,
+"f": "views/dashboard.blade.php",
+"ar": "مراجعة الطلبات الجديدة ومتابعة انتقالها إلى التنفيذ."
+},
+{
+"id": 8052,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع الفعلية"
+},
+{
+"id": 8053,
+"f": "views/dashboard.blade.php",
+"ar": "المتابعة التشغيلية، الفرق، الملفات والمراحل."
+},
+{
+"id": 8054,
+"f": "views/dashboard.blade.php",
+"ar": "استعراض السوق"
+},
+{
+"id": 8055,
+"f": "views/dashboard.blade.php",
+"ar": "الإدارة المتقدمة"
+},
+{
+"id": 8056,
+"f": "views/dashboard.blade.php",
+"ar": "الطلبات، المكاتب المسجلة، الاشتراكات والمالية."
+},
+{
+"id": 8057,
+"f": "views/dashboard.blade.php",
+"ar": "المستخدمون والمهندسون"
+},
+{
+"id": 8058,
+"f": "views/dashboard.blade.php",
+"ar": "الحسابات والأدوار وأعمال المهندسين ونسب الاستشارات."
+},
+{
+"id": 8059,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع والرقابة المالية"
+},
+{
+"id": 8060,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع الكاملة والتقارير المالية ومتابعة الأداء."
+},
+{
+"id": 8061,
+"f": "views/dashboard.blade.php",
+"ar": "طلبات الطعن"
+},
+{
+"id": 8062,
+"f": "views/dashboard.blade.php",
+"ar": "مراجعة الأعمال"
+},
+{
+"id": 8063,
+"f": "views/dashboard.blade.php",
+"ar": "مركز المشاريع"
+},
+{
+"id": 8064,
+"f": "views/dashboard.blade.php",
+"ar": "لوحة المدير المالي"
+},
+{
+"id": 8065,
+"f": "views/dashboard.blade.php",
+"ar": "مراجعة الدفعات، متابعة مستحقات المهندسين وحصة المنصة."
+},
+{
+"id": 8066,
+"f": "views/dashboard.blade.php",
+"ar": "الدفعات المكتملة"
+},
+{
+"id": 8067,
+"f": "views/dashboard.blade.php",
+"ar": "إجمالي مستحق المهندسين"
+},
+{
+"id": 8068,
+"f": "views/dashboard.blade.php",
+"ar": "متبقي للمهندسين"
+},
+{
+"id": 8069,
+"f": "views/dashboard.blade.php",
+"ar": "قبول أو رفض إيصالات دفع الاستشارات."
+},
+{
+"id": 8070,
+"f": "views/dashboard.blade.php",
+"ar": "مالية المهندسين"
+},
+{
+"id": 8071,
+"f": "views/dashboard.blade.php",
+"ar": "إدارة نسب ومستحقات المهندسين في الاستشارات المباشرة ومتابعة المدفوع والمتبقي وحصة المنصة."
+},
+{
+"id": 8072,
+"f": "views/dashboard.blade.php",
+"ar": "متابعة مستحقات المكاتب للاستشارات والمشاريع والمدفوع والمتبقي وحصة المنصة."
+},
+{
+"id": 8073,
+"f": "views/dashboard.blade.php",
+"ar": "الإيرادات والمصروفات وصافي الربح وربحية المشاريع والتقارير الشهرية."
+},
+{
+"id": 8074,
+"f": "views/dashboard.blade.php",
+"ar": "الإشعارات المالية"
+},
+{
+"id": 8075,
+"f": "views/dashboard.blade.php",
+"ar": "تابع إشعارات إيصالات الدفع والعمليات المالية الجديدة."
+},
+{
+"id": 8076,
+"f": "views/dashboard.blade.php",
+"ar": "فتح تذكرة دعم أو متابعة تذاكرك."
+},
+{
+"id": 8077,
+"f": "views/dashboard.blade.php",
+"ar": "المشاريع ودفعات المشاريع"
+},
+{
+"id": 8078,
+"f": "views/dashboard.blade.php",
+"ar": "هذه الدفعات منفصلة عن دفعات الاستشارات، وتشمل النسب والمواعيد والإيصالات."
+},
+{
+"id": 8079,
+"f": "views/dashboard.blade.php",
+"ar": "متابعة الطلبات والعروض قبل إنشاء المشروع رسميًا."
+},
+{
+"id": 8080,
+"f": "views/dashboard.blade.php",
+"ar": "راجع الإيصالات والمواعيد والمتأخرات وعمولات المشاريع من الصفحة المالية."
+},
+{
+"id": 8081,
+"f": "views/dashboard.blade.php",
+"ar": "متابعة الاستشارات والطلبات حسب صلاحياتك."
+},
+{
+"id": 8082,
+"f": "views/dashboard.blade.php",
+"ar": "فتح تذكرة دعم أو متابعة التذاكر المسندة إليك."
+},
+{
+"id": 8083,
+"f": "views/dashboard.blade.php",
+"ar": "عالج فقد البريد الأساسي أو كلمة المرور أو التحقق بخطوتين، وراجع إثبات الهوية قبل إعادة الوصول للحساب."
+},
+{
+"id": 8084,
+"f": "views/dashboard.blade.php",
+"ar": "اسأل مساعد منصة الوليد الهندسية أو استكمل محادثة الدعم."
+},
+{
+"id": 8085,
+"f": "views/dashboard.blade.php",
+"ar": "لوحة موظف الدعم الفني"
+},
+{
+"id": 8086,
+"f": "views/dashboard.blade.php",
+"ar": "تابع التذاكر المسندة إليك، وافتح المحادثات، ورد على المستخدمين، وحدّث حالة كل تذكرة."
+},
+{
+"id": 8087,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "مراجعة جميع الاستشارات وتعيين المهندسين وتغيير الحالة."
+},
+{
+"id": 8088,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "فحص إيصالات الدفع وقبول أو رفض طلبات الدفع."
+},
+{
+"id": 8089,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "إدارة العملاء والمهندسين والموظفين وحالات الحسابات."
+},
+{
+"id": 8090,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "مراجعة مشاريع المهندسين وقبولها أو رفضها."
+},
+{
+"id": 8091,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "حالة الاستشارات"
+},
+{
+"id": 8092,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "توزيع الاستشارات حسب الحالة الحالية"
+},
+{
+"id": 8093,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "توزيع الحسابات حسب الدور"
+},
+{
+"id": 8094,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "فتح إدارة المستخدمين"
+},
+{
+"id": 8095,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "آخر الاستشارات المضافة إلى النظام"
+},
+{
+"id": 8096,
+"f": "views/dashboard/partials/admin.blade.php",
+"ar": "لا توجد استشارات مسجلة حتى الآن."
+},
+{
+"id": 8097,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "متابعة مشاريعي"
+},
+{
+"id": 8098,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "إدارة مكتب"
+},
+{
+"id": 8099,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "من مكان واحد: المشاريع، الموقع، الرسومات والمراجعات، المالية والأعضاء."
+},
+{
+"id": 8100,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "فتح لوحة المكتب"
+},
+{
+"id": 8101,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "مراكز لوحة المكتب"
+},
+{
+"id": 8102,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "ملخص تشغيلي سريع للمشاريع وCRM والمالية."
+},
+{
+"id": 8103,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "مراكز الإدارة المتقدمة"
+},
+{
+"id": 8104,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "أهم المراحل التشغيلية والمالية داخل بطاقات مختصرة. التفاصيل الكاملة تبقى داخل صفحة كل مرحلة."
+},
+{
+"id": 8105,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "مركز التحكم التنفيذي للمشاريع"
+},
+{
+"id": 8106,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "الرقابة المالية للمشاريع"
+},
+{
+"id": 8107,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "مركز عمل المهندس"
+},
+{
+"id": 8108,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "مركز عمليات المشاريع"
+},
+{
+"id": 8109,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "العقود، التشغيل، RFI، الاجتماعات، Gantt وBOQ حسب صلاحياتك."
+},
+{
+"id": 8110,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "فتح المشاريع"
+},
+{
+"id": 8111,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "عقود قيد التوقيع"
+},
+{
+"id": 8112,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "فتح مركز المشاريع"
+},
+{
+"id": 8113,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "إدارة العملاء والفرص"
+},
+{
+"id": 8114,
+"f": "views/dashboard/partials/advanced-management-centers.blade.php",
+"ar": "والمتابعات اليومية."
+},
+{
+"id": 8115,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "أهلًا بك"
+},
+{
+"id": 8116,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "يمكنك إنشاء استشارة ومتابعة الدفع والتنفيذ من مكان واحد."
+},
+{
+"id": 8117,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "جميع استشاراتي"
+},
+{
+"id": 8118,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "اختر النوع وارفع ملفات المشروع وأرسل الطلب."
+},
+{
+"id": 8119,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "متابعة الاستشارات"
+},
+{
+"id": 8120,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "متابعة حالة الدفع والمهندس والتنفيذ والملفات."
+},
+{
+"id": 8121,
+"f": "views/dashboard/partials/customer.blade.php",
+"ar": "أحدث استشاراتي"
+},
+{
+"id": 8122,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "بانتظار التعيين"
+},
+{
+"id": 8123,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "دفعات للمراجعة"
+},
+{
+"id": 8124,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "المهندسون النشطون"
+},
+{
+"id": 8125,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "متابعة الطلبات وتحديث حالاتها وتعيين المهندس."
+},
+{
+"id": 8126,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "مراجعة إيصالات العملاء ومتابعة حالة الدفع."
+},
+{
+"id": 8127,
+"f": "views/dashboard/partials/employee.blade.php",
+"ar": "متابعة آخر أحداث النظام والطلبات الجديدة."
+},
+{
+"id": 8128,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "الاستشارات المسندة"
+},
+{
+"id": 8129,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "لديك"
+},
+{
+"id": 8130,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "إشعارات غير مقروءة."
+},
+{
+"id": 8131,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "الاستشارات المكتملة"
+},
+{
+"id": 8132,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "أعمالي المعتمدة"
+},
+{
+"id": 8133,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "متابعة الطلبات والتواصل مع العملاء ورفع النتائج النهائية."
+},
+{
+"id": 8134,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "معرض أعمالي"
+},
+{
+"id": 8135,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "إضافة الأعمال الهندسية ومتابعة قبولها من الإدارة."
+},
+{
+"id": 8136,
+"f": "views/dashboard/partials/engineer.blade.php",
+"ar": "أحدث الاستشارات المسندة إليّ"
+},
+{
+"id": 8137,
+"f": "views/dashboard/partials/stage11-finance.blade.php",
+"ar": "فتح المالية"
+},
+{
+"id": 8138,
+"f": "views/dashboard/partials/stage11-finance.blade.php",
+"ar": "المصروفات، الاعتمادات، الموردون وميزانيات المشاريع حسب صلاحياتك."
+},
+{
+"id": 8139,
+"f": "views/dashboard/partials/stage11-finance.blade.php",
+"ar": "المدفوع"
+},
+{
+"id": 8140,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "منظومة الدعم الفني المتكاملة"
+},
+{
+"id": 8141,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "التذاكر، ملف العميل والتوثيق، بوابة المتابعة برقم التذكرة والبريد، قاعدة المعرفة المرتبطة بالـAI، المناوبات، تقييمات العملاء، تقارير الأداء، التصعيد وSLA من مكان واحد."
+},
+{
+"id": 8142,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "لوحة التذاكر"
+},
+{
+"id": 8143,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "أنت خارج وقت المناوبة الآن"
+},
+{
+"id": 8144,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "التذاكر والمحادثات"
+},
+{
+"id": 8145,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "استلام التذكرة، الرد، القوالب، المرفقات، الملاحظات الداخلية، الإغلاق والتقييم."
+},
+{
+"id": 8146,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "تذكرة مفتوحة"
+},
+{
+"id": 8147,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "ملف العميل والتحقق"
+},
+{
+"id": 8148,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "من داخل أي تذكرة افتح ملف العميل: KYC، حالة الحساب، البريد، 2FA، باقة AI، المدفوعات والمشاريع."
+},
+{
+"id": 8149,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "بدون كشف كلمات مرور أو OTP أو الهوية الكاملة"
+},
+{
+"id": 8150,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "بوابة متابعة التذكرة"
+},
+{
+"id": 8151,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "العميل يكمل المحادثة باستخدام البريد الإلكتروني"
+},
+{
+"id": 8152,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "رقم التذكرة حتى بدون تسجيل الدخول."
+},
+{
+"id": 8153,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "فتح بوابة العميل"
+},
+{
+"id": 8154,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "أضف وعدّل إجابات الدعم المعتمدة وحدد ما يظهر للعميل وما يستخدمه المساعد الذكي."
+},
+{
+"id": 8155,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "مقالة"
+},
+{
+"id": 8156,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "راجع الإجابات المعتمدة والكلمات المفتاحية قبل الرد على العميل."
+},
+{
+"id": 8157,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "مقالة متاحة"
+},
+{
+"id": 8158,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "للعملاء"
+},
+{
+"id": 8159,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "شاهد نفس قاعدة الأسئلة العامة التي يراها العميل وتأكد من وضوح الإجابات."
+},
+{
+"id": 8160,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "عرض مركز المساعدة"
+},
+{
+"id": 8161,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "تحديد أيام وساعات العمل والمنطقة الزمنية ومعرفة من هو على المناوبة الآن."
+},
+{
+"id": 8162,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "مناوباتي"
+},
+{
+"id": 8163,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "اعرف ساعات عملك وحالتك الحالية ضمن فريق الدعم."
+},
+{
+"id": 8164,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "تقارير الأداء والتقييمات"
+},
+{
+"id": 8165,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "متوسط أول رد، وقت الحل، عدد التذاكر والردود وتقييم العملاء لكل موظف."
+},
+{
+"id": 8166,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "أدائي وتقييماتي"
+},
+{
+"id": 8167,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "راجع سرعتك في الرد والحل، عدد الردود، ومتوسط تقييمات العملاء."
+},
+{
+"id": 8168,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "التصعيد و"
+},
+{
+"id": 8169,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "راجع التذاكر العاجلة والمصعّدة والمتأخرة عن زمن الاستجابة المطلوب."
+},
+{
+"id": 8170,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "مصعّدة"
+},
+{
+"id": 8171,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "التذاكر العاجلة"
+},
+{
+"id": 8172,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "ابدأ بالأولوية الأعلى وتابع التصعيد والملاحظات داخل التذكرة."
+},
+{
+"id": 8173,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "إعدادات الدعم"
+},
+{
+"id": 8174,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "تعيين موظف الدعم الأساسي ونقل التذاكر المفتوحة عند تغيير المسؤول."
+},
+{
+"id": 8175,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "فقد الوصول للحساب"
+},
+{
+"id": 8176,
+"f": "views/dashboard/partials/support-suite-center.blade.php",
+"ar": "مراجعة إثبات الهوية واستعادة الوصول عند فقد البريد أو كلمة المرور أو"
+},
+{
+"id": 8177,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "ملخص محفظتي"
+},
+{
+"id": 8178,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "الرصيد المتاح حسب العملة"
+},
+{
+"id": 8179,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "تفاصيل المحفظة"
+},
+{
+"id": 8180,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "الرصيد غير متاح حاليًا؛ يرجى التأكد من إعداد المحفظة."
+},
+{
+"id": 8181,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "شحن"
+},
+{
+"id": 8182,
+"f": "views/dashboard/partials/wallet-summary.blade.php",
+"ar": "يُضاف الرصيد بعد اعتماد المدير المالي أو مدير المنصة فقط."
+},
+{
+"id": 8183,
+"f": "views/disputes/index.blade.php",
+"ar": "فتح بواسطة"
+},
+{
+"id": 8184,
+"f": "views/disputes/index.blade.php",
+"ar": "سبب النزاع"
+},
+{
+"id": 8185,
+"f": "views/disputes/index.blade.php",
+"ar": "المبلغ المتنازع عليه"
+},
+{
+"id": 8186,
+"f": "views/disputes/index.blade.php",
+"ar": "السابق"
+},
+{
+"id": 8187,
+"f": "views/disputes/index.blade.php",
+"ar": "استرداد قيد التنفيذ"
+},
+{
+"id": 8188,
+"f": "views/disputes/index.blade.php",
+"ar": "مغلق / مرفوض"
+},
+{
+"id": 8189,
+"f": "views/disputes/index.blade.php",
+"ar": "بوابة إدارة التحكيم والنزاعات"
+},
+{
+"id": 8190,
+"f": "views/disputes/index.blade.php",
+"ar": "حساب موثّق"
+},
+{
+"id": 8191,
+"f": "views/disputes/index.blade.php",
+"ar": "حساب غير موثّق"
+},
+{
+"id": 8192,
+"f": "views/disputes/index.blade.php",
+"ar": "بروتوكول حماية الحقوق التلقائي"
+},
+{
+"id": 8193,
+"f": "views/disputes/index.blade.php",
+"ar": "مركز فضّ النزاعات وحماية الضمان"
+},
+{
+"id": 8194,
+"f": "views/disputes/index.blade.php",
+"ar": "المرتبطة تلقائيًا لضمان حقوق الأطراف حتى صدور القرار النهائي."
+},
+{
+"id": 8195,
+"f": "views/disputes/index.blade.php",
+"ar": "إجمالي النزاعات"
+},
+{
+"id": 8196,
+"f": "views/disputes/index.blade.php",
+"ar": "الأموال محل النزاع"
+},
+{
+"id": 8197,
+"f": "views/disputes/index.blade.php",
+"ar": "حجز وقائي آمن"
+},
+{
+"id": 8198,
+"f": "views/disputes/index.blade.php",
+"ar": "نسبة الحل"
+},
+{
+"id": 8199,
+"f": "views/disputes/index.blade.php",
+"ar": "من إجمالي النزاعات"
+},
+{
+"id": 8200,
+"f": "views/disputes/index.blade.php",
+"ar": "تنبيه تنظيمي:"
+},
+{
+"id": 8201,
+"f": "views/disputes/index.blade.php",
+"ar": "المرتبط تلقائيًا حتى صدور قرار الإدارة."
+},
+{
+"id": 8202,
+"f": "views/disputes/index.blade.php",
+"ar": "إجراء رسمي"
+},
+{
+"id": 8203,
+"f": "views/disputes/index.blade.php",
+"ar": "نوع الخدمة المرتبطة"
+},
+{
+"id": 8204,
+"f": "views/disputes/index.blade.php",
+"ar": "سبب النزاع القانوني / التعاقدي"
+},
+{
+"id": 8205,
+"f": "views/disputes/index.blade.php",
+"ar": "تصنيف دقيق"
+},
+{
+"id": 8206,
+"f": "views/disputes/index.blade.php",
+"ar": "عدم تسليم الخدمة نهائياً"
+},
+{
+"id": 8207,
+"f": "views/disputes/index.blade.php",
+"ar": "جودة العمل لا تطابق المواصفات"
+},
+{
+"id": 8208,
+"f": "views/disputes/index.blade.php",
+"ar": "خلاف مالي أو احتجاز مبالغ"
+},
+{
+"id": 8209,
+"f": "views/disputes/index.blade.php",
+"ar": "انقطاع التواصل وعدم التجاوب"
+},
+{
+"id": 8210,
+"f": "views/disputes/index.blade.php",
+"ar": "سبب آخر"
+},
+{
+"id": 8211,
+"f": "views/disputes/index.blade.php",
+"ar": "المبلغ محل النزاع"
+},
+{
+"id": 8212,
+"f": "views/disputes/index.blade.php",
+"ar": "عنوان النزاع المختصر"
+},
+{
+"id": 8213,
+"f": "views/disputes/index.blade.php",
+"ar": "حد أقصى 190 حرف"
+},
+{
+"id": 8214,
+"f": "views/disputes/index.blade.php",
+"ar": "مثال: الخدمة لم تُسلّم حسب الاتفاق"
+},
+{
+"id": 8215,
+"f": "views/disputes/index.blade.php",
+"ar": "تفاصيل المشكلة والوقائع التعاقدية"
+},
+{
+"id": 8216,
+"f": "views/disputes/index.blade.php",
+"ar": "وضح التواريخ والمراسلات المهمة"
+},
+{
+"id": 8217,
+"f": "views/disputes/index.blade.php",
+"ar": "اشرح بالتفصيل أسباب طلب المراجعة وما تم الاتفاق عليه..."
+},
+{
+"id": 8218,
+"f": "views/disputes/index.blade.php",
+"ar": "بعد فتح النزاع يتم تجميد المستحق المرتبط تلقائيًا حتى معالجة الحالة."
+},
+{
+"id": 8219,
+"f": "views/disputes/index.blade.php",
+"ar": "فتح النزاع وحجز المستحق الآن"
+},
+{
+"id": 8220,
+"f": "views/disputes/index.blade.php",
+"ar": "مراحل سير النزاع والتحكيم"
+},
+{
+"id": 8221,
+"f": "views/disputes/index.blade.php",
+"ar": "إجراءات واضحة ومحمية داخل المنصة"
+},
+{
+"id": 8222,
+"f": "views/disputes/index.blade.php",
+"ar": "تجميد المبالغ المالية"
+},
+{
+"id": 8223,
+"f": "views/disputes/index.blade.php",
+"ar": "فور فتح النزاع يتم وضع حجز على المستحقات المرتبطة ولا يمكن صرفها أثناء النزاع."
+},
+{
+"id": 8224,
+"f": "views/disputes/index.blade.php",
+"ar": "الرد وتقديم التوضيحات"
+},
+{
+"id": 8225,
+"f": "views/disputes/index.blade.php",
+"ar": "تُجمع الرسائل والمعلومات المرتبطة بالحالة داخل سجل النزاع للمراجعة."
+},
+{
+"id": 8226,
+"f": "views/disputes/index.blade.php",
+"ar": "قرار إدارة المنصة"
+},
+{
+"id": 8227,
+"f": "views/disputes/index.blade.php",
+"ar": "تراجع الإدارة تفاصيل الحالة والمحادثات ثم تحدد الإجراء المالي المناسب حسب الصلاحيات."
+},
+{
+"id": 8228,
+"f": "views/disputes/index.blade.php",
+"ar": "مركز الدعم والمساعدة"
+},
+{
+"id": 8229,
+"f": "views/disputes/index.blade.php",
+"ar": "عند وجود مشكلة إضافية يمكنك التواصل مع الدعم من خلال نظام الدعم الموجود في المنصة."
+},
+{
+"id": 8230,
+"f": "views/disputes/index.blade.php",
+"ar": "سجل النزاعات وقضايا التحكيم"
+},
+{
+"id": 8231,
+"f": "views/disputes/index.blade.php",
+"ar": "متابعة الشكاوى والمطالبات المالية والإدارية حسب صلاحية حسابك"
+},
+{
+"id": 8232,
+"f": "views/disputes/index.blade.php",
+"ar": "الخدمة / المشروع"
+},
+{
+"id": 8233,
+"f": "views/disputes/index.blade.php",
+"ar": "حالة الملف"
+},
+{
+"id": 8234,
+"f": "views/disputes/index.blade.php",
+"ar": "تاريخ الفتح"
+},
+{
+"id": 8235,
+"f": "views/disputes/index.blade.php",
+"ar": "خدمة غير متاحة"
+},
+{
+"id": 8236,
+"f": "views/disputes/index.blade.php",
+"ar": "لا توجد نزاعات ضمن هذا التصنيف."
+},
+{
+"id": 8237,
+"f": "views/disputes/index.blade.php",
+"ar": "لا توجد خدمات متاحة"
+},
+{
+"id": 8238,
+"f": "views/disputes/show.blade.php",
+"ar": "ساعة"
+},
+{
+"id": 8239,
+"f": "views/disputes/show.blade.php",
+"ar": "بانتظار معلومات إضافية"
+},
+{
+"id": 8240,
+"f": "views/disputes/show.blade.php",
+"ar": "تم الحل وإتاحة الصرف"
+},
+{
+"id": 8241,
+"f": "views/disputes/show.blade.php",
+"ar": "تم رفض النزاع"
+},
+{
+"id": 8242,
+"f": "views/disputes/show.blade.php",
+"ar": "خدمة مرتبطة"
+},
+{
+"id": 8243,
+"f": "views/disputes/show.blade.php",
+"ar": "الدعم / المراجعة"
+},
+{
+"id": 8244,
+"f": "views/disputes/show.blade.php",
+"ar": "العودة إلى مركز النزاعات"
+},
+{
+"id": 8245,
+"f": "views/disputes/show.blade.php",
+"ar": "تاريخ الفتح:"
+},
+{
+"id": 8246,
+"f": "views/disputes/show.blade.php",
+"ar": "الخدمة المرتبطة:"
+},
+{
+"id": 8247,
+"f": "views/disputes/show.blade.php",
+"ar": "مستحقات مجمدة وقائياً"
+},
+{
+"id": 8248,
+"f": "views/disputes/show.blade.php",
+"ar": "حالة المبلغ بعد القرار"
+},
+{
+"id": 8249,
+"f": "views/disputes/show.blade.php",
+"ar": "تم تفعيل بروتوكول حماية الضمان"
+},
+{
+"id": 8250,
+"f": "views/disputes/show.blade.php",
+"ar": "تم حجز المستحقات المرتبطة بالنزاع تلقائيًا، ولا يمكن صرفها حتى يتم التوصل لاتفاق أو صدور قرار إداري معتمد."
+},
+{
+"id": 8251,
+"f": "views/disputes/show.blade.php",
+"ar": "مهلة التفاوض المتبقية:"
+},
+{
+"id": 8252,
+"f": "views/disputes/show.blade.php",
+"ar": "بيانات ومحددات النزاع"
+},
+{
+"id": 8253,
+"f": "views/disputes/show.blade.php",
+"ar": "وثيقة نزاع"
+},
+{
+"id": 8254,
+"f": "views/disputes/show.blade.php",
+"ar": "الحالة الراهنة"
+},
+{
+"id": 8255,
+"f": "views/disputes/show.blade.php",
+"ar": "المراجع المكلف"
+},
+{
+"id": 8256,
+"f": "views/disputes/show.blade.php",
+"ar": "الخدمة"
+},
+{
+"id": 8257,
+"f": "views/disputes/show.blade.php",
+"ar": "تفاصيل المشكلة والوقائع التعاقدية المرفوعة:"
+},
+{
+"id": 8258,
+"f": "views/disputes/show.blade.php",
+"ar": "الاسترداد والتسويات المالية المرتبطة"
+},
+{
+"id": 8259,
+"f": "views/disputes/show.blade.php",
+"ar": "تسوية"
+},
+{
+"id": 8260,
+"f": "views/disputes/show.blade.php",
+"ar": "تسوية مالية مرتبطة بهذا النزاع"
+},
+{
+"id": 8261,
+"f": "views/disputes/show.blade.php",
+"ar": "سجل المراسلات وجلسات التحقيق"
+},
+{
+"id": 8262,
+"f": "views/disputes/show.blade.php",
+"ar": "سجل تدقيق كامل ومؤرخ لكافة الردود والملاحظات المرتبطة بالنزاع"
+},
+{
+"id": 8263,
+"f": "views/disputes/show.blade.php",
+"ar": "رسائل مسجلة"
+},
+{
+"id": 8264,
+"f": "views/disputes/show.blade.php",
+"ar": "طرف النزاع"
+},
+{
+"id": 8265,
+"f": "views/disputes/show.blade.php",
+"ar": "ملاحظة داخلية للمشرفين فقط"
+},
+{
+"id": 8266,
+"f": "views/disputes/show.blade.php",
+"ar": "لا توجد رسائل في سجل النزاع حتى الآن."
+},
+{
+"id": 8267,
+"f": "views/disputes/show.blade.php",
+"ar": "اكتب ردك أو التوضيح الرسمي هنا... (سيتم إدراجه في سجل النزاع الموثق)"
+},
+{
+"id": 8268,
+"f": "views/disputes/show.blade.php",
+"ar": "ملاحظة داخلية سرية (لا تظهر لأطراف النزاع)"
+}
+]

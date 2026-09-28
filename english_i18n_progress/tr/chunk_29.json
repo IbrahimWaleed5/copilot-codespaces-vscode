@@ -1,0 +1,1467 @@
+[
+{
+"id": 10385,
+"f": "views/privacy-policy.blade.php",
+"ar": "لا تخزن المنصة بيانات البطاقة البنكية الكاملة عند استخدام بوابة دفع خارجية، وتخضع تلك البيانات لسياسة مقدم خدمة الدفع."
+},
+{
+"id": 10386,
+"f": "views/privacy-policy.blade.php",
+"ar": "البيانات التقنية"
+},
+{
+"id": 10387,
+"f": "views/privacy-policy.blade.php",
+"ar": "عنوان بروتوكول الإنترنت"
+},
+{
+"id": 10388,
+"f": "views/privacy-policy.blade.php",
+"ar": "نوع الجهاز والمتصفح ونظام التشغيل."
+},
+{
+"id": 10389,
+"f": "views/privacy-policy.blade.php",
+"ar": "تاريخ ووقت الدخول واستخدام الصفحات."
+},
+{
+"id": 10390,
+"f": "views/privacy-policy.blade.php",
+"ar": "سجلات الدخول ومحاولات الدخول والأخطاء."
+},
+{
+"id": 10391,
+"f": "views/privacy-policy.blade.php",
+"ar": "ملفات تعريف الارتباط الضرورية."
+},
+{
+"id": 10392,
+"f": "views/privacy-policy.blade.php",
+"ar": "أغراض استخدام البيانات"
+},
+{
+"id": 10393,
+"f": "views/privacy-policy.blade.php",
+"ar": "إنشاء الحساب والتحقق من هوية المستخدم."
+},
+{
+"id": 10394,
+"f": "views/privacy-policy.blade.php",
+"ar": "عند تفعيل مراجعة الأمان الإضافية، قد تُرسل لقطات الوجه الحية فقط إلى مزود ذكاء اصطناعي خارجي لفحص جودة الالتقاط ومؤشرات إعادة عرض صورة أو شاشة. لا تُستخدم هذه المراجعة وحدها لتحديد هوية الشخص أو تجاوز نتيجة مطابقة الوجه المتخصصة."
+},
+{
+"id": 10395,
+"f": "views/privacy-policy.blade.php",
+"ar": "يتطلب استرداد الحساب عبر الدعم أن يكون الحساب قد أتم توثيق KYC مسبقًا، ويُستخدم المرجع الحيوي الموثق للتحقق من صاحب الحساب عند الاسترداد."
+},
+{
+"id": 10396,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقديم الخدمات والاستشارات الهندسية."
+},
+{
+"id": 10397,
+"f": "views/privacy-policy.blade.php",
+"ar": "تعيين المهندسين ومتابعة تنفيذ الطلبات."
+},
+{
+"id": 10398,
+"f": "views/privacy-policy.blade.php",
+"ar": "معالجة عمليات الدفع وإصدار الفواتير."
+},
+{
+"id": 10399,
+"f": "views/privacy-policy.blade.php",
+"ar": "تمكين المحادثات والتواصل بين الأطراف."
+},
+{
+"id": 10400,
+"f": "views/privacy-policy.blade.php",
+"ar": "إرسال الإشعارات المتعلقة بالحساب والطلبات."
+},
+{
+"id": 10401,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقديم الدعم الفني ومعالجة الشكاوى."
+},
+{
+"id": 10402,
+"f": "views/privacy-policy.blade.php",
+"ar": "منع الاحتيال والاختراق وإساءة الاستخدام."
+},
+{
+"id": 10403,
+"f": "views/privacy-policy.blade.php",
+"ar": "تحسين أداء المنصة وتجربة المستخدم."
+},
+{
+"id": 10404,
+"f": "views/privacy-policy.blade.php",
+"ar": "الالتزام بالمتطلبات والالتزامات النظامية."
+},
+{
+"id": 10405,
+"f": "views/privacy-policy.blade.php",
+"ar": "بوت الدعم الفني"
+},
+{
+"id": 10406,
+"f": "views/privacy-policy.blade.php",
+"ar": "تستخدم المنصة مساعدًا آليًا للرد على الأسئلة الشائعة ومساعدة المستخدم في الوصول إلى الحل المناسب."
+},
+{
+"id": 10407,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تتم معالجة نص السؤال للبحث عن إجابة مناسبة داخل قاعدة المعرفة."
+},
+{
+"id": 10408,
+"f": "views/privacy-policy.blade.php",
+"ar": "إذا لم يتمكن البوت من تقديم حل مؤكد، يجوز له إنشاء تذكرة دعم وتحويل المحادثة إلى موظف مختص."
+},
+{
+"id": 10409,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد يتم حفظ سجل المحادثة ضمن تذكرة الدعم بهدف المتابعة وتحسين الخدمة."
+},
+{
+"id": 10410,
+"f": "views/privacy-policy.blade.php",
+"ar": "لا يطلب البوت كلمات المرور أو بيانات البطاقات البنكية الكاملة."
+},
+{
+"id": 10411,
+"f": "views/privacy-policy.blade.php",
+"ar": "فحص الصور والمحتوى"
+},
+{
+"id": 10412,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تخضع الصور والملفات والمحتوى الذي يرفعه المستخدم لفحص آلي قبل نشره، بهدف منع المحتوى غير اللائق أو المخالف لسياسات المنصة."
+},
+{
+"id": 10413,
+"f": "views/privacy-policy.blade.php",
+"ar": "الصور الجنسية أو العارية."
+},
+{
+"id": 10414,
+"f": "views/privacy-policy.blade.php",
+"ar": "المحتوى العنيف أو الصادم."
+},
+{
+"id": 10415,
+"f": "views/privacy-policy.blade.php",
+"ar": "المحتوى المسيء أو الذي يتضمن كراهية أو تهديدًا."
+},
+{
+"id": 10416,
+"f": "views/privacy-policy.blade.php",
+"ar": "الإعلانات أو أرقام التواصل المخالفة."
+},
+{
+"id": 10417,
+"f": "views/privacy-policy.blade.php",
+"ar": "الروابط أو رموز QR غير المسموح بها."
+},
+{
+"id": 10418,
+"f": "views/privacy-policy.blade.php",
+"ar": "الصور المشتبه بانتحالها أو إساءة استخدامها."
+},
+{
+"id": 10419,
+"f": "views/privacy-policy.blade.php",
+"ar": "يمكن قبول الصورة تلقائيًا أو رفضها أو إرسالها للمراجعة البشرية. ولا تظهر الصورة للعامة قبل اعتمادها عندما تكون المراجعة مطلوبة."
+},
+{
+"id": 10420,
+"f": "views/privacy-policy.blade.php",
+"ar": "مراقبة المخالفات وتعليق الحساب"
+},
+{
+"id": 10421,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تستخدم المنصة أنظمة آلية للكشف عن الأنشطة التي قد تخالف الشروط، مثل رفع محتوى غير لائق أو إرسال رسائل مسيئة أو محاولة تجاوز المنصة."
+},
+{
+"id": 10422,
+"f": "views/privacy-policy.blade.php",
+"ar": "عند رصد مخالفة محتملة، يجوز اتخاذ واحد أو أكثر من الإجراءات التالية:"
+},
+{
+"id": 10423,
+"f": "views/privacy-policy.blade.php",
+"ar": "رفض المحتوى قبل نشره."
+},
+{
+"id": 10424,
+"f": "views/privacy-policy.blade.php",
+"ar": "إرسال تنبيه إلى المستخدم."
+},
+{
+"id": 10425,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقييد ميزة معينة بصورة مؤقتة."
+},
+{
+"id": 10426,
+"f": "views/privacy-policy.blade.php",
+"ar": "تعليق الحساب بصورة مؤقتة."
+},
+{
+"id": 10427,
+"f": "views/privacy-policy.blade.php",
+"ar": "إحالة الحساب إلى المراجعة البشرية."
+},
+{
+"id": 10428,
+"f": "views/privacy-policy.blade.php",
+"ar": "حظر الحساب نهائيًا عند ثبوت مخالفة جسيمة."
+},
+{
+"id": 10429,
+"f": "views/privacy-policy.blade.php",
+"ar": "لا يعني القرار الآلي بالضرورة إثبات المخالفة نهائيًا، ويجوز للمستخدم تقديم طعن لطلب مراجعة حسابه يدويًا."
+},
+{
+"id": 10430,
+"f": "views/privacy-policy.blade.php",
+"ar": "الطعون والمراجعة البشرية"
+},
+{
+"id": 10431,
+"f": "views/privacy-policy.blade.php",
+"ar": "يستطيع المستخدم الذي تم تعليق حسابه أو رفض محتواه تقديم طعن من خلال الوسائل المتاحة في المنصة."
+},
+{
+"id": 10432,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تتضمن عملية المراجعة الاطلاع على:"
+},
+{
+"id": 10433,
+"f": "views/privacy-policy.blade.php",
+"ar": "المحتوى محل المخالفة."
+},
+{
+"id": 10434,
+"f": "views/privacy-policy.blade.php",
+"ar": "سبب التعليق أو الحظر."
+},
+{
+"id": 10435,
+"f": "views/privacy-policy.blade.php",
+"ar": "سجل المخالفات المرتبط بالحساب."
+},
+{
+"id": 10436,
+"f": "views/privacy-policy.blade.php",
+"ar": "التوضيحات والمرفقات التي يقدمها المستخدم."
+},
+{
+"id": 10437,
+"f": "views/privacy-policy.blade.php",
+"ar": "نتائج الفحص الآلي ذات الصلة."
+},
+{
+"id": 10438,
+"f": "views/privacy-policy.blade.php",
+"ar": "بعد المراجعة يجوز إعادة تفعيل الحساب، أو توجيه تحذير، أو تثبيت التقييد أو الحظر، مع توضيح القرار للمستخدم متى كان ذلك مناسبًا."
+},
+{
+"id": 10439,
+"f": "views/privacy-policy.blade.php",
+"ar": "مشاركة البيانات"
+},
+{
+"id": 10440,
+"f": "views/privacy-policy.blade.php",
+"ar": "لا تبيع المنصة البيانات الشخصية للمستخدمين. وقد تتم مشاركة الحد الأدنى اللازم من البيانات مع:"
+},
+{
+"id": 10441,
+"f": "views/privacy-policy.blade.php",
+"ar": "المهندسين والمكاتب المكلفين بتنفيذ الخدمة."
+},
+{
+"id": 10442,
+"f": "views/privacy-policy.blade.php",
+"ar": "موظفي الدعم والإدارة المختصين."
+},
+{
+"id": 10443,
+"f": "views/privacy-policy.blade.php",
+"ar": "مزودي الاستضافة والتخزين السحابي."
+},
+{
+"id": 10444,
+"f": "views/privacy-policy.blade.php",
+"ar": "بوابات الدفع والبنوك ومقدمي الخدمات المالية."
+},
+{
+"id": 10445,
+"f": "views/privacy-policy.blade.php",
+"ar": "خدمات البريد الإلكتروني والرسائل والإشعارات."
+},
+{
+"id": 10446,
+"f": "views/privacy-policy.blade.php",
+"ar": "مقدمي خدمات الأمان وفحص المحتوى."
+},
+{
+"id": 10447,
+"f": "views/privacy-policy.blade.php",
+"ar": "الجهات الحكومية أو القضائية عند وجود طلب نظامي."
+},
+{
+"id": 10448,
+"f": "views/privacy-policy.blade.php",
+"ar": "تخزين البيانات وحمايتها"
+},
+{
+"id": 10449,
+"f": "views/privacy-policy.blade.php",
+"ar": "تتخذ المنصة تدابير تنظيمية وتقنية مناسبة للمحافظة على أمن البيانات، ومنها:"
+},
+{
+"id": 10450,
+"f": "views/privacy-policy.blade.php",
+"ar": "تشفير كلمات المرور."
+},
+{
+"id": 10451,
+"f": "views/privacy-policy.blade.php",
+"ar": "استخدام الاتصال الآمن"
+},
+{
+"id": 10452,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقييد الوصول بحسب الأدوار والصلاحيات."
+},
+{
+"id": 10453,
+"f": "views/privacy-policy.blade.php",
+"ar": "حفظ الملفات الحساسة في مساحات تخزين محمية."
+},
+{
+"id": 10454,
+"f": "views/privacy-policy.blade.php",
+"ar": "مراقبة محاولات الدخول والأنشطة غير المعتادة."
+},
+{
+"id": 10455,
+"f": "views/privacy-policy.blade.php",
+"ar": "النسخ الاحتياطي والتحديثات الأمنية الدورية."
+},
+{
+"id": 10456,
+"f": "views/privacy-policy.blade.php",
+"ar": "يلتزم المستخدم بالمحافظة على سرية بيانات الدخول وإبلاغ المنصة عند الاشتباه باستخدام حسابه دون إذنه."
+},
+{
+"id": 10457,
+"f": "views/privacy-policy.blade.php",
+"ar": "مدة الاحتفاظ بالبيانات"
+},
+{
+"id": 10458,
+"f": "views/privacy-policy.blade.php",
+"ar": "تحتفظ المنصة بالبيانات للمدة اللازمة لتقديم الخدمة والوفاء بالالتزامات القانونية أو التعاقدية أو المالية."
+},
+{
+"id": 10459,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات الحساب طوال فترة نشاطه."
+},
+{
+"id": 10460,
+"f": "views/privacy-policy.blade.php",
+"ar": "ملفات الاستشارات خلال التنفيذ ولمدة مناسبة بعد التسليم."
+},
+{
+"id": 10461,
+"f": "views/privacy-policy.blade.php",
+"ar": "سجلات الدفع والفواتير بحسب المدد النظامية."
+},
+{
+"id": 10462,
+"f": "views/privacy-policy.blade.php",
+"ar": "تذاكر الدعم إلى حين إغلاقها وانتهاء الحاجة إليها."
+},
+{
+"id": 10463,
+"f": "views/privacy-policy.blade.php",
+"ar": "سجلات المخالفات والطعون بحسب الحاجة الأمنية والنظامية."
+},
+{
+"id": 10464,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد يتم حذف البيانات أو إخفاء هوية صاحبها عند انتهاء الغرض من الاحتفاظ بها، ما لم يوجد سبب مشروع لاستمرار الاحتفاظ بها."
+},
+{
+"id": 10465,
+"f": "views/privacy-policy.blade.php",
+"ar": "حقوق المستخدم"
+},
+{
+"id": 10466,
+"f": "views/privacy-policy.blade.php",
+"ar": "يحق للمستخدم، بحسب الأنظمة المطبقة، طلب:"
+},
+{
+"id": 10467,
+"f": "views/privacy-policy.blade.php",
+"ar": "معرفة البيانات التي تحتفظ بها المنصة عنه."
+},
+{
+"id": 10468,
+"f": "views/privacy-policy.blade.php",
+"ar": "الحصول على نسخة من بياناته."
+},
+{
+"id": 10469,
+"f": "views/privacy-policy.blade.php",
+"ar": "تصحيح البيانات غير الدقيقة أو تحديثها."
+},
+{
+"id": 10470,
+"f": "views/privacy-policy.blade.php",
+"ar": "حذف الحساب أو بعض البيانات عند السماح بذلك."
+},
+{
+"id": 10471,
+"f": "views/privacy-policy.blade.php",
+"ar": "سحب الموافقة على بعض أنواع المعالجة."
+},
+{
+"id": 10472,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقديم اعتراض أو شكوى."
+},
+{
+"id": 10473,
+"f": "views/privacy-policy.blade.php",
+"ar": "تقديم طعن على قرارات التعليق أو الحظر."
+},
+{
+"id": 10474,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تطلب المنصة التحقق من هوية مقدم الطلب قبل تنفيذ الطلب، وقد ترفض الحذف عندما يكون الاحتفاظ بالبيانات مطلوبًا لأغراض قانونية أو مالية أو لحماية حقوق الأطراف."
+},
+{
+"id": 10475,
+"f": "views/privacy-policy.blade.php",
+"ar": "ملفات تعريف الارتباط"
+},
+{
+"id": 10476,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تستخدم المنصة ملفات تعريف الارتباط الضرورية لتسجيل الدخول، وحماية الجلسة، وحفظ التفضيلات، وتحسين الأداء. وقد يؤدي تعطيل الملفات الضرورية إلى تعطل بعض وظائف الموقع."
+},
+{
+"id": 10477,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات الأطفال"
+},
+{
+"id": 10478,
+"f": "views/privacy-policy.blade.php",
+"ar": "المنصة غير مخصصة لمن هم دون الثامنة عشرة، ولا يجوز للقاصر إنشاء حساب أو طلب خدمة إلا من خلال وليه أو ممثله النظامي."
+},
+{
+"id": 10479,
+"f": "views/privacy-policy.blade.php",
+"ar": "الروابط والخدمات الخارجية"
+},
+{
+"id": 10480,
+"f": "views/privacy-policy.blade.php",
+"ar": "قد تحتوي المنصة على روابط أو خدمات تابعة لجهات أخرى، مثل بوابات الدفع أو خدمات التخزين. تخضع تلك الخدمات لسياسات الخصوصية الخاصة بها."
+},
+{
+"id": 10481,
+"f": "views/privacy-policy.blade.php",
+"ar": "تحديث السياسة"
+},
+{
+"id": 10482,
+"f": "views/privacy-policy.blade.php",
+"ar": "يجوز للمنصة تحديث هذه السياسة عند تطوير الخدمات أو إضافة ميزات جديدة أو تغير المتطلبات النظامية. وسيتم نشر النسخة المحدثة في هذه الصفحة مع بيان تاريخ التحديث."
+},
+{
+"id": 10483,
+"f": "views/privacy-policy.blade.php",
+"ar": "التواصل معنا"
+},
+{
+"id": 10484,
+"f": "views/privacy-policy.blade.php",
+"ar": "للاستفسارات أو طلبات الخصوصية أو الشكاوى، يمكن التواصل من خلال نظام الدعم الفني داخل المنصة أو عبر البيانات التالية:"
+},
+{
+"id": 10485,
+"f": "views/privacy-policy.blade.php",
+"ar": "رقم التواصل"
+},
+{
+"id": 10486,
+"f": "views/privacy-policy.blade.php",
+"ar": "اسم الجهة"
+},
+{
+"id": 10487,
+"f": "views/privacy-policy.blade.php",
+"ar": "للخدمات والاستشارات الهندسية منصة الوليد الهندسية"
+},
+{
+"id": 10488,
+"f": "views/privacy-policy.blade.php",
+"ar": "الاراضي الفلسطينية"
+},
+{
+"id": 10489,
+"f": "views/privacy-policy.blade.php",
+"ar": "باستخدام المنصة، يقر المستخدم بأنه اطلع على سياسة الخصوصية وفهم آلية معالجة بياناته وفق ما ورد فيها."
+},
+{
+"id": 10490,
+"f": "views/production/control-center.blade.php",
+"ar": "إجمالي:"
+},
+{
+"id": 10491,
+"f": "views/production/control-center.blade.php",
+"ar": "جدد:"
+},
+{
+"id": 10492,
+"f": "views/production/control-center.blade.php",
+"ar": "النزاعات المفتوحة"
+},
+{
+"id": 10493,
+"f": "views/production/control-center.blade.php",
+"ar": "تحتاج متابعة"
+},
+{
+"id": 10494,
+"f": "views/production/control-center.blade.php",
+"ar": "الفترة الحالية"
+},
+{
+"id": 10495,
+"f": "views/production/control-center.blade.php",
+"ar": "مركز جاهزية الإنتاج وإدارة"
+},
+{
+"id": 10496,
+"f": "views/production/control-center.blade.php",
+"ar": "اختبارات، إشعارات، دفع، فواتير، أمان، اشتراكات، تحليلات وتجهيز الإطلاق."
+},
+{
+"id": 10497,
+"f": "views/production/control-center.blade.php",
+"ar": "جاهز حسب الفحوص الحالية"
+},
+{
+"id": 10498,
+"f": "views/production/control-center.blade.php",
+"ar": "الإيرادات والصرف"
+},
+{
+"id": 10499,
+"f": "views/production/control-center.blade.php",
+"ar": "إجمالي وارد:"
+},
+{
+"id": 10500,
+"f": "views/production/control-center.blade.php",
+"ar": "عمولة المنصة:"
+},
+{
+"id": 10501,
+"f": "views/production/control-center.blade.php",
+"ar": "صرف:"
+},
+{
+"id": 10502,
+"f": "views/production/control-center.blade.php",
+"ar": "لا توجد عمليات مدفوعة في الفترة."
+},
+{
+"id": 10503,
+"f": "views/production/control-center.blade.php",
+"ar": "أفضل المكاتب"
+},
+{
+"id": 10504,
+"f": "views/production/control-center.blade.php",
+"ar": "آخر عمليات"
+},
+{
+"id": 10505,
+"f": "views/production/control-center.blade.php",
+"ar": "بعد."
+},
+{
+"id": 10506,
+"f": "views/production/control-center.blade.php",
+"ar": "الكوبونات"
+},
+{
+"id": 10507,
+"f": "views/production/control-center.blade.php",
+"ar": "استخدام"
+},
+{
+"id": 10508,
+"f": "views/production/control-center.blade.php",
+"ar": "تغييرات الخطط"
+},
+{
+"id": 10509,
+"f": "views/production/control-center.blade.php",
+"ar": "لا توجد تغييرات مجدولة."
+},
+{
+"id": 10510,
+"f": "views/profile/account-status.blade.php",
+"ar": "مخالفات مؤكدة."
+},
+{
+"id": 10511,
+"f": "views/profile/account-status.blade.php",
+"ar": "راقب حالة حسابك والتحذيرات والمخالفات المرتبطة به، واعرف المسافة المتبقية قبل تعليق الحساب."
+},
+{
+"id": 10512,
+"f": "views/profile/account-status.blade.php",
+"ar": "يتم تعليق الحساب تلقائيًا عند الوصول إلى"
+},
+{
+"id": 10513,
+"f": "views/profile/account-status.blade.php",
+"ar": "تقديم اعتراض"
+},
+{
+"id": 10514,
+"f": "views/profile/account-status.blade.php",
+"ar": "التحذيرات المسجلة"
+},
+{
+"id": 10515,
+"f": "views/profile/account-status.blade.php",
+"ar": "جميع التحذيرات المسجلة على الحساب."
+},
+{
+"id": 10516,
+"f": "views/profile/account-status.blade.php",
+"ar": "المخالفات المؤكدة"
+},
+{
+"id": 10517,
+"f": "views/profile/account-status.blade.php",
+"ar": "فقط المخالفات المؤكدة تدخل في حد التعليق."
+},
+{
+"id": 10518,
+"f": "views/profile/account-status.blade.php",
+"ar": "المحتوى المرفوض"
+},
+{
+"id": 10519,
+"f": "views/profile/account-status.blade.php",
+"ar": "عدد العناصر التي تم رفضها من نظام الرقابة."
+},
+{
+"id": 10520,
+"f": "views/profile/account-status.blade.php",
+"ar": "المتبقي حتى الحظر"
+},
+{
+"id": 10521,
+"f": "views/profile/account-status.blade.php",
+"ar": "مخالفة واحدة"
+},
+{
+"id": 10522,
+"f": "views/profile/account-status.blade.php",
+"ar": "مخالفتان"
+},
+{
+"id": 10523,
+"f": "views/profile/account-status.blade.php",
+"ar": "مخالفات"
+},
+{
+"id": 10524,
+"f": "views/profile/account-status.blade.php",
+"ar": "المتبقي قبل الوصول إلى حد تعليق الحساب."
+},
+{
+"id": 10525,
+"f": "views/profile/account-status.blade.php",
+"ar": "مستوى المخالفات"
+},
+{
+"id": 10526,
+"f": "views/profile/account-status.blade.php",
+"ar": "المخالفات المؤكدة هي التي تدخل في احتساب حد تعليق الحساب. أما التحذيرات المسجلة والمحتوى المرفوض فتبقى ظاهرة هنا كسجل لحالة الحساب، ولا يتم احتسابها تلقائيًا ضمن حد التعليق إلا وفق قواعد الرقابة المعتمدة في المنصة."
+},
+{
+"id": 10527,
+"f": "views/profile/delete.blade.php",
+"ar": "المنطقة الخطرة"
+},
+{
+"id": 10528,
+"f": "views/profile/delete.blade.php",
+"ar": "اقرأ التنبيه جيدًا قبل تنفيذ عملية حذف الحساب. سيُؤرشف حسابك لمدة 60 يومًا. يمكنك طلب استعادته قبل نهاية المهلة. تخضع السجلات المالية للاحتفاظ اللازم وتسوية الالتزامات."
+},
+{
+"id": 10529,
+"f": "views/profile/delete.blade.php",
+"ar": "أرشفة الحساب لمدة 60 يومًا"
+},
+{
+"id": 10530,
+"f": "views/profile/delete.blade.php",
+"ar": "لا يمكن استعادة الحساب أو بياناته بعد الحذف."
+},
+{
+"id": 10531,
+"f": "views/profile/delete.blade.php",
+"ar": "أدخل كلمة المرور لإرسال رمز"
+},
+{
+"id": 10532,
+"f": "views/profile/delete.blade.php",
+"ar": "هل أنت متأكد من أرشفة الحساب لمدة 60 يومًا؟"
+},
+{
+"id": 10533,
+"f": "views/profile/delete.blade.php",
+"ar": "تأكيد الأرشفة"
+},
+{
+"id": 10534,
+"f": "views/profile/delete.blade.php",
+"ar": "أعد إدخال كلمة المرور، ثم أدخل رمز OTP المرسل إلى بريدك. لن يُؤرشف الحساب قبل التحقق منهما."
+},
+{
+"id": 10535,
+"f": "views/profile/delete.blade.php",
+"ar": "تأكيد أرشفة الحساب لمدة 60 يومًا"
+},
+{
+"id": 10536,
+"f": "views/profile/edit.blade.php",
+"ar": "حفظ الصورة"
+},
+{
+"id": 10537,
+"f": "views/profile/edit.blade.php",
+"ar": "إعادة"
+},
+{
+"id": 10538,
+"f": "views/profile/edit.blade.php",
+"ar": "تكبير"
+},
+{
+"id": 10539,
+"f": "views/profile/edit.blade.php",
+"ar": "تصغير"
+},
+{
+"id": 10540,
+"f": "views/profile/edit.blade.php",
+"ar": "عدّل الاسم والبريد الإلكتروني ورقم الهاتف والصورة الشخصية."
+},
+{
+"id": 10541,
+"f": "views/profile/edit.blade.php",
+"ar": "حساب موثق"
+},
+{
+"id": 10542,
+"f": "views/profile/edit.blade.php",
+"ar": "نسبة التحقق:"
+},
+{
+"id": 10543,
+"f": "views/profile/edit.blade.php",
+"ar": "أكمل التحقق من الهوية والوجه لحماية حسابك وفتح العمليات التي تتطلب"
+},
+{
+"id": 10544,
+"f": "views/profile/edit.blade.php",
+"ar": "تأكد من أن بيانات الاتصال الخاصة بك صحيحة."
+},
+{
+"id": 10545,
+"f": "views/profile/edit.blade.php",
+"ar": "يمكنك تحريك الصورة وتكبيرها واختيار الجزء الذي تريد ظهوره."
+},
+{
+"id": 10546,
+"f": "views/profile/edit.blade.php",
+"ar": "تعديل الصورة"
+},
+{
+"id": 10547,
+"f": "views/profile/edit.blade.php",
+"ar": "تعديل الصورة الشخصية"
+},
+{
+"id": 10548,
+"f": "views/profile/edit.blade.php",
+"ar": "حرّك الصورة واختر الجزء الذي تريد ظهوره."
+},
+{
+"id": 10549,
+"f": "views/profile/edit.blade.php",
+"ar": "قص الصورة"
+},
+{
+"id": 10550,
+"f": "views/profile/edit.blade.php",
+"ar": "تدوير لليسار"
+},
+{
+"id": 10551,
+"f": "views/profile/edit.blade.php",
+"ar": "تدوير لليمين"
+},
+{
+"id": 10552,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "يمكنك التحكم في رسائل المنصة الاختيارية. رسائل الأمان والعمليات المالية الأساسية لا يمكن إيقافها لحماية الحساب والمعاملات."
+},
+{
+"id": 10553,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "تحديثات المنصة"
+},
+{
+"id": 10554,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "عروض جديدة، قبول الطلب، تسليم المراحل والتحديثات غير الأمنية."
+},
+{
+"id": 10555,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "النصائح والميزات"
+},
+{
+"id": 10556,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "نصائح استخدام وميزات جديدة غير أساسية."
+},
+{
+"id": 10557,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "تحديثات دعم إضافية"
+},
+{
+"id": 10558,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "تنبيهات دعم غير حرجة؛ الرسائل الأساسية حول التذكرة قد تبقى إلزامية."
+},
+{
+"id": 10559,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "دائمًا مفعلة:"
+},
+{
+"id": 10560,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "تسجيل دخول جديد، محاولات فاشلة متكررة، تغيير كلمة المرور/البريد/الهاتف، 2FA وPasskey، قفل/استرداد الحساب، تغيير بيانات الدفع، الدفعات والاستردادات، والنزاعات الأساسية."
+},
+{
+"id": 10561,
+"f": "views/profile/email-preferences.blade.php",
+"ar": "حفظ التفضيلات"
+},
+{
+"id": 10562,
+"f": "views/profile/partials/delete-user-form.blade.php",
+"ar": "حذف الحساب"
+},
+{
+"id": 10563,
+"f": "views/profile/partials/delete-user-form.blade.php",
+"ar": "عند حذف الحساب سيتم حذف البيانات المرتبطة به بشكل نهائي حسب قواعد النظام، ولن تتمكن من استعادة الحساب لاحقًا."
+},
+{
+"id": 10564,
+"f": "views/profile/partials/delete-user-form.blade.php",
+"ar": "حذف الحساب نهائيًا"
+},
+{
+"id": 10565,
+"f": "views/profile/partials/delete-user-form.blade.php",
+"ar": "تأكيد حذف الحساب"
+},
+{
+"id": 10566,
+"f": "views/profile/partials/delete-user-form.blade.php",
+"ar": "لا يمكن التراجع عن هذه العملية. أدخل كلمة المرور للتأكيد."
+},
+{
+"id": 10567,
+"f": "views/profile/partials/settings-navigation.blade.php",
+"ar": "البيانات الشخصية"
+},
+{
+"id": 10568,
+"f": "views/profile/partials/settings-navigation.blade.php",
+"ar": "متاح للمهندسين فقط"
+},
+{
+"id": 10569,
+"f": "views/profile/partials/settings-navigation.blade.php",
+"ar": "توثيق المكتب"
+},
+{
+"id": 10570,
+"f": "views/profile/partials/settings-navigation.blade.php",
+"ar": "غير متاح لهذا الحساب"
+},
+{
+"id": 10571,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "كلمة المرور الحالية"
+},
+{
+"id": 10572,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "تغيير كلمة المرور"
+},
+{
+"id": 10573,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "حفظ كلمة المرور"
+},
+{
+"id": 10574,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "استخدم كلمة مرور قوية وفريدة لحماية حسابك."
+},
+{
+"id": 10575,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "أدخل كلمة المرور الحالية"
+},
+{
+"id": 10576,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "استخدم كلمة مرور قوية تحتوي على أحرف وأرقام ورموز، ولا تستخدم كلمة المرور نفسها في أكثر من خدمة."
+},
+{
+"id": 10577,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "تم تحديث كلمة المرور"
+},
+{
+"id": 10578,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "لم يتم اختيار التخصص"
+},
+{
+"id": 10579,
+"f": "views/profile/partials/update-password-form.blade.php",
+"ar": "تعديل التخصص"
+},
+{
+"id": 10580,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "معلومات الحساب"
+},
+{
+"id": 10581,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "اختر صورة مناسبة لحسابك"
+},
+{
+"id": 10582,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "تأكد من أن بيانات الاتصال والصورة الشخصية صحيحة ومحدثة."
+},
+{
+"id": 10583,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "بريدك الإلكتروني غير مؤكد حتى الآن."
+},
+{
+"id": 10584,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "تم إرسال رابط تأكيد جديد."
+},
+{
+"id": 10585,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "تم الحفظ بنجاح"
+},
+{
+"id": 10586,
+"f": "views/profile/partials/update-profile-information-form.blade.php",
+"ar": "معاينة الصورة الشخصية"
+},
+{
+"id": 10587,
+"f": "views/profile/password.blade.php",
+"ar": "قم بتحديث كلمة المرور للحفاظ على أمان حسابك واستخدم كلمة مرور قوية وفريدة."
+},
+{
+"id": 10588,
+"f": "views/profile/password.blade.php",
+"ar": "تم تحديث كلمة المرور بنجاح."
+},
+{
+"id": 10589,
+"f": "views/profile/password.blade.php",
+"ar": "استخدم كلمة مرور قوية يصعب تخمينها."
+},
+{
+"id": 10590,
+"f": "views/profile/password.blade.php",
+"ar": "يفضل أن تحتوي كلمة المرور على 8 أحرف على الأقل، مع أرقام ورموز وأحرف كبيرة وصغيرة."
+},
+{
+"id": 10591,
+"f": "views/profile/security.blade.php",
+"ar": "الأمان وتسجيل الدخول"
+},
+{
+"id": 10592,
+"f": "views/profile/security.blade.php",
+"ar": "فعّل التحقق بخطوتين وأضف مفاتيح مرور لحماية حسابك."
+},
+{
+"id": 10593,
+"f": "views/profile/security.blade.php",
+"ar": "تحكم بوسائل التحقق والدخول الآمن إلى حسابك."
+},
+{
+"id": 10594,
+"f": "views/profile/security.blade.php",
+"ar": "غير مفعّل"
+},
+{
+"id": 10595,
+"f": "views/profile/security.blade.php",
+"ar": "بعد إدخال كلمة المرور بشكل صحيح، يرسل النظام رمزًا من 6 أرقام إلى بريدك الإلكتروني قبل إكمال تسجيل الدخول."
+},
+{
+"id": 10596,
+"f": "views/profile/security.blade.php",
+"ar": "أرقام"
+},
+{
+"id": 10597,
+"f": "views/profile/security.blade.php",
+"ar": "صالح 10 دقائق"
+},
+{
+"id": 10598,
+"f": "views/profile/security.blade.php",
+"ar": "حتى 5 محاولات"
+},
+{
+"id": 10599,
+"f": "views/profile/security.blade.php",
+"ar": "البريد المستخدم للتحقق:"
+},
+{
+"id": 10600,
+"f": "views/profile/security.blade.php",
+"ar": "تم إرسال رمز التفعيل إلى بريدك."
+},
+{
+"id": 10601,
+"f": "views/profile/security.blade.php",
+"ar": "تأكيد وتفعيل الميزة"
+},
+{
+"id": 10602,
+"f": "views/profile/security.blade.php",
+"ar": "تفعيل التحقق بخطوتين"
+},
+{
+"id": 10603,
+"f": "views/profile/security.blade.php",
+"ar": "التحقق بخطوتين عبر البريد مفعّل."
+},
+{
+"id": 10604,
+"f": "views/profile/security.blade.php",
+"ar": "هل أنت متأكد من تعطيل التحقق بخطوتين؟"
+},
+{
+"id": 10605,
+"f": "views/profile/security.blade.php",
+"ar": "تعطيل التحقق بخطوتين"
+},
+{
+"id": 10606,
+"f": "views/profile/security.blade.php",
+"ar": "مفاتيح المرور"
+},
+{
+"id": 10607,
+"f": "views/profile/security.blade.php",
+"ar": "بصمة الهاتف"
+},
+{
+"id": 10608,
+"f": "views/profile/security.blade.php",
+"ar": "يتم التحقق من البصمة أو الوجه داخل جهازك؛ الموقع لا يستلم بيانات البصمة أو صورة الوجه."
+},
+{
+"id": 10609,
+"f": "views/profile/security.blade.php",
+"ar": "هذا المتصفح أو الجهاز لا يدعم"
+},
+{
+"id": 10610,
+"f": "views/profile/security.blade.php",
+"ar": "لم يتم تحميل عميل Passkeys. تأكد من إعداد resources/js/app.js ثم شغّل"
+},
+{
+"id": 10611,
+"f": "views/profile/security.blade.php",
+"ar": "جهازي"
+},
+{
+"id": 10612,
+"f": "views/profile/security.blade.php",
+"ar": "تم تسجيل Passkey بنجاح."
+},
+{
+"id": 10613,
+"f": "views/profile/security.blade.php",
+"ar": "تعذر تسجيل Passkey. تأكد من استخدام HTTPS ومن دعم الجهاز."
+},
+{
+"id": 10614,
+"f": "views/profile/specialty.blade.php",
+"ar": "ستظهر هذه المعلومات في صفحتك العامة للمهندس."
+},
+{
+"id": 10615,
+"f": "views/profile/specialty.blade.php",
+"ar": "حتى 2000 حرف"
+},
+{
+"id": 10616,
+"f": "views/profile/specialty.blade.php",
+"ar": "اكتب نبذة واضحة عن سنوات الخبرة، أنواع المشاريع، البرامج الهندسية ومجالات العمل التي تتقنها."
+},
+{
+"id": 10617,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "لا توجد شروط إضافية محفوظة في هذا الإصدار."
+},
+{
+"id": 10618,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "عقد إلكتروني"
+},
+{
+"id": 10619,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "عقد مشروع إلكتروني"
+},
+{
+"id": 10620,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "وثيقة إلكترونية موثقة بسجل الإصدارات والتوقيعات الرقمية"
+},
+{
+"id": 10621,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "السعر المتفق عليه"
+},
+{
+"id": 10622,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "التوقيعات الرقمية"
+},
+{
+"id": 10623,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "بانتظار توقيع إضافي"
+},
+{
+"id": 10624,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "لم يتم تسجيل أي توقيع إلكتروني على هذا الإصدار حتى الآن."
+},
+{
+"id": 10625,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "تشفير الوثيقة"
+},
+{
+"id": 10626,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "تم إنشاء هذه الوثيقة إلكترونيًا بواسطة"
+},
+{
+"id": 10627,
+"f": "views/project-contracts/pdf.blade.php",
+"ar": "وتوثيق محتواها ببصمة رقمية فريدة."
+},
+{
+"id": 10628,
+"f": "views/project-contracts/show.blade.php",
+"ar": "خطة العمل"
+},
+{
+"id": 10629,
+"f": "views/project-contracts/show.blade.php",
+"ar": "القيمة المتفق عليها"
+},
+{
+"id": 10630,
+"f": "views/project-contracts/show.blade.php",
+"ar": "تم"
+},
+{
+"id": 10631,
+"f": "views/project-contracts/show.blade.php",
+"ar": "اسم الموقّع"
+},
+{
+"id": 10632,
+"f": "views/project-contracts/show.blade.php",
+"ar": "أقر بأنني راجعت نطاق المشروع والشروط، وأوافق عليها، وأملك الصلاحية اللازمة لاعتماد هذا العقد كتوقيع إلكتروني."
+},
+{
+"id": 10633,
+"f": "views/project-contracts/show.blade.php",
+"ar": "توقيع العقد إلكترونيًا"
+},
+{
+"id": 10634,
+"f": "views/project-contracts/show.blade.php",
+"ar": "اكتب سبب رفض العقد..."
+},
+{
+"id": 10635,
+"f": "views/project-requests/index.blade.php",
+"ar": "بانتظار عرض المهندس"
+},
+{
+"id": 10636,
+"f": "views/project-requests/index.blade.php",
+"ar": "العرض بانتظار العميل"
+},
+{
+"id": 10637,
+"f": "views/project-requests/index.blade.php",
+"ar": "طلبات المشاريع الكاملة"
+},
+{
+"id": 10638,
+"f": "views/project-requests/index.blade.php",
+"ar": "الطلبات القادمة من الاستشارات المكتملة."
+},
+{
+"id": 10639,
+"f": "views/project-requests/index.blade.php",
+"ar": "المشاريع المعتمدة"
+},
+{
+"id": 10640,
+"f": "views/project-requests/index.blade.php",
+"ar": "تصفية حسب الحالة:"
+},
+{
+"id": 10641,
+"f": "views/project-requests/index.blade.php",
+"ar": "عرض مرسل"
+},
+{
+"id": 10642,
+"f": "views/project-requests/index.blade.php",
+"ar": "يوم عمل"
+},
+{
+"id": 10643,
+"f": "views/project-requests/index.blade.php",
+"ar": "عرض التفاصيل المالية"
+},
+{
+"id": 10644,
+"f": "views/project-requests/index.blade.php",
+"ar": "لا توجد طلبات مشاريع حاليًا."
+},
+{
+"id": 10645,
+"f": "views/project-requests/show.blade.php",
+"ar": "حالة الطلب"
+},
+{
+"id": 10646,
+"f": "views/project-requests/show.blade.php",
+"ar": "العرض مرسل للعميل"
+},
+{
+"id": 10647,
+"f": "views/project-requests/show.blade.php",
+"ar": "طلب مشروع كامل"
+},
+{
+"id": 10648,
+"f": "views/project-requests/show.blade.php",
+"ar": "فتح نفس محادثة الاستشارة"
+},
+{
+"id": 10649,
+"f": "views/project-requests/show.blade.php",
+"ar": "تفاصيل الطلب"
+},
+{
+"id": 10650,
+"f": "views/project-requests/show.blade.php",
+"ar": "آخر عرض"
+},
+{
+"id": 10651,
+"f": "views/project-requests/show.blade.php",
+"ar": "إرسال عرض المشروع"
+},
+{
+"id": 10652,
+"f": "views/project-requests/show.blade.php",
+"ar": "يمكن إرسال عرض جديد؛ العرض السابق سيبقى محفوظًا ويصبح مستبدلًا."
+},
+{
+"id": 10653,
+"f": "views/project-requests/show.blade.php",
+"ar": "تفصيل الأعمال المقترحة، المراحل، والتسليمات..."
+},
+{
+"id": 10654,
+"f": "views/project-requests/show.blade.php",
+"ar": "السعر المتفق المقترح"
+},
+{
+"id": 10655,
+"f": "views/project-requests/show.blade.php",
+"ar": "إرسال العرض للعميل"
+},
+{
+"id": 10656,
+"f": "views/project-requests/show.blade.php",
+"ar": "عروض المشروع"
+},
+{
+"id": 10657,
+"f": "views/project-requests/show.blade.php",
+"ar": "بانتظار موافقة العميل"
+},
+{
+"id": 10658,
+"f": "views/project-requests/show.blade.php",
+"ar": "تم استبداله بعرض أحدث"
+},
+{
+"id": 10659,
+"f": "views/project-requests/show.blade.php",
+"ar": "العرض رقم"
+},
+{
+"id": 10660,
+"f": "views/project-requests/show.blade.php",
+"ar": "تأكيد اعتماد هذا العرض وإنشاء المشروع؟"
+},
+{
+"id": 10661,
+"f": "views/project-requests/show.blade.php",
+"ar": "موافقة وإنشاء المشروع"
+},
+{
+"id": 10662,
+"f": "views/project-requests/show.blade.php",
+"ar": "لم يرسل المهندس عرض المشروع بعد."
+},
+{
+"id": 10663,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "تفاصيل المشروع"
+},
+{
+"id": 10664,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "الموضوع"
+},
+{
+"id": 10665,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "التفاصيل المسجلة"
+},
+{
+"id": 10666,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "رقم الاستفسار"
+},
+{
+"id": 10667,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "رقم جدول الكميات"
+},
+{
+"id": 10668,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "موعد الاجتماع"
+},
+{
+"id": 10669,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "الموعد النهائي"
+},
+{
+"id": 10670,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "تاريخ التسجيل"
+},
+{
+"id": 10671,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "السجلات"
+},
+{
+"id": 10672,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "الملخص"
+},
+{
+"id": 10673,
+"f": "views/projects/_recovery/screen.blade.php",
+"ar": "لا توجد سجلات للعرض."
+},
+{
+"id": 10674,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "التنقل"
+},
+{
+"id": 10675,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "منصة الوليد / الخدمات الهندسية"
+},
+{
+"id": 10676,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "تفاصيل"
+},
+{
+"id": 10677,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "لا توجد بيانات مسجلة في هذا القسم."
+}
+]

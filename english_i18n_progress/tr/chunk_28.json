@@ -1,0 +1,1817 @@
+[
+{
+"id": 10022,
+"f": "views/office/dashboard.blade.php",
+"ar": "استعرض المشاريع المفتوحة وقدّم عروضًا باسم"
+},
+{
+"id": 10023,
+"f": "views/office/dashboard.blade.php",
+"ar": "مع بقاء عروض المنافسين سرية."
+},
+{
+"id": 10024,
+"f": "views/office/dashboard.blade.php",
+"ar": "متابعة مشاريع المكتب والفريق والخطة والمستحقات."
+},
+{
+"id": 10025,
+"f": "views/office/dashboard.blade.php",
+"ar": "على الإصدارات، مراجعات الرسومات والمقارنة البصرية بين النسخ."
+},
+{
+"id": 10026,
+"f": "views/office/dashboard.blade.php",
+"ar": "إدارة التعارضات وتعيينها وإغلاقها."
+},
+{
+"id": 10027,
+"f": "views/office/dashboard.blade.php",
+"ar": "والتكاملات الخارجية."
+},
+{
+"id": 10028,
+"f": "views/office/dashboard.blade.php",
+"ar": "بيانات المكتب"
+},
+{
+"id": 10029,
+"f": "views/office/dashboard.blade.php",
+"ar": "تعديل معلومات المكتب وبيانات التواصل."
+},
+{
+"id": 10030,
+"f": "views/office/dashboard.blade.php",
+"ar": "افتح تذكرة دعم وتابع الرد مع موظف الدعم."
+},
+{
+"id": 10031,
+"f": "views/office/dashboard.blade.php",
+"ar": "اسأل مساعد منصة الوليد الهندسية أو اطلب التحويل لموظف الدعم."
+},
+{
+"id": 10032,
+"f": "views/office/dashboard.blade.php",
+"ar": "اللوحة الرئيسية"
+},
+{
+"id": 10033,
+"f": "views/office/dashboard.blade.php",
+"ar": "العودة إلى لوحة النظام الأساسية."
+},
+{
+"id": 10034,
+"f": "views/office/dashboard.blade.php",
+"ar": "طلبات انضمام معلقة"
+},
+{
+"id": 10035,
+"f": "views/office/dashboard.blade.php",
+"ar": "استشارات قيد التنفيذ"
+},
+{
+"id": 10036,
+"f": "views/office/dashboard.blade.php",
+"ar": "استشارات مكتملة"
+},
+{
+"id": 10037,
+"f": "views/office/dashboard.blade.php",
+"ar": "جميع مشاريع المكتب"
+},
+{
+"id": 10038,
+"f": "views/office/dashboard.blade.php",
+"ar": "النشطة:"
+},
+{
+"id": 10039,
+"f": "views/office/dashboard.blade.php",
+"ar": "المشاريع غير الملغاة"
+},
+{
+"id": 10040,
+"f": "views/office/dashboard.blade.php",
+"ar": "حسب النسب التي يحددها مدير المنصة"
+},
+{
+"id": 10041,
+"f": "views/office/dashboard.blade.php",
+"ar": "سجلات الموقع المفتوحة"
+},
+{
+"id": 10042,
+"f": "views/office/dashboard.blade.php",
+"ar": "مراكز إدارة المكتب"
+},
+{
+"id": 10043,
+"f": "views/office/dashboard.blade.php",
+"ar": "العمليات وCRM والمالية والتقارير ضمن بطاقات مختصرة خاصة بالمكتب"
+},
+{
+"id": 10044,
+"f": "views/office/dashboard.blade.php",
+"ar": "تكاملات خارجية،"
+},
+{
+"id": 10045,
+"f": "views/office/dashboard.blade.php",
+"ar": "وعزل بيانات المؤسسة."
+},
+{
+"id": 10046,
+"f": "views/office/dashboard.blade.php",
+"ar": "فتح مركز"
+},
+{
+"id": 10047,
+"f": "views/office/dashboard.blade.php",
+"ar": "مركز العمليات"
+},
+{
+"id": 10048,
+"f": "views/office/dashboard.blade.php",
+"ar": "عمليات مشاريع المكتب"
+},
+{
+"id": 10049,
+"f": "views/office/dashboard.blade.php",
+"ar": "المشاريع والتنبيهات والعقود وRFI والاجتماعات للمكتب الحالي فقط."
+},
+{
+"id": 10050,
+"f": "views/office/dashboard.blade.php",
+"ar": "فتح مشاريع المكتب"
+},
+{
+"id": 10051,
+"f": "views/office/dashboard.blade.php",
+"ar": "إدارة العملاء"
+},
+{
+"id": 10052,
+"f": "views/office/dashboard.blade.php",
+"ar": "والفرص والمتابعات المرتبطة بهذا المكتب فقط."
+},
+{
+"id": 10053,
+"f": "views/office/dashboard.blade.php",
+"ar": "التقارير المالية للمكتب"
+},
+{
+"id": 10054,
+"f": "views/office/dashboard.blade.php",
+"ar": "الإيرادات والمصروفات وصافي الربح وربحية المشاريع والتقارير الشهرية للمكتب الحالي فقط."
+},
+{
+"id": 10055,
+"f": "views/office/dashboard.blade.php",
+"ar": "العملة الأساسية"
+},
+{
+"id": 10056,
+"f": "views/office/dashboard.blade.php",
+"ar": "أحدث مشاريع المكتب"
+},
+{
+"id": 10057,
+"f": "views/office/dashboard.blade.php",
+"ar": "آخر المشاريع المرتبطة بالمكتب مع قائد المشروع والقيمة والنسبة."
+},
+{
+"id": 10058,
+"f": "views/office/dashboard.blade.php",
+"ar": "عرض كل المشاريع"
+},
+{
+"id": 10059,
+"f": "views/office/dashboard.blade.php",
+"ar": "لا توجد مشاريع مرتبطة بالمكتب حتى الآن."
+},
+{
+"id": 10060,
+"f": "views/office/dashboard.blade.php",
+"ar": "آخر الاستشارات المحولة إلى المكتب."
+},
+{
+"id": 10061,
+"f": "views/office/dashboard.blade.php",
+"ar": "بدون مهندس"
+},
+{
+"id": 10062,
+"f": "views/office/dashboard.blade.php",
+"ar": "لا توجد استشارات محولة إلى المكتب بعد."
+},
+{
+"id": 10063,
+"f": "views/office/dashboard.blade.php",
+"ar": "أحدث طلبات الانضمام"
+},
+{
+"id": 10064,
+"f": "views/office/dashboard.blade.php",
+"ar": "آخر المهندسين الذين تقدموا للمكتب."
+},
+{
+"id": 10065,
+"f": "views/office/dashboard.blade.php",
+"ar": "لا توجد طلبات انضمام حتى الآن."
+},
+{
+"id": 10066,
+"f": "views/office/dashboard.blade.php",
+"ar": "القيمة الشهرية"
+},
+{
+"id": 10067,
+"f": "views/office/dashboard.blade.php",
+"ar": "نهاية الاشتراك"
+},
+{
+"id": 10068,
+"f": "views/office/dashboard.blade.php",
+"ar": "آخر طلب اشتراك"
+},
+{
+"id": 10069,
+"f": "views/office/dashboard.blade.php",
+"ar": "بانتظار الإيصال"
+},
+{
+"id": 10070,
+"f": "views/office/dashboard.blade.php",
+"ar": "تعديل بيانات المكتب"
+},
+{
+"id": 10071,
+"f": "views/office/dashboard/partials/stage11-finance.blade.php",
+"ar": "المركز المالي للمكتب"
+},
+{
+"id": 10072,
+"f": "views/office/dashboard/partials/stage11-finance.blade.php",
+"ar": "راجع مستحقات المكتب وحركات المحفظة من المركز المالي المخصص في المنصة. لا تُعرض أرقام تقديرية هنا."
+},
+{
+"id": 10073,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "فتح سوق المشاريع"
+},
+{
+"id": 10074,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "استعرض مشاريع العملاء المفتوحة وقدم عروضًا فنية ومالية باسم"
+},
+{
+"id": 10075,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "ضمن منافسة سرية وآمنة."
+},
+{
+"id": 10076,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "نوع المنافسة"
+},
+{
+"id": 10077,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "سرية العروض"
+},
+{
+"id": 10078,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "عروض المنافسين وأسعارهم مخفية"
+},
+{
+"id": 10079,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "بعد الفوز"
+},
+{
+"id": 10080,
+"f": "views/office/dashboard/partials/stage14-marketplace.blade.php",
+"ar": "مشروع رسمي"
+},
+{
+"id": 10081,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "الرسومات والمراجعات"
+},
+{
+"id": 10082,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "العودة للوحة المكتب"
+},
+{
+"id": 10083,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "كل المشاريع"
+},
+{
+"id": 10084,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "للمشاريع المسندة إليك فقط"
+},
+{
+"id": 10085,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "العودة للوحتي"
+},
+{
+"id": 10086,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "اختر المشروع"
+},
+{
+"id": 10087,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "إصدارات الملفات، حالة المراجعة، Markup والمقارنة البصرية"
+},
+{
+"id": 10088,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "لكل مشاريع"
+},
+{
+"id": 10089,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "اختر المشروع وارفع PDF أو DWG/DXF أو صورة أو Word/Excel/ZIP/RAR مباشرة. سيُنشأ V1 بانتظار المراجعة ثم يمكنك Versions وMarkup و"
+},
+{
+"id": 10090,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "عنوان الرسم / الملف"
+},
+{
+"id": 10091,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "رفع وإرسال للمراجعة"
+},
+{
+"id": 10092,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "بحث باسم الملف أو المشروع"
+},
+{
+"id": 10093,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "كل حالات المراجعة"
+},
+{
+"id": 10094,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "مفتوحة:"
+},
+{
+"id": 10095,
+"f": "views/office/drawing-reviews/index.blade.php",
+"ar": "لا توجد رسومات أو مراجعات مطابقة."
+},
+{
+"id": 10096,
+"f": "views/office/enterprise.blade.php",
+"ar": "انسخ"
+},
+{
+"id": 10097,
+"f": "views/office/enterprise.blade.php",
+"ar": "الآن — لن يظهر كاملًا مرة أخرى"
+},
+{
+"id": 10098,
+"f": "views/office/enterprise.blade.php",
+"ar": "احفظه الآن"
+},
+{
+"id": 10099,
+"f": "views/office/enterprise.blade.php",
+"ar": "آخر استخدام"
+},
+{
+"id": 10100,
+"f": "views/office/enterprise.blade.php",
+"ar": "لا توجد Tokens بعد."
+},
+{
+"id": 10101,
+"f": "views/office/enterprise.blade.php",
+"ar": "الأحداث"
+},
+{
+"id": 10102,
+"f": "views/office/enterprise.blade.php",
+"ar": "لا توجد Webhooks بعد."
+},
+{
+"id": 10103,
+"f": "views/office/enterprise.blade.php",
+"ar": "آخر عمليات التسليم"
+},
+{
+"id": 10104,
+"f": "views/office/enterprise.blade.php",
+"ar": "لا توجد عمليات تسليم بعد."
+},
+{
+"id": 10105,
+"f": "views/office/field-management/index.blade.php",
+"ar": "إدارة موقعي الهندسي"
+},
+{
+"id": 10106,
+"f": "views/office/field-management/index.blade.php",
+"ar": "إدارة موقع المكتب"
+},
+{
+"id": 10107,
+"f": "views/office/field-management/index.blade.php",
+"ar": "لمشاريع"
+},
+{
+"id": 10108,
+"f": "views/office/field-management/index.blade.php",
+"ar": "السلامة"
+},
+{
+"id": 10109,
+"f": "views/office/field-management/index.blade.php",
+"ar": "اختر النوع والمشروع ثم افتح النموذج مباشرة. من النموذج يمكنك التقاط/رفع الصور وإضافة PDF وWord وExcel وDWG/DXF و"
+},
+{
+"id": 10110,
+"f": "views/office/field-management/index.blade.php",
+"ar": "صور/ملفات"
+},
+{
+"id": 10111,
+"f": "views/office/field-management/index.blade.php",
+"ar": "بحث برقم السجل أو العنوان أو المشروع"
+},
+{
+"id": 10112,
+"f": "views/office/field-management/index.blade.php",
+"ar": "مرفقات:"
+},
+{
+"id": 10113,
+"f": "views/office/field-management/index.blade.php",
+"ar": "لا توجد سجلات موقع مطابقة."
+},
+{
+"id": 10114,
+"f": "views/office/finance/index.blade.php",
+"ar": "الاستشارات، المشاريع، مستحقات المهندسين، وصافي المكتب في مكان واحد."
+},
+{
+"id": 10115,
+"f": "views/office/finance/index.blade.php",
+"ar": "قيمة استشارات المكتب"
+},
+{
+"id": 10116,
+"f": "views/office/finance/index.blade.php",
+"ar": "إجمالي حصة المكتب"
+},
+{
+"id": 10117,
+"f": "views/office/finance/index.blade.php",
+"ar": "المستلم من المنصة"
+},
+{
+"id": 10118,
+"f": "views/office/finance/index.blade.php",
+"ar": "المتبقي من المنصة"
+},
+{
+"id": 10119,
+"f": "views/office/finance/index.blade.php",
+"ar": "صافي أرباح المكتب"
+},
+{
+"id": 10120,
+"f": "views/office/finance/index.blade.php",
+"ar": "ملخص الاستشارات"
+},
+{
+"id": 10121,
+"f": "views/office/finance/index.blade.php",
+"ar": "عدد السجلات المالية"
+},
+{
+"id": 10122,
+"f": "views/office/finance/index.blade.php",
+"ar": "مستحقات المهندسين المتبقية"
+},
+{
+"id": 10123,
+"f": "views/office/finance/index.blade.php",
+"ar": "ملخص المشاريع"
+},
+{
+"id": 10124,
+"f": "views/office/finance/index.blade.php",
+"ar": "عدد المشاريع"
+},
+{
+"id": 10125,
+"f": "views/office/finance/index.blade.php",
+"ar": "مستحقات مشاريع بانتظار المنصة"
+},
+{
+"id": 10126,
+"f": "views/office/finance/index.blade.php",
+"ar": "قيمة الاستشارة"
+},
+{
+"id": 10127,
+"f": "views/office/finance/index.blade.php",
+"ar": "نسبة المهندس من حصة المكتب"
+},
+{
+"id": 10128,
+"f": "views/office/finance/index.blade.php",
+"ar": "تسجيل دفع المهندس"
+},
+{
+"id": 10129,
+"f": "views/office/finance/index.blade.php",
+"ar": "تم دفع المهندس"
+},
+{
+"id": 10130,
+"f": "views/office/finance/index.blade.php",
+"ar": "اسند مهندس أولاً"
+},
+{
+"id": 10131,
+"f": "views/office/finance/index.blade.php",
+"ar": "لا توجد مالية استشارات بعد. يجب أن يحدد مدير المنصة نسبة المكتب أولاً."
+},
+{
+"id": 10132,
+"f": "views/office/finance/index.blade.php",
+"ar": "التقدم الفني"
+},
+{
+"id": 10133,
+"f": "views/office/finance/index.blade.php",
+"ar": "لا توجد مشاريع للمكتب."
+},
+{
+"id": 10134,
+"f": "views/office/finance/index.blade.php",
+"ar": "مستحقات مهندسي الاستشارات"
+},
+{
+"id": 10135,
+"f": "views/office/finance/index.blade.php",
+"ar": "لا توجد مستحقات استشارات."
+},
+{
+"id": 10136,
+"f": "views/office/finance/index.blade.php",
+"ar": "تسجيل دفع مهندس المشروع"
+},
+{
+"id": 10137,
+"f": "views/office/finance/index.blade.php",
+"ar": "مدفوع للمهندس"
+},
+{
+"id": 10138,
+"f": "views/office/finance/index.blade.php",
+"ar": "لا توجد مستحقات مشاريع حتى الآن."
+},
+{
+"id": 10139,
+"f": "views/office/members.blade.php",
+"ar": "أعضاء"
+},
+{
+"id": 10140,
+"f": "views/office/members.blade.php",
+"ar": "تعديل المسمى والتخصص والدور الوظيفي، أو تعطيل عضوية أحد أعضاء المكتب."
+},
+{
+"id": 10141,
+"f": "views/office/members.blade.php",
+"ar": "جميع العضويات"
+},
+{
+"id": 10142,
+"f": "views/office/members.blade.php",
+"ar": "المديرون والمالك"
+},
+{
+"id": 10143,
+"f": "views/office/members.blade.php",
+"ar": "عضو فعال"
+},
+{
+"id": 10144,
+"f": "views/office/members.blade.php",
+"ar": "عضوية غير فعالة"
+},
+{
+"id": 10145,
+"f": "views/office/members.blade.php",
+"ar": "تاريخ الانضمام:"
+},
+{
+"id": 10146,
+"f": "views/office/members.blade.php",
+"ar": "لا يمكن تعديل مالك المكتب"
+},
+{
+"id": 10147,
+"f": "views/office/members.blade.php",
+"ar": "الدور داخل المكتب"
+},
+{
+"id": 10148,
+"f": "views/office/members.blade.php",
+"ar": "حالة العضوية"
+},
+{
+"id": 10149,
+"f": "views/office/members.blade.php",
+"ar": "غير فعالة"
+},
+{
+"id": 10150,
+"f": "views/office/members.blade.php",
+"ar": "هل تريد إزالة هذا العضو من المكتب؟"
+},
+{
+"id": 10151,
+"f": "views/office/members.blade.php",
+"ar": "إزالة العضو من المكتب"
+},
+{
+"id": 10152,
+"f": "views/office/members.blade.php",
+"ar": "لا يوجد أعضاء"
+},
+{
+"id": 10153,
+"f": "views/office/members.blade.php",
+"ar": "لم تتم إضافة أعضاء إلى المكتب حتى الآن."
+},
+{
+"id": 10154,
+"f": "views/office/profile.blade.php",
+"ar": "الاشتراك"
+},
+{
+"id": 10155,
+"f": "views/office/profile.blade.php",
+"ar": "عمل منشور"
+},
+{
+"id": 10156,
+"f": "views/office/profile.blade.php",
+"ar": "الملف الشخصي للمكتب"
+},
+{
+"id": 10157,
+"f": "views/office/profile.blade.php",
+"ar": "فريق العمل"
+},
+{
+"id": 10158,
+"f": "views/office/profile.blade.php",
+"ar": "تعديل صورة المكتب"
+},
+{
+"id": 10159,
+"f": "views/office/profile.blade.php",
+"ar": "مكتبة أعمال المكتب"
+},
+{
+"id": 10160,
+"f": "views/office/profile.blade.php",
+"ar": "الأعمال المنشورة"
+},
+{
+"id": 10161,
+"f": "views/office/profile.blade.php",
+"ar": "المدينة، الدولة"
+},
+{
+"id": 10162,
+"f": "views/office/profile.blade.php",
+"ar": "توجد أخطاء في البيانات:"
+},
+{
+"id": 10163,
+"f": "views/office/profile.blade.php",
+"ar": "إعدادات المكتب والبيانات الأساسية التي تظهر للعملاء في صفحة المكتب العامة. تأكد من تحديث بياناتك بانتظام."
+},
+{
+"id": 10164,
+"f": "views/office/profile.blade.php",
+"ar": "عرض صفحة المكتب"
+},
+{
+"id": 10165,
+"f": "views/office/profile.blade.php",
+"ar": "ترخيص رقم:"
+},
+{
+"id": 10166,
+"f": "views/office/profile.blade.php",
+"ar": "تستطيع تعديل بيانات المكتب، لكن المكتب لا يستقبل طلبات انضمام أو استشارات جديدة أثناء الإيقاف."
+},
+{
+"id": 10167,
+"f": "views/office/profile.blade.php",
+"ar": "الصور التعريفية"
+},
+{
+"id": 10168,
+"f": "views/office/profile.blade.php",
+"ar": "صورة الملف الشخصي للمكتب"
+},
+{
+"id": 10169,
+"f": "views/office/profile.blade.php",
+"ar": "اختر الصورة ثم حرّكها وكبّرها وحدد الجزء الذي سيظهر، بأسلوب واضح وحديث."
+},
+{
+"id": 10170,
+"f": "views/office/profile.blade.php",
+"ar": "حذف الصورة الحالية"
+},
+{
+"id": 10171,
+"f": "views/office/profile.blade.php",
+"ar": "صورة الغلاف"
+},
+{
+"id": 10172,
+"f": "views/office/profile.blade.php",
+"ar": "تغيير صورة الغلاف"
+},
+{
+"id": 10173,
+"f": "views/office/profile.blade.php",
+"ar": "حذف صورة الغلاف الحالية"
+},
+{
+"id": 10174,
+"f": "views/office/profile.blade.php",
+"ar": "البيانات الأساسية"
+},
+{
+"id": 10175,
+"f": "views/office/profile.blade.php",
+"ar": "الموقع والعنوان"
+},
+{
+"id": 10176,
+"f": "views/office/profile.blade.php",
+"ar": "العنوان التفصيلي"
+},
+{
+"id": 10177,
+"f": "views/office/profile.blade.php",
+"ar": "اكتب تعريفًا واضحًا عن خدمات المكتب وخبراته وتخصصاته الهندسية."
+},
+{
+"id": 10178,
+"f": "views/office/profile.blade.php",
+"ar": "اكتب نبذة تعريفية عن المكتب..."
+},
+{
+"id": 10179,
+"f": "views/office/profile.blade.php",
+"ar": "حفظ التغييرات"
+},
+{
+"id": 10180,
+"f": "views/office/profile.blade.php",
+"ar": "جارٍ الحفظ..."
+},
+{
+"id": 10181,
+"f": "views/office/profile.blade.php",
+"ar": "البورتفوليو الهندسي"
+},
+{
+"id": 10182,
+"f": "views/office/profile.blade.php",
+"ar": "الأعمال المنشورة تظهر في الملف العام للمكتب، وتخضع لفحص المحتوى والمرفقات قبل النشر."
+},
+{
+"id": 10183,
+"f": "views/office/profile.blade.php",
+"ar": "عملاً"
+},
+{
+"id": 10184,
+"f": "views/office/profile.blade.php",
+"ar": "تقييماً موثقاً"
+},
+{
+"id": 10185,
+"f": "views/office/profile.blade.php",
+"ar": "المقيمون:"
+},
+{
+"id": 10186,
+"f": "views/office/profile.blade.php",
+"ar": "عنوان المشروع / العمل الهيكلي"
+},
+{
+"id": 10187,
+"f": "views/office/profile.blade.php",
+"ar": "مثال: تصميم برج تجاري وسكني حديث"
+},
+{
+"id": 10188,
+"f": "views/office/profile.blade.php",
+"ar": "الموقع الجغرافي للمشروع"
+},
+{
+"id": 10189,
+"f": "views/office/profile.blade.php",
+"ar": "الغلاف المعماري الرئيسي"
+},
+{
+"id": 10190,
+"f": "views/office/profile.blade.php",
+"ar": "اسحب صورة الغلاف أو اضغط للاختيار"
+},
+{
+"id": 10191,
+"f": "views/office/profile.blade.php",
+"ar": "النسبة المثالية 16:9 أو"
+},
+{
+"id": 10192,
+"f": "views/office/profile.blade.php",
+"ar": "الوصف المعماري والحلول الإنشائية"
+},
+{
+"id": 10193,
+"f": "views/office/profile.blade.php",
+"ar": "قدم نبذة مهنية عن التصميم والحلول الهندسية والأنظمة المستخدمة..."
+},
+{
+"id": 10194,
+"f": "views/office/profile.blade.php",
+"ar": "المخططات والوثائق الهندسية"
+},
+{
+"id": 10195,
+"f": "views/office/profile.blade.php",
+"ar": "حتى 12 ملفاً"
+},
+{
+"id": 10196,
+"f": "views/office/profile.blade.php",
+"ar": "نشر العمل في مكتبة المكتب الرسمية"
+},
+{
+"id": 10197,
+"f": "views/office/profile.blade.php",
+"ar": "يخضع النص والمرفقات لفحص السلامة والمحتوى قبل الحفظ."
+},
+{
+"id": 10198,
+"f": "views/office/profile.blade.php",
+"ar": "استعراض"
+},
+{
+"id": 10199,
+"f": "views/office/profile.blade.php",
+"ar": "حذف هذا العمل من مكتبة المكتب؟"
+},
+{
+"id": 10200,
+"f": "views/office/profile.blade.php",
+"ar": "عنوان العمل"
+},
+{
+"id": 10201,
+"f": "views/office/profile.blade.php",
+"ar": "حدد مرفقات لإزالتها"
+},
+{
+"id": 10202,
+"f": "views/office/profile.blade.php",
+"ar": "حفظ تعديلات العمل"
+},
+{
+"id": 10203,
+"f": "views/office/profile.blade.php",
+"ar": "لم يتم نشر أعمال للمكتب حتى الآن."
+},
+{
+"id": 10204,
+"f": "views/office/profile.blade.php",
+"ar": "تعديل صورة الملف الشخصي"
+},
+{
+"id": 10205,
+"f": "views/office/profile.blade.php",
+"ar": "اسحب الصورة لتغيير مكانها، واستخدم شريط التكبير لتحديد الجزء الظاهر."
+},
+{
+"id": 10206,
+"f": "views/office/profile.blade.php",
+"ar": "معاينة صورة المكتب"
+},
+{
+"id": 10207,
+"f": "views/office/profile.blade.php",
+"ar": "حفظ موضع الصورة"
+},
+{
+"id": 10208,
+"f": "views/office/profile.blade.php",
+"ar": "يرجى اختيار ملف صورة صالح."
+},
+{
+"id": 10209,
+"f": "views/office/profile.blade.php",
+"ar": "تعذر تجهيز الصورة."
+},
+{
+"id": 10210,
+"f": "views/office/profile.blade.php",
+"ar": "حدث خطأ أثناء تجهيز الصورة."
+},
+{
+"id": 10211,
+"f": "views/office/projects/index.blade.php",
+"ar": "مشاريع المكتب"
+},
+{
+"id": 10212,
+"f": "views/office/projects/index.blade.php",
+"ar": "نسب المهندسين"
+},
+{
+"id": 10213,
+"f": "views/office/projects/index.blade.php",
+"ar": "متابعة جميع المشاريع المرتبطة بالمكتب وقائد المشروع والحالة والقيمة والنسبة."
+},
+{
+"id": 10214,
+"f": "views/office/projects/index.blade.php",
+"ar": "المشاريع المكتملة"
+},
+{
+"id": 10215,
+"f": "views/office/projects/index.blade.php",
+"ar": "إجمالي القيمة"
+},
+{
+"id": 10216,
+"f": "views/office/projects/index.blade.php",
+"ar": "رقم المشروع، الاسم، العميل أو قائد المشروع"
+},
+{
+"id": 10217,
+"f": "views/office/subscription.blade.php",
+"ar": "المبلغ المطلوب"
+},
+{
+"id": 10218,
+"f": "views/office/subscription.blade.php",
+"ar": "كل أعضاء المكتب يشاهدون الحالة، وصاحب المكتب فقط يدير الباقة والدفع."
+},
+{
+"id": 10219,
+"f": "views/office/subscription.blade.php",
+"ar": "الأيام المتبقية"
+},
+{
+"id": 10220,
+"f": "views/office/subscription.blade.php",
+"ar": "التجربة المجانية مدتها 10 أيام من تاريخ موافقة الإدارة. إذا دفعت الآن تبدأ الباقة بعد انتهاء الأيام المجانية تلقائيًا."
+},
+{
+"id": 10221,
+"f": "views/office/subscription.blade.php",
+"ar": "أنت في فترة سماح مدفوعة. جدد قبل"
+},
+{
+"id": 10222,
+"f": "views/office/subscription.blade.php",
+"ar": "لتجنب توقف الوصول."
+},
+{
+"id": 10223,
+"f": "views/office/subscription.blade.php",
+"ar": "دفعة قيد مراجعة الإدارة"
+},
+{
+"id": 10224,
+"f": "views/office/subscription.blade.php",
+"ar": "لن تتأثر التجربة أو الفترة الحالية أثناء المراجعة."
+},
+{
+"id": 10225,
+"f": "views/office/subscription.blade.php",
+"ar": "الباقات المتاحة"
+},
+{
+"id": 10226,
+"f": "views/office/subscription.blade.php",
+"ar": "الاشتراك السنوي يحصل تلقائيًا على خصم"
+},
+{
+"id": 10227,
+"f": "views/office/subscription.blade.php",
+"ar": "وفّر"
+},
+{
+"id": 10228,
+"f": "views/office/subscription.blade.php",
+"ar": "اختيار الباقة"
+},
+{
+"id": 10229,
+"f": "views/office/subscription.blade.php",
+"ar": "اختر الباقة ودورة الفوترة ثم طريقة الدفع. معلومات دفع المنصة تظهر مباشرة عند الاختيار."
+},
+{
+"id": 10230,
+"f": "views/office/subscription.blade.php",
+"ar": "دورة الفوترة"
+},
+{
+"id": 10231,
+"f": "views/office/subscription.blade.php",
+"ar": "توفير"
+},
+{
+"id": 10232,
+"f": "views/office/subscription.blade.php",
+"ar": "كوبون الخصم (إن كان مفعّلًا للباقة)"
+},
+{
+"id": 10233,
+"f": "views/office/subscription.blade.php",
+"ar": "مرجع العملية (اختياري)"
+},
+{
+"id": 10234,
+"f": "views/office/subscription.blade.php",
+"ar": "رقم الحوالة أو العملية"
+},
+{
+"id": 10235,
+"f": "views/office/subscription.blade.php",
+"ar": "إرسال الدفعة للمراجعة"
+},
+{
+"id": 10236,
+"f": "views/office/subscription.blade.php",
+"ar": "الدفع من محفظتي"
+},
+{
+"id": 10237,
+"f": "views/office/subscription.blade.php",
+"ar": "ادفع ثمن الباقة المحددة الآن؛ ستظهر صفحة تأكيد هذه الباقة فقط، دون العودة لقائمة الباقات."
+},
+{
+"id": 10238,
+"f": "views/office/subscription.blade.php",
+"ar": "الباقة المختارة:"
+},
+{
+"id": 10239,
+"f": "views/office/subscription.blade.php",
+"ar": "اختر باقة"
+},
+{
+"id": 10240,
+"f": "views/office/subscription.blade.php",
+"ar": "الدفع الآمن"
+},
+{
+"id": 10241,
+"f": "views/office/subscription.blade.php",
+"ar": "عند اختيار أي وسيلة دفع تظهر بيانات منصة الوليد الهندسية مباشرة. الدفع بالبطاقة يتم فقط عبر رابط بوابة دفع خارجية آمنة."
+},
+{
+"id": 10242,
+"f": "views/office/subscription.blade.php",
+"ar": "كل بيانات الدفع"
+},
+{
+"id": 10243,
+"f": "views/office/subscription.blade.php",
+"ar": "إلغاء الاشتراك لا يوقفه فورًا؛ يبقى فعالًا حتى نهاية الفترة المدفوعة."
+},
+{
+"id": 10244,
+"f": "views/office/subscription.blade.php",
+"ar": "التراجع عن الإلغاء"
+},
+{
+"id": 10245,
+"f": "views/office/subscription.blade.php",
+"ar": "هل تريد إيقاف التجديد عند نهاية الفترة الحالية؟"
+},
+{
+"id": 10246,
+"f": "views/office/subscription.blade.php",
+"ar": "إلغاء عند نهاية الفترة"
+},
+{
+"id": 10247,
+"f": "views/office/subscription.blade.php",
+"ar": "الإلغاء المجدول متاح عند وجود اشتراك مدفوع فعال."
+},
+{
+"id": 10248,
+"f": "views/office/subscription.blade.php",
+"ar": "أنت عضو في المكتب ويمكنك مشاهدة الباقة والحالة والأسعار، لكن تغيير الباقة والدفع والإلغاء متاح لصاحب المكتب فقط."
+},
+{
+"id": 10249,
+"f": "views/office/subscription.blade.php",
+"ar": "الدورة"
+},
+{
+"id": 10250,
+"f": "views/office/subscription.blade.php",
+"ar": "سنوي (خصم"
+},
+{
+"id": 10251,
+"f": "views/office/subscription.blade.php",
+"ar": "لا توجد دفعات بعد."
+},
+{
+"id": 10252,
+"f": "views/offices/index.blade.php",
+"ar": "المكتبة الهندسية"
+},
+{
+"id": 10253,
+"f": "views/offices/index.blade.php",
+"ar": "طلباتي"
+},
+{
+"id": 10254,
+"f": "views/offices/index.blade.php",
+"ar": "استعرض المكاتب الهندسية، راجع بياناتها، وتابع حالة التفعيل والإيقاف والاشتراك."
+},
+{
+"id": 10255,
+"f": "views/offices/index.blade.php",
+"ar": "موقوفة"
+},
+{
+"id": 10256,
+"f": "views/offices/index.blade.php",
+"ar": "اسم المكتب، المدينة أو الدولة"
+},
+{
+"id": 10257,
+"f": "views/offices/index.blade.php",
+"ar": "المالك:"
+},
+{
+"id": 10258,
+"f": "views/offices/index.blade.php",
+"ar": "مقيم"
+},
+{
+"id": 10259,
+"f": "views/offices/index.blade.php",
+"ar": "جرّب تغيير البحث أو حالة المكتب."
+},
+{
+"id": 10260,
+"f": "views/offices/show.blade.php",
+"ar": "مكتب هندسي يقدم خدمات وحلولًا احترافية في المجالات الهندسية المختلفة."
+},
+{
+"id": 10261,
+"f": "views/offices/show.blade.php",
+"ar": "تسجيل الدخول لطلب الانضمام"
+},
+{
+"id": 10262,
+"f": "views/offices/show.blade.php",
+"ar": "أنت عضو فعال في هذا المكتب"
+},
+{
+"id": 10263,
+"f": "views/offices/show.blade.php",
+"ar": "طلب انضمامك قيد المراجعة"
+},
+{
+"id": 10264,
+"f": "views/offices/show.blade.php",
+"ar": "طلب الانضمام إلى المكتب"
+},
+{
+"id": 10265,
+"f": "views/offices/show.blade.php",
+"ar": "المكتب موقوف ولا يستقبل طلبات انضمام"
+},
+{
+"id": 10266,
+"f": "views/offices/show.blade.php",
+"ar": "اشتراك المكتب غير فعال حاليًا"
+},
+{
+"id": 10267,
+"f": "views/offices/show.blade.php",
+"ar": "طلب الانضمام غير متاح حاليًا"
+},
+{
+"id": 10268,
+"f": "views/offices/show.blade.php",
+"ar": "طلبات الانضمام مخصصة للمهندسين"
+},
+{
+"id": 10269,
+"f": "views/offices/show.blade.php",
+"ar": "إنشاء حساب لطلب استشارة"
+},
+{
+"id": 10270,
+"f": "views/offices/show.blade.php",
+"ar": "إنشاء حساب لطلب مشروع"
+},
+{
+"id": 10271,
+"f": "views/offices/show.blade.php",
+"ar": "طلب استشارة من المكتب"
+},
+{
+"id": 10272,
+"f": "views/offices/show.blade.php",
+"ar": "طلب مشروع من المكتب"
+},
+{
+"id": 10273,
+"f": "views/offices/show.blade.php",
+"ar": "لا يستطيع المكتب استقبال استشارات أو طلبات انضمام جديدة حاليًا."
+},
+{
+"id": 10274,
+"f": "views/offices/show.blade.php",
+"ar": "اشتراك المكتب غير فعال"
+},
+{
+"id": 10275,
+"f": "views/offices/show.blade.php",
+"ar": "يمكن مشاهدة الملف الشخصي للمكتب، لكن تقديم طلب الانضمام غير متاح حتى يتم تفعيل الاشتراك."
+},
+{
+"id": 10276,
+"f": "views/offices/show.blade.php",
+"ar": "لم يضف المكتب نبذة تعريفية حتى الآن."
+},
+{
+"id": 10277,
+"f": "views/offices/show.blade.php",
+"ar": "أعمال منشورة من إدارة المكتب بعد فحص المحتوى."
+},
+{
+"id": 10278,
+"f": "views/offices/show.blade.php",
+"ar": "لا توجد أعمال منشورة للمكتب حتى الآن."
+},
+{
+"id": 10279,
+"f": "views/offices/show.blade.php",
+"ar": "المقيمون"
+},
+{
+"id": 10280,
+"f": "views/offices/show.blade.php",
+"ar": "آراء العملاء"
+},
+{
+"id": 10281,
+"f": "views/offices/show.blade.php",
+"ar": "يظهر اسم العميل لأن التقييم مرتبط بمشروع مكتمل داخل المنصة."
+},
+{
+"id": 10282,
+"f": "views/offices/show.blade.php",
+"ar": "قيّم المكتب"
+},
+{
+"id": 10283,
+"f": "views/offices/show.blade.php",
+"ar": "التقييم متاح فقط لمشروع مكتمل مع هذا المكتب."
+},
+{
+"id": 10284,
+"f": "views/offices/show.blade.php",
+"ar": "اكتب تجربتك مع المكتب..."
+},
+{
+"id": 10285,
+"f": "views/offices/show.blade.php",
+"ar": "نشر التقييم الموثق"
+},
+{
+"id": 10286,
+"f": "views/offices/show.blade.php",
+"ar": "لا توجد تقييمات منشورة حتى الآن."
+},
+{
+"id": 10287,
+"f": "views/offices/show.blade.php",
+"ar": "لا يوجد مهندسون ظاهرون في فريق المكتب حاليًا."
+},
+{
+"id": 10288,
+"f": "views/offices/show.blade.php",
+"ar": "آخر طلب انضمام لك"
+},
+{
+"id": 10289,
+"f": "views/offices/show.blade.php",
+"ar": "نبذة"
+},
+{
+"id": 10290,
+"f": "views/packages/index.blade.php",
+"ar": "اختر الباقة ثم أكمل المتطلبات"
+},
+{
+"id": 10291,
+"f": "views/packages/index.blade.php",
+"ar": "الكوبون لا ينشئ باقة جديدة. أي خصم فعال يظهر داخل الباقة نفسها ويُتحقق منه عند الدفع."
+},
+{
+"id": 10292,
+"f": "views/packages/index.blade.php",
+"ar": "طرق الدفع المتاحة في المنصة"
+},
+{
+"id": 10293,
+"f": "views/packages/index.blade.php",
+"ar": "يمكنك شراء الباقات من رصيد المحفظة، أو إكمال طلب الباقة عبر مسار السداد المناسب. تظهر خيارات الشحن والتحويل والبوابات حسب العملة والدولة وحالة تفعيلها الفعلية عند إتمام العملية."
+},
+{
+"id": 10294,
+"f": "views/packages/index.blade.php",
+"ar": "شحن المحفظة بطرق الدفع المتاحة"
+},
+{
+"id": 10295,
+"f": "views/packages/index.blade.php",
+"ar": "عرض وسيلة الدفع لا يعني أنها متاحة لكل باقة أو عملة؛ يتم التحقق من التوافق والسعر والتوثيق عند إتمام الطلب."
+},
+{
+"id": 10296,
+"f": "views/packages/index.blade.php",
+"ar": "باقات الذكاء الاصطناعي"
+},
+{
+"id": 10297,
+"f": "views/packages/index.blade.php",
+"ar": "الكوبون"
+},
+{
+"id": 10298,
+"f": "views/packages/index.blade.php",
+"ar": "خاص بهذه الباقة وسيتم التحقق منه عند الدفع."
+},
+{
+"id": 10299,
+"f": "views/packages/index.blade.php",
+"ar": "تخزين"
+},
+{
+"id": 10300,
+"f": "views/packages/index.blade.php",
+"ar": "فرق عمل"
+},
+{
+"id": 10301,
+"f": "views/packages/index.blade.php",
+"ar": "عضو لكل فريق"
+},
+{
+"id": 10302,
+"f": "views/packages/index.blade.php",
+"ar": "ملف حتى"
+},
+{
+"id": 10303,
+"f": "views/packages/index.blade.php",
+"ar": "الحساب غير نشط حاليًا؛ راجع حالة الحساب قبل شراء باقة."
+},
+{
+"id": 10304,
+"f": "views/packages/index.blade.php",
+"ar": "حساب المدير لديه صلاحية AI غير محدودة بحسب إعدادات المنصة الحالية؛ لا يلزم شراء هذه الباقة من محفظتك الشخصية."
+},
+{
+"id": 10305,
+"f": "views/packages/index.blade.php",
+"ar": "هذه الباقة مخصصة لحساب"
+},
+{
+"id": 10306,
+"f": "views/packages/index.blade.php",
+"ar": "لا يمكن شراؤها لحساب المدير أو لحساب من نوع آخر. لا تتغير صلاحيات حسابك عند عرض الكتالوج."
+},
+{
+"id": 10307,
+"f": "views/packages/index.blade.php",
+"ar": "اختيار الباقة ورفع مستندات المكتب"
+},
+{
+"id": 10308,
+"f": "views/packages/index.blade.php",
+"ar": "اختيار الباقة ورفع مستندات المهندس"
+},
+{
+"id": 10309,
+"f": "views/packages/index.blade.php",
+"ar": "إكمال الشراء بطرق الدفع الأخرى"
+},
+{
+"id": 10310,
+"f": "views/packages/index.blade.php",
+"ar": "سجّل الدخول لاختيار الباقة وإكمال المتطلبات."
+},
+{
+"id": 10311,
+"f": "views/packages/index.blade.php",
+"ar": "لا توجد باقات فعالة."
+},
+{
+"id": 10312,
+"f": "views/payment-information.blade.php",
+"ar": "معلومات الدفع"
+},
+{
+"id": 10313,
+"f": "views/payment-information.blade.php",
+"ar": "اختر فلسطين أو السعودية أو منصات الدفع العالمية، ثم اختر طريقة الدفع التابعة لها"
+},
+{
+"id": 10314,
+"f": "views/payments/create.blade.php",
+"ar": "العودة للاستشارات"
+},
+{
+"id": 10315,
+"f": "views/payments/create.blade.php",
+"ar": "إتمام الدفع"
+},
+{
+"id": 10316,
+"f": "views/payments/create.blade.php",
+"ar": "عند التحويل البنكي اكتب المرجع كما هو. سيتم تأكيد الدفع تلقائيًا عند وصول الحوالة ومطابقتها."
+},
+{
+"id": 10317,
+"f": "views/payments/create.blade.php",
+"ar": "يمكنك الدفع من محفظتك لهذه الاستشارة تحديدًا. سيعرض الخادم السعر النهائي والرصيد قبل تأكيد الخصم."
+},
+{
+"id": 10318,
+"f": "views/payments/create.blade.php",
+"ar": "إكمال الدفع من محفظتي لهذه الاستشارة"
+},
+{
+"id": 10319,
+"f": "views/payments/create.blade.php",
+"ar": "الدفع بالمحفظة غير مفعل حاليًا؛ يرجى استخدام وسيلة دفع أخرى."
+},
+{
+"id": 10320,
+"f": "views/payments/create.blade.php",
+"ar": "صورة الإيصال تحفظ كإثبات للحوالة، لكنها لا تعتمد الدفعة وحدها. التأكيد النهائي يأتي من التحقق البنكي الموثق أو مراجعة الإدارة عند الحاجة."
+},
+{
+"id": 10321,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "العودة من فواتيري"
+},
+{
+"id": 10322,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "العملية مؤكدة بالفعل داخل المنصة."
+},
+{
+"id": 10323,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "تم الرجوع من فواتيري"
+},
+{
+"id": 10324,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "تم تسجيل عودة المتصفح بنجاح، لكننا لا نعتبرها إثبات دفع. ستبقى العملية قيد المراجعة إلى أن يتم التحقق من فواتيري أو من وسيلة تحقق رسمية."
+},
+{
+"id": 10325,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "إذا كنت تستخدم تطبيق Flutter يمكنك الآن العودة إلى التطبيق وتحديث الصفحة."
+},
+{
+"id": 10326,
+"f": "views/payments/fawateery-return.blade.php",
+"ar": "العودة إلى منصة الوليد الهندسية"
+},
+{
+"id": 10327,
+"f": "views/payments/fawateery-start.blade.php",
+"ar": "الانتقال إلى فواتيري"
+},
+{
+"id": 10328,
+"f": "views/payments/fawateery-start.blade.php",
+"ar": "جاري تحويلك إلى فواتيري"
+},
+{
+"id": 10329,
+"f": "views/payments/fawateery-start.blade.php",
+"ar": "سيتم فتح صفحة الدفع الآمنة لإكمال العملية. لا تغلق الصفحة أثناء التحويل."
+},
+{
+"id": 10330,
+"f": "views/payments/fawateery-start.blade.php",
+"ar": "الانتقال الآن"
+},
+{
+"id": 10331,
+"f": "views/payments/fawateery-start.blade.php",
+"ar": "غير مفعل. اضغط زر «الانتقال الآن» للمتابعة."
+},
+{
+"id": 10332,
+"f": "views/payments/index.blade.php",
+"ar": "نقدي"
+},
+{
+"id": 10333,
+"f": "views/payments/index.blade.php",
+"ar": "بطاقة بنكية"
+},
+{
+"id": 10334,
+"f": "views/payments/index.blade.php",
+"ar": "سجل الدفعات"
+},
+{
+"id": 10335,
+"f": "views/payments/index.blade.php",
+"ar": "جميع الدفعات"
+},
+{
+"id": 10336,
+"f": "views/payments/index.blade.php",
+"ar": "الدفعات المقبولة"
+},
+{
+"id": 10337,
+"f": "views/payments/index.blade.php",
+"ar": "الدفعات المرفوضة"
+},
+{
+"id": 10338,
+"f": "views/payments/index.blade.php",
+"ar": "إجمالي المقبول"
+},
+{
+"id": 10339,
+"f": "views/payments/index.blade.php",
+"ar": "حالة الدفعة"
+},
+{
+"id": 10340,
+"f": "views/payments/index.blade.php",
+"ar": "جميع الطرق"
+},
+{
+"id": 10341,
+"f": "views/payments/index.blade.php",
+"ar": "سجل المعاملات"
+},
+{
+"id": 10342,
+"f": "views/payments/index.blade.php",
+"ar": "جميع طلبات الدفع المرسلة من العملاء للمراجعة"
+},
+{
+"id": 10343,
+"f": "views/payments/index.blade.php",
+"ar": "إضافة دفعة"
+},
+{
+"id": 10344,
+"f": "views/payments/index.blade.php",
+"ar": "رقم المعاملة"
+},
+{
+"id": 10345,
+"f": "views/payments/index.blade.php",
+"ar": "قبول الدفعة"
+},
+{
+"id": 10346,
+"f": "views/payments/index.blade.php",
+"ar": "تم القبول"
+},
+{
+"id": 10347,
+"f": "views/payments/index.blade.php",
+"ar": "لم يتم تحديد السبب"
+},
+{
+"id": 10348,
+"f": "views/payments/index.blade.php",
+"ar": "لا توجد دفعات حتى الآن."
+},
+{
+"id": 10349,
+"f": "views/payments/index.blade.php",
+"ar": "سبب رفض الإيصال"
+},
+{
+"id": 10350,
+"f": "views/payments/index.blade.php",
+"ar": "اكتب سبب رفض الدفعة..."
+},
+{
+"id": 10351,
+"f": "views/payments/index.blade.php",
+"ar": "تأكيد رفض الدفعة"
+},
+{
+"id": 10352,
+"f": "views/payments/index.blade.php",
+"ar": "سبب رفض الدفعة"
+},
+{
+"id": 10353,
+"f": "views/payments/index.blade.php",
+"ar": "هل أنت متأكد من قبول الدفعة؟"
+},
+{
+"id": 10354,
+"f": "views/payments/index.blade.php",
+"ar": "جاري الرفض..."
+},
+{
+"id": 10355,
+"f": "views/privacy-policy.blade.php",
+"ar": "توضح هذه السياسة كيفية جمع بيانات المستخدمين واستخدامها وحمايتها."
+},
+{
+"id": 10356,
+"f": "views/privacy-policy.blade.php",
+"ar": "سياسة خصوصية منصة الوليد الهندسيةة"
+},
+{
+"id": 10357,
+"f": "views/privacy-policy.blade.php",
+"ar": "نحترم خصوصية مستخدمي المنصة، ونلتزم بحماية بياناتهم واستخدامها فقط للأغراض اللازمة لتقديم الخدمات."
+},
+{
+"id": 10358,
+"f": "views/privacy-policy.blade.php",
+"ar": "مقدمة"
+},
+{
+"id": 10359,
+"f": "views/privacy-policy.blade.php",
+"ar": "توضح سياسة الخصوصية هذه كيفية قيام منصة الوليد الهندسيةة للخدمات والاستشارات الهندسية بجمع البيانات الشخصية واستخدامها وتخزينها ومشاركتها وحمايتها عند استخدام الموقع أو إنشاء حساب أو طلب خدمة أو التواصل مع الدعم."
+},
+{
+"id": 10360,
+"f": "views/privacy-policy.blade.php",
+"ar": "يعد استخدام المنصة أو إنشاء حساب فيها موافقة على الممارسات الموضحة في هذه السياسة، ضمن الحدود التي تسمح بها الأنظمة المعمول بها."
+},
+{
+"id": 10361,
+"f": "views/privacy-policy.blade.php",
+"ar": "البيانات التي نجمعها"
+},
+{
+"id": 10362,
+"f": "views/privacy-policy.blade.php",
+"ar": "الاسم الكامل."
+},
+{
+"id": 10363,
+"f": "views/privacy-policy.blade.php",
+"ar": "البريد الإلكتروني."
+},
+{
+"id": 10364,
+"f": "views/privacy-policy.blade.php",
+"ar": "رقم الهاتف ورمز الدولة."
+},
+{
+"id": 10365,
+"f": "views/privacy-policy.blade.php",
+"ar": "كلمة المرور المشفرة."
+},
+{
+"id": 10366,
+"f": "views/privacy-policy.blade.php",
+"ar": "نوع الحساب والصلاحيات وحالة الحساب."
+},
+{
+"id": 10367,
+"f": "views/privacy-policy.blade.php",
+"ar": "الصورة الشخصية عند رفعها."
+},
+{
+"id": 10368,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات المهندسين والمكاتب"
+},
+{
+"id": 10369,
+"f": "views/privacy-policy.blade.php",
+"ar": "التخصص والمؤهلات والخبرات."
+},
+{
+"id": 10370,
+"f": "views/privacy-policy.blade.php",
+"ar": "السيرة الذاتية والشهادات."
+},
+{
+"id": 10371,
+"f": "views/privacy-policy.blade.php",
+"ar": "طلبات التسجيل والانضمام إلى المكاتب."
+},
+{
+"id": 10372,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات المكتب الهندسي والعضوية والاشتراك."
+},
+{
+"id": 10373,
+"f": "views/privacy-policy.blade.php",
+"ar": "نماذج الأعمال والتصاميم والصور المنشورة."
+},
+{
+"id": 10374,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات الاستشارات والمشاريع"
+},
+{
+"id": 10375,
+"f": "views/privacy-policy.blade.php",
+"ar": "عنوان الاستشارة ووصفها ونوعها."
+},
+{
+"id": 10376,
+"f": "views/privacy-policy.blade.php",
+"ar": "المخططات والصور والملفات والمرفقات."
+},
+{
+"id": 10377,
+"f": "views/privacy-policy.blade.php",
+"ar": "الرسائل المتبادلة بين العميل والمهندس."
+},
+{
+"id": 10378,
+"f": "views/privacy-policy.blade.php",
+"ar": "حالة الاستشارة والملاحظات وملفات التسليم."
+},
+{
+"id": 10379,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات العقار أو المشروع التي يقدمها العميل."
+},
+{
+"id": 10380,
+"f": "views/privacy-policy.blade.php",
+"ar": "بيانات الدفع"
+},
+{
+"id": 10381,
+"f": "views/privacy-policy.blade.php",
+"ar": "قيمة الخدمة وطريقة الدفع."
+},
+{
+"id": 10382,
+"f": "views/privacy-policy.blade.php",
+"ar": "رقم العملية أو المرجع المالي."
+},
+{
+"id": 10383,
+"f": "views/privacy-policy.blade.php",
+"ar": "إيصال الدفع أو التحويل البنكي."
+},
+{
+"id": 10384,
+"f": "views/privacy-policy.blade.php",
+"ar": "حالة اعتماد الدفعة والفواتير المرتبطة بها."
+}
+]

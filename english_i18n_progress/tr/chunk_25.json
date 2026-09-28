@@ -1,0 +1,2312 @@
+[
+{
+"id": 8714,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "الدفع مرفوض"
+},
+{
+"id": 8715,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "الدفع قيد الفحص"
+},
+{
+"id": 8716,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "طلب رقم:"
+},
+{
+"id": 8717,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "تجديد اشتراك"
+},
+{
+"id": 8718,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "بيانات المتقدم"
+},
+{
+"id": 8719,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "نوع الطلب"
+},
+{
+"id": 8720,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "انتهاء الاشتراك الحالي"
+},
+{
+"id": 8721,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "الدفع والمستندات"
+},
+{
+"id": 8722,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "قيمة الطلب"
+},
+{
+"id": 8723,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "لم يتم رفع سيرة ذاتية."
+},
+{
+"id": 8724,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "تاريخ تقديم الطلب:"
+},
+{
+"id": 8725,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "عدد أيام تفعيل المهندس"
+},
+{
+"id": 8726,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "مثال: 30 أو 90 أو 365 يومًا. عند التجديد قبل انتهاء الاشتراك تضاف الأيام إلى المدة الحالية."
+},
+{
+"id": 8727,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "ملاحظة الموافقة"
+},
+{
+"id": 8728,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "اكتب ملاحظة للمهندس..."
+},
+{
+"id": 8729,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "هل أنت متأكد من تأكيد الدفع وتفعيل المهندس للمدة المحددة؟"
+},
+{
+"id": 8730,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "قبول التجديد وتفعيل المهندس"
+},
+{
+"id": 8731,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "تأكيد الدفع وقبول الطلب"
+},
+{
+"id": 8732,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "اكتب سبب رفض الطلب..."
+},
+{
+"id": 8733,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "تمت معالجة هذا الطلب"
+},
+{
+"id": 8734,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "مدة التفعيل:"
+},
+{
+"id": 8735,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "بداية المدة:"
+},
+{
+"id": 8736,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "انتهاء المدة:"
+},
+{
+"id": 8737,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "تاريخ الموافقة:"
+},
+{
+"id": 8738,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "ملاحظة الإدارة"
+},
+{
+"id": 8739,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "ستظهر طلبات الانضمام ودفعات التجديد هنا."
+},
+{
+"id": 8740,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "المدفوع للمهندسين"
+},
+{
+"id": 8741,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "قيمة الاستشارات المباشرة المؤكدة"
+},
+{
+"id": 8742,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "تم تسجيل تحويله للمهندس"
+},
+{
+"id": 8743,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "المتبقي للمهندسين"
+},
+{
+"id": 8744,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "جاهز للصرف البنكي"
+},
+{
+"id": 8745,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "قيد التحويل"
+},
+{
+"id": 8746,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "بانتظار تأكيد البنك"
+},
+{
+"id": 8747,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "بعد احتساب مستحق المهندسين"
+},
+{
+"id": 8748,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "عدد المستحقات"
+},
+{
+"id": 8749,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "سجلات الاستشارات المباشرة"
+},
+{
+"id": 8750,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "مالية استشارات المهندسين"
+},
+{
+"id": 8751,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "إدارة نسب ومستحقات المهندسين في الاستشارات المباشرة مع المنصة."
+},
+{
+"id": 8752,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "مالية استشارات المهندسين المباشرة"
+},
+{
+"id": 8753,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "ابحث بالاستشارة، العميل، المهندس، النسبة، القيمة، الحالة..."
+},
+{
+"id": 8754,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "نسبة المهندس"
+},
+{
+"id": 8755,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "سيتم إرسال طلب تحويل المستحق إلى الحساب البنكي الموثّق للمهندس. لن تسجل العملية كمدفوعة إلا بعد تأكيد البنك. متابعة؟"
+},
+{
+"id": 8756,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "إرسال التحويل البنكي"
+},
+{
+"id": 8757,
+"f": "views/engineer-earnings/index.blade.php",
+"ar": "لا توجد مستحقات مهندسين مباشرة مطابقة."
+},
+{
+"id": 8758,
+"f": "views/engineer-reviews/create.blade.php",
+"ar": "نجوم"
+},
+{
+"id": 8759,
+"f": "views/engineer-reviews/create.blade.php",
+"ar": "قيّم تجربتك مع المهندس"
+},
+{
+"id": 8760,
+"f": "views/engineer-reviews/create.blade.php",
+"ar": "اختر التقييم"
+},
+{
+"id": 8761,
+"f": "views/engineer-reviews/create.blade.php",
+"ar": "تعليقك"
+},
+{
+"id": 8762,
+"f": "views/engineer-reviews/create.blade.php",
+"ar": "اكتب رأيك في تعامل المهندس وجودة العمل..."
+},
+{
+"id": 8763,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "البحث عن عمل هندسي..."
+},
+{
+"id": 8764,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "المقر الرئيسي"
+},
+{
+"id": 8765,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "يرجى تصحيح الأخطاء التالية"
+},
+{
+"id": 8766,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "نظام مراجعة الجودة"
+},
+{
+"id": 8767,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "مراجعة أعمال المهندسين"
+},
+{
+"id": 8768,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "راجع الأعمال المضافة، وافق عليها أو ارفضها أو احذفها نهائيًا. تأكد من مطابقة جميع المخططات للمعايير الهندسية المعتمدة لدى المكتب."
+},
+{
+"id": 8769,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "إجمالي الأعمال"
+},
+{
+"id": 8770,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "سجل مراجعة الأعمال"
+},
+{
+"id": 8771,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "الصورة"
+},
+{
+"id": 8772,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "عرض العمل"
+},
+{
+"id": 8773,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "هل تريد الموافقة على هذا العمل؟"
+},
+{
+"id": 8774,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "موافقة"
+},
+{
+"id": 8775,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "لا توجد أعمال للمراجعة"
+},
+{
+"id": 8776,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "جميع الأعمال مكتملة حاليًا. ستظهر أعمال المهندسين الجديدة هنا فور إضافتها للنظام."
+},
+{
+"id": 8777,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "أعمال قيد الانتظار"
+},
+{
+"id": 8778,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "يوجد حاليًا"
+},
+{
+"id": 8779,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "عمل بانتظار المراجعة الفنية."
+},
+{
+"id": 8780,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "أعمال مرفوضة"
+},
+{
+"id": 8781,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "عدد الأعمال المرفوضة حاليًا هو"
+},
+{
+"id": 8782,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "الأعمال المعتمدة"
+},
+{
+"id": 8783,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "عمل ونشره في النظام."
+},
+{
+"id": 8784,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "رفض العمل"
+},
+{
+"id": 8785,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "العمل:"
+},
+{
+"id": 8786,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "سبب رفض العمل"
+},
+{
+"id": 8787,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "اكتب للمهندس سبب رفض العمل والتعديلات المطلوبة..."
+},
+{
+"id": 8788,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "تأكيد رفض العمل"
+},
+{
+"id": 8789,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "حالة العمل"
+},
+{
+"id": 8790,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "المكتبة العامة"
+},
+{
+"id": 8791,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "حذف نهائي"
+},
+{
+"id": 8792,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "هذا العمل"
+},
+{
+"id": 8793,
+"f": "views/engineer-works/admin-index.blade.php",
+"ar": "نهائيًا؟"
+},
+{
+"id": 8794,
+"f": "views/engineer-works/create.blade.php",
+"ar": "المساحة"
+},
+{
+"id": 8795,
+"f": "views/engineer-works/create.blade.php",
+"ar": "الصورة الرئيسية للمشروع"
+},
+{
+"id": 8796,
+"f": "views/engineer-works/create.blade.php",
+"ar": "صور إضافية للمشروع"
+},
+{
+"id": 8797,
+"f": "views/engineer-works/create.blade.php",
+"ar": "إضافة مشروع إلى معرض أعمالك"
+},
+{
+"id": 8798,
+"f": "views/engineer-works/create.blade.php",
+"ar": "اعرض مشروعك بطريقة احترافية مع بيانات المشروع والصور والمقارنات والملفات الفنية، وتتكيف المتطلبات تلقائيًا مع تخصصك الهندسي الحالي."
+},
+{
+"id": 8799,
+"f": "views/engineer-works/create.blade.php",
+"ar": "مثال: تصميم وتنفيذ مشروع احترافي"
+},
+{
+"id": 8800,
+"f": "views/engineer-works/create.blade.php",
+"ar": "اختر نوع المشروع"
+},
+{
+"id": 8801,
+"f": "views/engineer-works/create.blade.php",
+"ar": "وحدة المساحة"
+},
+{
+"id": 8802,
+"f": "views/engineer-works/create.blade.php",
+"ar": "السنة"
+},
+{
+"id": 8803,
+"f": "views/engineer-works/create.blade.php",
+"ar": "دورك في المشروع"
+},
+{
+"id": 8804,
+"f": "views/engineer-works/create.blade.php",
+"ar": "اختر أو اكتب دورك في المشروع"
+},
+{
+"id": 8805,
+"f": "views/engineer-works/create.blade.php",
+"ar": "البرامج والأدوات المستخدمة"
+},
+{
+"id": 8806,
+"f": "views/engineer-works/create.blade.php",
+"ar": "هذه الحقول تتغير تلقائيًا حسب تخصص المهندس."
+},
+{
+"id": 8807,
+"f": "views/engineer-works/create.blade.php",
+"ar": "متطلبات التخصص"
+},
+{
+"id": 8808,
+"f": "views/engineer-works/create.blade.php",
+"ar": "وصف المشروع والحل الهندسي"
+},
+{
+"id": 8809,
+"f": "views/engineer-works/create.blade.php",
+"ar": "اشرح فكرة المشروع، التحديات، الحلول الهندسية، وما الذي قمت به تحديدًا..."
+},
+{
+"id": 8810,
+"f": "views/engineer-works/create.blade.php",
+"ar": "الصور والوسائط"
+},
+{
+"id": 8811,
+"f": "views/engineer-works/create.blade.php",
+"ar": "هذه الصورة هي غلاف المشروع، وستظهر في بطاقة العمل وصفحة التفاصيل."
+},
+{
+"id": 8812,
+"f": "views/engineer-works/create.blade.php",
+"ar": "بحد أقصى"
+},
+{
+"id": 8813,
+"f": "views/engineer-works/create.blade.php",
+"ar": "يمكن إضافة حتى 14 صورة إضافية"
+},
+{
+"id": 8814,
+"f": "views/engineer-works/create.blade.php",
+"ar": "بحد أقصى 15MB للصورة."
+},
+{
+"id": 8815,
+"f": "views/engineer-works/create.blade.php",
+"ar": "صور الحالة قبل التنفيذ أو قبل التطوير."
+},
+{
+"id": 8816,
+"f": "views/engineer-works/create.blade.php",
+"ar": "صور النتيجة النهائية أو ما بعد المعالجة."
+},
+{
+"id": 8817,
+"f": "views/engineer-works/create.blade.php",
+"ar": "الملفات التقديمية وملفات التخصص"
+},
+{
+"id": 8818,
+"f": "views/engineer-works/create.blade.php",
+"ar": "كتيب العرض"
+},
+{
+"id": 8819,
+"f": "views/engineer-works/create.blade.php",
+"ar": "ملف تقديمي أو تقرير المشروع — حتى"
+},
+{
+"id": 8820,
+"f": "views/engineer-works/create.blade.php",
+"ar": "المخططات التنفيذية أو ملف CAD الرئيسي — حتى"
+},
+{
+"id": 8821,
+"f": "views/engineer-works/create.blade.php",
+"ar": "الصيغ المقترحة:"
+},
+{
+"id": 8822,
+"f": "views/engineer-works/create.blade.php",
+"ar": "حتى 8 ملفات، 100MB للملف."
+},
+{
+"id": 8823,
+"f": "views/engineer-works/create.blade.php",
+"ar": "فيديو المشروع"
+},
+{
+"id": 8824,
+"f": "views/engineer-works/create.blade.php",
+"ar": "أو رابط فيديو خارجي"
+},
+{
+"id": 8825,
+"f": "views/engineer-works/create.blade.php",
+"ar": "حفظ ونشر المشروع"
+},
+{
+"id": 8826,
+"f": "views/engineer-works/index.blade.php",
+"ar": "عرض المكتبة العامة"
+},
+{
+"id": 8827,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "أعمالي الهندسية"
+},
+{
+"id": 8828,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "يمكنك متابعة حالة الأعمال المرسلة للمراجعة"
+},
+{
+"id": 8829,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "لا توجد صورة"
+},
+{
+"id": 8830,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "نوع المشروع:"
+},
+{
+"id": 8831,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "سنة الإنجاز:"
+},
+{
+"id": 8832,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "هل تريد حذف هذا العمل؟"
+},
+{
+"id": 8833,
+"f": "views/engineer-works/my-works.blade.php",
+"ar": "أضف أول مشروع هندسي لعرضه في ملفك"
+},
+{
+"id": 8834,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مكتبة الأعمال"
+},
+{
+"id": 8835,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مهندس المنصة"
+},
+{
+"id": 8836,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مهندس على المنصة"
+},
+{
+"id": 8837,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "فتح ملف المكتب"
+},
+{
+"id": 8838,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "لا توجد أعمال منشورة حاليًا"
+},
+{
+"id": 8839,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مكتبة أعمال المكاتب"
+},
+{
+"id": 8840,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مكتبة أعمال المهندسين"
+},
+{
+"id": 8841,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "ابحث عن عمل، مهندس، مكتب أو تخصص..."
+},
+{
+"id": 8842,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "ابحث عن عمل، مهندس أو مكتب..."
+},
+{
+"id": 8843,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مساحة الإبداع الهندسي"
+},
+{
+"id": 8844,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "أرشيف المشاريع الرقمي"
+},
+{
+"id": 8845,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "استعرض أعمال المكاتب الهندسية المنشورة وملفاتها الموثقة."
+},
+{
+"id": 8846,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "هنا تجتمع خبرات المهندسين. تصفح الأعمال المنشورة والمخططات والتصاميم المعتمدة."
+},
+{
+"id": 8847,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "ابحث باسم العمل أو المهندس أو المكتب أو المدينة أو التخصص..."
+},
+{
+"id": 8848,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "كل التخصصات الهندسية"
+},
+{
+"id": 8849,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "بحث متقدم"
+},
+{
+"id": 8850,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "عمل مكتب"
+},
+{
+"id": 8851,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "عمل مهندس"
+},
+{
+"id": 8852,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "مكتب هندسي على المنصة"
+},
+{
+"id": 8853,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "طلب المكتب"
+},
+{
+"id": 8854,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "طلب المهندس"
+},
+{
+"id": 8855,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "ستظهر هنا أعمال المكاتب المنشورة بعد اعتمادها."
+},
+{
+"id": 8856,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "ستظهر هنا أعمال المهندسين بعد مراجعتها واعتمادها من الإدارة."
+},
+{
+"id": 8857,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "لا توجد نتائج مطابقة"
+},
+{
+"id": 8858,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "غيّر عبارة البحث أو اختر قسمًا آخر."
+},
+{
+"id": 8859,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "المكاتب الظاهرة"
+},
+{
+"id": 8860,
+"f": "views/engineer-works/public-index.blade.php",
+"ar": "المهندسون الظاهرون"
+},
+{
+"id": 8861,
+"f": "views/engineer-works/show.blade.php",
+"ar": "لا توجد صور"
+},
+{
+"id": 8862,
+"f": "views/engineer-works/show.blade.php",
+"ar": "تخصص هندسي"
+},
+{
+"id": 8863,
+"f": "views/engineer-works/show.blade.php",
+"ar": "طبيعة المشروع"
+},
+{
+"id": 8864,
+"f": "views/engineer-works/show.blade.php",
+"ar": "سنة التنفيذ"
+},
+{
+"id": 8865,
+"f": "views/engineer-works/show.blade.php",
+"ar": "سجل المشروعات الهندسية المعتمدة"
+},
+{
+"id": 8866,
+"f": "views/engineer-works/show.blade.php",
+"ar": "الملف الاحترافي للمهندس"
+},
+{
+"id": 8867,
+"f": "views/engineer-works/show.blade.php",
+"ar": "الملف الاحترافي"
+},
+{
+"id": 8868,
+"f": "views/engineer-works/show.blade.php",
+"ar": "أدوات وبيئة العمل:"
+},
+{
+"id": 8869,
+"f": "views/engineer-works/show.blade.php",
+"ar": "المتطلبات والمعلومات الفنية الخاصة بهذا التخصص الهندسي"
+},
+{
+"id": 8870,
+"f": "views/engineer-works/show.blade.php",
+"ar": "الصورة الرئيسية لمشروع"
+},
+{
+"id": 8871,
+"f": "views/engineer-works/show.blade.php",
+"ar": "لم يتم رفع صورة رئيسية لهذا المشروع."
+},
+{
+"id": 8872,
+"f": "views/engineer-works/show.blade.php",
+"ar": "فيديو المشروع والعرض التوضيحي"
+},
+{
+"id": 8873,
+"f": "views/engineer-works/show.blade.php",
+"ar": "تشغيل الفيديو"
+},
+{
+"id": 8874,
+"f": "views/engineer-works/show.blade.php",
+"ar": "مدة الفيديو: --:-- دقيقة"
+},
+{
+"id": 8875,
+"f": "views/engineer-works/show.blade.php",
+"ar": "تقدم الفيديو"
+},
+{
+"id": 8876,
+"f": "views/engineer-works/show.blade.php",
+"ar": "تشغيل / إيقاف مؤقت"
+},
+{
+"id": 8877,
+"f": "views/engineer-works/show.blade.php",
+"ar": "مستوى الصوت"
+},
+{
+"id": 8878,
+"f": "views/engineer-works/show.blade.php",
+"ar": "ملء الشاشة"
+},
+{
+"id": 8879,
+"f": "views/engineer-works/show.blade.php",
+"ar": "الفيديو محفوظ كرابط خارجي."
+},
+{
+"id": 8880,
+"f": "views/engineer-works/show.blade.php",
+"ar": "فتح الفيديو"
+},
+{
+"id": 8881,
+"f": "views/engineer-works/show.blade.php",
+"ar": "عرض المشروع بصيغة"
+},
+{
+"id": 8882,
+"f": "views/engineer-works/show.blade.php",
+"ar": "ملف المخططات التنفيذية"
+},
+{
+"id": 8883,
+"f": "views/engineer-works/show.blade.php",
+"ar": "العودة إلى الملف الاحترافي للمهندس"
+},
+{
+"id": 8884,
+"f": "views/engineer-works/show.blade.php",
+"ar": "مدة الفيديو:"
+},
+{
+"id": 8885,
+"f": "views/engineer/specialty.blade.php",
+"ar": "التخصص والنبذة"
+},
+{
+"id": 8886,
+"f": "views/engineer/specialty.blade.php",
+"ar": "التخصص الهندسي"
+},
+{
+"id": 8887,
+"f": "views/engineer/specialty.blade.php",
+"ar": "اختر التخصص"
+},
+{
+"id": 8888,
+"f": "views/engineer/specialty.blade.php",
+"ar": "نبذة عن المهندس"
+},
+{
+"id": 8889,
+"f": "views/engineer/specialty.blade.php",
+"ar": "الملف المهني"
+},
+{
+"id": 8890,
+"f": "views/engineer/specialty.blade.php",
+"ar": "اختر تخصصك الهندسي واكتب نبذة احترافية تظهر للعملاء والإدارة في صفحتك العامة."
+},
+{
+"id": 8891,
+"f": "views/engineer/specialty.blade.php",
+"ar": "الملف الهندسي"
+},
+{
+"id": 8892,
+"f": "views/engineer/specialty.blade.php",
+"ar": "تخصصك الحالي"
+},
+{
+"id": 8893,
+"f": "views/engineer/specialty.blade.php",
+"ar": "اكتب نبذة عن خبرتك ومشاريعك ومجالات عملك..."
+},
+{
+"id": 8894,
+"f": "views/engineer/specialty.blade.php",
+"ar": "حفظ التخصص والنبذة"
+},
+{
+"id": 8895,
+"f": "views/engineer/specialty.blade.php",
+"ar": "ستظهر هذه المعلومات في صفحتك العامة."
+},
+{
+"id": 8896,
+"f": "views/engineer/specialty.blade.php",
+"ar": "الحد الأقصى 2000 حرف."
+},
+{
+"id": 8897,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "التقييم العام"
+},
+{
+"id": 8898,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "مراجعة عميل"
+},
+{
+"id": 8899,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "مشروع منشور"
+},
+{
+"id": 8900,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "الأعمال والمشاريع"
+},
+{
+"id": 8901,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "إضافة مشروع"
+},
+{
+"id": 8902,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "ستظهر المشاريع المعتمدة هنا."
+},
+{
+"id": 8903,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "إضافة أول مشروع"
+},
+{
+"id": 8904,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "هل تبحث عن تصميم استثنائي لمشروعك القادم؟"
+},
+{
+"id": 8905,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "اطلب استشارة من المهندس لمناقشة فكرتك ومتطلبات المشروع من داخل المنصة."
+},
+{
+"id": 8906,
+"f": "views/engineers/professional-profile.blade.php",
+"ar": "طلب استشارة من المهندس"
+},
+{
+"id": 8907,
+"f": "views/engineers/show.blade.php",
+"ar": "تقييم"
+},
+{
+"id": 8908,
+"f": "views/engineers/show.blade.php",
+"ar": "تقييم موثق"
+},
+{
+"id": 8909,
+"f": "views/engineers/show.blade.php",
+"ar": "عرض ملف"
+},
+{
+"id": 8910,
+"f": "views/engineers/show.blade.php",
+"ar": "عضو منذ"
+},
+{
+"id": 8911,
+"f": "views/engineers/show.blade.php",
+"ar": "مراسلة المهندس"
+},
+{
+"id": 8912,
+"f": "views/engineers/show.blade.php",
+"ar": "اطلب استشارة"
+},
+{
+"id": 8913,
+"f": "views/engineers/show.blade.php",
+"ar": "سجل الدخول لطلب استشارة"
+},
+{
+"id": 8914,
+"f": "views/engineers/show.blade.php",
+"ar": "المشاريع المنشورة"
+},
+{
+"id": 8915,
+"f": "views/engineers/show.blade.php",
+"ar": "بناءً على"
+},
+{
+"id": 8916,
+"f": "views/engineers/show.blade.php",
+"ar": "لم تتم إضافة نبذة عن المهندس حتى الآن."
+},
+{
+"id": 8917,
+"f": "views/engineers/show.blade.php",
+"ar": "تقييمات وآراء العملاء"
+},
+{
+"id": 8918,
+"f": "views/engineers/show.blade.php",
+"ar": "تقييمات العملاء بعد إكمال الاستشارات"
+},
+{
+"id": 8919,
+"f": "views/engineers/show.blade.php",
+"ar": "استشارة مكتملة"
+},
+{
+"id": 8920,
+"f": "views/engineers/show.blade.php",
+"ar": "لم يكتب العميل تعليقًا."
+},
+{
+"id": 8921,
+"f": "views/engineers/show.blade.php",
+"ar": "ستظهر تقييمات العملاء هنا بعد إكمال الاستشارات."
+},
+{
+"id": 8922,
+"f": "views/engineers/show.blade.php",
+"ar": "أعمال المهندس"
+},
+{
+"id": 8923,
+"f": "views/engineers/show.blade.php",
+"ar": "المشاريع والأعمال الهندسية المنشورة"
+},
+{
+"id": 8924,
+"f": "views/engineers/show.blade.php",
+"ar": "تحميل ملف"
+},
+{
+"id": 8925,
+"f": "views/engineers/show.blade.php",
+"ar": "لا توجد أعمال منشورة"
+},
+{
+"id": 8926,
+"f": "views/engineers/show.blade.php",
+"ar": "لم يضف المهندس أي مشاريع معتمدة حتى الآن."
+},
+{
+"id": 8927,
+"f": "views/errors/403.blade.php",
+"ar": "ليس لديك صلاحية"
+},
+{
+"id": 8928,
+"f": "views/errors/403.blade.php",
+"ar": "ليس لديك صلاحية للوصول"
+},
+{
+"id": 8929,
+"f": "views/errors/403.blade.php",
+"ar": "عذرًا، لا تملك الصلاحيات اللازمة للوصول إلى هذه الصفحة."
+},
+{
+"id": 8930,
+"f": "views/errors/404.blade.php",
+"ar": "الصفحة غير موجودة"
+},
+{
+"id": 8931,
+"f": "views/errors/404.blade.php",
+"ar": "الصفحة التي تبحث عنها غير موجودة، أو تم نقلها، أو لم تعد متاحة."
+},
+{
+"id": 8932,
+"f": "views/errors/404.blade.php",
+"ar": "العودة إلى الرئيسية"
+},
+{
+"id": 8933,
+"f": "views/errors/409.blade.php",
+"ar": "اذهب إلى المحفظة"
+},
+{
+"id": 8934,
+"f": "views/errors/409.blade.php",
+"ar": "تبديل الوضع الليلي والنهاري"
+},
+{
+"id": 8935,
+"f": "views/errors/409.blade.php",
+"ar": "الوضع الليلي / النهاري"
+},
+{
+"id": 8936,
+"f": "views/errors/409.blade.php",
+"ar": "تفاصيل:"
+},
+{
+"id": 8937,
+"f": "views/errors/409.blade.php",
+"ar": "رمز الخطأ:"
+},
+{
+"id": 8938,
+"f": "views/errors/409.blade.php",
+"ar": "لا يمكن إتمام هذه العملية"
+},
+{
+"id": 8939,
+"f": "views/errors/409.blade.php",
+"ar": "تم رفض العملية لأن حالتها الحالية لا تسمح بإتمامها. راجع التفاصيل وحاول مرة أخرى."
+},
+{
+"id": 8940,
+"f": "views/errors/409.blade.php",
+"ar": "السيولة"
+},
+{
+"id": 8941,
+"f": "views/errors/409.blade.php",
+"ar": "التحويل غير متاح حالياً لهذه العملة"
+},
+{
+"id": 8942,
+"f": "views/errors/409.blade.php",
+"ar": "رصيد المنصة من العملة اللي بدك تحوّل إلها مش كافي هلأ. جرّب مبلغ أقل أو حاول لاحقاً."
+},
+{
+"id": 8943,
+"f": "views/errors/409.blade.php",
+"ar": "تغير السعر"
+},
+{
+"id": 8944,
+"f": "views/errors/409.blade.php",
+"ar": "تغيّر السعر"
+},
+{
+"id": 8945,
+"f": "views/errors/409.blade.php",
+"ar": "تغيّر سعر التحويل"
+},
+{
+"id": 8946,
+"f": "views/errors/409.blade.php",
+"ar": "السعر أو الرسوم تغيّرت بعد ما طلبت العرض. اطلب عرض سعر جديد وأكّد عليه."
+},
+{
+"id": 8947,
+"f": "views/errors/409.blade.php",
+"ar": "مفتاح الطلب"
+},
+{
+"id": 8948,
+"f": "views/errors/409.blade.php",
+"ar": "مرتين"
+},
+{
+"id": 8949,
+"f": "views/errors/409.blade.php",
+"ar": "مستخدم سابق"
+},
+{
+"id": 8950,
+"f": "views/errors/409.blade.php",
+"ar": "تم إرسال هذا الطلب من قبل"
+},
+{
+"id": 8951,
+"f": "views/errors/409.blade.php",
+"ar": "يبدو إنه الطلب انبعت أكثر من مرة. ارجع لصفحتك وتأكد من حالة طلبك قبل ما تعيد المحاولة."
+},
+{
+"id": 8952,
+"f": "views/errors/409.blade.php",
+"ar": "هوية"
+},
+{
+"id": 8953,
+"f": "views/errors/409.blade.php",
+"ar": "لازم توثّق هويتك قبل ما تقدر تعمل هاي العملية."
+},
+{
+"id": 8954,
+"f": "views/errors/409.blade.php",
+"ar": "وثّق حسابي الآن"
+},
+{
+"id": 8955,
+"f": "views/errors/409.blade.php",
+"ar": "رصيدك غير كافٍ"
+},
+{
+"id": 8956,
+"f": "views/errors/409.blade.php",
+"ar": "رصيد محفظتك ما بيكفي لهاي العملية. اشحن المحفظة أولاً وبعدين جرّب مرة ثانية."
+},
+{
+"id": 8957,
+"f": "views/errors/409.blade.php",
+"ar": "تمت معالجته"
+},
+{
+"id": 8958,
+"f": "views/errors/409.blade.php",
+"ar": "تمت مراجعته"
+},
+{
+"id": 8959,
+"f": "views/errors/409.blade.php",
+"ar": "غير قابل"
+},
+{
+"id": 8960,
+"f": "views/errors/409.blade.php",
+"ar": "حالة الطلب تغيّرت"
+},
+{
+"id": 8961,
+"f": "views/errors/409.blade.php",
+"ar": "الطلب تمت معالجته أو تغيّرت حالته، فما بنقدر ننفّذ هاي العملية عليه."
+},
+{
+"id": 8962,
+"f": "views/errors/422.blade.php",
+"ar": "البيانات المُدخلة غير صحيحة"
+},
+{
+"id": 8963,
+"f": "views/errors/422.blade.php",
+"ar": "في معلومة ناقصة أو غير صحيحة بالطلب. ارجع وتأكد من البيانات وجرّب مرة ثانية."
+},
+{
+"id": 8964,
+"f": "views/errors/422.blade.php",
+"ar": "لا يوجد سعر صرف"
+},
+{
+"id": 8965,
+"f": "views/errors/422.blade.php",
+"ar": "انتهت"
+},
+{
+"id": 8966,
+"f": "views/errors/422.blade.php",
+"ar": "لا يوجد سعر تحويل متاح حالياً"
+},
+{
+"id": 8967,
+"f": "views/errors/422.blade.php",
+"ar": "سعر التحويل بين هاتين العملتين مش متوفر هلأ أو انتهت صلاحيته. جرّب لاحقاً أو اختار عملة ثانية."
+},
+{
+"id": 8968,
+"f": "views/errors/422.blade.php",
+"ar": "صفحة التحويل"
+},
+{
+"id": 8969,
+"f": "views/errors/422.blade.php",
+"ar": "زوج العملات"
+},
+{
+"id": 8970,
+"f": "views/errors/422.blade.php",
+"ar": "عملتين مختلفتين"
+},
+{
+"id": 8971,
+"f": "views/errors/422.blade.php",
+"ar": "اختيار العملات غير صحيح"
+},
+{
+"id": 8972,
+"f": "views/errors/422.blade.php",
+"ar": "اختار عملتين مختلفتين ومدعومتين للتحويل."
+},
+{
+"id": 8973,
+"f": "views/errors/422.blade.php",
+"ar": "غير موجبة"
+},
+{
+"id": 8974,
+"f": "views/errors/422.blade.php",
+"ar": "الرسوم"
+},
+{
+"id": 8975,
+"f": "views/errors/422.blade.php",
+"ar": "المبلغ صغير جداً"
+},
+{
+"id": 8976,
+"f": "views/errors/422.blade.php",
+"ar": "بعد خصم الرسوم ما بيضل مبلغ للتحويل. زيد المبلغ وجرّب مرة ثانية."
+},
+{
+"id": 8977,
+"f": "views/errors/422.blade.php",
+"ar": "أقل من"
+},
+{
+"id": 8978,
+"f": "views/errors/422.blade.php",
+"ar": "المبلغ اللي كتبته أصغر من أقل مبلغ مسموح. زيد المبلغ وجرّب مرة ثانية."
+},
+{
+"id": 8979,
+"f": "views/errors/422.blade.php",
+"ar": "خارج النطاق"
+},
+{
+"id": 8980,
+"f": "views/errors/422.blade.php",
+"ar": "القيمة خارج الحد المسموح"
+},
+{
+"id": 8981,
+"f": "views/errors/422.blade.php",
+"ar": "القيمة اللي كتبتها أكبر أو أصغر من المسموح. عدّلها وجرّب مرة ثانية."
+},
+{
+"id": 8982,
+"f": "views/errors/422.blade.php",
+"ar": "رمز التحقق غير صحيح"
+},
+{
+"id": 8983,
+"f": "views/errors/422.blade.php",
+"ar": "الرمز اللي دخلته غلط أو انتهت صلاحيته. اطلب رمز جديد وجرّب مرة ثانية."
+},
+{
+"id": 8984,
+"f": "views/errors/422.blade.php",
+"ar": "البريد الإلكتروني غير موثّق"
+},
+{
+"id": 8985,
+"f": "views/errors/422.blade.php",
+"ar": "لازم توثّق بريدك الإلكتروني قبل ما تكمل هاي العملية."
+},
+{
+"id": 8986,
+"f": "views/errors/422.blade.php",
+"ar": "مشكلة في الملف المرفوع"
+},
+{
+"id": 8987,
+"f": "views/errors/422.blade.php",
+"ar": "نوع الملف أو حجمه مش مسموح. تأكد منه وجرّب مرة ثانية."
+},
+{
+"id": 8988,
+"f": "views/errors/422.blade.php",
+"ar": "سبب"
+},
+{
+"id": 8989,
+"f": "views/errors/422.blade.php",
+"ar": "اكتب سبب واضح (8 أحرف على الأقل) وجرّب مرة ثانية."
+},
+{
+"id": 8990,
+"f": "views/errors/422.blade.php",
+"ar": "رجوع وتعديل البيانات"
+},
+{
+"id": 8991,
+"f": "views/errors/429.blade.php",
+"ar": "طلبات كثيرة"
+},
+{
+"id": 8992,
+"f": "views/errors/429.blade.php",
+"ar": "تم إيقاف الطلب مؤقتًا للحماية"
+},
+{
+"id": 8993,
+"f": "views/errors/429.blade.php",
+"ar": "تم تجاوز الحد الآمن للطلبات."
+},
+{
+"id": 8994,
+"f": "views/errors/429.blade.php",
+"ar": "يمكنك المحاولة بعد حوالي"
+},
+{
+"id": 8995,
+"f": "views/errors/500.blade.php",
+"ar": "حدث خطأ في الخادم"
+},
+{
+"id": 8996,
+"f": "views/errors/500.blade.php",
+"ar": "حدث خطأ غير متوقع أثناء معالجة الطلب. افتح لوحة التحكم مجددًا أو راجع سجلات Railway لمعرفة سبب الخطأ الحقيقي."
+},
+{
+"id": 8997,
+"f": "views/feedback/create.blade.php",
+"ar": "الرسالة"
+},
+{
+"id": 8998,
+"f": "views/feedback/create.blade.php",
+"ar": "رأيك مهم بالنسبة لنا. شاركنا تجربتك أو اقتراحك أو أي ملاحظة تساعدنا على تطوير المنصة."
+},
+{
+"id": 8999,
+"f": "views/feedback/create.blade.php",
+"ar": "اسمك"
+},
+{
+"id": 9000,
+"f": "views/feedback/create.blade.php",
+"ar": "سيتم إرسال الرأي باسم:"
+},
+{
+"id": 9001,
+"f": "views/feedback/create.blade.php",
+"ar": "نوع الرسالة"
+},
+{
+"id": 9002,
+"f": "views/feedback/create.blade.php",
+"ar": "ممتاز"
+},
+{
+"id": 9003,
+"f": "views/feedback/create.blade.php",
+"ar": "جيد جدًا"
+},
+{
+"id": 9004,
+"f": "views/feedback/create.blade.php",
+"ar": "غير مرضٍ"
+},
+{
+"id": 9005,
+"f": "views/feedback/create.blade.php",
+"ar": "عنوان الملاحظة"
+},
+{
+"id": 9006,
+"f": "views/feedback/create.blade.php",
+"ar": "مثال: اقتراح لتحسين صفحة المشاريع"
+},
+{
+"id": 9007,
+"f": "views/feedback/create.blade.php",
+"ar": "اكتب رأيك أو ملاحظتك بالتفصيل..."
+},
+{
+"id": 9008,
+"f": "views/feedback/create.blade.php",
+"ar": "الحد الأقصى 5000 حرف."
+},
+{
+"id": 9009,
+"f": "views/feedback/create.blade.php",
+"ar": "إرسال الرأي"
+},
+{
+"id": 9010,
+"f": "views/feedback/thanks.blade.php",
+"ar": "العودة للرئيسية"
+},
+{
+"id": 9011,
+"f": "views/feedback/thanks.blade.php",
+"ar": "شكرًا لمشاركتك"
+},
+{
+"id": 9012,
+"f": "views/feedback/thanks.blade.php",
+"ar": "تم استلام رأيك أو ملاحظتك بنجاح وسيتم مراجعتها من إدارة المنصة."
+},
+{
+"id": 9013,
+"f": "views/feedback/thanks.blade.php",
+"ar": "إرسال ملاحظة أخرى"
+},
+{
+"id": 9014,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "ريال سعودي"
+},
+{
+"id": 9015,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "نقداً"
+},
+{
+"id": 9016,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "شيك"
+},
+{
+"id": 9017,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "شيكل إسرائيلي"
+},
+{
+"id": 9018,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "دولار أمريكي"
+},
+{
+"id": 9019,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "دينار أردني"
+},
+{
+"id": 9020,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مصروف مكتب / إداري"
+},
+{
+"id": 9021,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مصروف عام / تشغيلي"
+},
+{
+"id": 9022,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "دينار كويتي"
+},
+{
+"id": 9023,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "تعديل بيانات المصروف"
+},
+{
+"id": 9024,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "أدخل تفاصيل المصروف بدقة لتحديث السجلات المالية وربطه بالمكتب أو المشروع الصحيح."
+},
+{
+"id": 9025,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مسودة جديدة"
+},
+{
+"id": 9026,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "نوع المصروف"
+},
+{
+"id": 9027,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "المكتب / الفرع"
+},
+{
+"id": 9028,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "بدون مكتب"
+},
+{
+"id": 9029,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "المشروع المرتبط"
+},
+{
+"id": 9030,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مطلوب لمصروف المشروع"
+},
+{
+"id": 9031,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "بدون مشروع"
+},
+{
+"id": 9032,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "اختر التصنيف..."
+},
+{
+"id": 9033,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "المورد / المقاول"
+},
+{
+"id": 9034,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "عنوان المصروف"
+},
+{
+"id": 9035,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مثال: دفعة طباعة مخططات تنفيذية"
+},
+{
+"id": 9036,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "المبلغ الإجمالي"
+},
+{
+"id": 9037,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "تاريخ المصروف"
+},
+{
+"id": 9038,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "بيانات الدفع والضريبة"
+},
+{
+"id": 9039,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "يمكن ترك طريقة الدفع والمرجع فارغين حتى مرحلة الدفع."
+},
+{
+"id": 9040,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مبلغ الضريبة"
+},
+{
+"id": 9041,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "قيمة مالية وليست نسبة"
+},
+{
+"id": 9042,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "لاحقاً"
+},
+{
+"id": 9043,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "رقم المرجع / الفاتورة"
+},
+{
+"id": 9044,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "يظهر ضمن بيانات المصروف"
+},
+{
+"id": 9045,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "اكتب وصفاً موجزاً للمصروف..."
+},
+{
+"id": 9046,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "للاستخدام الإداري"
+},
+{
+"id": 9047,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "أي ملاحظات إضافية للإدارة المالية..."
+},
+{
+"id": 9048,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "الفواتير، الإيصالات، والمستندات الداعمة"
+},
+{
+"id": 9049,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "رفع مرفقات المصروف"
+},
+{
+"id": 9050,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "اسحب وأفلت الملفات هنا، أو"
+},
+{
+"id": 9051,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "استعرض"
+},
+{
+"id": 9052,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "الصيغ المدعومة:"
+},
+{
+"id": 9053,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "الحد الأقصى 10MB للملف الواحد، وحتى 8 ملفات."
+},
+{
+"id": 9054,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "مرفق محفوظ"
+},
+{
+"id": 9055,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "عند اختيار"
+},
+{
+"id": 9056,
+"f": "views/finance/expenses/_form.blade.php",
+"ar": "يجب تحديد المشروع. أما مصروف المكتب أو المصروف العام فيخضع لصلاحيات الإدارة المالية / إدارة المكتب حسب قواعد الصلاحيات المالية."
+},
+{
+"id": 9057,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "مصروف مشروع"
+},
+{
+"id": 9058,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "مقفلة"
+},
+{
+"id": 9059,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "ميزانية المشروع"
+},
+{
+"id": 9060,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "المبلغ الإجمالي للمشروع"
+},
+{
+"id": 9061,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "الميزانية المعتمدة"
+},
+{
+"id": 9062,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "المصروفات الفعلية"
+},
+{
+"id": 9063,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "تم تجاوز الميزانية"
+},
+{
+"id": 9064,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "ضمن الميزانية"
+},
+{
+"id": 9065,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "هامش"
+},
+{
+"id": 9066,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "نظرة عامة على الميزانية"
+},
+{
+"id": 9067,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "المتبقي من الميزانية"
+},
+{
+"id": 9068,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "مستهلك:"
+},
+{
+"id": 9069,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "متبقي:"
+},
+{
+"id": 9070,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "إجمالي الميزانية"
+},
+{
+"id": 9071,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "حالة الميزانية"
+},
+{
+"id": 9072,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "الميزانية معروضة للقراءة فقط ضمن صلاحيات حسابك الحالية."
+},
+{
+"id": 9073,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "بنود الميزانية"
+},
+{
+"id": 9074,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "من الميزانية"
+},
+{
+"id": 9075,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "لا توجد بنود في الميزانية."
+},
+{
+"id": 9076,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "الميزانية مقفلة حالياً، لذلك لا يمكن إضافة بنود جديدة."
+},
+{
+"id": 9077,
+"f": "views/finance/expenses/budgets/show.blade.php",
+"ar": "أنشئ الميزانية أولاً حتى تتمكن من إضافة بنودها."
+},
+{
+"id": 9078,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "اسم التصنيف"
+},
+{
+"id": 9079,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "تصنيفات المصروفات"
+},
+{
+"id": 9080,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "إدارة وتنظيم تصنيفات المصروفات وربطها بالنطاق العام أو المكتب أو المشروع، مع عزل بيانات كل مشروع عن المشاريع الأخرى."
+},
+{
+"id": 9081,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "هذا التصنيف سيكون خاصًا بالمشروع المحدد فقط ولن يظهر لمشاريع أخرى."
+},
+{
+"id": 9082,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "النطاق / المكتب"
+},
+{
+"id": 9083,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "تصنيف عام — Admin/Finance فقط"
+},
+{
+"id": 9084,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "مثال: رواتب المهندسين"
+},
+{
+"id": 9085,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "رمز التصنيف"
+},
+{
+"id": 9086,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "إضافة التصنيف"
+},
+{
+"id": 9087,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "إجمالي التصنيفات النشطة"
+},
+{
+"id": 9088,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "التصنيفات الحالية"
+},
+{
+"id": 9089,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "بحث برمز أو اسم..."
+},
+{
+"id": 9090,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "تعديل التصنيف"
+},
+{
+"id": 9091,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "لا توجد تصنيفات."
+},
+{
+"id": 9092,
+"f": "views/finance/expenses/categories/index.blade.php",
+"ar": "لا توجد تصنيفات مطابقة للبحث."
+},
+{
+"id": 9093,
+"f": "views/finance/expenses/create.blade.php",
+"ar": "الرجوع للمصروفات"
+},
+{
+"id": 9094,
+"f": "views/finance/expenses/create.blade.php",
+"ar": "بحث في المصروفات"
+},
+{
+"id": 9095,
+"f": "views/finance/expenses/create.blade.php",
+"ar": "أدخل تفاصيل المصروف بدقة لتحديث السجلات المالية وإرساله لاحقاً للاعتماد."
+},
+{
+"id": 9096,
+"f": "views/finance/expenses/create.blade.php",
+"ar": "حفظ المصروف"
+},
+{
+"id": 9097,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "إجمالي المصروفات"
+},
+{
+"id": 9098,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "معاد للتعديل"
+},
+{
+"id": 9099,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "معتمد غير مدفوع"
+},
+{
+"id": 9100,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "هذا الشهر"
+},
+{
+"id": 9101,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "مصروف عام"
+},
+{
+"id": 9102,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "ادارة المالية"
+},
+{
+"id": 9103,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "المشروعات"
+},
+{
+"id": 9104,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "الفواتير / المصروفات"
+},
+{
+"id": 9105,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "الدعم / الرجوع للنظام"
+},
+{
+"id": 9106,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "نظام الإدارة المالية"
+},
+{
+"id": 9107,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "كل المصروفات"
+},
+{
+"id": 9108,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "ملخص اليوم"
+},
+{
+"id": 9109,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "المصروفات الفعلية، الاعتمادات، المدفوعات، والمراقبة المالية."
+},
+{
+"id": 9110,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "الشهر الحالي"
+},
+{
+"id": 9111,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "مصروفات المشاريع"
+},
+{
+"id": 9112,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "مصروفات المكتب"
+},
+{
+"id": 9113,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "أحدث المصروفات"
+},
+{
+"id": 9114,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "لا توجد مصروفات حتى الآن."
+},
+{
+"id": 9115,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "عاجل:"
+},
+{
+"id": 9116,
+"f": "views/finance/expenses/dashboard.blade.php",
+"ar": "لا توجد طلبات بانتظار الاعتماد."
+},
+{
+"id": 9117,
+"f": "views/finance/expenses/edit.blade.php",
+"ar": "عرض المصروف"
+},
+{
+"id": 9118,
+"f": "views/finance/expenses/edit.blade.php",
+"ar": "تعديل المصروف"
+},
+{
+"id": 9119,
+"f": "views/finance/expenses/edit.blade.php",
+"ar": "تحديث تفاصيل المعاملة المالية المحددة والمرفقات ذات الصلة."
+},
+{
+"id": 9120,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "مصروف"
+},
+{
+"id": 9121,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "التقرير"
+},
+{
+"id": 9122,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "سجل المصروفات"
+},
+{
+"id": 9123,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "إدارة ومتابعة كافة العمليات المالية للمكتب والمشاريع ضمن نطاق صلاحياتك."
+},
+{
+"id": 9124,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "رقم المصروف أو العنوان..."
+},
+{
+"id": 9125,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "المصروف / المعرف"
+},
+{
+"id": 9126,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "المشروع / المكتب"
+},
+{
+"id": 9127,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "فتح المصروف"
+},
+{
+"id": 9128,
+"f": "views/finance/expenses/index.blade.php",
+"ar": "لا توجد مصروفات مطابقة للفلاتر الحالية."
+},
+{
+"id": 9129,
+"f": "views/finance/expenses/partials/flash.blade.php",
+"ar": "حدث خطأ أثناء المعالجة"
+},
+{
+"id": 9130,
+"f": "views/finance/expenses/partials/flash.blade.php",
+"ar": "أخطاء التحقق من صحة البيانات"
+},
+{
+"id": 9131,
+"f": "views/finance/expenses/partials/nav.blade.php",
+"ar": "المصروفات"
+},
+{
+"id": 9132,
+"f": "views/finance/expenses/partials/nav.blade.php",
+"ar": "الموردون"
+},
+{
+"id": 9133,
+"f": "views/finance/expenses/partials/nav.blade.php",
+"ar": "التصنيفات"
+},
+{
+"id": 9134,
+"f": "views/finance/expenses/partials/nav.blade.php",
+"ar": "لوحة المصروفات"
+},
+{
+"id": 9135,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "سجل العمليات"
+},
+{
+"id": 9136,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "مصروف مكتب"
+},
+{
+"id": 9137,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "العودة للمصروفات"
+},
+{
+"id": 9138,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "تفاصيل المصروف"
+},
+{
+"id": 9139,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "المنشئ"
+},
+{
+"id": 9140,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "سبب الرفض / الإعادة:"
+},
+{
+"id": 9141,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "المستندات والمرفقات"
+},
+{
+"id": 9142,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "الإجراءات المالية"
+},
+{
+"id": 9143,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "اعتماد المصروف"
+},
+{
+"id": 9144,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "سبب الإعادة للمراجعة"
+},
+{
+"id": 9145,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "إعادة للتعديل"
+},
+{
+"id": 9146,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "رفض المصروف"
+},
+{
+"id": 9147,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "تسجيل كمدفوع"
+},
+{
+"id": 9148,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "لا توجد إجراءات مالية متاحة على الحالة الحالية أو ضمن صلاحيات حسابك."
+},
+{
+"id": 9149,
+"f": "views/finance/expenses/show.blade.php",
+"ar": "لا يوجد سجل عمليات حتى الآن."
+},
+{
+"id": 9150,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "اختر المشروع الذي تقوده..."
+},
+{
+"id": 9151,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "بدون مشروع / نطاق عام أو مكتب"
+},
+{
+"id": 9152,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "الرقم الضريبي"
+},
+{
+"id": 9153,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "النطاق"
+},
+{
+"id": 9154,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "مشروع:"
+},
+{
+"id": 9155,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "لا توجد نتائج"
+},
+{
+"id": 9156,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "إدارة الموردين وربطهم بالمكتب أو بالمشروع بالمصروفات الفعلية."
+},
+{
+"id": 9157,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "بصفتك"
+},
+{
+"id": 9158,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "المورد الذي تضيفه سيكون خاصًا بالمشروع المحدد فقط."
+},
+{
+"id": 9159,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "اسم الشركة أو المؤسسة"
+},
+{
+"id": 9160,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "جهة الاتصال"
+},
+{
+"id": 9161,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "اسم الشخص المسؤول"
+},
+{
+"id": 9162,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "تفاصيل العنوان..."
+},
+{
+"id": 9163,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "بيانات البنك"
+},
+{
+"id": 9164,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "اسم البنك، رقم الحساب،"
+},
+{
+"id": 9165,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "أي معلومات إضافية..."
+},
+{
+"id": 9166,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "بحث عن مورد..."
+},
+{
+"id": 9167,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "النشط فقط"
+},
+{
+"id": 9168,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "المورد / جهة الاتصال"
+},
+{
+"id": 9169,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "معلومات التواصل"
+},
+{
+"id": 9170,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "إجمالي المدفوعات"
+},
+{
+"id": 9171,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "بدون جهة اتصال"
+},
+{
+"id": 9172,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "مكتب:"
+},
+{
+"id": 9173,
+"f": "views/finance/expenses/vendors/index.blade.php",
+"ar": "لا يوجد موردون."
+},
+{
+"id": 9174,
+"f": "views/finance/platform-commissions/index.blade.php",
+"ar": "عمولات المنصة الحالية"
+},
+{
+"id": 9175,
+"f": "views/finance/platform-commissions/index.blade.php",
+"ar": "هذا القسم للعرض المالي فقط. تعديل النسب متاح للمدير العام فقط."
+}
+]

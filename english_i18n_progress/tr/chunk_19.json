@@ -1,0 +1,2672 @@
+[
+{
+"id": 6065,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "العميل المستفيد:"
+},
+{
+"id": 6066,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الطرف الهندسي:"
+},
+{
+"id": 6067,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تنبيه رقابي عالي الخطورة"
+},
+{
+"id": 6068,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "آخر رسالة:"
+},
+{
+"id": 6069,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "اختر محادثة لعرض معاينتها."
+},
+{
+"id": 6070,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "أسباب وتوجيهات جاهزة بنقرة واحدة:"
+},
+{
+"id": 6071,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مشاركة بيانات اتصال خارجية"
+},
+{
+"id": 6072,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تسعير غير مطابق للاشتراطات"
+},
+{
+"id": 6073,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "نزاع حول مخرجات كود البناء"
+},
+{
+"id": 6074,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "طلب وساطة فنية إضافية"
+},
+{
+"id": 6075,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تجميد المحادثة وإرسال إنذار رسمي"
+},
+{
+"id": 6076,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تصعيد للمشرف"
+},
+{
+"id": 6077,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مصادقة وتمرير"
+},
+{
+"id": 6078,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تذكير بموجب لائحة التدقيق الداخلي:"
+},
+{
+"id": 6079,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "يجب توثيق مبرر التحويل الإداري بدقة ليتمكن القسم الهندسي من متابعة استحقاقات العقد وسندات المعاينة."
+},
+{
+"id": 6080,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "نظام التدقيق الرقابي نشط ومحمي"
+},
+{
+"id": 6081,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "التصميم جاهز؛ الاعتماد الجماعي يحتاج Route مستقل في الباك إند إذا أردت تفعيله."
+},
+{
+"id": 6082,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تجميد المحادثة"
+},
+{
+"id": 6083,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "التصعيد للمشرف"
+},
+{
+"id": 6084,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "المصادقة والتمرير"
+},
+{
+"id": 6085,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "هذا الإجراء"
+},
+{
+"id": 6086,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "ظاهر بنفس التصميم، ويحتاج Endpoint مستقل لتفعيله دون المساس بمراجعة القراءة الحالية."
+},
+{
+"id": 6087,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "بانتظار التحويل"
+},
+{
+"id": 6088,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "تقرير الخزينة الرقمية للمدير"
+},
+{
+"id": 6089,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "إيداعات"
+},
+{
+"id": 6090,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "الرقمية"
+},
+{
+"id": 6091,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "شبكات الاختبار"
+},
+{
+"id": 6092,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "الشبكات الرئيسية"
+},
+{
+"id": 6093,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "عناوين متاحة:"
+},
+{
+"id": 6094,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "المرجع أو"
+},
+{
+"id": 6095,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "أو العنوان"
+},
+{
+"id": 6096,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "كل الشبكات"
+},
+{
+"id": 6097,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "جارٍ التحقق"
+},
+{
+"id": 6098,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "العملة / الشبكة"
+},
+{
+"id": 6099,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "عنوان الاستلام"
+},
+{
+"id": 6100,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "المطلوب / المستلم"
+},
+{
+"id": 6101,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "المُضاف"
+},
+{
+"id": 6102,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "التأكيدات"
+},
+{
+"id": 6103,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "تحقق من الشبكة"
+},
+{
+"id": 6104,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "سيُعاد التحقق من المعاملة على الشبكة قبل أي إضافة. متابعة؟"
+},
+{
+"id": 6105,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "سبب القبول"
+},
+{
+"id": 6106,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "قبول بعد التحقق"
+},
+{
+"id": 6107,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "تحويلات حُفظت للفحص المالي ولم تُضف إلى رصيد العميل"
+},
+{
+"id": 6108,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "تتضمن التحويلات الإضافية إلى عنوان مستخدم لا يملك طلبًا مفتوحًا أو التحويلات التي تتطلب مطابقة مستقلة. لا تعتمد يدويًا على TX وحده لإضافة الرصيد."
+},
+{
+"id": 6109,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "لا توجد تحويلات معلقة."
+},
+{
+"id": 6110,
+"f": "views/admin/crypto-deposits/index.blade.php",
+"ar": "آخر محاولات التحقق وأحداث"
+},
+{
+"id": 6111,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "مفعل"
+},
+{
+"id": 6112,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "الشبكة"
+},
+{
+"id": 6113,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "الأصل"
+},
+{
+"id": 6114,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "غير مضبوط"
+},
+{
+"id": 6115,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "محفظة المدير الرقمية — الخزينة"
+},
+{
+"id": 6116,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "مضبوط"
+},
+{
+"id": 6117,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "التجميع الآلي:"
+},
+{
+"id": 6118,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "السحب الخارجي:"
+},
+{
+"id": 6119,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "حالات التجميع إلى الخزينة الرئيسية"
+},
+{
+"id": 6120,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "لا توجد عمليات تجميع."
+},
+{
+"id": 6121,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "طلبات سحب العملاء"
+},
+{
+"id": 6122,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "لا توجد طلبات سحب."
+},
+{
+"id": 6123,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "مخزون المنصة الحر في الدفتر"
+},
+{
+"id": 6124,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "الحاوية"
+},
+{
+"id": 6125,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "لا يوجد مخزون حر مسجل."
+},
+{
+"id": 6126,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "أسعار التحويل"
+},
+{
+"id": 6127,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "رسوم السحب"
+},
+{
+"id": 6128,
+"f": "views/admin/crypto-deposits/treasury.blade.php",
+"ar": "تحويل من الخزينة"
+},
+{
+"id": 6129,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "العملة الرقمية"
+},
+{
+"id": 6130,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "معطّل"
+},
+{
+"id": 6131,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "رسوم وأسعار التحويل بين المحفظتين"
+},
+{
+"id": 6132,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "الأسعار هنا إدارية وليست أسعار سوق مباشرة. اعتماد السعر وتفعيله مسؤولية الإدارة المالية؛ لا تفعّل التحويل قبل مطابقة السيولة الفعلية مع أرصدة العملاء."
+},
+{
+"id": 6133,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "العملة المالية"
+},
+{
+"id": 6134,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "سعر وحدة رقمية واحدة بالعملة المالية"
+},
+{
+"id": 6135,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "رسوم الرقمية"
+},
+{
+"id": 6136,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "المالية (نقاط أساس،"
+},
+{
+"id": 6137,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "رسوم المالية"
+},
+{
+"id": 6138,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "الرقمية (نقاط أساس)"
+},
+{
+"id": 6139,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "تفعيل هذا الزوج (بعد استكمال اختبارات السيولة)"
+},
+{
+"id": 6140,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "الأزواج المدعومة لإعداد السعر والرسوم"
+},
+{
+"id": 6141,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "هذه أسماء الأزواج فقط وليست أسعار صرف فعلية. الزوج غير المسجل أو غير المفعّل لا يستطيع العميل التحويل به."
+},
+{
+"id": 6142,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "سعر مفعّل"
+},
+{
+"id": 6143,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "سعر غير مفعّل"
+},
+{
+"id": 6144,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "بانتظار إدخال السعر من الإدارة"
+},
+{
+"id": 6145,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "الأزواج المسجلة"
+},
+{
+"id": 6146,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "الزوج"
+},
+{
+"id": 6147,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "رسوم البيع"
+},
+{
+"id": 6148,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "رسوم الشراء"
+},
+{
+"id": 6149,
+"f": "views/admin/digital-wallet-exchange.blade.php",
+"ar": "لا توجد أسعار معتمدة بعد."
+},
+{
+"id": 6150,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "رمز"
+},
+{
+"id": 6151,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "تحويل من محفظة المدير الرقمية"
+},
+{
+"id": 6152,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "المتاح هنا هو مخزون المنصة الحر فقط بعد تحويل العملاء من كريبتو إلى رصيد مالي. أرصدة العملاء الرقمية لا تظهر كرصيد قابل للمدير."
+},
+{
+"id": 6153,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "المتاح:"
+},
+{
+"id": 6154,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "محجوز:"
+},
+{
+"id": 6155,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "لا يوجد مخزون حر."
+},
+{
+"id": 6156,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "إرسال رمز التحقق"
+},
+{
+"id": 6157,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "إنشاء التحويل"
+},
+{
+"id": 6158,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "العنوان الخارجي"
+},
+{
+"id": 6159,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "إنشاء طلب التحويل"
+},
+{
+"id": 6160,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "آخر التحويلات"
+},
+{
+"id": 6161,
+"f": "views/admin/digital-wallet/treasury-transfer.blade.php",
+"ar": "لا توجد تحويلات."
+},
+{
+"id": 6162,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "الحد الأدنى"
+},
+{
+"id": 6163,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "إعدادات سحب العملات الرقمية"
+},
+{
+"id": 6164,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "الرسوم والحدود تُطبق من الخادم. التفعيل التلقائي يحتاج خدمة توقيع مستقلة مضبوطة وآمنة."
+},
+{
+"id": 6165,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "الحد الأعلى"
+},
+{
+"id": 6166,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "رسم ثابت"
+},
+{
+"id": 6167,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "رسم نسبي"
+},
+{
+"id": 6168,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "تنفيذ آلي عبر"
+},
+{
+"id": 6169,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "آلي"
+},
+{
+"id": 6170,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "يدوي"
+},
+{
+"id": 6171,
+"f": "views/admin/digital-wallet/withdrawal-settings.blade.php",
+"ar": "لا توجد إعدادات بعد."
+},
+{
+"id": 6172,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "العنوان"
+},
+{
+"id": 6173,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "كل الحالات"
+},
+{
+"id": 6174,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "مغلقة"
+},
+{
+"id": 6175,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "إجراء"
+},
+{
+"id": 6176,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "عرض التفاصيل"
+},
+{
+"id": 6177,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "شكوى"
+},
+{
+"id": 6178,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "التقييم"
+},
+{
+"id": 6179,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "كل الأنواع"
+},
+{
+"id": 6180,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "متوسط التقييم"
+},
+{
+"id": 6181,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "رأي"
+},
+{
+"id": 6182,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "اقتراح"
+},
+{
+"id": 6183,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "جديدة"
+},
+{
+"id": 6184,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "تمت مراجعتها"
+},
+{
+"id": 6185,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "المرسل"
+},
+{
+"id": 6186,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "تمت المراجعة"
+},
+{
+"id": 6187,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "زائر"
+},
+{
+"id": 6188,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "لوحة الإدارة"
+},
+{
+"id": 6189,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "متابعة آراء المستخدمين والاقتراحات والشكاوى والملاحظات."
+},
+{
+"id": 6190,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "جميع الرسائل"
+},
+{
+"id": 6191,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "بحث بالاسم أو البريد أو العنوان..."
+},
+{
+"id": 6192,
+"f": "views/admin/feedback/index.blade.php",
+"ar": "لا توجد آراء أو ملاحظات حاليًا."
+},
+{
+"id": 6193,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "رجوع"
+},
+{
+"id": 6194,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "تاريخ الإرسال"
+},
+{
+"id": 6195,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "نص الرسالة"
+},
+{
+"id": 6196,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "مراجعة الإدارة"
+},
+{
+"id": 6197,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "مستوى الخطورة"
+},
+{
+"id": 6198,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "سبب القرار"
+},
+{
+"id": 6199,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "بدون تقييم"
+},
+{
+"id": 6200,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "مؤرشف"
+},
+{
+"id": 6201,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "مشكلة تقنية"
+},
+{
+"id": 6202,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "ملاحظة رقم"
+},
+{
+"id": 6203,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "إدارة حالة الرأي أو الملاحظة."
+},
+{
+"id": 6204,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "إلغاء التمييز"
+},
+{
+"id": 6205,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "تمييز"
+},
+{
+"id": 6206,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "يجب اعتماد الرأي أولًا قبل إمكانية تمييزه."
+},
+{
+"id": 6207,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "رد الإدارة"
+},
+{
+"id": 6208,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "الرد أو ملاحظات الإدارة"
+},
+{
+"id": 6209,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "اكتب رد الإدارة..."
+},
+{
+"id": 6210,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "فحص المحتوى"
+},
+{
+"id": 6211,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "القرار"
+},
+{
+"id": 6212,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "معلومات المرسل"
+},
+{
+"id": 6213,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "آخر مراجعة"
+},
+{
+"id": 6214,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "مصدر السجل"
+},
+{
+"id": 6215,
+"f": "views/admin/feedback/show.blade.php",
+"ar": "منقول من نظام الآراء القديم"
+},
+{
+"id": 6216,
+"f": "views/admin/kyc/index.blade.php",
+"ar": "تصفية"
+},
+{
+"id": 6217,
+"f": "views/admin/kyc/index.blade.php",
+"ar": "الجهة"
+},
+{
+"id": 6218,
+"f": "views/admin/kyc/index.blade.php",
+"ar": "قيد الإرسال"
+},
+{
+"id": 6219,
+"f": "views/admin/kyc/index.blade.php",
+"ar": "مطلوب معلومات"
+},
+{
+"id": 6220,
+"f": "views/admin/kyc/index.blade.php",
+"ar": "التقديم"
+},
+{
+"id": 6221,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "العودة"
+},
+{
+"id": 6222,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "السجل"
+},
+{
+"id": 6223,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "إيميل"
+},
+{
+"id": 6224,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "رقم الهوية"
+},
+{
+"id": 6225,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "الجنسية"
+},
+{
+"id": 6226,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "المستندات"
+},
+{
+"id": 6227,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "مطلوب معلومات إضافية"
+},
+{
+"id": 6228,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "عنوان الإيميل"
+},
+{
+"id": 6229,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "بيانات التحقق"
+},
+{
+"id": 6230,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "الاسم القانوني"
+},
+{
+"id": 6231,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "قرار المراجعة"
+},
+{
+"id": 6232,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "اعتماد التوثيق"
+},
+{
+"id": 6233,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "قالب جاهز (اختياري)"
+},
+{
+"id": 6234,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "ملاحظة/سبب/رسالة للمستخدم"
+},
+{
+"id": 6235,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "إرسال نفس الرسالة كتذكرة دعم"
+},
+{
+"id": 6236,
+"f": "views/admin/kyc/show.blade.php",
+"ar": "حفظ القرار"
+},
+{
+"id": 6237,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "جميع الاستشارات"
+},
+{
+"id": 6238,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "إدارة المستخدمين"
+},
+{
+"id": 6239,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "إدارة المشاريع"
+},
+{
+"id": 6240,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "استرداد الحساب و"
+},
+{
+"id": 6241,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "إدارة الموظفين"
+},
+{
+"id": 6242,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الإدارة الهندسية"
+},
+{
+"id": 6243,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مركز المتابعة و"
+},
+{
+"id": 6244,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "البحث وملف العميل"
+},
+{
+"id": 6245,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مركز الأمان والجلسات"
+},
+{
+"id": 6246,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "إدارة الآراء والملاحظات"
+},
+{
+"id": 6247,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "إدارة الأسئلة الشائعة"
+},
+{
+"id": 6248,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الإدارة الأساسية"
+},
+{
+"id": 6249,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المستخدمون والموظفون والهندسة والمكاتب والاستشارات والمشاريع."
+},
+{
+"id": 6250,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "العودة للوحة المدير الرئيسية"
+},
+{
+"id": 6251,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الحسابات والأدوار والحالة"
+},
+{
+"id": 6252,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الموظفون والمديرون والبيانات الوظيفية"
+},
+{
+"id": 6253,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "التعيين والمتابعة والتنفيذ"
+},
+{
+"id": 6254,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المشاريع ودورة التنفيذ"
+},
+{
+"id": 6255,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المهندسون والطلبات والأعمال"
+},
+{
+"id": 6256,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المكاتب والطلبات والاشتراكات"
+},
+{
+"id": 6257,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "كل ما أضيف للمدفوعات والمستحقات والاستردادات والتقارير والنزاعات."
+},
+{
+"id": 6258,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المركز المالي الشامل"
+},
+{
+"id": 6259,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "كل أدوات المالية في صفحة واحدة"
+},
+{
+"id": 6260,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "ناجحة وفاشلة ومعلقة"
+},
+{
+"id": 6261,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الاستردادات والرقابة"
+},
+{
+"id": 6262,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "والمراجعة المالية"
+},
+{
+"id": 6263,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مراجعة بيانات التحويل"
+},
+{
+"id": 6264,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "طرق الدفع والتحصيل"
+},
+{
+"id": 6265,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مالية المشاريع والعمولات"
+},
+{
+"id": 6266,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "عمولات المنصة وصافي المستحقات"
+},
+{
+"id": 6267,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "التقارير والتحليل والتصدير"
+},
+{
+"id": 6268,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مركز الدعم والثقة"
+},
+{
+"id": 6269,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "كل وظائف V24/V25/V25.4/V25.5 للدعم والأمان و"
+},
+{
+"id": 6270,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "اللوحة الكاملة لكل أدوات الدعم"
+},
+{
+"id": 6271,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "العمليات والـSLA والملفات"
+},
+{
+"id": 6272,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الحسابات وملفات العملاء"
+},
+{
+"id": 6273,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الاسترداد والتحقق"
+},
+{
+"id": 6274,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "نتائج التطابق والطابور الذكي"
+},
+{
+"id": 6275,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "سجل ورسائل العميل"
+},
+{
+"id": 6276,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الأمان والثقة والإجراءات الحساسة"
+},
+{
+"id": 6277,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مراجعة الجودة والمحادثات"
+},
+{
+"id": 6278,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الحوكمة والأمان"
+},
+{
+"id": 6279,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "والصلاحيات والإشراف والمراجعة والسجلات الحساسة."
+},
+{
+"id": 6280,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "توثيق المهندسين والمكاتب ومراجعة دفعات الاشتراك"
+},
+{
+"id": 6281,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "طلبات التحقق من الهوية والوثائق"
+},
+{
+"id": 6282,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المسميات والصلاحيات"
+},
+{
+"id": 6283,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "صلاحيات المنصة الدقيقة"
+},
+{
+"id": 6284,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "التحذيرات والتوصيات والمراجعات"
+},
+{
+"id": 6285,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "العمليات الحساسة والتغييرات"
+},
+{
+"id": 6286,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "أمان الحساب والجلسات"
+},
+{
+"id": 6287,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "المنصة والباقات والذكاء الاصطناعي"
+},
+{
+"id": 6288,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الإعدادات التجارية والمحتوى وAI وجاهزية الإنتاج."
+},
+{
+"id": 6289,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "التخزين وباقات المهندسين"
+},
+{
+"id": 6290,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "الخطط والرصيد والطلبات"
+},
+{
+"id": 6291,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "والمحتوى"
+},
+{
+"id": 6292,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "فحوص الإنتاج والخدمات"
+},
+{
+"id": 6293,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "آخر أحداث النظام"
+},
+{
+"id": 6294,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "كل المراكز والوظائف التي تمت إضافتها للمدير في مكان واحد، مع إبقاء كل وظيفة مرتبطة بصفحتها الأصلية."
+},
+{
+"id": 6295,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "طلبات تنتظر إجراء الإدارة"
+},
+{
+"id": 6296,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "كل طلب يحتاج موافقة أو مراجعة يظهر هنا مباشرة. التوثيق الاحترافي، الاستشارات، المدفوعات وبقية الطلبات مرتبطة بصفحتها الأصلية."
+},
+{
+"id": 6297,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "بانتظار إجراء"
+},
+{
+"id": 6298,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "مراجعة الطلبات"
+},
+{
+"id": 6299,
+"f": "views/admin/management-center/index.blade.php",
+"ar": "فتح الصفحة"
+},
+{
+"id": 6300,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "التفاصيل"
+},
+{
+"id": 6301,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مسودة"
+},
+{
+"id": 6302,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مقارنة العروض"
+},
+{
+"id": 6303,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "تحديث القائمة"
+},
+{
+"id": 6304,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "العودة للوحة التحكم"
+},
+{
+"id": 6305,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "العروض"
+},
+{
+"id": 6306,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "عرض المشروع"
+},
+{
+"id": 6307,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مغلق للعروض"
+},
+{
+"id": 6308,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "الميزانية المتوقعة"
+},
+{
+"id": 6309,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "إجمالي طلبات المشاريع"
+},
+{
+"id": 6310,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مشاريع مفتوحة للعروض"
+},
+{
+"id": 6311,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "جميع العروض المقدمة"
+},
+{
+"id": 6312,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مشاريع تمت ترسيتها"
+},
+{
+"id": 6313,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "مشاريع دون عروض"
+},
+{
+"id": 6314,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "تحوّل إلى مشروع"
+},
+{
+"id": 6315,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "إدارة سوق المشاريع الهندسية"
+},
+{
+"id": 6316,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "متابعة طلبات المشاريع والعروض والترسية من لوحة المدير، دون تغيير صلاحيات أصحاب المشاريع أو مقدمي العروض."
+},
+{
+"id": 6317,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "السوق العام"
+},
+{
+"id": 6318,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "إحصائيات السوق"
+},
+{
+"id": 6319,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "طلبات المشاريع المسجلة"
+},
+{
+"id": 6320,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "إجمالي السجلات:"
+},
+{
+"id": 6321,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "تعرض جميع حالات المشاريع مع احترام صلاحيات عرض التفاصيل."
+},
+{
+"id": 6322,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "جدول طلبات سوق المشاريع"
+},
+{
+"id": 6323,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "العميل / التخصص"
+},
+{
+"id": 6324,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "لا توجد طلبات مشاريع في السوق حاليًا"
+},
+{
+"id": 6325,
+"f": "views/admin/marketplace/index.blade.php",
+"ar": "ستظهر الطلبات الجديدة هنا بمجرد إنشائها."
+},
+{
+"id": 6326,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "البحث"
+},
+{
+"id": 6327,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "مقبولة"
+},
+{
+"id": 6328,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "لا توجد نتائج مطابقة للفلاتر الحالية."
+},
+{
+"id": 6329,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "التحذير المرتبط"
+},
+{
+"id": 6330,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "طلبات الطعن على تعليق الحسابات"
+},
+{
+"id": 6331,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "مراجعة رسائل المستخدمين واتخاذ القرار المناسب بشأن إعادة التفعيل أو تثبيت التعليق."
+},
+{
+"id": 6332,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "جميع الطعون"
+},
+{
+"id": 6333,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "اسم المستخدم أو البريد أو الهاتف أو نص الطعن..."
+},
+{
+"id": 6334,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "حالة الطعن"
+},
+{
+"id": 6335,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "سجل طلبات الطعن"
+},
+{
+"id": 6336,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "لا توجد طلبات طعن"
+},
+{
+"id": 6337,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "رسالة الطعن"
+},
+{
+"id": 6338,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "يحتوي على مرفق"
+},
+{
+"id": 6339,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "غير مرتبط"
+},
+{
+"id": 6340,
+"f": "views/admin/moderation-appeals/index.blade.php",
+"ar": "بدء المراجعة"
+},
+{
+"id": 6341,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "الهاتف"
+},
+{
+"id": 6342,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "السبب"
+},
+{
+"id": 6343,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "عدد التحذيرات"
+},
+{
+"id": 6344,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "لم تبدأ"
+},
+{
+"id": 6345,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "قرار الإدارة"
+},
+{
+"id": 6346,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "تفاصيل طلب الطعن"
+},
+{
+"id": 6347,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "مراجعة رسالة المستخدم والمرفقات والقرار المرتبط بتعليق الحساب."
+},
+{
+"id": 6348,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "العودة إلى قائمة الطعون"
+},
+{
+"id": 6349,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "المستخدم غير موجود."
+},
+{
+"id": 6350,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "بيانات الطعن"
+},
+{
+"id": 6351,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "بدأت المراجعة"
+},
+{
+"id": 6352,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "راجع الطلب"
+},
+{
+"id": 6353,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "فتح تفاصيل التحذير"
+},
+{
+"id": 6354,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "رسالة المستخدم"
+},
+{
+"id": 6355,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "المرفق الداعم"
+},
+{
+"id": 6356,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "اسم الملف"
+},
+{
+"id": 6357,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "مرفق الطعن"
+},
+{
+"id": 6358,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "فتح المرفق"
+},
+{
+"id": 6359,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "ملخص نتيجة الفحص"
+},
+{
+"id": 6360,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "قرار النظام"
+},
+{
+"id": 6361,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "بدء مراجعة الطلب"
+},
+{
+"id": 6362,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "تحويل الطعن إلى حالة تحت المراجعة"
+},
+{
+"id": 6363,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "قبول الطعن"
+},
+{
+"id": 6364,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "سيُلغى التحذير المرتبط ويُعاد تفعيل حساب المستخدم."
+},
+{
+"id": 6365,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "اكتب رد الإدارة وسبب قبول الطعن..."
+},
+{
+"id": 6366,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "هل تريد قبول الطعن وإعادة تفعيل الحساب؟"
+},
+{
+"id": 6367,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "قبول الطعن وإعادة التفعيل"
+},
+{
+"id": 6368,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "رفض الطعن"
+},
+{
+"id": 6369,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "سيبقى الحساب معلقًا ويُرسل الرد إلى المستخدم."
+},
+{
+"id": 6370,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "اكتب سبب رفض الطعن..."
+},
+{
+"id": 6371,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "هل تريد رفض الطعن وتثبيت تعليق الحساب؟"
+},
+{
+"id": 6372,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "رفض الطعن وتثبيت التعليق"
+},
+{
+"id": 6373,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "قرار الإدارة النهائي"
+},
+{
+"id": 6374,
+"f": "views/admin/moderation-appeals/show.blade.php",
+"ar": "لا يوجد رد مسجل."
+},
+{
+"id": 6375,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "مسح"
+},
+{
+"id": 6376,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "الإجراءات"
+},
+{
+"id": 6377,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "العودة إلى لوحة التحكم"
+},
+{
+"id": 6378,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "معلق"
+},
+{
+"id": 6379,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "نتيجة"
+},
+{
+"id": 6380,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تراجع"
+},
+{
+"id": 6381,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "ملاحظات المراجعة"
+},
+{
+"id": 6382,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "إعادة تفعيل الحساب"
+},
+{
+"id": 6383,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "اعتراض"
+},
+{
+"id": 6384,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "معلق للمراجعة"
+},
+{
+"id": 6385,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "محظور"
+},
+{
+"id": 6386,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تحذير"
+},
+{
+"id": 6387,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تثبيت التعليق"
+},
+{
+"id": 6388,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تأكيد التحذير"
+},
+{
+"id": 6389,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "إلغاء التحذير"
+},
+{
+"id": 6390,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تصدير التقرير"
+},
+{
+"id": 6391,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "حالة التحذير"
+},
+{
+"id": 6392,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "نوع المخالفة"
+},
+{
+"id": 6393,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "رقم التحذير"
+},
+{
+"id": 6394,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "مستخدم محذوف"
+},
+{
+"id": 6395,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "إعادة التفعيل"
+},
+{
+"id": 6396,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "تثبيت تعليق الحساب"
+},
+{
+"id": 6397,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سجل التحذيرات والمخالفات"
+},
+{
+"id": 6398,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "مراجعة مخالفات المحتوى ومتابعة تحذيرات المستخدمين بدقة"
+},
+{
+"id": 6399,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "جميع التحذيرات"
+},
+{
+"id": 6400,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "التحذيرات الفعالة"
+},
+{
+"id": 6401,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "محتوى مرفوض"
+},
+{
+"id": 6402,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "حسابات معلقة"
+},
+{
+"id": 6403,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "البحث بالاسم، البريد الإلكتروني، الهاتف أو سبب التحذير..."
+},
+{
+"id": 6404,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سجل التحذيرات"
+},
+{
+"id": 6405,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "لا توجد تحذيرات حاليًا"
+},
+{
+"id": 6406,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "لم يتم تسجيل أي مخالفة مطابقة لمعايير البحث المحددة."
+},
+{
+"id": 6407,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "الخطورة:"
+},
+{
+"id": 6408,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سيتم تثبيت التحذير رقم"
+},
+{
+"id": 6409,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "على حساب المستخدم."
+},
+{
+"id": 6410,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سيتم إلغاء التحذير وإعادة حساب عدد مخالفات المستخدم."
+},
+{
+"id": 6411,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سبب إلغاء التحذير"
+},
+{
+"id": 6412,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سيتم إعادة تفعيل حساب:"
+},
+{
+"id": 6413,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "ملاحظات القرار"
+},
+{
+"id": 6414,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سيبقى المستخدم غير قادر على استخدام المنصة."
+},
+{
+"id": 6415,
+"f": "views/admin/moderation/index.blade.php",
+"ar": "سبب تثبيت التعليق"
+},
+{
+"id": 6416,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "غير متوفر"
+},
+{
+"id": 6417,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "مرتفع"
+},
+{
+"id": 6418,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "حرج"
+},
+{
+"id": 6419,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "منخفض"
+},
+{
+"id": 6420,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "بيانات المستخدم"
+},
+{
+"id": 6421,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "المعرف:"
+},
+{
+"id": 6422,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "المصدر:"
+},
+{
+"id": 6423,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "مستوى الخطر"
+},
+{
+"id": 6424,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "نوع الملف"
+},
+{
+"id": 6425,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "معاينة الصورة"
+},
+{
+"id": 6426,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "لم يتم تسجيل سبب."
+},
+{
+"id": 6427,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "يحتاج مراجعة"
+},
+{
+"id": 6428,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "متوسط"
+},
+{
+"id": 6429,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "تفاصيل التحذير"
+},
+{
+"id": 6430,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "مراجعة بيانات المستخدم وقرارات النظام الذكي المتعلقة بمخالفات المحتوى."
+},
+{
+"id": 6431,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "العودة لسجل التحذيرات"
+},
+{
+"id": 6432,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "البريد:"
+},
+{
+"id": 6433,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "الهاتف:"
+},
+{
+"id": 6434,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "عداد التحذيرات:"
+},
+{
+"id": 6435,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "سبب التعليق"
+},
+{
+"id": 6436,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "هذا المستخدم لم يعد موجودًا."
+},
+{
+"id": 6437,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "بيانات التحذير"
+},
+{
+"id": 6438,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "نظام الفحص الذكي"
+},
+{
+"id": 6439,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "التاريخ:"
+},
+{
+"id": 6440,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "سبب التحذير (آلي):"
+},
+{
+"id": 6441,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "ملاحظات الإدارة:"
+},
+{
+"id": 6442,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "نتيجة فحص المحتوى"
+},
+{
+"id": 6443,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "القرار الآلي"
+},
+{
+"id": 6444,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "مزود الفحص"
+},
+{
+"id": 6445,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "تفاصيل الملف المرفق"
+},
+{
+"id": 6446,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "الاسم الأصلي"
+},
+{
+"id": 6447,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "الحجم"
+},
+{
+"id": 6448,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "مصدر الرفع"
+},
+{
+"id": 6449,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "المحتوى محل المراجعة"
+},
+{
+"id": 6450,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "سبب قرار البوت"
+},
+{
+"id": 6451,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "التصنيفات المكتشفة"
+},
+{
+"id": 6452,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "لا توجد تصنيفات مسجلة."
+},
+{
+"id": 6453,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "نسب التصنيف"
+},
+{
+"id": 6454,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "لا توجد نسب مسجلة."
+},
+{
+"id": 6455,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "الاستجابة التقنية الكاملة"
+},
+{
+"id": 6456,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "لا توجد نتيجة فحص مرتبطة بهذا التحذير."
+},
+{
+"id": 6457,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "قرارات الإدارة"
+},
+{
+"id": 6458,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "ملاحظات الإدارة (اختياري)"
+},
+{
+"id": 6459,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "أضف ملاحظات داخلية..."
+},
+{
+"id": 6460,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "سبب الإلغاء (مطلوب)"
+},
+{
+"id": 6461,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "اذكر سبب رفض قرار النظام الذكي..."
+},
+{
+"id": 6462,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "تجاهل وإلغاء"
+},
+{
+"id": 6463,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "ملاحظات القرار (مطلوب)"
+},
+{
+"id": 6464,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "سبب تثبيت التعليق (مطلوب)"
+},
+{
+"id": 6465,
+"f": "views/admin/moderation/show.blade.php",
+"ar": "تمت مراجعة هذه الحالة ولا توجد إجراءات متاحة حاليًا."
+},
+{
+"id": 6466,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "المدينة"
+},
+{
+"id": 6467,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "قائمة إدارة النظام"
+},
+{
+"id": 6468,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "إدارة المكاتب"
+},
+{
+"id": 6469,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "رقم الطلب"
+},
+{
+"id": 6470,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "لوحة مدير النظام"
+},
+{
+"id": 6471,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "اسم المكتب"
+},
+{
+"id": 6472,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "تاريخ الطلب"
+},
+{
+"id": 6473,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "عرض الطلب"
+},
+{
+"id": 6474,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "طلبات انضمام المكاتب الهندسية"
+},
+{
+"id": 6475,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "راجع طلبات المكاتب الجديدة، ثم وافق عليها أو ارفضها."
+},
+{
+"id": 6476,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "الطلبات المقبولة"
+},
+{
+"id": 6477,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "الطلبات المرفوضة"
+},
+{
+"id": 6478,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "سجل الطلبات"
+},
+{
+"id": 6479,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "جميع طلبات إنشاء المكاتب وحالاتها."
+},
+{
+"id": 6480,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "صاحب الطلب"
+},
+{
+"id": 6481,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "لا توجد طلبات مكاتب هندسية حتى الآن"
+},
+{
+"id": 6482,
+"f": "views/admin/office-applications/index.blade.php",
+"ar": "ستظهر الطلبات الجديدة هنا فور تقديمها."
+},
+{
+"id": 6483,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "البريد الإلكتروني"
+},
+{
+"id": 6484,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "آخر تحديث"
+},
+{
+"id": 6485,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "المرفقات"
+},
+{
+"id": 6486,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "رقم الترخيص"
+},
+{
+"id": 6487,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "الدولة"
+},
+{
+"id": 6488,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "هل أنت متأكد من رفض الطلب؟"
+},
+{
+"id": 6489,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "سبب رفض الطلب"
+},
+{
+"id": 6490,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "العودة إلى جميع الطلبات"
+},
+{
+"id": 6491,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "تفاصيل طلب المكتب"
+},
+{
+"id": 6492,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "لوحة إدارة النظام"
+},
+{
+"id": 6493,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "طلب مكتب هندسي"
+},
+{
+"id": 6494,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "السجل التجاري"
+},
+{
+"id": 6495,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "عنوان المكتب"
+},
+{
+"id": 6496,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "نبذة المكتب والملاحظات"
+},
+{
+"id": 6497,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "اكتب سبب رفض طلب المكتب..."
+},
+{
+"id": 6498,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "سيبدأ المكتب بتجربة مجانية لمدة 10 أيام"
+},
+{
+"id": 6499,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "لا يتم إنشاء اشتراك مدفوع ولا طلب إيصال عند الموافقة. تبدأ مدة التجربة من لحظة قبول هذا الطلب، وبعدها يختار صاحب المكتب الباقة المناسبة من لوحة المكتب."
+},
+{
+"id": 6500,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "قبول المكتب وبدء تجربة مجانية 10 أيام؟"
+},
+{
+"id": 6501,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "قبول وبدء التجربة المجانية"
+},
+{
+"id": 6502,
+"f": "views/admin/office-applications/show.blade.php",
+"ar": "تمت مراجعة الطلب بواسطة"
+},
+{
+"id": 6503,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مدفوع"
+},
+{
+"id": 6504,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "نسبة المكتب"
+},
+{
+"id": 6505,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "حصة المكتب"
+},
+{
+"id": 6506,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مستحق المكاتب"
+},
+{
+"id": 6507,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "حسب النسب المحددة"
+},
+{
+"id": 6508,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "المتبقي للمكاتب"
+},
+{
+"id": 6509,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مستحق المهندسين"
+},
+{
+"id": 6510,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "لا توجد نتائج مطابقة للبحث:"
+},
+{
+"id": 6511,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "التقدم المالي"
+},
+{
+"id": 6512,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "قيمة الاستشارات المحولة للمكاتب"
+},
+{
+"id": 6513,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "المدفوع للمكاتب"
+},
+{
+"id": 6514,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "تم تسجيل تحويله للمكتب"
+},
+{
+"id": 6515,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مستحق غير مدفوع"
+},
+{
+"id": 6516,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "من داخل المكاتب"
+},
+{
+"id": 6517,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "صافي المكاتب"
+},
+{
+"id": 6518,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "بعد مستحقات المهندسين"
+},
+{
+"id": 6519,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "قيمة مشاريع المكاتب"
+},
+{
+"id": 6520,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "القيمة التعاقدية حسب النسبة"
+},
+{
+"id": 6521,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "دفع العملاء"
+},
+{
+"id": 6522,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "دفعات مشاريع مؤكدة"
+},
+{
+"id": 6523,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "استحق للمكاتب"
+},
+{
+"id": 6524,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "من الدفعات المؤكدة"
+},
+{
+"id": 6525,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "دُفع للمكاتب"
+},
+{
+"id": 6526,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مسجل كمدفوع"
+},
+{
+"id": 6527,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مالية المكاتب الهندسية"
+},
+{
+"id": 6528,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مركز موحد لتحديد نسب المكاتب ومتابعة المستحقات للاستشارات والمشاريع."
+},
+{
+"id": 6529,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مالية استشارات المكاتب"
+},
+{
+"id": 6530,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "مالية مشاريع المكاتب"
+},
+{
+"id": 6531,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "ابحث برقم الاستشارة، المكتب، العميل، المهندس، القيمة، النسبة، الحالة..."
+},
+{
+"id": 6532,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "ابحث برقم المشروع، المكتب، العميل، المهندس، الدفعة، القيمة، الحالة..."
+},
+{
+"id": 6533,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "المهندس/مستحقه"
+},
+{
+"id": 6534,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "تسجيل دفع المكتب"
+},
+{
+"id": 6535,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "لا توجد استشارات محولة إلى مكاتب."
+},
+{
+"id": 6536,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "خطة التقدم"
+},
+{
+"id": 6537,
+"f": "views/admin/office-finance/index.blade.php",
+"ar": "لا توجد مشاريع مرتبطة بمكاتب."
+},
+{
+"id": 6538,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "بانتظار الدفع"
+},
+{
+"id": 6539,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "المدة"
+},
+{
+"id": 6540,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "طريقة أخرى"
+},
+{
+"id": 6541,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "اشتراكات المكاتب الهندسية"
+},
+{
+"id": 6542,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "سجل الاشتراكات"
+},
+{
+"id": 6543,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "تاريخ الدفع"
+},
+{
+"id": 6544,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "مراجعة وإدارة إيصالات الاشتراكات الشهرية للمكاتب المسجلة."
+},
+{
+"id": 6545,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "اشتراكات فعالة"
+},
+{
+"id": 6546,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "اشتراكات مرفوضة"
+},
+{
+"id": 6547,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "جميع إيصالات الاشتراك وحالات المراجعة."
+},
+{
+"id": 6548,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "المالك"
+},
+{
+"id": 6549,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "موقوف عن العمل"
+},
+{
+"id": 6550,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "دفع نقدي"
+},
+{
+"id": 6551,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "لا يوجد إيصال"
+},
+{
+"id": 6552,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "ملاحظات اختيارية"
+},
+{
+"id": 6553,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "مقدار المدة"
+},
+{
+"id": 6554,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "وحدة المدة"
+},
+{
+"id": 6555,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "هل أنت متأكد من اعتماد الاشتراك بالمدة المحددة؟"
+},
+{
+"id": 6556,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "اعتماد الاشتراك"
+},
+{
+"id": 6557,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "اكتب سبب رفض الإيصال"
+},
+{
+"id": 6558,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "هل أنت متأكد من رفض إيصال الاشتراك؟"
+},
+{
+"id": 6559,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "تمت المراجعة:"
+},
+{
+"id": 6560,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "لا يوجد إجراء متاح."
+},
+{
+"id": 6561,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "لا توجد اشتراكات مسجلة حاليًا"
+},
+{
+"id": 6562,
+"f": "views/admin/office-subscriptions/index.blade.php",
+"ar": "ستظهر إيصالات الاشتراك الجديدة هنا فور رفعها."
+},
+{
+"id": 6563,
+"f": "views/admin/offices/index.blade.php",
+"ar": "جميع الحالات"
+},
+{
+"id": 6564,
+"f": "views/admin/offices/index.blade.php",
+"ar": "إعدادات الحساب"
+},
+{
+"id": 6565,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مكتب موقوف"
+},
+{
+"id": 6566,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مكتب فعال"
+},
+{
+"id": 6567,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مكتب مغلق"
+},
+{
+"id": 6568,
+"f": "views/admin/offices/index.blade.php",
+"ar": "أعضاء فعالون"
+},
+{
+"id": 6569,
+"f": "views/admin/offices/index.blade.php",
+"ar": "معلومات المكتب"
+},
+{
+"id": 6570,
+"f": "views/admin/offices/index.blade.php",
+"ar": "إدارة النظام"
+},
+{
+"id": 6571,
+"f": "views/admin/offices/index.blade.php",
+"ar": "استشارات"
+},
+{
+"id": 6572,
+"f": "views/admin/offices/index.blade.php",
+"ar": "إدارة المكاتب الهندسية"
+},
+{
+"id": 6573,
+"f": "views/admin/offices/index.blade.php",
+"ar": "الاشتراك غير فعال"
+},
+{
+"id": 6574,
+"f": "views/admin/offices/index.blade.php",
+"ar": "عرض الملف الشخصي"
+},
+{
+"id": 6575,
+"f": "views/admin/offices/index.blade.php",
+"ar": "لا توجد مكاتب مطابقة"
+},
+{
+"id": 6576,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مراجعة طلبات المكاتب"
+},
+{
+"id": 6577,
+"f": "views/admin/offices/index.blade.php",
+"ar": "قائمة الإدارة"
+},
+{
+"id": 6578,
+"f": "views/admin/offices/index.blade.php",
+"ar": "جميع المكاتب الهندسية"
+},
+{
+"id": 6579,
+"f": "views/admin/offices/index.blade.php",
+"ar": "استعرض المكاتب الهندسية، راجع بياناتها، وتابع حالة التفعيل والاشتراك."
+},
+{
+"id": 6580,
+"f": "views/admin/offices/index.blade.php",
+"ar": "إجمالي المكاتب"
+},
+{
+"id": 6581,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مكاتب فعالة"
+},
+{
+"id": 6582,
+"f": "views/admin/offices/index.blade.php",
+"ar": "مكاتب موقوفة"
+},
+{
+"id": 6583,
+"f": "views/admin/offices/index.blade.php",
+"ar": "اسم المكتب، المدينة، الدولة..."
+},
+{
+"id": 6584,
+"f": "views/admin/offices/index.blade.php",
+"ar": "الاشتراك فعال"
+},
+{
+"id": 6585,
+"f": "views/admin/offices/index.blade.php",
+"ar": "لا توجد نبذة مضافة عن المكتب حتى الآن."
+},
+{
+"id": 6586,
+"f": "views/admin/offices/index.blade.php",
+"ar": "لا يوجد مالك مرتبط بهذا المكتب"
+},
+{
+"id": 6587,
+"f": "views/admin/offices/index.blade.php",
+"ar": "لا يوجد ملف شخصي"
+},
+{
+"id": 6588,
+"f": "views/admin/offices/index.blade.php",
+"ar": "جرّب تغيير كلمة البحث أو حالة المكتب."
+},
+{
+"id": 6589,
+"f": "views/admin/offices/index.blade.php",
+"ar": "إعادة ضبط البحث"
+},
+{
+"id": 6590,
+"f": "views/admin/offices/show.blade.php",
+"ar": "فريق المكتب"
+},
+{
+"id": 6591,
+"f": "views/admin/offices/show.blade.php",
+"ar": "نبذة عن المكتب"
+},
+{
+"id": 6592,
+"f": "views/admin/offices/show.blade.php",
+"ar": "حالة الاشتراك"
+},
+{
+"id": 6593,
+"f": "views/admin/offices/show.blade.php",
+"ar": "تفاصيل المكتب"
+},
+{
+"id": 6594,
+"f": "views/admin/offices/show.blade.php",
+"ar": "اشتراك غير فعال"
+},
+{
+"id": 6595,
+"f": "views/admin/offices/show.blade.php",
+"ar": "استشارات محولة"
+},
+{
+"id": 6596,
+"f": "views/admin/offices/show.blade.php",
+"ar": "مهندس غير متاح"
+},
+{
+"id": 6597,
+"f": "views/admin/offices/show.blade.php",
+"ar": "مراسلة مالك المكتب"
+},
+{
+"id": 6598,
+"f": "views/admin/offices/show.blade.php",
+"ar": "العودة إلى جميع المكاتب"
+}
+]

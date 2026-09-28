@@ -1,0 +1,2002 @@
+[
+{
+"id": 4592,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الطاقة والطاقة المتجددة"
+},
+{
+"id": 4593,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تدقيق طاقة"
+},
+{
+"id": 4594,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طاقة شمسية"
+},
+{
+"id": 4595,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طاقة رياح"
+},
+{
+"id": 4596,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع نظام الطاقة"
+},
+{
+"id": 4597,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "القدرة التصميمية"
+},
+{
+"id": 4598,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الإنتاج / الوفر السنوي المتوقع"
+},
+{
+"id": 4599,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أو %"
+},
+{
+"id": 4600,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع وسعة البطاريات إن وجدت"
+},
+{
+"id": 4601,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دراسات ونماذج الطاقة"
+},
+{
+"id": 4602,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع الطاقة الشمسية"
+},
+{
+"id": 4603,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "قدرة النظام"
+},
+{
+"id": 4604,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الربط"
+},
+{
+"id": 4605,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سعة التخزين"
+},
+{
+"id": 4606,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الإنتاج السنوي المتوقع"
+},
+{
+"id": 4607,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الإلكترونيات والاتصالات"
+},
+{
+"id": 4608,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المعمارية"
+},
+{
+"id": 4609,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر بنية النظام الرئيسية"
+},
+{
+"id": 4610,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "البروتوكولات والواجهات"
+},
+{
+"id": 4611,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الوحدات / الأجهزة"
+},
+{
+"id": 4612,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات النظام الإلكتروني/الاتصالات"
+},
+{
+"id": 4613,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP لمصادر المحاكاة/اللوحات."
+},
+{
+"id": 4614,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات التحكم والأتمتة"
+},
+{
+"id": 4615,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العملية المتحكم بها"
+},
+{
+"id": 4616,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خط إنتاج / محطة / آلة..."
+},
+{
+"id": 4617,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "بروتوكولات الاتصال"
+},
+{
+"id": 4618,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات التحكم والأتمتة"
+},
+{
+"id": 4619,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP لبرنامج"
+},
+{
+"id": 4620,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع الميكاترونكس"
+},
+{
+"id": 4621,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الآلة / النظام"
+},
+{
+"id": 4622,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المشغلات الرئيسية"
+},
+{
+"id": 4623,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الحساسات الرئيسية"
+},
+{
+"id": 4624,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الميكاترونكس والنموذج"
+},
+{
+"id": 4625,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات أنظمة المباني الذكية"
+},
+{
+"id": 4626,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المبنى"
+},
+{
+"id": 4627,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "البروتوكولات"
+},
+{
+"id": 4628,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الأنظمة المتكاملة"
+},
+{
+"id": 4629,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات BMS والتكامل"
+},
+{
+"id": 4630,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع الحاسوب/البرمجيات"
+},
+{
+"id": 4631,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التقنيات المستخدمة"
+},
+{
+"id": 4632,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حجم الاستخدام / المستخدمين"
+},
+{
+"id": 4633,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "بيئة النشر"
+},
+{
+"id": 4634,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توثيق وملفات المشروع التقني"
+},
+{
+"id": 4635,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "استخدم ZIP لمقتطف آمن من المصدر عند الحاجة."
+},
+{
+"id": 4636,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع الأمن السيبراني"
+},
+{
+"id": 4637,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المشروع الأمني"
+},
+{
+"id": 4638,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "البيئة"
+},
+{
+"id": 4639,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الأصول ضمن النطاق"
+},
+{
+"id": 4640,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الإطار / المعيار"
+},
+{
+"id": 4641,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير وتوثيق الأمن"
+},
+{
+"id": 4642,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ارفع تقارير منزوعة الأسرار والبيانات الحساسة فقط. لا ترفع مفاتيح، كلمات مرور أو بيانات وصول."
+},
+{
+"id": 4643,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة الصناعية"
+},
+{
+"id": 4644,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تحسين إنتاج"
+},
+{
+"id": 4645,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العملية / خط الإنتاج"
+},
+{
+"id": 4646,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر العملية المستهدفة"
+},
+{
+"id": 4647,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطاقة الإنتاجية الأساسية"
+},
+{
+"id": 4648,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وحدة/ساعة أو يوم"
+},
+{
+"id": 4649,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مؤشر التحسين"
+},
+{
+"id": 4650,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "النتيجة المحققة"
+},
+{
+"id": 4651,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نسبة التحسن أو الوفر"
+},
+{
+"id": 4652,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خرائط العملية والتحليل"
+},
+{
+"id": 4653,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المصانع والمنشآت الصناعية"
+},
+{
+"id": 4654,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مصنع"
+},
+{
+"id": 4655,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستودع"
+},
+{
+"id": 4656,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خط إنتاج"
+},
+{
+"id": 4657,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توسعة منشأة"
+},
+{
+"id": 4658,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المنشأة"
+},
+{
+"id": 4659,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطاقة الإنتاجية"
+},
+{
+"id": 4660,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وحدة/يوم أو طن/سنة"
+},
+{
+"id": 4661,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع التخطيط"
+},
+{
+"id": 4662,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الخدمات الصناعية"
+},
+{
+"id": 4663,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات المصنع والخدمات"
+},
+{
+"id": 4664,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة الكيميائية والعمليات"
+},
+{
+"id": 4665,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العملية الكيميائية"
+},
+{
+"id": 4666,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اسم العملية / الوحدة"
+},
+{
+"id": 4667,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "معدل الإنتاج / التغذية"
+},
+{
+"id": 4668,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ظروف التشغيل"
+},
+{
+"id": 4669,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المخرجات الرئيسية"
+},
+{
+"id": 4670,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات العملية والتصميم"
+},
+{
+"id": 4671,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة البيئية"
+},
+{
+"id": 4672,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الدراسة البيئية"
+},
+{
+"id": 4673,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منطقة / مساحة الدراسة"
+},
+{
+"id": 4674,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الموقع أو المساحة"
+},
+{
+"id": 4675,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المؤشرات المقاسة"
+},
+{
+"id": 4676,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أهم إجراءات التخفيف"
+},
+{
+"id": 4677,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "لخص الإجراءات"
+},
+{
+"id": 4678,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير وبيانات الدراسة البيئية"
+},
+{
+"id": 4679,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات التخطيط الحضري والإقليمي"
+},
+{
+"id": 4680,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة التخطيط"
+},
+{
+"id": 4681,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "هكتار أو كم"
+},
+{
+"id": 4682,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "السكان المستهدفون"
+},
+{
+"id": 4683,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستوى المخطط"
+},
+{
+"id": 4684,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حي / مدينة / إقليم"
+},
+{
+"id": 4685,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "استعمالات الأراضي"
+},
+{
+"id": 4686,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سكني / تجاري / خدمات / أخضر..."
+},
+{
+"id": 4687,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خرائط ومخرجات التخطيط"
+},
+{
+"id": 4688,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات مشروع المدن الذكية"
+},
+{
+"id": 4689,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مجال الحل الذكي"
+},
+{
+"id": 4690,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق التغطية"
+},
+{
+"id": 4691,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حي / مدينة / منشأة"
+},
+{
+"id": 4692,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الأجهزة / النقاط"
+},
+{
+"id": 4693,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منصة التكامل والبيانات"
+},
+{
+"id": 4694,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "معمارية وحلول المدينة الذكية"
+},
+{
+"id": 4695,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP لملفات التكوين غير الحساسة."
+},
+{
+"id": 4696,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات إدارة المشاريع الهندسية"
+},
+{
+"id": 4697,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مدة المشروع (أشهر)"
+},
+{
+"id": 4698,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "القيمة التقريبية للمشروع"
+},
+{
+"id": 4699,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العملة والقيمة"
+},
+{
+"id": 4700,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق الإدارة"
+},
+{
+"id": 4701,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات إدارة وضبط المشروع"
+},
+{
+"id": 4702,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات التكاليف وحصر الكميات"
+},
+{
+"id": 4703,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع التقدير / الحصر"
+},
+{
+"id": 4704,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد البنود التقريبي"
+},
+{
+"id": 4705,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أساس التسعير"
+},
+{
+"id": 4706,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "جداول الكميات والتكلفة"
+},
+{
+"id": 4707,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الجودة والسلامة"
+},
+{
+"id": 4708,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق الجودة / السلامة"
+},
+{
+"id": 4709,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حجم التفتيش / المتابعة"
+},
+{
+"id": 4710,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "النتائج الرئيسية"
+},
+{
+"id": 4711,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "سجلات وتقارير الجودة والسلامة"
+},
+{
+"id": 4712,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الصيانة وإدارة المرافق"
+},
+{
+"id": 4713,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الأصول"
+},
+{
+"id": 4714,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد الأصول"
+},
+{
+"id": 4715,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "استراتيجية الصيانة"
+},
+{
+"id": 4716,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مؤشرات الخدمة"
+},
+{
+"id": 4717,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات الأصول والصيانة"
+},
+{
+"id": 4718,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستوى التطوير"
+},
+{
+"id": 4719,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التخصصات المنمذجة"
+},
+{
+"id": 4720,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حجم / نطاق النموذج"
+},
+{
+"id": 4721,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مساحة أو عدد مبانٍ"
+},
+{
+"id": 4722,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نماذج BIM وملفات التنسيق"
+},
+{
+"id": 4723,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الملفات الكبيرة داخل ZIP عند الحاجة."
+},
+{
+"id": 4724,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات التصميم البارامتري والحوسبي"
+},
+{
+"id": 4725,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الهندسة / النظام"
+},
+{
+"id": 4726,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الباراميترات الرئيسية"
+},
+{
+"id": 4727,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "اذكر المتغيرات التي تتحكم بالتصميم"
+},
+{
+"id": 4728,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "هدف التحسين"
+},
+{
+"id": 4729,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طريقة التصنيع / الإخراج"
+},
+{
+"id": 4730,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نماذج ونتائج التصميم الحوسبي"
+},
+{
+"id": 4731,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "داخل"
+},
+{
+"id": 4732,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وتقارير التحسين."
+},
+{
+"id": 4733,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات هندسة الإضاءة"
+},
+{
+"id": 4734,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الفراغ / الموقع"
+},
+{
+"id": 4735,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مستوى الإضاءة المستهدف"
+},
+{
+"id": 4736,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "درجة حرارة اللون"
+},
+{
+"id": 4737,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التحكم"
+},
+{
+"id": 4738,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حسابات ومخططات الإضاءة"
+},
+{
+"id": 4739,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة الصوتية"
+},
+{
+"id": 4740,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الهدف الصوتي"
+},
+{
+"id": 4741,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المستهدف"
+},
+{
+"id": 4742,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ثانية"
+},
+{
+"id": 4743,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "العزل المستهدف"
+},
+{
+"id": 4744,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير ومحاكاة الصوت"
+},
+{
+"id": 4745,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات المصاعد والنقل العمودي"
+},
+{
+"id": 4746,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ارتفاع / عدد طوابق المبنى"
+},
+{
+"id": 4747,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مثال: 25 طابق"
+},
+{
+"id": 4748,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "عدد المصاعد / السلالم"
+},
+{
+"id": 4749,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "السعة"
+},
+{
+"id": 4750,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "السرعة"
+},
+{
+"id": 4751,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات ودراسة النقل العمودي"
+},
+{
+"id": 4752,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الترميم وإعادة التأهيل"
+},
+{
+"id": 4753,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ترميم معماري"
+},
+{
+"id": 4754,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تدعيم إنشائي"
+},
+{
+"id": 4755,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إعادة تأهيل مبنى"
+},
+{
+"id": 4756,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "حالة المبنى قبل التدخل"
+},
+{
+"id": 4757,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ضرر خفيف / متوسط / جسيم..."
+},
+{
+"id": 4758,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع التدخل"
+},
+{
+"id": 4759,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "القيمة التراثية"
+},
+{
+"id": 4760,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "منهج المعالجة"
+},
+{
+"id": 4761,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توثيق وملفات إعادة التأهيل"
+},
+{
+"id": 4762,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الاستدامة والمباني الخضراء"
+},
+{
+"id": 4763,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نظام التقييم / الشهادة"
+},
+{
+"id": 4764,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "هدف الطاقة"
+},
+{
+"id": 4765,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مثال: -30% أو EUI مستهدف"
+},
+{
+"id": 4766,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "هدف المياه"
+},
+{
+"id": 4767,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نسبة الوفر"
+},
+{
+"id": 4768,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "أهم الاستراتيجيات"
+},
+{
+"id": 4769,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير ومحاكاة الاستدامة"
+},
+{
+"id": 4770,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة الطبية الحيوية"
+},
+{
+"id": 4771,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع الجهاز / النظام"
+},
+{
+"id": 4772,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المجال السريري"
+},
+{
+"id": 4773,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "التكامل والواجهات"
+},
+{
+"id": 4774,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "توثيق المشروع الطبي الحيوي"
+},
+{
+"id": 4775,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دون بيانات مرضى أو أسرار حساسة."
+},
+{
+"id": 4776,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة الزراعية"
+},
+{
+"id": 4777,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع النظام الزراعي"
+},
+{
+"id": 4778,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المساحة الزراعية"
+},
+{
+"id": 4779,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "دونم / هكتار / م"
+},
+{
+"id": 4780,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المحصول / الاستخدام"
+},
+{
+"id": 4781,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "إن كان مناسبًا"
+},
+{
+"id": 4782,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وبيانات المشروع الزراعي"
+},
+{
+"id": 4783,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة البحرية"
+},
+{
+"id": 4784,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المنشأة / الأصل البحري"
+},
+{
+"id": 4785,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الأبعاد / السعة الرئيسية"
+},
+{
+"id": 4786,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "بيئة التشغيل"
+},
+{
+"id": 4787,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "المعيار / التصنيف"
+},
+{
+"id": 4788,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ملفات التصميم البحري"
+},
+{
+"id": 4789,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المادة"
+},
+{
+"id": 4790,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طريقة الاختبار / التحليل"
+},
+{
+"id": 4791,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مؤشر الأداء"
+},
+{
+"id": 4792,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات هندسة التعدين"
+},
+{
+"id": 4793,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المنجم"
+},
+{
+"id": 4794,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الخامة / المعدن"
+},
+{
+"id": 4795,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "الطاقة السنوية"
+},
+{
+"id": 4796,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طن/سنة"
+},
+{
+"id": 4797,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "طريقة التعدين"
+},
+{
+"id": 4798,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "خطط وتقارير التعدين"
+},
+{
+"id": 4799,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "وZIP للنماذج."
+},
+{
+"id": 4800,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات هندسة النفط والغاز"
+},
+{
+"id": 4801,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المنشأة / النظام"
+},
+{
+"id": 4802,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نوع المائع"
+},
+{
+"id": 4803,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "ضغط التصميم"
+},
+{
+"id": 4804,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "مخططات وتقارير النفط والغاز"
+},
+{
+"id": 4805,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "متطلبات الهندسة النووية"
+},
+{
+"id": 4806,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق النظام / الدراسة"
+},
+{
+"id": 4807,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تصنيف السلامة"
+},
+{
+"id": 4808,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "نطاق الحماية الإشعاعية"
+},
+{
+"id": 4809,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "تقارير الدراسة النووية"
+},
+{
+"id": 4810,
+"f": "app/Support/EngineerPortfolioRequirements.php",
+"ar": "شارك فقط مواد مهنية غير حساسة وغير خاضعة لقيود أمنية أو تشغيلية."
+},
+{
+"id": 4811,
+"f": "app/Support/SafeUpload.php",
+"ar": "نوع الملف غير مسموح."
+},
+{
+"id": 4812,
+"f": "app/Support/SafeUpload.php",
+"ar": "محتوى الملف لا يطابق نوعه المسموح."
+},
+{
+"id": 4813,
+"f": "config/customer_mail.php",
+"ar": "تم استلام طلب التوثيق"
+},
+{
+"id": 4814,
+"f": "config/customer_mail.php",
+"ar": "تم استلام تذكرة الدعم"
+},
+{
+"id": 4815,
+"f": "config/customer_mail.php",
+"ar": "تم تغيير كلمة المرور"
+},
+{
+"id": 4816,
+"f": "config/customer_mail.php",
+"ar": "تأكيد البريد الإلكتروني"
+},
+{
+"id": 4817,
+"f": "config/customer_mail.php",
+"ar": "تم استلام طلب حذف الحساب"
+},
+{
+"id": 4818,
+"f": "config/customer_mail.php",
+"ar": "تم إغلاق تذكرة الدعم"
+},
+{
+"id": 4819,
+"f": "config/customer_mail.php",
+"ar": "محاولات دخول فاشلة متعددة"
+},
+{
+"id": 4820,
+"f": "config/customer_mail.php",
+"ar": "تم تغيير البريد المرتبط بالحساب"
+},
+{
+"id": 4821,
+"f": "config/customer_mail.php",
+"ar": "تم اعتماد بريد جديد لحسابك"
+},
+{
+"id": 4822,
+"f": "config/customer_mail.php",
+"ar": "تم تغيير رقم الهاتف"
+},
+{
+"id": 4823,
+"f": "config/customer_mail.php",
+"ar": "تم تفعيل المصادقة الثنائية"
+},
+{
+"id": 4824,
+"f": "config/customer_mail.php",
+"ar": "تم إلغاء المصادقة الثنائية"
+},
+{
+"id": 4825,
+"f": "config/customer_mail.php",
+"ar": "تمت إضافة Passkey جديدة"
+},
+{
+"id": 4826,
+"f": "config/customer_mail.php",
+"ar": "تم تسجيل الخروج من جميع الأجهزة"
+},
+{
+"id": 4827,
+"f": "config/customer_mail.php",
+"ar": "أنهى فريق الدعم جلسات حسابك"
+},
+{
+"id": 4828,
+"f": "config/customer_mail.php",
+"ar": "تم قفل حسابك مؤقتًا"
+},
+{
+"id": 4829,
+"f": "config/customer_mail.php",
+"ar": "تم فتح حسابك"
+},
+{
+"id": 4830,
+"f": "config/customer_mail.php",
+"ar": "اكتمل استرداد حسابك"
+},
+{
+"id": 4831,
+"f": "config/customer_mail.php",
+"ar": "طلب التوثيق تحت المراجعة"
+},
+{
+"id": 4832,
+"f": "config/customer_mail.php",
+"ar": "تحديث بخصوص طلب التوثيق"
+},
+{
+"id": 4833,
+"f": "config/customer_mail.php",
+"ar": "معلومات إضافية مطلوبة لإكمال التوثيق"
+},
+{
+"id": 4834,
+"f": "config/customer_mail.php",
+"ar": "تذكير بإكمال طلب التوثيق"
+},
+{
+"id": 4835,
+"f": "config/customer_mail.php",
+"ar": "تنبيه قرب انتهاء الترخيص المهني"
+},
+{
+"id": 4836,
+"f": "config/customer_mail.php",
+"ar": "تم استلام دفعتك بنجاح"
+},
+{
+"id": 4837,
+"f": "config/customer_mail.php",
+"ar": "تعذر إتمام عملية الدفع"
+},
+{
+"id": 4838,
+"f": "config/customer_mail.php",
+"ar": "تذكير: تجديد الاشتراك بعد 3 أيام"
+},
+{
+"id": 4839,
+"f": "config/customer_mail.php",
+"ar": "انتهى اشتراكك"
+},
+{
+"id": 4840,
+"f": "config/customer_mail.php",
+"ar": "تم تنفيذ الاسترداد المالي"
+},
+{
+"id": 4841,
+"f": "config/customer_mail.php",
+"ar": "تم تحويل مستحقاتك"
+},
+{
+"id": 4842,
+"f": "config/customer_mail.php",
+"ar": "تم تغيير بيانات الحساب البنكي"
+},
+{
+"id": 4843,
+"f": "config/customer_mail.php",
+"ar": "أهلًا بك في المنصة"
+},
+{
+"id": 4844,
+"f": "config/customer_mail.php",
+"ar": "عرض جديد على طلبك"
+},
+{
+"id": 4845,
+"f": "config/customer_mail.php",
+"ar": "تم قبول طلبك"
+},
+{
+"id": 4846,
+"f": "config/customer_mail.php",
+"ar": "تم تسليم مرحلة جديدة"
+},
+{
+"id": 4847,
+"f": "config/customer_mail.php",
+"ar": "تم فتح نزاع"
+},
+{
+"id": 4848,
+"f": "config/customer_mail.php",
+"ar": "صدر قرار بخصوص النزاع"
+},
+{
+"id": 4849,
+"f": "config/customer_mail.php",
+"ar": "رد جديد من فريق الدعم"
+},
+{
+"id": 4850,
+"f": "config/customer_mail.php",
+"ar": "تنبيه بخصوص حسابك"
+},
+{
+"id": 4851,
+"f": "config/customer_mail.php",
+"ar": "تم إيقاف الحساب مؤقتًا"
+},
+{
+"id": 4852,
+"f": "config/payment.php",
+"ar": "بطاقة"
+},
+{
+"id": 4853,
+"f": "config/payment.php",
+"ar": "المحفظة الإلكترونية"
+},
+{
+"id": 4854,
+"f": "config/payment.php",
+"ar": "عبدالله فهد ناصر العبلان"
+},
+{
+"id": 4855,
+"f": "config/payment.php",
+"ar": "بوابة الدفع الإلكترونية"
+},
+{
+"id": 4856,
+"f": "config/payment.php",
+"ar": "الدفع بالبطاقة يتم عبر بوابة دفع آمنة خارجية. منصة الوليد الهندسية لا تطلب رقم البطاقة أو رمز CVV داخل التطبيق."
+},
+{
+"id": 4857,
+"f": "config/payment.php",
+"ar": "اكتب رقم الاستشارة أو رقم طلب العضوية في وصف التحويل."
+},
+{
+"id": 4858,
+"f": "config/payment.php",
+"ar": "بعد إتمام التحويل ارفع صورة واضحة لإيصال الدفع."
+},
+{
+"id": 4859,
+"f": "config/payment.php",
+"ar": "يتم تفعيل الطلب بعد مراجعة الإدارة للإيصال."
+},
+{
+"id": 4860,
+"f": "config/payment_gateways.php",
+"ar": "اكتب مرجع الدفع كما هو في خانة البيان/المرجع عند تنفيذ الحوالة."
+},
+{
+"id": 4861,
+"f": "config/payment_gateways.php",
+"ar": "بنك فلسطين"
+},
+{
+"id": 4862,
+"f": "config/payment_gateways.php",
+"ar": "البنك الإسلامي الفلسطيني"
+},
+{
+"id": 4863,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الإشعارات"
+},
+{
+"id": 4864,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الاستشارات"
+},
+{
+"id": 4865,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الحساب"
+},
+{
+"id": 4866,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عام"
+},
+{
+"id": 4867,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المكاتب"
+},
+{
+"id": 4868,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المهندسون"
+},
+{
+"id": 4869,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الخدمات الهندسية"
+},
+{
+"id": 4870,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المدفوعات"
+},
+{
+"id": 4871,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الدعم"
+},
+{
+"id": 4872,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قيد التنفيذ"
+},
+{
+"id": 4873,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "المحادثات"
+},
+{
+"id": 4874,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مكتملة"
+},
+{
+"id": 4875,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الملفات"
+},
+{
+"id": 4876,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "السياسات"
+},
+{
+"id": 4877,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ملغاة"
+},
+{
+"id": 4878,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رقم الهاتف"
+},
+{
+"id": 4879,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قيد الانتظار"
+},
+{
+"id": 4880,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الأمان"
+},
+{
+"id": 4881,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مشكلات تقنية"
+},
+{
+"id": 4882,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "التقييمات"
+},
+{
+"id": 4883,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ملف"
+},
+{
+"id": 4884,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "التحقق"
+},
+{
+"id": 4885,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حماية الحساب"
+},
+{
+"id": 4886,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "فاتورة"
+},
+{
+"id": 4887,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تذكرة جديدة"
+},
+{
+"id": 4888,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "سياسة الخصوصية"
+},
+{
+"id": 4889,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نوع الاستشارة"
+},
+{
+"id": 4890,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ما معنى"
+},
+{
+"id": 4891,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ماذا تعني"
+},
+{
+"id": 4892,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "فتح المحادثة"
+},
+{
+"id": 4893,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حالة المكتب"
+},
+{
+"id": 4894,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "خطأ"
+},
+{
+"id": 4895,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رفض الإيصال"
+},
+{
+"id": 4896,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إغلاق التذكرة"
+},
+{
+"id": 4897,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تغيير المهندس"
+},
+{
+"id": 4898,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مراحل المشروع"
+},
+{
+"id": 4899,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تقييم المهندس"
+},
+{
+"id": 4900,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "طرق الدفع"
+},
+{
+"id": 4901,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مرفقات"
+},
+{
+"id": 4902,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم، المنصة مصممة لمستخدمين من دول متعددة. تختلف طرق الدفع والتراخيص والاشتراطات الهندسية بحسب دولة المستخدم وموقع المشروع."
+},
+{
+"id": 4903,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "العالم,دولي,خارج السعودية,دول"
+},
+{
+"id": 4904,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن استخدام المنصة من دول متعددة، لكن بعض الخدمات ووسائل الدفع قد لا تتوفر في كل دولة، كما يجب الالتزام بالقوانين المحلية."
+},
+{
+"id": 4905,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "جميع الدول,بلدي,دولة"
+},
+{
+"id": 4906,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "منصة الوليد الهندسية منصة لإدارة وطلب الخدمات الهندسية وربط العملاء بمقدمي الخدمة. يظهر داخل كل طلب الطرف المسؤول عن التنفيذ ونطاق عمله."
+},
+{
+"id": 4907,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مكتب,منصة,وسيط"
+},
+{
+"id": 4908,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أنشئ حسابًا، وثّق بريدك الإلكتروني، ثم افتح لوحة التحكم واختر الخدمة المطلوبة أو تصفح المهندسين والمكاتب."
+},
+{
+"id": 4909,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن تصفح الصفحات العامة مثل الصفحة الرئيسية ومكتبة المهندسين، لكن الطلبات والدفع والمحادثات تحتاج إلى حساب."
+},
+{
+"id": 4910,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "بدون حساب,زائر,تصفح"
+},
+{
+"id": 4911,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "استخدم نظام الدعم الفني أو تذاكر الدعم داخل حسابك، وأرسل رقم الطلب ووصف المشكلة بوضوح."
+},
+{
+"id": 4912,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تتوفر صفحات عامة أو إرشادات مجانية، أما الخدمات الهندسية المدفوعة فيظهر سعرها قبل تأكيد الطلب."
+},
+{
+"id": 4913,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مجاني,سعر,خدمات مجانية"
+},
+{
+"id": 4914,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يعتمد السعر على نوع الاستشارة والخدمة ونطاق العمل. يظهر السعر الأساسي أو السعر النهائي داخل الطلب قبل الدفع."
+},
+{
+"id": 4915,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "السعر,تكلفة,ثابت"
+},
+{
+"id": 4916,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم، الواجهات مصممة للعمل على الجوال والكمبيوتر. عند وجود مشكلة جرّب تحديث المتصفح أو متصفحًا آخر."
+},
+{
+"id": 4917,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "جوال,موبايل,هاتف"
+},
+{
+"id": 4918,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح صفحة إنشاء حساب، أدخل الاسم والبريد ورقم الهاتف وكلمة المرور، وافق على سياسة الخصوصية والشروط، ثم اضغط إنشاء الحساب."
+},
+{
+"id": 4919,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الموافقة توضح حقوق المستخدم والتزاماته وكيفية معالجة البيانات والعقوبات عند المخالفة."
+},
+{
+"id": 4920,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح إعدادات الحساب ثم تغيير كلمة المرور، وأدخل الحالية والجديدة واحفظ."
+},
+{
+"id": 4921,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من إعدادات الحساب يمكنك تعديل البيانات المتاحة مثل الاسم والهاتف والصورة ثم الحفظ."
+},
+{
+"id": 4922,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح إعدادات الحساب واختر صورة جديدة بصيغة وحجم مسموحين ثم احفظ."
+},
+{
+"id": 4923,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح إعدادات الحساب ثم حذف الحساب واتبع التأكيد. قد تحتفظ المنصة بسجلات لازمة قانونيًا أو ماليًا."
+},
+{
+"id": 4924,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الأصل حساب واحد لكل شخص. الحسابات المتعددة للتحايل على القيود أو التقييمات ممنوعة."
+},
+{
+"id": 4925,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حسابات متعددة,أكثر من حساب"
+},
+{
+"id": 4926,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لا، مشاركة أو بيع أو تأجير الحساب ممنوع وقد يؤدي إلى التعليق."
+},
+{
+"id": 4927,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مشاركة الحساب,بيع الحساب"
+},
+{
+"id": 4928,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد يكون بسبب مخالفة الشروط أو بيانات غير صحيحة أو نشاط أمني غير معتاد أو الحاجة للتحقق."
+},
+{
+"id": 4929,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح تذكرة دعم وأرسل سبب الاعتراض والمستندات الداعمة. قد يطلب إثبات الهوية."
+},
+{
+"id": 4930,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم عبر تقديم طلب انضمام كمهندس، ولا يتغير الدور قبل مراجعة الإدارة."
+},
+{
+"id": 4931,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عميل إلى مهندس,تغيير الدور"
+},
+{
+"id": 4932,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تحقق من البريد وكلمة المرور وتوثيق البريد وحالة الحساب، ثم استخدم استعادة كلمة المرور إن لزم."
+},
+{
+"id": 4933,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعني أن جلسة تسجيل الدخول انتهت. حدّث الصفحة وسجل الدخول من جديد."
+},
+{
+"id": 4934,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "انتهت الجلسة,"
+},
+{
+"id": 4935,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح قائمة الحساب واضغط تسجيل الخروج."
+},
+{
+"id": 4936,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد يتاح تغييره من الإعدادات، وقد يتطلب توثيق البريد الجديد أو تدخل الدعم."
+},
+{
+"id": 4937,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تغيير البريد,الإيميل"
+},
+{
+"id": 4938,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم عند التسجيل إذا ظهر كحقل مطلوب، ويستخدم للتواصل والتحقق حسب إعدادات المنصة."
+},
+{
+"id": 4939,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "رقم الهاتف,إلزامي"
+},
+{
+"id": 4940,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اختر الدولة الصحيحة وأدخل الرقم المحلي دون تكرار مفتاح الدولة، وتأكد من صحة عدد الأرقام."
+},
+{
+"id": 4941,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعتمد على إعدادات التسجيل؛ إذا لم تظهر علامة الإلزام فيمكن تركها فارغة."
+},
+{
+"id": 4942,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الصورة إلزامية"
+},
+{
+"id": 4943,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "لتأمين الحساب وضمان استلام الإشعارات وروابط الاستعادة والوصول للخدمات الحساسة."
+},
+{
+"id": 4944,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تتاح صفحات عامة، لكن معظم الطلبات والدفع والمحادثات تتطلب بريدًا موثقًا."
+},
+{
+"id": 4945,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "بدون توثيق"
+},
+{
+"id": 4946,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح صفحة التحقق واضغط إعادة إرسال رسالة التحقق."
+},
+{
+"id": 4947,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "من لوحة التحكم اختر طلب استشارة جديدة، وحدد النوع والعنوان والوصف وارفع الملفات ثم أرسل."
+},
+{
+"id": 4948,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اختر الأقرب لاحتياجك، وراجع وصف الخدمة والسعر. عند عدم التأكد تواصل مع الدعم."
+},
+{
+"id": 4949,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم من صفحة المهندس عند توفر خيار طلب استشارة، أو قد يتم التعيين بواسطة الإدارة أو المكتب."
+},
+{
+"id": 4950,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اختيار مهندس"
+},
+{
+"id": 4951,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "افتح صفحة استشاراتي لمشاهدة الرقم والحالة والسعر والمهندس والرسائل."
+},
+{
+"id": 4952,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الطلب جديد وينتظر مراجعة أو دفعًا أو بدء إجراء."
+},
+{
+"id": 4953,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "الطلب قيد المعالجة أو التنفيذ."
+},
+{
+"id": 4954,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اكتمل العمل وتم تسليم المخرجات أو إنهاء الخدمة."
+},
+{
+"id": 4955,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أُلغي الطلب ولم يعد قيد التنفيذ."
+},
+{
+"id": 4956,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد يكون التعديل محدودًا بعد الإرسال. أرسل التفاصيل الإضافية عبر المحادثة أو الدعم."
+},
+{
+"id": 4957,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تعديل الطلب"
+},
+{
+"id": 4958,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يعتمد على مرحلة التنفيذ وما تم إنجازه وسياسة الاسترداد."
+},
+{
+"id": 4959,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إلغاء الاستشارة"
+},
+{
+"id": 4960,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد يكون الطلب بانتظار الدفع أو المراجعة أو توفر مهندس مناسب."
+},
+{
+"id": 4961,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب ذلك مع ذكر السبب، ويعتمد القرار على مرحلة التنفيذ والتوفر."
+},
+{
+"id": 4962,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عند اكتمال الطلب يظهر ملف التسليم داخل صفحة الاستشارة أو المحادثة."
+},
+{
+"id": 4963,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن عبر المحادثة المرتبطة بالاستشارة إذا كانت المرفقات متاحة."
+},
+{
+"id": 4964,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ملفات إضافية"
+},
+{
+"id": 4965,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "قد تكون الحالة لا تسمح بالدفع أو توجد دفعة سابقة أو الحساب ليس صاحب الطلب."
+},
+{
+"id": 4966,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اذكر أن الطلب عاجل في الوصف، لكن قبول المدة يعتمد على توفر المختص ونطاق العمل."
+},
+{
+"id": 4967,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عاجل,استشارة عاجلة"
+},
+{
+"id": 4968,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم إذا اتفق الأطراف على نطاق واضح لكل مرحلة ومخرجاتها وسعرها."
+},
+{
+"id": 4969,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "أرسلها عبر المحادثة، وقد تعتبر تغييرًا في نطاق العمل إذا كانت جوهرية."
+},
+{
+"id": 4970,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "ملاحظات,تغيير النطاق"
+},
+{
+"id": 4971,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "السعر النهائي"
+},
+{
+"id": 4972,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يعتمد على نطاق الخدمة المتفق عليه وعدد التعديلات المحدد داخل الطلب."
+},
+{
+"id": 4973,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "عدد التعديلات"
+},
+{
+"id": 4974,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يظهر في تفاصيل الاتفاق أو يحدده مقدم الخدمة في المحادثة. أي تغيير يجب توثيقه."
+},
+{
+"id": 4975,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب تصميم أو استشارة معمارية من مهندس أو مكتب متخصص مع إرفاق بيانات الموقع والمساحة والاحتياجات."
+},
+{
+"id": 4976,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تصميم معماري,مخطط"
+},
+{
+"id": 4977,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم عند توفر مختص. أرفق المخطط والصور والطراز والميزانية."
+},
+{
+"id": 4978,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "تصميم داخلي,ديكور"
+},
+{
+"id": 4979,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب خدمات إنشائية من مهندس مؤهل، مع مراعاة اعتماد دولة المشروع."
+},
+{
+"id": 4980,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "إنشائي,خرسانة"
+},
+{
+"id": 4981,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب تخصصات MEP مثل الكهرباء والتكييف والسباكة والميكانيكا عند توفر مختص."
+},
+{
+"id": 4982,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كهرباء,ميكانيكا"
+},
+{
+"id": 4983,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب حصر الكميات أو التقدير المبدئي للتكلفة مع المخططات والمواصفات."
+},
+{
+"id": 4984,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "حصر كميات"
+},
+{
+"id": 4985,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم، أنشئ استشارة مراجعة وارفع الملفات وحدد نقاط التدقيق."
+},
+{
+"id": 4986,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "مراجعة مخطط,تدقيق"
+},
+{
+"id": 4987,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "نعم عند توفر مختص، وارفق المخطط وصور الموقع والطراز المطلوب."
+},
+{
+"id": 4988,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "واجهة,تصميم واجهات"
+},
+{
+"id": 4989,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "اذكر الدولة والمدينة والكود المطلوب. الاعتماد النهائي من الجهات المحلية."
+},
+{
+"id": 4990,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "كود البناء,اشتراطات"
+},
+{
+"id": 4991,
+"f": "database/data/support_knowledge_base_massive.php",
+"ar": "يمكن طلب تصميم الحدائق والفراغات الخارجية عند توفر مختص، مع إرفاق المخطط والمناخ والاحتياجات."
+}
+]

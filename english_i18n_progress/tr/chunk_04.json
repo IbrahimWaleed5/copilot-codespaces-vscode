@@ -1,0 +1,1657 @@
+[
+{
+"id": 1012,
+"f": "app/Http/Controllers/Api/RegisterApiController.php",
+"ar": "تم إنشاء الحساب. تحقق من بريدك الإلكتروني لتفعيل الحساب."
+},
+{
+"id": 1013,
+"f": "app/Http/Controllers/Api/ReportCenterApiController.php",
+"ar": "ليس لديك صلاحية عرض مركز التقارير."
+},
+{
+"id": 1014,
+"f": "app/Http/Controllers/Api/ReportCenterApiController.php",
+"ar": "الفترة غير صحيحة."
+},
+{
+"id": 1015,
+"f": "app/Http/Controllers/Api/ReportCenterApiController.php",
+"ar": "تم حفظ التقرير."
+},
+{
+"id": 1016,
+"f": "app/Http/Controllers/Api/ReportCenterApiController.php",
+"ar": "تمت أرشفة التقرير."
+},
+{
+"id": 1017,
+"f": "app/Http/Controllers/Api/ReportCenterApiController.php",
+"ar": "تمت استعادة التقرير."
+},
+{
+"id": 1018,
+"f": "app/Http/Controllers/Api/SecurityCenterApiController.php",
+"ar": "تم تسجيل الجهاز."
+},
+{
+"id": 1019,
+"f": "app/Http/Controllers/Api/SecurityCenterApiController.php",
+"ar": "تم اعتبار الجهاز موثوقًا."
+},
+{
+"id": 1020,
+"f": "app/Http/Controllers/Api/SecurityCenterApiController.php",
+"ar": "تم إلغاء ثقة الجهاز."
+},
+{
+"id": 1021,
+"f": "app/Http/Controllers/Api/SecurityCenterApiController.php",
+"ar": "تم إنهاء الجلسة."
+},
+{
+"id": 1022,
+"f": "app/Http/Controllers/Api/SecurityCenterApiController.php",
+"ar": "تم إنهاء جميع الجلسات الأخرى."
+},
+{
+"id": 1023,
+"f": "app/Http/Controllers/Api/SlaCenterApiController.php",
+"ar": "هذا الإجراء مغلق بالفعل."
+},
+{
+"id": 1024,
+"f": "app/Http/Controllers/Api/SlaCenterApiController.php",
+"ar": "تم تأكيد الاطلاع على إجراء"
+},
+{
+"id": 1025,
+"f": "app/Http/Controllers/Api/SlaCenterApiController.php",
+"ar": "تم تسجيل الاطلاع على الإجراء."
+},
+{
+"id": 1026,
+"f": "app/Http/Controllers/Api/SlaCenterApiController.php",
+"ar": "تم تعديل قاعدة SLA من التطبيق."
+},
+{
+"id": 1027,
+"f": "app/Http/Controllers/Api/SlaCenterApiController.php",
+"ar": "تم تحديث قاعدة"
+},
+{
+"id": 1028,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم إرسال الرسالة."
+},
+{
+"id": 1029,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "لم يعيّن المدير موظف الدعم الفني بعد."
+},
+{
+"id": 1030,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "لا يمكن إرسال رسالة في تذكرة مغلقة."
+},
+{
+"id": 1031,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "اكتب رسالة أو اختر قالبًا أو أرفق ملفًا."
+},
+{
+"id": 1032,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تمت إضافة الملاحظة الداخلية."
+},
+{
+"id": 1033,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تحديث حالة التذكرة."
+},
+{
+"id": 1034,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "موظف الدعم الفني المسؤول فقط يستطيع تحويل التذكرة إلى المدير."
+},
+{
+"id": 1035,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تحويل هذه التذكرة إلى المدير مسبقًا."
+},
+{
+"id": 1036,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تحويل المشكلة إلى المدير بنجاح."
+},
+{
+"id": 1037,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "أعيد فتح التذكرة. السبب:"
+},
+{
+"id": 1038,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تمت إعادة فتح التذكرة."
+},
+{
+"id": 1039,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تغيير الأولوية إلى"
+},
+{
+"id": 1040,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تحديث أولوية التذكرة."
+},
+{
+"id": 1041,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تعيين التذكرة."
+},
+{
+"id": 1042,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تصعيد التذكرة إلى"
+},
+{
+"id": 1043,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم فتح تذكرة الدعم بنجاح."
+},
+{
+"id": 1044,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم إرسال الرد داخل المنصة وبالبريد الإلكتروني."
+},
+{
+"id": 1045,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "يمكن تعيين التذكرة لموظف دعم أو مدير فقط."
+},
+{
+"id": 1046,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تصعيد التذكرة إلى الجهة المختارة."
+},
+{
+"id": 1047,
+"f": "app/Http/Controllers/Api/SupportApiController.php",
+"ar": "تم تحديث موظف الدعم الفني ونقل التذاكر المفتوحة إليه."
+},
+{
+"id": 1048,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تم إنهاء جلسات حسابك بواسطة فريق الدعم."
+},
+{
+"id": 1049,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "لا يوجد مبلغ متاح للاسترداد."
+},
+{
+"id": 1050,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "السبب مطلوب ولا يقل عن 8 أحرف."
+},
+{
+"id": 1051,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تم تنفيذ الإجراء وتسجيله."
+},
+{
+"id": 1052,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تم إرسال الطلب للمشرف."
+},
+{
+"id": 1053,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "لا يمكن لنفس الموظف اعتماد طلبه."
+},
+{
+"id": 1054,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تمت مراجعة الطلب."
+},
+{
+"id": 1055,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تمت مراجعة الإجراء."
+},
+{
+"id": 1056,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تم رفع طلب الاسترداد."
+},
+{
+"id": 1057,
+"f": "app/Http/Controllers/Api/SupportOperationsApiController.php",
+"ar": "تم رفع التوصية."
+},
+{
+"id": 1058,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "تم إرسال البريد للمستخدم."
+},
+{
+"id": 1059,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "أرسل موظف الدعم رابط KYC عام لا يحتاج تسجيل دخول."
+},
+{
+"id": 1060,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "التحقق من الهوية لاسترداد الحساب"
+},
+{
+"id": 1061,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "بدء KYC واسترداد الحساب"
+},
+{
+"id": 1062,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "لا يوجد مرجع KYC حيوي سابق لهذا الحساب."
+},
+{
+"id": 1063,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "تم بدء الاسترداد بواسطة موظف الدعم وإرسال رابط KYC عام."
+},
+{
+"id": 1064,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "افتح الرابط بدون تسجيل دخول، ارفع الهوية ثم أكمل KYC الحيوي. سيقارن النظام الجلسة الجديدة بمرجع KYC القديم ويرسل النتيجة لموظف الدعم."
+},
+{
+"id": 1065,
+"f": "app/Http/Controllers/Api/SupportOutboundEmailApiController.php",
+"ar": "تم إرسال رابط KYC عام صالح لمدة 24 ساعة بدون تسجيل دخول."
+},
+{
+"id": 1066,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم تحديث الحادثة."
+},
+{
+"id": 1067,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم تحديث التوثيق المهني."
+},
+{
+"id": 1068,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم ربط النزاع."
+},
+{
+"id": 1069,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم فك الحجز."
+},
+{
+"id": 1070,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "اختر تذكرة أخرى."
+},
+{
+"id": 1071,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم دمج"
+},
+{
+"id": 1072,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "هنا. السبب:"
+},
+{
+"id": 1073,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم الدمج."
+},
+{
+"id": 1074,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم تحديث التذكرة."
+},
+{
+"id": 1075,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم إنشاء الطلب."
+},
+{
+"id": 1076,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تمت المراجعة."
+},
+{
+"id": 1077,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم إنشاء الحادثة."
+},
+{
+"id": 1078,
+"f": "app/Http/Controllers/Api/SupportTrustApiController.php",
+"ar": "تم حفظ العطلة."
+},
+{
+"id": 1079,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "اكتمل التحويل الداخلي وأضيف الرصيد المستلم إلى محفظتك."
+},
+{
+"id": 1080,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "تم حجز مبلغ العملة الأصلية وإرسال طلب الصرف للمراجعة المالية."
+},
+{
+"id": 1081,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "ألغيت العملية وأعيد الرصيد المحجوز."
+},
+{
+"id": 1082,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "اختر عملتين مختلفتين."
+},
+{
+"id": 1083,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "سعر الصرف خارج النطاق المسموح."
+},
+{
+"id": 1084,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "تم حفظ وتفعيل سعر الصرف حتى موعد انتهاء الصلاحية المحدد."
+},
+{
+"id": 1085,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "تم حفظ السعر كمعطّل؛ لن يستخدمه نظام عروض التحويل حتى تفعيله."
+},
+{
+"id": 1086,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "أُلغي طلب التحويل وأُعيدت العملة الأصلية المحجوزة مرة واحدة إلى الرصيد المتاح. لم تُصرف العملة المستلمة."
+},
+{
+"id": 1087,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "أرسل رمز الاعتماد إلى بريد المدير المالي."
+},
+{
+"id": 1088,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "تم اعتماد الصرف بعد التحقق من التسوية."
+},
+{
+"id": 1089,
+"f": "app/Http/Controllers/Api/WalletFxApiController.php",
+"ar": "تم الرفض وإعادة الرصيد الأصلي."
+},
+{
+"id": 1090,
+"f": "app/Http/Controllers/Api/WalletPushDeviceController.php",
+"ar": "ليست لديك صلاحية متابعة طلبات المحفظة."
+},
+{
+"id": 1091,
+"f": "app/Http/Controllers/Api/WalletPushDeviceController.php",
+"ar": "تم تسجيل جهاز الإدارة للإشعارات."
+},
+{
+"id": 1092,
+"f": "app/Http/Controllers/Api/WalletPushDeviceController.php",
+"ar": "تم إلغاء تسجيل الجهاز."
+},
+{
+"id": 1093,
+"f": "app/Http/Controllers/AssistantSettingsController.php",
+"ar": "تم حفظ إعدادات المساعد ومزامنتها."
+},
+{
+"id": 1094,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "اكتب تفاصيل أكثر حتى يستطيع الدعم مراجعة الطلب."
+},
+{
+"id": 1095,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "أدخل البريد المسجل بالحساب أو رقم الهاتف."
+},
+{
+"id": 1096,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "أدخل الاسم الكامل لصاحب الحساب."
+},
+{
+"id": 1097,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "أدخل بريد متابعة تستطيع الوصول إليه الآن."
+},
+{
+"id": 1098,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "بريد المتابعة غير صالح."
+},
+{
+"id": 1099,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "أدخل وسيلة تواصل إضافية يمكن للدعم الوصول إليك من خلالها."
+},
+{
+"id": 1100,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "يجب الموافقة على سياسة استرداد الحساب وشرط"
+},
+{
+"id": 1101,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "يمكن رفع خمسة ملفات إثبات كحد أقصى."
+},
+{
+"id": 1102,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "لا يمكن استرداد هذا الحساب عبر الدعم لأنه غير موثق KYC حاليًا. استخدم الاسترداد المعتاد إن كان البريد متاحًا."
+},
+{
+"id": 1103,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "يوجد طلب استرداد مفتوح لهذا الحساب بالفعل. استخدم بريد المتابعة ورقم التذكرة لمتابعته."
+},
+{
+"id": 1104,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "تم إنشاء طلب استرداد يدوي لحساب موثق KYC وربطه بتذكرة دعم عامة."
+},
+{
+"id": 1105,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "تم إرسال طلب الاسترداد. أرسلنا رقم التذكرة إلى بريد المتابعة."
+},
+{
+"id": 1106,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "انتهت جلسة تسجيل الدخول. سجّل الدخول مرة أخرى ثم اختر استرداد الحساب."
+},
+{
+"id": 1107,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "اشرح لماذا لا تستطيع إكمال التحقق."
+},
+{
+"id": 1108,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "اختر وسيلة تواصل."
+},
+{
+"id": 1109,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "لديك طلب استرداد مفتوح بالفعل."
+},
+{
+"id": 1110,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "تم إنشاء طلب الاسترداد من جلسة تسجيل دخول اجتازت كلمة المرور ووصلت إلى تحدي العامل الثاني."
+},
+{
+"id": 1111,
+"f": "app/Http/Controllers/Auth/AccountRecoveryRequestController.php",
+"ar": "انتهت جلسة تسجيل الدخول."
+},
+{
+"id": 1112,
+"f": "app/Http/Controllers/Auth/AlternativeTwoFactorController.php",
+"ar": "أدخل رمز تطبيق المصادقة."
+},
+{
+"id": 1113,
+"f": "app/Http/Controllers/Auth/AlternativeTwoFactorController.php",
+"ar": "رمز تطبيق المصادقة يجب أن يتكون من 6 أرقام."
+},
+{
+"id": 1114,
+"f": "app/Http/Controllers/Auth/AlternativeTwoFactorController.php",
+"ar": "تعذر قراءة إعداد تطبيق المصادقة. استخدم طريقة أخرى."
+},
+{
+"id": 1115,
+"f": "app/Http/Controllers/Auth/AlternativeTwoFactorController.php",
+"ar": "أدخل رمز الاسترداد."
+},
+{
+"id": 1116,
+"f": "app/Http/Controllers/Auth/EmailTwoFactorChallengeController.php",
+"ar": "تم إرسال رمز تحقق جديد."
+},
+{
+"id": 1117,
+"f": "app/Http/Controllers/Auth/ForcedPasswordChangeController.php",
+"ar": "انتهت صلاحية كلمة المرور المؤقتة. اطلب من الدعم إصدار كلمة جديدة."
+},
+{
+"id": 1118,
+"f": "app/Http/Controllers/Auth/ForcedPasswordChangeController.php",
+"ar": "قام صاحب الحساب بتغيير كلمة المرور المؤقتة بنجاح."
+},
+{
+"id": 1119,
+"f": "app/Http/Controllers/Auth/ForcedPasswordChangeController.php",
+"ar": "تم تعيين كلمة المرور الجديدة بنجاح."
+},
+{
+"id": 1120,
+"f": "app/Http/Controllers/Auth/PasswordResetLinkController.php",
+"ar": "تعذر إرسال بريد الاستعادة من الخادم. تحقق من إعدادات البريد وحاول مرة أخرى."
+},
+{
+"id": 1121,
+"f": "app/Http/Controllers/Auth/PublicEmailVerificationController.php",
+"ar": "رابط التأكيد لا يخص هذا البريد الإلكتروني."
+},
+{
+"id": 1122,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "تسجيل الدخول عبر"
+},
+{
+"id": 1123,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "غير مفعّل بعد. أضف بيانات OAuth في إعدادات الخادم."
+},
+{
+"id": 1124,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "تم إلغاء تسجيل الدخول أو رفض الصلاحية من مزود الحساب."
+},
+{
+"id": 1125,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "انتهت أو فشلت جلسة تسجيل الدخول الاجتماعي. حاول مرة أخرى."
+},
+{
+"id": 1126,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "تعذر تسجيل الدخول الاجتماعي."
+},
+{
+"id": 1127,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "تعذر إكمال تسجيل الدخول من المزود الخارجي. حاول مرة أخرى."
+},
+{
+"id": 1128,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "رمز تسجيل الدخول الاجتماعي غير صالح أو منتهي. أعد المحاولة."
+},
+{
+"id": 1129,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "لم يعُد Google ببريد إلكتروني صالح."
+},
+{
+"id": 1130,
+"f": "app/Http/Controllers/Auth/SocialAuthController.php",
+"ar": "تعذر الحصول على بريد GitHub الموثق."
+},
+{
+"id": 1131,
+"f": "app/Http/Controllers/BiometricLocalController.php",
+"ar": "تم التحقق بالذكاء الاصطناعي ومطابقة الوجه بنجاح."
+},
+{
+"id": 1132,
+"f": "app/Http/Controllers/BiometricLocalController.php",
+"ar": "اكتمل الفحص، والنتيجة تحتاج مراجعة بشرية قبل الاعتماد."
+},
+{
+"id": 1133,
+"f": "app/Http/Controllers/BiometricLocalController.php",
+"ar": "لم يجتز التحقق شروط الحيوية أو مطابقة الهوية."
+},
+{
+"id": 1134,
+"f": "app/Http/Controllers/CheckoutGatewayWebhookController.php",
+"ar": "تعذر معالجة إشعار بوابة الدفع."
+},
+{
+"id": 1135,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "حساب المهندس غير نشط. يجب تجديد الاشتراك."
+},
+{
+"id": 1136,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "هذا المهندس غير نشط حاليًا."
+},
+{
+"id": 1137,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "اختر مهندسًا أو مكتبًا، وليس الاثنين معًا."
+},
+{
+"id": 1138,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "تم حفظ الطلب. أكمل الدفع لإرساله إلى المكتب."
+},
+{
+"id": 1139,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "لا يمكن تعيين مهندس قبل تأكيد الدفع."
+},
+{
+"id": 1140,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "لا يمكن تعيين مهندس لاستشارة غير مدفوعة."
+},
+{
+"id": 1141,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "تم تعيين استشارة لك"
+},
+{
+"id": 1142,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "تم تعيين الاستشارة رقم"
+},
+{
+"id": 1143,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "لك."
+},
+{
+"id": 1144,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "تم تعيين المهندس وتحديث حالة الاستشارة."
+},
+{
+"id": 1145,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "يجب تسجيل الدخول."
+},
+{
+"id": 1146,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "المكتب المسؤول عن الاستشارة غير موجود."
+},
+{
+"id": 1147,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "المكتب المسؤول عن الاستشارة غير فعال أو اشتراكه منتهي."
+},
+{
+"id": 1148,
+"f": "app/Http/Controllers/ConsultationController.php",
+"ar": "الملف المرفوع غير صالح."
+},
+{
+"id": 1149,
+"f": "app/Http/Controllers/ConsultationMessageController.php",
+"ar": "لم يتم إنشاء محادثة لهذه الاستشارة بعد."
+},
+{
+"id": 1150,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "ليس لديك صلاحية إدارة استشارات مكتب."
+},
+{
+"id": 1151,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "أنت لست عضوًا فعالًا في المكتب المسؤول عن هذه الاستشارة."
+},
+{
+"id": 1152,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "يجب اختيار مهندس."
+},
+{
+"id": 1153,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "المهندس المختار غير موجود."
+},
+{
+"id": 1154,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "هذا الإجراء مخصص للمهندسين."
+},
+{
+"id": 1155,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "هذه الاستشارة غير مسندة إليك."
+},
+{
+"id": 1156,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "الاستشارة غير مرتبطة بمكتب هندسي."
+},
+{
+"id": 1157,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "المكتب المسؤول عن الاستشارة غير فعال حاليًا."
+},
+{
+"id": 1158,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "ليس لديك صلاحية الوصول إلى إيصال هذا المكتب."
+},
+{
+"id": 1159,
+"f": "app/Http/Controllers/ConsultationOfficeAssignmentController.php",
+"ar": "تم إلغاء تحويل الاستشارة من المكتب الهندسي."
+},
+{
+"id": 1160,
+"f": "app/Http/Controllers/ConversationController.php",
+"ar": "تم فتح المحادثة بنجاح."
+},
+{
+"id": 1161,
+"f": "app/Http/Controllers/ConversationFileController.php",
+"ar": "الملف غير موجود."
+},
+{
+"id": 1162,
+"f": "app/Http/Controllers/ConversationFileController.php",
+"ar": "لا يوجد مرفق لهذه الرسالة."
+},
+{
+"id": 1163,
+"f": "app/Http/Controllers/ConversationFileController.php",
+"ar": "هذه الرسالة محذوفة."
+},
+{
+"id": 1164,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "الاستشارة المرتبطة بهذه المحادثة غير موجودة."
+},
+{
+"id": 1165,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "لا يمكن إرسال رسائل قبل تأكيد دفع الاستشارة."
+},
+{
+"id": 1166,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "الرسالة التي تريد الرد عليها غير موجودة في هذه المحادثة."
+},
+{
+"id": 1167,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "لا يمكن الرد على رسالة محذوفة."
+},
+{
+"id": 1168,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "غير مسموح بحذف هذه الرسالة."
+},
+{
+"id": 1169,
+"f": "app/Http/Controllers/ConversationMessageController.php",
+"ar": "تم حذف الرسالة بنجاح."
+},
+{
+"id": 1170,
+"f": "app/Http/Controllers/CrmConversionController.php",
+"ar": "ينتقل العميل الآن لمسار الدفع والاستشارة المعتاد."
+},
+{
+"id": 1171,
+"f": "app/Http/Controllers/CrmFollowUpController.php",
+"ar": "بتاريخ"
+},
+{
+"id": 1172,
+"f": "app/Http/Controllers/CrmLeadController.php",
+"ar": "تم إنشاء العميل المحتمل بنجاح."
+},
+{
+"id": 1173,
+"f": "app/Http/Controllers/CrmLeadController.php",
+"ar": "أصبحت مسؤولًا عن العميل المحتمل"
+},
+{
+"id": 1174,
+"f": "app/Http/Controllers/CustomerEmailPreferenceController.php",
+"ar": "تم حفظ تفضيلات البريد. الإشعارات الأمنية والمالية الأساسية لا يمكن إيقافها."
+},
+{
+"id": 1175,
+"f": "app/Http/Controllers/DisputeCaseController.php",
+"ar": "تم فتح نزاع مالي."
+},
+{
+"id": 1176,
+"f": "app/Http/Controllers/DisputeCaseController.php",
+"ar": "تم فتح النزاع وحجز المستحقات المرتبطة به تلقائيًا."
+},
+{
+"id": 1177,
+"f": "app/Http/Controllers/DisputeCaseController.php",
+"ar": "تمت إضافة الرسالة إلى النزاع."
+},
+{
+"id": 1178,
+"f": "app/Http/Controllers/DisputeCaseController.php",
+"ar": "تم تحديث قرار النزاع."
+},
+{
+"id": 1179,
+"f": "app/Http/Controllers/DisputeCaseController.php",
+"ar": "تم تحديث النزاع بنجاح."
+},
+{
+"id": 1180,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "يجب نجاح KYC الحيوي ومطابقة الوجه مع المرجع القديم قبل استرداد الحساب."
+},
+{
+"id": 1181,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "بيانات الهوية المرفوعة لا تطابق مرجع KYC السابق."
+},
+{
+"id": 1182,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "تم استلام طلب الاسترداد."
+},
+{
+"id": 1183,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "تم توثيق التحقق من الهوية. أصبح الطلب جاهزًا للاسترجاع."
+},
+{
+"id": 1184,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "تم تصفير وسائل التحقق القديمة وإبطال الجلسات بعد توثيق الهوية."
+},
+{
+"id": 1185,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "تم استرجاع الوصول للحساب. لم يتم تغيير كلمة المرور أو حالة الإيقاف/الحظر."
+},
+{
+"id": 1186,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "تم إصدار كلمة مرور مؤقتة بعد توثيق الهوية. لا يتم حفظ نص كلمة المرور في السجل."
+},
+{
+"id": 1187,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "اكتمل استرداد الوصول إلى حسابك. كلمة المرور المؤقتة لا تُرسل بالبريد وتُعرض فقط داخل المسار الآمن المخصص."
+},
+{
+"id": 1188,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "هذا الاسترداد مصنف عالي المخاطر ويحتاج موافقة ثانية من"
+},
+{
+"id": 1189,
+"f": "app/Http/Controllers/Employee/SupportAccountRecoveryController.php",
+"ar": "قبل إصدار كلمة المرور."
+},
+{
+"id": 1190,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح"
+},
+{
+"id": 1191,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إدارة"
+},
+{
+"id": 1192,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "اختيار العميل"
+},
+{
+"id": 1193,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مركز الثقة"
+},
+{
+"id": 1194,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سجل التدقيق"
+},
+{
+"id": 1195,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قراءة فقط"
+},
+{
+"id": 1196,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "عمليات الدعم"
+},
+{
+"id": 1197,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قوالب الدعم"
+},
+{
+"id": 1198,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "الأجهزة والجلسات"
+},
+{
+"id": 1199,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "التوصيات الرقابية"
+},
+{
+"id": 1200,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح التذاكر"
+},
+{
+"id": 1201,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "التوزيع التلقائي"
+},
+{
+"id": 1202,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كشف البيانات الحساسة"
+},
+{
+"id": 1203,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تغيير البريد الآمن"
+},
+{
+"id": 1204,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تجميد المستحقات"
+},
+{
+"id": 1205,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "الاعتمادات الحساسة"
+},
+{
+"id": 1206,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "بريد الدعم"
+},
+{
+"id": 1207,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فحص المرفقات"
+},
+{
+"id": 1208,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "الوثائق المهنية"
+},
+{
+"id": 1209,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "عضوية النقابة"
+},
+{
+"id": 1210,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراجعة آلية توزيع التذاكر على موظفي الدعم حسب القسم والسعة والحمل الحالي."
+},
+{
+"id": 1211,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح قائمة التذاكر والتعيين"
+},
+{
+"id": 1212,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "توزيع حسب القسم"
+},
+{
+"id": 1213,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراعاة سعة الموظف"
+},
+{
+"id": 1214,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "عند عدم وجود موظف مناسب"
+},
+{
+"id": 1215,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "التعيين اليدوي يبقى متاحًا حسب الصلاحية"
+},
+{
+"id": 1216,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "ابحث عن العميل ثم راجع أجهزته، الجلسات، آخر IP وأحداث تسجيل الدخول من ملف الدعم."
+},
+{
+"id": 1217,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "ابحث عن العميل"
+},
+{
+"id": 1218,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مركز الأمان"
+},
+{
+"id": 1219,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "الأجهزة المسجلة"
+},
+{
+"id": 1220,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "الجلسات النشطة"
+},
+{
+"id": 1221,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "أحداث الدخول"
+},
+{
+"id": 1222,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إنهاء الجلسات بإذن منفصل"
+},
+{
+"id": 1223,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كشف البريد أو الهاتف الكامل للموظف المصرح فقط، مع سبب إلزامي وتسجيل"
+},
+{
+"id": 1224,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "البيانات تبقى Masked افتراضيًا"
+},
+{
+"id": 1225,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سبب إلزامي قبل الكشف"
+},
+{
+"id": 1226,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كل عملية كشف مسجلة"
+},
+{
+"id": 1227,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "لا يتم كشف أسرار 2FA أو كلمات المرور"
+},
+{
+"id": 1228,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "جلسة مؤقتة للقراءة فقط لرؤية تجربة العميل بدون انتحال صلاحيات كتابة."
+},
+{
+"id": 1229,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مدة زمنية محددة"
+},
+{
+"id": 1230,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سبب إلزامي"
+},
+{
+"id": 1231,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كامل للجلسة"
+},
+{
+"id": 1232,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تغيير البريد الأساسي عبر تدفق آمن مع Checklist وتنبيه البريد القديم وزر «هذا مش أنا»."
+},
+{
+"id": 1233,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قبل التنفيذ"
+},
+{
+"id": 1234,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إخطار البريد القديم"
+},
+{
+"id": 1235,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تجميد أمني عند الاعتراض"
+},
+{
+"id": 1236,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إبطال الجلسات عند «هذا مش أنا»"
+},
+{
+"id": 1237,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "ربط النزاع بتذكرة الدعم وتجميد المستحقات أو فكها حسب الصلاحية."
+},
+{
+"id": 1238,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح النزاعات"
+},
+{
+"id": 1239,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "ربط التذكرة بالنزاع"
+},
+{
+"id": 1240,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "للمستحقات"
+},
+{
+"id": 1241,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فك الحجز بصلاحية مستقلة"
+},
+{
+"id": 1242,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تسجيل سبب الإجراء"
+},
+{
+"id": 1243,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراجعة حالات تعليق الصرف الأمني بعد تغييرات حساسة بالحساب وفك التعليق عند اكتمال التحقق."
+},
+{
+"id": 1244,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح حالات"
+},
+{
+"id": 1245,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "البحث عن عميل"
+},
+{
+"id": 1246,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تلقائي بعد تغييرات حساسة"
+},
+{
+"id": 1247,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مدة أمان محددة"
+},
+{
+"id": 1248,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فك يدوي بصلاحية"
+},
+{
+"id": 1249,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كل فك Hold مسجل"
+},
+{
+"id": 1250,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "طابور طلبات الإجراءات عالية الخطورة التي تحتاج موافقة ثانية من المشرف."
+},
+{
+"id": 1251,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح مركز الاعتمادات"
+},
+{
+"id": 1252,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "موافقة ثانية"
+},
+{
+"id": 1253,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سبب وملاحظات إلزامية"
+},
+{
+"id": 1254,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فصل طالب الإجراء عن المراجع"
+},
+{
+"id": 1255,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "للقرار"
+},
+{
+"id": 1256,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "رفع توصية تحذير أو قفل للمراجعة بدل تنفيذ إجراء دائم مباشرة من موظف الدعم."
+},
+{
+"id": 1257,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فقط"
+},
+{
+"id": 1258,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سبب واضح"
+},
+{
+"id": 1259,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "لا يوجد حظر نهائي مباشر"
+},
+{
+"id": 1260,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "المراجعة من الجهة المخولة"
+},
+{
+"id": 1261,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إرسال بريد دعم مخصص للعميل مع تسجيل الرسالة في"
+},
+{
+"id": 1262,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قوالب عربية"
+},
+{
+"id": 1263,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "منع البيانات الحساسة داخل الرسالة"
+},
+{
+"id": 1264,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قوالب جاهزة للردود المتكررة مع الحفاظ على الرسالة النهائية تحت تحكم الموظف."
+},
+{
+"id": 1265,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح القوالب"
+},
+{
+"id": 1266,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "ردود جاهزة"
+},
+{
+"id": 1267,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "استخدام اختياري"
+},
+{
+"id": 1268,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "توحيد أسلوب الدعم"
+},
+{
+"id": 1269,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قابلة للمراجعة والتحديث"
+},
+{
+"id": 1270,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "إدارة قنوات الدعم الواردة وربط البريد وWhatsApp بالتذاكر مع منع التكرار."
+},
+{
+"id": 1271,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "التحقق من التوقيع عند التفعيل"
+},
+{
+"id": 1272,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراجعة المرفقات المرتبطة بتذاكر الدعم وحالة الفحص الأمني قبل التنزيل."
+},
+{
+"id": 1273,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فحص الملفات"
+},
+{
+"id": 1274,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "روابط مؤقتة موقعة"
+},
+{
+"id": 1275,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "رفض الملفات غير الآمنة"
+},
+{
+"id": 1276,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "سجل حالة الفحص"
+},
+{
+"id": 1277,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "أدوات التحكم المتقدمة بالتذاكر: Spam، دمج التذاكر، وقفل الرد أثناء المعالجة."
+},
+{
+"id": 1278,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "حظر المرسل عند الحاجة والصلاحية"
+},
+{
+"id": 1279,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تصدير / حذف البيانات"
+},
+{
+"id": 1280,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "طلبات تصدير بيانات المستخدم أو حذف الحساب مع فترة سماح ومراجعة قبل التنفيذ."
+},
+{
+"id": 1281,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح طلبات الخصوصية"
+},
+{
+"id": 1282,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراجعة قبل التنفيذ"
+},
+{
+"id": 1283,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مؤشر تكرار تواصل العميل لنفس الفئة خلال فترة قصيرة لمتابعة جودة الحل من أول مرة."
+},
+{
+"id": 1284,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح تقرير"
+},
+{
+"id": 1285,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "أداء الدعم"
+},
+{
+"id": 1286,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "قياس آخر 30 يومًا"
+},
+{
+"id": 1287,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "كشف الحالات المتكررة"
+},
+{
+"id": 1288,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مؤشر جودة الحل"
+},
+{
+"id": 1289,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "لا يستخدم لاتخاذ قرار آلي ضد العميل"
+},
+{
+"id": 1290,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "مراجعة تراخيص المهندسين وعضوية النقابة والتنبيه قبل انتهاء الصلاحية."
+},
+{
+"id": 1291,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "فتح الوثائق المهنية"
+},
+{
+"id": 1292,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تاريخ انتهاء الترخيص"
+},
+{
+"id": 1293,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تنبيه قبل الانتهاء"
+},
+{
+"id": 1294,
+"f": "app/Http/Controllers/Employee/SupportCenterController.php",
+"ar": "تحديث حالة التوثيق بصلاحية منفصلة"
+},
+{
+"id": 1295,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "اكتب سببًا واضحًا لا يقل عن 8 أحرف."
+},
+{
+"id": 1296,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "نفّذ موظف الدعم إجراءً على الحساب."
+},
+{
+"id": 1297,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم تنفيذ الإجراء وتسجيله في سجل التدقيق."
+},
+{
+"id": 1298,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "طلب موظف الدعم إجراءً حساسًا يحتاج موافقة ثانية."
+},
+{
+"id": 1299,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم إرسال الإجراء الحساس لمشرف الدعم لاعتماده."
+},
+{
+"id": 1300,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "لا يمكن لنفس الموظف اعتماد طلبه الحساس."
+},
+{
+"id": 1301,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "راجع مشرف الدعم إجراءً حساسًا."
+},
+{
+"id": 1302,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم اعتماد الإجراء الحساس."
+},
+{
+"id": 1303,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم رفض الإجراء الحساس."
+},
+{
+"id": 1304,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "رفع موظف الدعم طلب استرداد مالي للمراجعة."
+},
+{
+"id": 1305,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم رفع طلب الاسترداد للجهة المخولة بالاعتماد."
+},
+{
+"id": 1306,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "طلب الاسترداد ليس بانتظار الاعتماد."
+},
+{
+"id": 1307,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "اعتمد المشرف طلب الاسترداد؛ التنفيذ المالي يبقى ضمن مركز المالية."
+},
+{
+"id": 1308,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم اعتماد الطلب. التنفيذ المالي يبقى ضمن مركز المالية."
+},
+{
+"id": 1309,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "رفع موظف الدعم توصية إشرافية للمراجعة."
+},
+{
+"id": 1310,
+"f": "app/Http/Controllers/Employee/SupportOperationsController.php",
+"ar": "تم رفع التوصية للإدارة/الإشراف للمراجعة."
+},
+{
+"id": 1311,
+"f": "app/Http/Controllers/Employee/SupportOutboundEmailController.php",
+"ar": "لا يوجد لهذا الحساب مرجع KYC حيوي ناجح سابق يمكن المطابقة معه."
+},
+{
+"id": 1312,
+"f": "app/Http/Controllers/Employee/SupportOutboundEmailController.php",
+"ar": "تم بدء استرداد الحساب بواسطة موظف الدعم وإرسال رابط KYC عام للمستخدم."
+},
+{
+"id": 1313,
+"f": "app/Http/Controllers/Employee/SupportOutboundEmailController.php",
+"ar": "افتح الرابط المرفق بدون تسجيل دخول. ارفع صور الهوية ثم أكمل KYC الحيوي. سيطابق النظام الجلسة الجديدة مع مرجع KYC القديم المسجل لهذا الحساب ويرسل النتيجة لموظف الدعم."
+},
+{
+"id": 1314,
+"f": "app/Http/Controllers/Employee/SupportOutboundEmailController.php",
+"ar": "تم إرسال رابط KYC عام صالح لمدة 24 ساعة بدون الحاجة لتسجيل الدخول."
+},
+{
+"id": 1315,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "هذه التذكرة مسندة إلى موظف آخر."
+},
+{
+"id": 1316,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "استلم موظف الدعم"
+},
+{
+"id": 1317,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "التذكرة."
+},
+{
+"id": 1318,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم استلام التذكرة."
+},
+{
+"id": 1319,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم إرسال الرد للعميل داخل المنصة وبالبريد الإلكتروني."
+},
+{
+"id": 1320,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم وضع التذكرة بحالة تم الحل."
+},
+{
+"id": 1321,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم حل التذكرة."
+},
+{
+"id": 1322,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم إغلاق التذكرة."
+},
+{
+"id": 1323,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم تحديث الأولوية."
+},
+{
+"id": 1324,
+"f": "app/Http/Controllers/Employee/SupportTicketController.php",
+"ar": "تم تصعيد التذكرة."
+},
+{
+"id": 1325,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم ربط نزاع بتذكرة دعم."
+},
+{
+"id": 1326,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم ربط النزاع"
+},
+{
+"id": 1327,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "وتجميد الصرف."
+},
+{
+"id": 1328,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم فك حجز مستحقات نزاع بواسطة مشرف الدعم."
+},
+{
+"id": 1329,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم فك حجز المستحقات."
+},
+{
+"id": 1330,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم كشف حقل حساس لموظف الدعم."
+},
+{
+"id": 1331,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "بدأ موظف الدعم"
+},
+{
+"id": 1332,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "للقراءة فقط."
+},
+{
+"id": 1333,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم تغيير البريد الأساسي لحسابك في منصة الوليد الهندسية. إذا لم تطلب هذا التغيير افتح الرابط فورًا:"
+},
+{
+"id": 1334,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تنبيه أمني: تم تغيير بريد حسابك"
+},
+{
+"id": 1335,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تغيير البريد الأساسي مع إخطار البريد القديم."
+},
+{
+"id": 1336,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم تغيير البريد وإرسال تنبيه أمني إلى البريد القديم وتعليق الصرف مؤقتًا."
+},
+{
+"id": 1337,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم إنشاء طلب الخصوصية. لا يتم الحذف مباشرة وتوجد فترة سماح."
+},
+{
+"id": 1338,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تمت مراجعة طلب الخصوصية."
+},
+{
+"id": 1339,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم فك تعليق الصرف الأمني."
+},
+{
+"id": 1340,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم دمج التذكرة"
+},
+{
+"id": 1341,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "في هذه التذكرة. السبب:"
+},
+{
+"id": 1342,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم دمج التذكرة بدون حذف سجلها."
+}
+]

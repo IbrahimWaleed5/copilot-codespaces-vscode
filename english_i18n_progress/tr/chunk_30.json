@@ -1,0 +1,2662 @@
+[
+{
+"id": 10678,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "مؤشرات إضافية"
+},
+{
+"id": 10679,
+"f": "views/projects/_workspace/panel.blade.php",
+"ar": "أدوات مرتبطة"
+},
+{
+"id": 10680,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "المشاريع المسندة إليّ"
+},
+{
+"id": 10681,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "فريق المشاريع"
+},
+{
+"id": 10682,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "المشاريع التي أضافك المهندس الرئيسي إلى فريقها."
+},
+{
+"id": 10683,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "عضو فريق"
+},
+{
+"id": 10684,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "دوري في الفريق:"
+},
+{
+"id": 10685,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "حالة المشروع:"
+},
+{
+"id": 10686,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "لا توجد مشاريع مسندة إليك حاليًا."
+},
+{
+"id": 10687,
+"f": "views/projects/assigned-to-me.blade.php",
+"ar": "عندما يضيفك المهندس الرئيسي إلى فريق مشروع سيظهر هنا."
+},
+{
+"id": 10688,
+"f": "views/projects/bim/index.blade.php",
+"ar": "نماذج"
+},
+{
+"id": 10689,
+"f": "views/projects/bim/index.blade.php",
+"ar": "لوحة المشروع"
+},
+{
+"id": 10690,
+"f": "views/projects/bim/index.blade.php",
+"ar": "الإصدارات"
+},
+{
+"id": 10691,
+"f": "views/projects/bim/index.blade.php",
+"ar": "وصف اختياري"
+},
+{
+"id": 10692,
+"f": "views/projects/bim/index.blade.php",
+"ar": "ملاحظات الإصدار"
+},
+{
+"id": 10693,
+"f": "views/projects/bim/index.blade.php",
+"ar": "بدون تخصص"
+},
+{
+"id": 10694,
+"f": "views/projects/bim/index.blade.php",
+"ar": "نفس الإصدار"
+},
+{
+"id": 10695,
+"f": "views/projects/bim/index.blade.php",
+"ar": "إدارة نماذج BIM وإصداراتها ومراجعة التعارضات."
+},
+{
+"id": 10696,
+"f": "views/projects/bim/index.blade.php",
+"ar": "تعارضات مفتوحة"
+},
+{
+"id": 10697,
+"f": "views/projects/bim/index.blade.php",
+"ar": "الصيغ:"
+},
+{
+"id": 10698,
+"f": "views/projects/bim/index.blade.php",
+"ar": "للعرض ثلاثي الأبعاد في المتصفح استخدم GLB. يمكن إرفاق"
+},
+{
+"id": 10699,
+"f": "views/projects/bim/index.blade.php",
+"ar": "لعناصر وحدود AABB لتشغيل الكشف المحلي."
+},
+{
+"id": 10700,
+"f": "views/projects/bim/index.blade.php",
+"ar": "اسم النموذج"
+},
+{
+"id": 10701,
+"f": "views/projects/bim/index.blade.php",
+"ar": "التخصص: معماري/إنشائي"
+},
+{
+"id": 10702,
+"f": "views/projects/bim/index.blade.php",
+"ar": "رفع النموذج"
+},
+{
+"id": 10703,
+"f": "views/projects/bim/index.blade.php",
+"ar": "النماذج والإصدارات"
+},
+{
+"id": 10704,
+"f": "views/projects/bim/index.blade.php",
+"ar": "هو الأفضل للعرض المباشر"
+},
+{
+"id": 10705,
+"f": "views/projects/bim/index.blade.php",
+"ar": "عناصر:"
+},
+{
+"id": 10706,
+"f": "views/projects/bim/index.blade.php",
+"ar": "رفع الإصدار"
+},
+{
+"id": 10707,
+"f": "views/projects/bim/index.blade.php",
+"ar": "لا توجد نماذج BIM بعد."
+},
+{
+"id": 10708,
+"f": "views/projects/bim/index.blade.php",
+"ar": "يستخدم"
+},
+{
+"id": 10709,
+"f": "views/projects/bim/index.blade.php",
+"ar": "مباشرة لملفات IFC الخام، ويرجع إلى"
+},
+{
+"id": 10710,
+"f": "views/projects/bim/index.blade.php",
+"ar": "فقط عندما لا يكون الكشف الهندسي المباشر متاحًا."
+},
+{
+"id": 10711,
+"f": "views/projects/bim/index.blade.php",
+"ar": "اسم التشغيل"
+},
+{
+"id": 10712,
+"f": "views/projects/bim/index.blade.php",
+"ar": "بالمتر"
+},
+{
+"id": 10713,
+"f": "views/projects/bim/index.blade.php",
+"ar": "خام"
+},
+{
+"id": 10714,
+"f": "views/projects/bim/index.blade.php",
+"ar": "فحص أولي"
+},
+{
+"id": 10715,
+"f": "views/projects/bim/index.blade.php",
+"ar": "اختراق هندسي"
+},
+{
+"id": 10716,
+"f": "views/projects/bim/index.blade.php",
+"ar": "تماس/تصادم سطوح"
+},
+{
+"id": 10717,
+"f": "views/projects/bim/index.blade.php",
+"ar": "مسافة أمان"
+},
+{
+"id": 10718,
+"f": "views/projects/bim/index.blade.php",
+"ar": "النموذج/الإصدار"
+},
+{
+"id": 10719,
+"f": "views/projects/bim/index.blade.php",
+"ar": "احتساب التلامس السطحي في وضع"
+},
+{
+"id": 10720,
+"f": "views/projects/bim/index.blade.php",
+"ar": "وClearance بوحدة المتر:"
+},
+{
+"id": 10721,
+"f": "views/projects/bim/index.blade.php",
+"ar": "مم،"
+},
+{
+"id": 10722,
+"f": "views/projects/bim/index.blade.php",
+"ar": "مم."
+},
+{
+"id": 10723,
+"f": "views/projects/bim/index.blade.php",
+"ar": "تشغيل الكشف"
+},
+{
+"id": 10724,
+"f": "views/projects/bim/index.blade.php",
+"ar": "استيراد تقرير"
+},
+{
+"id": 10725,
+"f": "views/projects/bim/index.blade.php",
+"ar": "لنتائج Navisworks/Solibri/محرك خارجي بعد تحويلها إلى JSON بالصيغة الموضحة في"
+},
+{
+"id": 10726,
+"f": "views/projects/bim/index.blade.php",
+"ar": "اسم التقرير"
+},
+{
+"id": 10727,
+"f": "views/projects/bim/index.blade.php",
+"ar": "استيراد التقرير"
+},
+{
+"id": 10728,
+"f": "views/projects/bim/index.blade.php",
+"ar": "التشغيل"
+},
+{
+"id": 10729,
+"f": "views/projects/bim/index.blade.php",
+"ar": "الوضع"
+},
+{
+"id": 10730,
+"f": "views/projects/bim/index.blade.php",
+"ar": "لا توجد عمليات Clash بعد."
+},
+{
+"id": 10731,
+"f": "views/projects/bim/run.blade.php",
+"ar": "المفتوح"
+},
+{
+"id": 10732,
+"f": "views/projects/bim/run.blade.php",
+"ar": "كل الدرجات"
+},
+{
+"id": 10733,
+"f": "views/projects/bim/run.blade.php",
+"ar": "الحل/الملاحظة"
+},
+{
+"id": 10734,
+"f": "views/projects/bim/run.blade.php",
+"ar": "لا توجد تعارضات مطابقة."
+},
+{
+"id": 10735,
+"f": "views/projects/bim/viewer.blade.php",
+"ar": "فتح/تنزيل الملف"
+},
+{
+"id": 10736,
+"f": "views/projects/bim/viewer.blade.php",
+"ar": "العرض ثلاثي الأبعاد المباشر متاح حاليًا لملفات"
+},
+{
+"id": 10737,
+"f": "views/projects/bim/viewer.blade.php",
+"ar": "صيغة هذا الإصدار"
+},
+{
+"id": 10738,
+"f": "views/projects/bim/viewer.blade.php",
+"ar": "الملف محفوظ ويمكن تنزيله أو فتحه في برنامج BIM المختص."
+},
+{
+"id": 10739,
+"f": "views/projects/bim/viewer.blade.php",
+"ar": "لأفضل تجربة على الويب صدّر نسخة GLB من النموذج وارفعها كإصدار."
+},
+{
+"id": 10740,
+"f": "views/projects/boqs/index.blade.php",
+"ar": "لا يوجد BOQ لهذا المشروع حتى الآن."
+},
+{
+"id": 10741,
+"f": "views/projects/boqs/index.blade.php",
+"ar": "يمكنك استعراض نسخ BOQ وقيمها، بينما إنشاء وإدارة النسخ متاح للمستخدمين المخولين فقط."
+},
+{
+"id": 10742,
+"f": "views/projects/boqs/pdf.blade.php",
+"ar": "جدول الكميات والتكاليف"
+},
+{
+"id": 10743,
+"f": "views/projects/boqs/pdf.blade.php",
+"ar": "لا توجد بنود في هذا القسم."
+},
+{
+"id": 10744,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "تحديث"
+},
+{
+"id": 10745,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "اختر"
+},
+{
+"id": 10746,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "الرمز"
+},
+{
+"id": 10747,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "المجموع الفرعي"
+},
+{
+"id": 10748,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "التكلفة الفعلية"
+},
+{
+"id": 10749,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "مقفل"
+},
+{
+"id": 10750,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "مستبدل"
+},
+{
+"id": 10751,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "جدول الكميات التفصيلي"
+},
+{
+"id": 10752,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "الإجمالي الكلي"
+},
+{
+"id": 10753,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "القيمة المكتسبة"
+},
+{
+"id": 10754,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "فرق التكلفة"
+},
+{
+"id": 10755,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "المنفذ"
+},
+{
+"id": 10756,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "حذف البند؟"
+},
+{
+"id": 10757,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "الكمية المنفذة الحالية"
+},
+{
+"id": 10758,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "ملاحظات التنفيذ"
+},
+{
+"id": 10759,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "أدخل ملاحظات التنفيذ..."
+},
+{
+"id": 10760,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "لا توجد Sections حتى الآن."
+},
+{
+"id": 10761,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "مسار العمل"
+},
+{
+"id": 10762,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "ملاحظة للمراجع..."
+},
+{
+"id": 10763,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "تقديم للمراجعة"
+},
+{
+"id": 10764,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "ملاحظة الاعتماد..."
+},
+{
+"id": 10765,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "سبب الإرجاع..."
+},
+{
+"id": 10766,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "إرجاع للتعديل"
+},
+{
+"id": 10767,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "لا توجد إجراءات Workflow متاحة لحالة هذه النسخة أو لصلاحيات المستخدم الحالية."
+},
+{
+"id": 10768,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "اسم القسم"
+},
+{
+"id": 10769,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "أعمال الخرسانة"
+},
+{
+"id": 10770,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "وصف القسم"
+},
+{
+"id": 10771,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "وصف القسم..."
+},
+{
+"id": 10772,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "إضافة القسم"
+},
+{
+"id": 10773,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "وصف البند..."
+},
+{
+"id": 10774,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "ملاحظات..."
+},
+{
+"id": 10775,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "لا توجد Revisions أخرى."
+},
+{
+"id": 10776,
+"f": "views/projects/boqs/show.blade.php",
+"ar": "لا يوجد نشاط."
+},
+{
+"id": 10777,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "مقدم"
+},
+{
+"id": 10778,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "داخلي"
+},
+{
+"id": 10779,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "موعد مخصص"
+},
+{
+"id": 10780,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "زيارة موقع"
+},
+{
+"id": 10781,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "تقويم مركزي يجمع Meetings وGantt وRFI وSubmittals والمواعيد المخصصة ضمن واجهة موحدة لإدارة جميع تواريخ المشروع."
+},
+{
+"id": 10782,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "أحداث الشهر"
+},
+{
+"id": 10783,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "اجتماعات"
+},
+{
+"id": 10784,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "البحث في أحداث التقويم..."
+},
+{
+"id": 10785,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "جميع المصادر"
+},
+{
+"id": 10786,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "الشهر السابق"
+},
+{
+"id": 10787,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "الشهر التالي"
+},
+{
+"id": 10788,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "أحداث أخرى"
+},
+{
+"id": 10789,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "لا توجد أحداث قادمة."
+},
+{
+"id": 10790,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "إضافة موعد مخصص"
+},
+{
+"id": 10791,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "بدون مسؤول"
+},
+{
+"id": 10792,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "رابط الاجتماع"
+},
+{
+"id": 10793,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "وصف الموعد..."
+},
+{
+"id": 10794,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "إضافة إلى التقويم"
+},
+{
+"id": 10795,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "إدارة المواعيد المخصصة"
+},
+{
+"id": 10796,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "حذف هذا الموعد؟"
+},
+{
+"id": 10797,
+"f": "views/projects/calendar/index.blade.php",
+"ar": "لا توجد مواعيد مخصصة."
+},
+{
+"id": 10798,
+"f": "views/projects/change-orders.blade.php",
+"ar": "سبب التغيير"
+},
+{
+"id": 10799,
+"f": "views/projects/change-orders.blade.php",
+"ar": "التغيير في نطاق العمل"
+},
+{
+"id": 10800,
+"f": "views/projects/change-orders.blade.php",
+"ar": "أوامر تغيير المشروع"
+},
+{
+"id": 10801,
+"f": "views/projects/change-orders.blade.php",
+"ar": "أي تعديل على النطاق أو السعر أو المدة بعد اعتماد المشروع يتم من هنا."
+},
+{
+"id": 10802,
+"f": "views/projects/change-orders.blade.php",
+"ar": "قيمة المشروع الحالية"
+},
+{
+"id": 10803,
+"f": "views/projects/change-orders.blade.php",
+"ar": "مدة المشروع الحالية"
+},
+{
+"id": 10804,
+"f": "views/projects/change-orders.blade.php",
+"ar": "إنشاء أمر تغيير"
+},
+{
+"id": 10805,
+"f": "views/projects/change-orders.blade.php",
+"ar": "لن تتغير قيمة أو مدة المشروع إلا بعد موافقة العميل."
+},
+{
+"id": 10806,
+"f": "views/projects/change-orders.blade.php",
+"ar": "عنوان التغيير"
+},
+{
+"id": 10807,
+"f": "views/projects/change-orders.blade.php",
+"ar": "التغيير في السعر"
+},
+{
+"id": 10808,
+"f": "views/projects/change-orders.blade.php",
+"ar": "مثال: 1500 للزيادة، أو -500 للتخفيض."
+},
+{
+"id": 10809,
+"f": "views/projects/change-orders.blade.php",
+"ar": "التغيير في المدة بالأيام"
+},
+{
+"id": 10810,
+"f": "views/projects/change-orders.blade.php",
+"ar": "مثال: 10 أيام إضافية، أو -3 لتقليل المدة."
+},
+{
+"id": 10811,
+"f": "views/projects/change-orders.blade.php",
+"ar": "إرسال أمر التغيير للعميل"
+},
+{
+"id": 10812,
+"f": "views/projects/change-orders.blade.php",
+"ar": "السعر السابق"
+},
+{
+"id": 10813,
+"f": "views/projects/change-orders.blade.php",
+"ar": "المدة السابقة"
+},
+{
+"id": 10814,
+"f": "views/projects/change-orders.blade.php",
+"ar": "المدة الجديدة"
+},
+{
+"id": 10815,
+"f": "views/projects/change-orders.blade.php",
+"ar": "موافقة واعتماد التغيير"
+},
+{
+"id": 10816,
+"f": "views/projects/change-orders.blade.php",
+"ar": "لا توجد أوامر تغيير حتى الآن."
+},
+{
+"id": 10817,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "عنوان المشروع"
+},
+{
+"id": 10818,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "إنشاء العقد الإلكتروني"
+},
+{
+"id": 10819,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "سيتم إنشاء عقد إلكتروني موثق بناءً على بيانات المشروع المعتمدة: نطاق العمل، السعر، المدة، العميل، المهندس والمكتب إن وجد."
+},
+{
+"id": 10820,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "بيانات المشروع المعتمدة"
+},
+{
+"id": 10821,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "قيمة العقد المتفق عليها"
+},
+{
+"id": 10822,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "المدة الزمنية للتنفيذ"
+},
+{
+"id": 10823,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "سيتم تشفير العقد وحفظه في سجلات النظام الموثقة."
+},
+{
+"id": 10824,
+"f": "views/projects/contracts/create.blade.php",
+"ar": "إنشاء العقد الآن"
+},
+{
+"id": 10825,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "ر.س"
+},
+{
+"id": 10826,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "تعديل العقد قبل التوقيع"
+},
+{
+"id": 10827,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "وبصمة SHA-256 جديدة."
+},
+{
+"id": 10828,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "أدخل عنوان المشروع هنا..."
+},
+{
+"id": 10829,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "صف نطاق العمل بالتفصيل..."
+},
+{
+"id": 10830,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "مدة التنفيذ بالأيام"
+},
+{
+"id": 10831,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "أدخل الشروط والأحكام هنا..."
+},
+{
+"id": 10832,
+"f": "views/projects/contracts/edit.blade.php",
+"ar": "حفظ وإصدار نسخة جديدة"
+},
+{
+"id": 10833,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "ممثل المكتب"
+},
+{
+"id": 10834,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "آخر تحديث:"
+},
+{
+"id": 10835,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "البريد الإلكتروني:"
+},
+{
+"id": 10836,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "رقم العقد:"
+},
+{
+"id": 10837,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "رقم الهاتف:"
+},
+{
+"id": 10838,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "الصفة"
+},
+{
+"id": 10839,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "البصمة الرقمية"
+},
+{
+"id": 10840,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "عقد تنفيذ مشروع هندسي"
+},
+{
+"id": 10841,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "وثيقة تعاقد إلكترونية لتنفيذ الأعمال والخدمات الهندسية"
+},
+{
+"id": 10842,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "الإصدار:"
+},
+{
+"id": 10843,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "رقم المشروع:"
+},
+{
+"id": 10844,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "حالة العقد: نافذ ومكتمل"
+},
+{
+"id": 10845,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "حالة العقد: مرفوض"
+},
+{
+"id": 10846,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "حالة العقد: بانتظار التواقيع"
+},
+{
+"id": 10847,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "تاريخ النفاذ:"
+},
+{
+"id": 10848,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "الطرف الأول — العميل"
+},
+{
+"id": 10849,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "الطرف الثاني — المهندس الرئيسي"
+},
+{
+"id": 10850,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "بيانات العقد الأساسية"
+},
+{
+"id": 10851,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "لا توجد شروط أو أحكام مسجلة في هذا الإصدار."
+},
+{
+"id": 10852,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "سجل التواقيع الإلكترونية"
+},
+{
+"id": 10853,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "لا توجد تواقيع إلكترونية مسجلة حتى الآن."
+},
+{
+"id": 10854,
+"f": "views/projects/contracts/pdf.blade.php",
+"ar": "هذه الوثيقة تم إنشاؤها إلكترونيًا من النظام، وترتبط بصمة المحتوى أعلاه بالإصدار الحالي من العقد."
+},
+{
+"id": 10855,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "نافذ ومكتمل"
+},
+{
+"id": 10856,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "بانتظار التواقيع"
+},
+{
+"id": 10857,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "تمت العملية بنجاح"
+},
+{
+"id": 10858,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "بانتظار التوقيع"
+},
+{
+"id": 10859,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "نطاق المشروع"
+},
+{
+"id": 10860,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "التواقيع المطلوبة"
+},
+{
+"id": 10861,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "تعديل قبل التوقيع"
+},
+{
+"id": 10862,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "لا توجد شروط مسجلة"
+},
+{
+"id": 10863,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "لم يتم إضافة شروط وأحكام لهذا الإصدار من العقد."
+},
+{
+"id": 10864,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "توقيعك مطلوب"
+},
+{
+"id": 10865,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "راجع بنود العقد ثم افتح صفحة التوقيع لإكمال الموافقة بالصفة المطلوبة منك."
+},
+{
+"id": 10866,
+"f": "views/projects/contracts/show.blade.php",
+"ar": "فتح صفحة التوقيع"
+},
+{
+"id": 10867,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "اكتب اسمك الكامل"
+},
+{
+"id": 10868,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "التوقيع الإلكتروني"
+},
+{
+"id": 10869,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "تنبيه النظام"
+},
+{
+"id": 10870,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "اكتملت التواقيع المطلوبة لهذا الحساب"
+},
+{
+"id": 10871,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "لا يوجد توقيع متبقٍ لهذا الحساب على هذا العقد."
+},
+{
+"id": 10872,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "قبل تسجيل التوقيع، تأكد من قراءة جميع بنود العقد والشروط والالتزامات المرتبطة بالمشروع. تسجيل التوقيع يعني اعتمادك لهذا الإصدار داخل المنصة."
+},
+{
+"id": 10873,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "سجل توقيع آمن"
+},
+{
+"id": 10874,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "الاسم الكامل كما هو مسجل في الحساب"
+},
+{
+"id": 10875,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "سيتم تسجيل البصمة الزمنية وعنوان IP تلقائيًا مع عملية التوقيع."
+},
+{
+"id": 10876,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "أقر بأنني قرأت العقد كاملًا وأوافق على شروطه، وأعتمد هذا الإجراء كتوقيع إلكتروني صادر مني داخل المنصة."
+},
+{
+"id": 10877,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "تسجيل التوقيع الإلكتروني"
+},
+{
+"id": 10878,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "إجراءات الرفض"
+},
+{
+"id": 10879,
+"f": "views/projects/contracts/sign.blade.php",
+"ar": "يرجى توضيح سبب رفض العقد بدقة..."
+},
+{
+"id": 10880,
+"f": "views/projects/dashboard.blade.php",
+"ar": "قيمة المشروع"
+},
+{
+"id": 10881,
+"f": "views/projects/dashboard.blade.php",
+"ar": "إدارة الموقع"
+},
+{
+"id": 10882,
+"f": "views/projects/dashboard.blade.php",
+"ar": "بيانات المشروع"
+},
+{
+"id": 10883,
+"f": "views/projects/dashboard.blade.php",
+"ar": "أوامر التغيير"
+},
+{
+"id": 10884,
+"f": "views/projects/dashboard.blade.php",
+"ar": "التقرير النهائي"
+},
+{
+"id": 10885,
+"f": "views/projects/dashboard.blade.php",
+"ar": "المحصل"
+},
+{
+"id": 10886,
+"f": "views/projects/dashboard.blade.php",
+"ar": "قيد مراجعة الدفع"
+},
+{
+"id": 10887,
+"f": "views/projects/dashboard.blade.php",
+"ar": "المتبقي"
+},
+{
+"id": 10888,
+"f": "views/projects/dashboard.blade.php",
+"ar": "تقدم المراحل"
+},
+{
+"id": 10889,
+"f": "views/projects/dashboard.blade.php",
+"ar": "لوحة المشروع الشاملة"
+},
+{
+"id": 10890,
+"f": "views/projects/dashboard.blade.php",
+"ar": "صفحة المشروع"
+},
+{
+"id": 10891,
+"f": "views/projects/dashboard.blade.php",
+"ar": "المراحل والمهام"
+},
+{
+"id": 10892,
+"f": "views/projects/dashboard.blade.php",
+"ar": "مرحلة"
+},
+{
+"id": 10893,
+"f": "views/projects/dashboard.blade.php",
+"ar": "تقدم المهام"
+},
+{
+"id": 10894,
+"f": "views/projects/dashboard.blade.php",
+"ar": "تحصيل المشروع"
+},
+{
+"id": 10895,
+"f": "views/projects/dashboard.blade.php",
+"ar": "دفعة مدفوعة"
+},
+{
+"id": 10896,
+"f": "views/projects/dashboard.blade.php",
+"ar": "مدة المشروع"
+},
+{
+"id": 10897,
+"f": "views/projects/dashboard.blade.php",
+"ar": "أعضاء الفريق"
+},
+{
+"id": 10898,
+"f": "views/projects/dashboard.blade.php",
+"ar": "الملفات والتغييرات"
+},
+{
+"id": 10899,
+"f": "views/projects/dashboard.blade.php",
+"ar": "ملفات معتمدة للعميل"
+},
+{
+"id": 10900,
+"f": "views/projects/dashboard.blade.php",
+"ar": "ملفات داخلية للفريق"
+},
+{
+"id": 10901,
+"f": "views/projects/dashboard.blade.php",
+"ar": "أوامر تغيير معتمدة"
+},
+{
+"id": 10902,
+"f": "views/projects/dashboard.blade.php",
+"ar": "أوامر بانتظار العميل"
+},
+{
+"id": 10903,
+"f": "views/projects/dashboard.blade.php",
+"ar": "ملخص عمولة مهندس المشروع"
+},
+{
+"id": 10904,
+"f": "views/projects/dashboard.blade.php",
+"ar": "ملخص مالي لمستحقات المهندس وحصة المنصة من الدفعات المؤكدة."
+},
+{
+"id": 10905,
+"f": "views/projects/dashboard.blade.php",
+"ar": "إدارة المستحقات"
+},
+{
+"id": 10906,
+"f": "views/projects/dashboard.blade.php",
+"ar": "إجمالي مستحق المهندس"
+},
+{
+"id": 10907,
+"f": "views/projects/dashboard.blade.php",
+"ar": "تم تحويله"
+},
+{
+"id": 10908,
+"f": "views/projects/dashboard.blade.php",
+"ar": "آخر المراحل"
+},
+{
+"id": 10909,
+"f": "views/projects/dashboard.blade.php",
+"ar": "لا توجد مراحل."
+},
+{
+"id": 10910,
+"f": "views/projects/dashboard.blade.php",
+"ar": "مهامي"
+},
+{
+"id": 10911,
+"f": "views/projects/dashboard.blade.php",
+"ar": "آخر المهام"
+},
+{
+"id": 10912,
+"f": "views/projects/dashboard.blade.php",
+"ar": "بدون مرحلة"
+},
+{
+"id": 10913,
+"f": "views/projects/dashboard.blade.php",
+"ar": "لا توجد مهام ظاهرة."
+},
+{
+"id": 10914,
+"f": "views/projects/dashboard.blade.php",
+"ar": "الحالة النهائية"
+},
+{
+"id": 10915,
+"f": "views/projects/dashboard.blade.php",
+"ar": "التنفيذ:"
+},
+{
+"id": 10916,
+"f": "views/projects/dashboard.blade.php",
+"ar": "المالية:"
+},
+{
+"id": 10917,
+"f": "views/projects/dashboard.blade.php",
+"ar": "الإدارة المالية للمشروع"
+},
+{
+"id": 10918,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "اختر المهندس"
+},
+{
+"id": 10919,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "نسب مهندسي المشروع"
+},
+{
+"id": 10920,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "توزيع نسب مهندسي المشروع"
+},
+{
+"id": 10921,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "سعر المشروع:"
+},
+{
+"id": 10922,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "مجموع نسب المهندسين:"
+},
+{
+"id": 10923,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "إضافة / تعديل نسبة مهندس"
+},
+{
+"id": 10924,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "حفظ النسبة"
+},
+{
+"id": 10925,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "القيمة من المشروع"
+},
+{
+"id": 10926,
+"f": "views/projects/engineer-allocations.blade.php",
+"ar": "هل تريد إلغاء نسبة هذا المهندس؟"
+},
+{
+"id": 10927,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "إيداع دفعة في"
+},
+{
+"id": 10928,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "معاملة محمية"
+},
+{
+"id": 10929,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "تأكيد الدفعة واحتجازها داخل رصيد Escrow الخاص بالمشروع حتى اعتماد المرحلة المستحقة."
+},
+{
+"id": 10930,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "معاملة آمنة"
+},
+{
+"id": 10931,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "عندما تصبح هناك دفعة قابلة للإيداع ستظهر هنا تلقائيًا."
+},
+{
+"id": 10932,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "اختر الإيصال / الدفعة"
+},
+{
+"id": 10933,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "حالة الضمان"
+},
+{
+"id": 10934,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "جاهز للإيداع"
+},
+{
+"id": 10935,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "آلية الحجز"
+},
+{
+"id": 10936,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "تأكيد الإيداع والاحتجاز"
+},
+{
+"id": 10937,
+"f": "views/projects/escrow/fund.blade.php",
+"ar": "سيتم احتجاز الأموال في Escrow حتى يتم اعتماد التسليم المرتبط بالمرحلة أو الإفراج عنها حسب صلاحيات النظام."
+},
+{
+"id": 10938,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "محتجز"
+},
+{
+"id": 10939,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "تم الإفراج"
+},
+{
+"id": 10940,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "إيداع دفعة يدويًا"
+},
+{
+"id": 10941,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "محتجز حاليًا"
+},
+{
+"id": 10942,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "تم الإفراج عنه"
+},
+{
+"id": 10943,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "سجل عمليات"
+},
+{
+"id": 10944,
+"f": "views/projects/escrow/index.blade.php",
+"ar": "لم يتم تسجيل أي حركة مالية في حساب الضمان لهذا المشروع حتى الآن."
+},
+{
+"id": 10945,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "عودة إلى تفاصيل العملية"
+},
+{
+"id": 10946,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "إفراج إداري"
+},
+{
+"id": 10947,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "قيمة الدفعة:"
+},
+{
+"id": 10948,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "هذا الإجراء سيحوّل الدفعة إلى Paid وينشئ مستحقات المهندس/المكتب/المنصة. استخدمه فقط عند الحاجة الإدارية وبعد التأكد من صحة قرار الإفراج."
+},
+{
+"id": 10949,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "سبب الإفراج الإداري"
+},
+{
+"id": 10950,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "اكتب سبب الإفراج الإداري بالتفصيل..."
+},
+{
+"id": 10951,
+"f": "views/projects/escrow/release.blade.php",
+"ar": "تأكيد الإفراج"
+},
+{
+"id": 10952,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "تاريخ الإيداع"
+},
+{
+"id": 10953,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "إجمالي المبلغ"
+},
+{
+"id": 10954,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "إفراج إداري يدوي"
+},
+{
+"id": 10955,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "سجل الإفراجات"
+},
+{
+"id": 10956,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "المبلغ ما زال محتجزًا بالكامل"
+},
+{
+"id": 10957,
+"f": "views/projects/escrow/show.blade.php",
+"ar": "لا توجد إفراجات مسجلة لهذه العملية حتى الآن."
+},
+{
+"id": 10958,
+"f": "views/projects/field/index.blade.php",
+"ar": "الموقع"
+},
+{
+"id": 10959,
+"f": "views/projects/field/index.blade.php",
+"ar": "عادي"
+},
+{
+"id": 10960,
+"f": "views/projects/field/index.blade.php",
+"ar": "الموقع:"
+},
+{
+"id": 10961,
+"f": "views/projects/field/index.blade.php",
+"ar": "رفع"
+},
+{
+"id": 10962,
+"f": "views/projects/field/index.blade.php",
+"ar": "موعد الاستحقاق"
+},
+{
+"id": 10963,
+"f": "views/projects/field/index.blade.php",
+"ar": "الإجراء التصحيحي"
+},
+{
+"id": 10964,
+"f": "views/projects/field/index.blade.php",
+"ar": "مرسل للمراجعة"
+},
+{
+"id": 10965,
+"f": "views/projects/field/index.blade.php",
+"ar": "إدارة الموقع والتنفيذ الميداني"
+},
+{
+"id": 10966,
+"f": "views/projects/field/index.blade.php",
+"ar": "إنشاء سجل ميداني"
+},
+{
+"id": 10967,
+"f": "views/projects/field/index.blade.php",
+"ar": "يمكن إضافة الصور والملفات الآن أو لاحقًا. الحد 20MB لكل ملف."
+},
+{
+"id": 10968,
+"f": "views/projects/field/index.blade.php",
+"ar": "نوع السجل"
+},
+{
+"id": 10969,
+"f": "views/projects/field/index.blade.php",
+"ar": "الوصف / التفاصيل"
+},
+{
+"id": 10970,
+"f": "views/projects/field/index.blade.php",
+"ar": "مثال: المبنى A / الطابق"
+},
+{
+"id": 10971,
+"f": "views/projects/field/index.blade.php",
+"ar": "مسند إلى"
+},
+{
+"id": 10972,
+"f": "views/projects/field/index.blade.php",
+"ar": "بدون تعيين"
+},
+{
+"id": 10973,
+"f": "views/projects/field/index.blade.php",
+"ar": "موعد الفحص / الزيارة"
+},
+{
+"id": 10974,
+"f": "views/projects/field/index.blade.php",
+"ar": "الطقس"
+},
+{
+"id": 10975,
+"f": "views/projects/field/index.blade.php",
+"ar": "عدد العمال"
+},
+{
+"id": 10976,
+"f": "views/projects/field/index.blade.php",
+"ar": "المعدات المستخدمة"
+},
+{
+"id": 10977,
+"f": "views/projects/field/index.blade.php",
+"ar": "الأعمال المنفذة اليوم"
+},
+{
+"id": 10978,
+"f": "views/projects/field/index.blade.php",
+"ar": "عوائق / تأخيرات"
+},
+{
+"id": 10979,
+"f": "views/projects/field/index.blade.php",
+"ar": "نطاق الفحص"
+},
+{
+"id": 10980,
+"f": "views/projects/field/index.blade.php",
+"ar": "مرجع المخطط"
+},
+{
+"id": 10981,
+"f": "views/projects/field/index.blade.php",
+"ar": "ملاحظات طلب الفحص"
+},
+{
+"id": 10982,
+"f": "views/projects/field/index.blade.php",
+"ar": "النشاط"
+},
+{
+"id": 10983,
+"f": "views/projects/field/index.blade.php",
+"ar": "معايير القبول"
+},
+{
+"id": 10984,
+"f": "views/projects/field/index.blade.php",
+"ar": "وصف عدم المطابقة"
+},
+{
+"id": 10985,
+"f": "views/projects/field/index.blade.php",
+"ar": "السبب الجذري"
+},
+{
+"id": 10986,
+"f": "views/projects/field/index.blade.php",
+"ar": "الجهة المسؤولة"
+},
+{
+"id": 10987,
+"f": "views/projects/field/index.blade.php",
+"ar": "نص تعليمات الموقع"
+},
+{
+"id": 10988,
+"f": "views/projects/field/index.blade.php",
+"ar": "موجهة إلى"
+},
+{
+"id": 10989,
+"f": "views/projects/field/index.blade.php",
+"ar": "الخطر / الملاحظة"
+},
+{
+"id": 10990,
+"f": "views/projects/field/index.blade.php",
+"ar": "اسم المادة"
+},
+{
+"id": 10991,
+"f": "views/projects/field/index.blade.php",
+"ar": "مرجع الفحص/الشهادة"
+},
+{
+"id": 10992,
+"f": "views/projects/field/index.blade.php",
+"ar": "حفظ السجل"
+},
+{
+"id": 10993,
+"f": "views/projects/field/index.blade.php",
+"ar": "النتيجة:"
+},
+{
+"id": 10994,
+"f": "views/projects/field/index.blade.php",
+"ar": "ملاحظات / قرار المراجعة"
+},
+{
+"id": 10995,
+"f": "views/projects/field/index.blade.php",
+"ar": "تحديث الحالة"
+},
+{
+"id": 10996,
+"f": "views/projects/field/index.blade.php",
+"ar": "لا توجد سجلات ميدانية ضمن الفلتر الحالي."
+},
+{
+"id": 10997,
+"f": "views/projects/files.blade.php",
+"ar": "الإصدار"
+},
+{
+"id": 10998,
+"f": "views/projects/files.blade.php",
+"ar": "العودة إلى المشروع"
+},
+{
+"id": 10999,
+"f": "views/projects/files.blade.php",
+"ar": "دون مهمة"
+},
+{
+"id": 11000,
+"f": "views/projects/files.blade.php",
+"ar": "لا يوجد وصف"
+},
+{
+"id": 11001,
+"f": "views/projects/files.blade.php",
+"ar": "ملفات ومخططات المشروع"
+},
+{
+"id": 11002,
+"f": "views/projects/files.blade.php",
+"ar": "استعرض الملفات والإصدارات المتاحة لك، وتابع مراجعة المخططات."
+},
+{
+"id": 11003,
+"f": "views/projects/files.blade.php",
+"ar": "تعذر إكمال الطلب:"
+},
+{
+"id": 11004,
+"f": "views/projects/files.blade.php",
+"ar": "ملخص الملفات"
+},
+{
+"id": 11005,
+"f": "views/projects/files.blade.php",
+"ar": "ملفات ظاهرة لك"
+},
+{
+"id": 11006,
+"f": "views/projects/files.blade.php",
+"ar": "ملفات لها نسخة معتمدة للعميل"
+},
+{
+"id": 11007,
+"f": "views/projects/files.blade.php",
+"ar": "مهام مرتبطة متاحة للاختيار"
+},
+{
+"id": 11008,
+"f": "views/projects/files.blade.php",
+"ar": "يُسجّل الملف كإصدار أول، وتحدد الخدمة من يحق له مراجعته أو إتاحته للعميل."
+},
+{
+"id": 11009,
+"f": "views/projects/files.blade.php",
+"ar": "عنوان الملف"
+},
+{
+"id": 11010,
+"f": "views/projects/files.blade.php",
+"ar": "ربط بمهمة (اختياري)"
+},
+{
+"id": 11011,
+"f": "views/projects/files.blade.php",
+"ar": "وصف الملف (اختياري)"
+},
+{
+"id": 11012,
+"f": "views/projects/files.blade.php",
+"ar": "اختر ملفًا"
+},
+{
+"id": 11013,
+"f": "views/projects/files.blade.php",
+"ar": "الحجم الأقصى 50 ميغابايت. الامتدادات المسموحة تخضع للتحقق على الخادم."
+},
+{
+"id": 11014,
+"f": "views/projects/files.blade.php",
+"ar": "رفع الملفات متاح فقط عندما تكون حالة المشروع «معتمد» أو «قيد التنفيذ»."
+},
+{
+"id": 11015,
+"f": "views/projects/files.blade.php",
+"ar": "رفع بواسطة:"
+},
+{
+"id": 11016,
+"f": "views/projects/files.blade.php",
+"ar": "تفاصيل وإصدارات الملف"
+},
+{
+"id": 11017,
+"f": "views/projects/files.blade.php",
+"ar": "تنزيل النسخة المتاحة"
+},
+{
+"id": 11018,
+"f": "views/projects/files.blade.php",
+"ar": "لا توجد ملفات متاحة لك في هذا المشروع حتى الآن."
+},
+{
+"id": 11019,
+"f": "views/projects/files/compare.blade.php",
+"ar": "مقابل"
+},
+{
+"id": 11020,
+"f": "views/projects/files/compare.blade.php",
+"ar": "فتح/تنزيل النسخة"
+},
+{
+"id": 11021,
+"f": "views/projects/files/markup.blade.php",
+"ar": "ملاحظات"
+},
+{
+"id": 11022,
+"f": "views/projects/files/markup.blade.php",
+"ar": "صفحة"
+},
+{
+"id": 11023,
+"f": "views/projects/files/markup.blade.php",
+"ar": "الطبقات لا تعدّل الملف الأصلي"
+},
+{
+"id": 11024,
+"f": "views/projects/files/markup.blade.php",
+"ar": "العودة للإصدارات"
+},
+{
+"id": 11025,
+"f": "views/projects/files/markup.blade.php",
+"ar": "تنزيل الأصل"
+},
+{
+"id": 11026,
+"f": "views/projects/files/markup.blade.php",
+"ar": "طبقات الملاحظات"
+},
+{
+"id": 11027,
+"f": "views/projects/files/markup.blade.php",
+"ar": "طبقة"
+},
+{
+"id": 11028,
+"f": "views/projects/files/markup.blade.php",
+"ar": "كل عنصر محفوظ بإحداثيات نسبية"
+},
+{
+"id": 11029,
+"f": "views/projects/files/markup.blade.php",
+"ar": "لذلك يبقى في مكانه مع اختلاف حجم الشاشة. عند تعارض تعديلين، يرفض الخادم الحفظ بدل الكتابة فوق عمل مستخدم آخر."
+},
+{
+"id": 11030,
+"f": "views/projects/files/markup.blade.php",
+"ar": "قلم"
+},
+{
+"id": 11031,
+"f": "views/projects/files/markup.blade.php",
+"ar": "خط"
+},
+{
+"id": 11032,
+"f": "views/projects/files/markup.blade.php",
+"ar": "سهم"
+},
+{
+"id": 11033,
+"f": "views/projects/files/markup.blade.php",
+"ar": "مستطيل"
+},
+{
+"id": 11034,
+"f": "views/projects/files/markup.blade.php",
+"ar": "دائرة"
+},
+{
+"id": 11035,
+"f": "views/projects/files/markup.blade.php",
+"ar": "نص"
+},
+{
+"id": 11036,
+"f": "views/projects/files/markup.blade.php",
+"ar": "مسح الطبقة"
+},
+{
+"id": 11037,
+"f": "views/projects/files/markup.blade.php",
+"ar": "مشاركة مع العميل بعد إتاحتها"
+},
+{
+"id": 11038,
+"f": "views/projects/files/markup.blade.php",
+"ar": "إغلاق الملاحظات"
+},
+{
+"id": 11039,
+"f": "views/projects/files/markup.blade.php",
+"ar": "المعاينة المباشرة متاحة للصور و"
+},
+{
+"id": 11040,
+"f": "views/projects/files/markup.blade.php",
+"ar": "يمكنك تنزيل الملف الأصلي وإضافة طبقة ملاحظات مرتبطة بهذه النسخة."
+},
+{
+"id": 11041,
+"f": "views/projects/files/markup.blade.php",
+"ar": "محلي"
+},
+{
+"id": 11042,
+"f": "views/projects/files/markup.blade.php",
+"ar": "لا توجد طبقات بعد."
+},
+{
+"id": 11043,
+"f": "views/projects/files/markup.blade.php",
+"ar": "اكتب الملاحظة"
+},
+{
+"id": 11044,
+"f": "views/projects/files/markup.blade.php",
+"ar": "مسح كل عناصر هذه الطبقة؟"
+},
+{
+"id": 11045,
+"f": "views/projects/files/markup.blade.php",
+"ar": "طبقة جديدة"
+},
+{
+"id": 11046,
+"f": "views/projects/files/markup.blade.php",
+"ar": "تعارض: أعد تحميل الصفحة قبل الحفظ."
+},
+{
+"id": 11047,
+"f": "views/projects/files/markup.blade.php",
+"ar": "فشل الحفظ"
+},
+{
+"id": 11048,
+"f": "views/projects/files/markup.blade.php",
+"ar": "إغلاق هذه الملاحظات ومنع تعديلها؟"
+},
+{
+"id": 11049,
+"f": "views/projects/files/markup.blade.php",
+"ar": "جاري الإغلاق..."
+},
+{
+"id": 11050,
+"f": "views/projects/files/markup.blade.php",
+"ar": "تعذر إغلاق الملاحظات"
+},
+{
+"id": 11051,
+"f": "views/projects/files/markup.blade.php",
+"ar": "تم الإغلاق"
+},
+{
+"id": 11052,
+"f": "views/projects/files/show.blade.php",
+"ar": "لوحة القيادة"
+},
+{
+"id": 11053,
+"f": "views/projects/files/show.blade.php",
+"ar": "تنزيل"
+},
+{
+"id": 11054,
+"f": "views/projects/files/show.blade.php",
+"ar": "الأمان والحساب"
+},
+{
+"id": 11055,
+"f": "views/projects/files/show.blade.php",
+"ar": "البحث في النظام..."
+},
+{
+"id": 11056,
+"f": "views/projects/files/show.blade.php",
+"ar": "سجل الملفات"
+},
+{
+"id": 11057,
+"f": "views/projects/files/show.blade.php",
+"ar": "ملاحظات اعتماد اختيارية"
+},
+{
+"id": 11058,
+"f": "views/projects/files/show.blade.php",
+"ar": "سبب الرفض والتعديلات المطلوبة"
+},
+{
+"id": 11059,
+"f": "views/projects/files/show.blade.php",
+"ar": "فقط."
+},
+{
+"id": 11060,
+"f": "views/projects/files/show.blade.php",
+"ar": "المعالم الرئيسية"
+},
+{
+"id": 11061,
+"f": "views/projects/files/show.blade.php",
+"ar": "التحكم بالإصدارات"
+},
+{
+"id": 11062,
+"f": "views/projects/files/show.blade.php",
+"ar": "مركز المراجعة"
+},
+{
+"id": 11063,
+"f": "views/projects/files/show.blade.php",
+"ar": "البحث في النظام"
+},
+{
+"id": 11064,
+"f": "views/projects/files/show.blade.php",
+"ar": "العرض العام"
+},
+{
+"id": 11065,
+"f": "views/projects/files/show.blade.php",
+"ar": "حالة النظام"
+},
+{
+"id": 11066,
+"f": "views/projects/files/show.blade.php",
+"ar": "نشر التحديث"
+},
+{
+"id": 11067,
+"f": "views/projects/files/show.blade.php",
+"ar": "العودة إلى ملفات"
+},
+{
+"id": 11068,
+"f": "views/projects/files/show.blade.php",
+"ar": "المستودع:"
+},
+{
+"id": 11069,
+"f": "views/projects/files/show.blade.php",
+"ar": "الحالي"
+},
+{
+"id": 11070,
+"f": "views/projects/files/show.blade.php",
+"ar": "نسخة العميل"
+},
+{
+"id": 11071,
+"f": "views/projects/files/show.blade.php",
+"ar": "البيانات الوصفية للأصل"
+},
+{
+"id": 11072,
+"f": "views/projects/files/show.blade.php",
+"ar": "سياق المهمة"
+},
+{
+"id": 11073,
+"f": "views/projects/files/show.blade.php",
+"ar": "بدون مهمة"
+},
+{
+"id": 11074,
+"f": "views/projects/files/show.blade.php",
+"ar": "المؤلف الأصلي"
+},
+{
+"id": 11075,
+"f": "views/projects/files/show.blade.php",
+"ar": "إجمالي الإصدارات"
+},
+{
+"id": 11076,
+"f": "views/projects/files/show.blade.php",
+"ar": "تكرارات"
+},
+{
+"id": 11077,
+"f": "views/projects/files/show.blade.php",
+"ar": "لا يوجد وصف إضافي لهذا الملف."
+},
+{
+"id": 11078,
+"f": "views/projects/files/show.blade.php",
+"ar": "دفتر الإصدارات غير القابل للتغيير"
+},
+{
+"id": 11079,
+"f": "views/projects/files/show.blade.php",
+"ar": "مقارنة النسختين"
+},
+{
+"id": 11080,
+"f": "views/projects/files/show.blade.php",
+"ar": "ملاحظات الالتزام"
+},
+{
+"id": 11081,
+"f": "views/projects/files/show.blade.php",
+"ar": "لا توجد ملاحظات تغيير مرفقة بهذا الإصدار."
+},
+{
+"id": 11082,
+"f": "views/projects/files/show.blade.php",
+"ar": "لا يوجد سجل مراجعة مسجل لهذا الإصدار حتى الآن."
+},
+{
+"id": 11083,
+"f": "views/projects/files/show.blade.php",
+"ar": "لا توجد إصدارات محفوظة لهذا الملف حتى الآن."
+},
+{
+"id": 11084,
+"f": "views/projects/files/show.blade.php",
+"ar": "ملاحظات التغيير"
+},
+{
+"id": 11085,
+"f": "views/projects/files/show.blade.php",
+"ar": "ما الذي تغير في هذا الإصدار؟"
+},
+{
+"id": 11086,
+"f": "views/projects/files/show.blade.php",
+"ar": "رفع Version للمراجعة"
+},
+{
+"id": 11087,
+"f": "views/projects/files/show.blade.php",
+"ar": "العميل سيبقى على"
+},
+{
+"id": 11088,
+"f": "views/projects/files/show.blade.php",
+"ar": "حتى اعتماد الإصدار الجديد."
+},
+{
+"id": 11089,
+"f": "views/projects/files/show.blade.php",
+"ar": "إجراء المراجعة"
+},
+{
+"id": 11090,
+"f": "views/projects/files/show.blade.php",
+"ar": "اعتماد وإتاحة للعميل"
+},
+{
+"id": 11091,
+"f": "views/projects/files/show.blade.php",
+"ar": "إتاحة العميل"
+},
+{
+"id": 11092,
+"f": "views/projects/files/show.blade.php",
+"ar": "العميل يرى حاليًا النسخة"
+},
+{
+"id": 11093,
+"f": "views/projects/files/show.blade.php",
+"ar": "سحب الإتاحة من العميل"
+},
+{
+"id": 11094,
+"f": "views/projects/final-report.blade.php",
+"ar": "عضو فريق المشروع"
+},
+{
+"id": 11095,
+"f": "views/projects/final-report.blade.php",
+"ar": "النسبة"
+},
+{
+"id": 11096,
+"f": "views/projects/final-report.blade.php",
+"ar": "طباعة التقرير"
+},
+{
+"id": 11097,
+"f": "views/projects/final-report.blade.php",
+"ar": "تاريخ البدء"
+},
+{
+"id": 11098,
+"f": "views/projects/final-report.blade.php",
+"ar": "المراحل"
+},
+{
+"id": 11099,
+"f": "views/projects/final-report.blade.php",
+"ar": "التقرير النهائي وتسليم المشروع"
+},
+{
+"id": 11100,
+"f": "views/projects/final-report.blade.php",
+"ar": "تاريخ الإغلاق"
+},
+{
+"id": 11101,
+"f": "views/projects/final-report.blade.php",
+"ar": "القيمة النهائية للمشروع"
+},
+{
+"id": 11102,
+"f": "views/projects/final-report.blade.php",
+"ar": "إجمالي المحصل"
+},
+{
+"id": 11103,
+"f": "views/projects/final-report.blade.php",
+"ar": "المدة النهائية"
+},
+{
+"id": 11104,
+"f": "views/projects/final-report.blade.php",
+"ar": "نطاق العمل النهائي"
+},
+{
+"id": 11105,
+"f": "views/projects/final-report.blade.php",
+"ar": "مرحلة مكتملة"
+},
+{
+"id": 11106,
+"f": "views/projects/final-report.blade.php",
+"ar": "لا توجد مراحل مسجلة."
+},
+{
+"id": 11107,
+"f": "views/projects/final-report.blade.php",
+"ar": "دفعات المشروع"
+},
+{
+"id": 11108,
+"f": "views/projects/final-report.blade.php",
+"ar": "دفعة غير ملغاة"
+},
+{
+"id": 11109,
+"f": "views/projects/final-report.blade.php",
+"ar": "لا توجد دفعات."
+},
+{
+"id": 11110,
+"f": "views/projects/final-report.blade.php",
+"ar": "أوامر التغيير المعتمدة"
+},
+{
+"id": 11111,
+"f": "views/projects/final-report.blade.php",
+"ar": "تغير السعر:"
+},
+{
+"id": 11112,
+"f": "views/projects/final-report.blade.php",
+"ar": "تغير المدة:"
+},
+{
+"id": 11113,
+"f": "views/projects/final-report.blade.php",
+"ar": "لا توجد أوامر تغيير معتمدة."
+},
+{
+"id": 11114,
+"f": "views/projects/final-report.blade.php",
+"ar": "ملفات التسليم المعتمدة للعميل"
+},
+{
+"id": 11115,
+"f": "views/projects/final-report.blade.php",
+"ar": "تنزيل الملف"
+},
+{
+"id": 11116,
+"f": "views/projects/final-report.blade.php",
+"ar": "لا توجد ملفات تسليم معتمدة."
+},
+{
+"id": 11117,
+"f": "views/projects/final-report.blade.php",
+"ar": "تم إغلاق المشروع بتاريخ"
+},
+{
+"id": 11118,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "متأخرة"
+},
+{
+"id": 11119,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "لم يبدأ"
+},
+{
+"id": 11120,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "إجمالي المهام"
+},
+{
+"id": 11121,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "المخطط الزمني"
+},
+{
+"id": 11122,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "نظرة شاملة على الجدول الزمني، نسب الإنجاز، التبعيات، خطوط الأساس والمسار الحرج للمشروع."
+},
+{
+"id": 11123,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "مهام حرجة"
+},
+{
+"id": 11124,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "البحث في المهام..."
+},
+{
+"id": 11125,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "جميع الأنواع"
+},
+{
+"id": 11126,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "جميع المسؤولين"
+},
+{
+"id": 11127,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "لا توجد مهام مطابقة للفلاتر الحالية."
+},
+{
+"id": 11128,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "اسم المهمة"
+},
+{
+"id": 11129,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "وصف المهمة..."
+},
+{
+"id": 11130,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "التبعيات"
+},
+{
+"id": 11131,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "إضافة تبعية"
+},
+{
+"id": 11132,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "حدد مهمتين لربطهما."
+},
+{
+"id": 11133,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "خطوط الأساس"
+},
+{
+"id": 11134,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "لا يوجد Baseline محفوظ."
+},
+{
+"id": 11135,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "حفظ كخط أساس"
+},
+{
+"id": 11136,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "إدارة المهام"
+},
+{
+"id": 11137,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "حذف هذا البند؟"
+},
+{
+"id": 11138,
+"f": "views/projects/gantt/index.blade.php",
+"ar": "لا توجد مهام."
+},
+{
+"id": 11139,
+"f": "views/projects/handover-center.blade.php",
+"ar": "المرحلة"
+},
+{
+"id": 11140,
+"f": "views/projects/handover-center.blade.php",
+"ar": "تسليم مرحلة"
+},
+{
+"id": 11141,
+"f": "views/projects/handover-center.blade.php",
+"ar": "عنوان التسليم"
+},
+{
+"id": 11142,
+"f": "views/projects/handover-center.blade.php",
+"ar": "معتمدة"
+},
+{
+"id": 11143,
+"f": "views/projects/handover-center.blade.php",
+"ar": "تسليم نهائي"
+},
+{
+"id": 11144,
+"f": "views/projects/handover-center.blade.php",
+"ar": "المشروع كاملًا"
+},
+{
+"id": 11145,
+"f": "views/projects/handover-center.blade.php",
+"ar": "ملاحظات العميل"
+},
+{
+"id": 11146,
+"f": "views/projects/handover-center.blade.php",
+"ar": "بانتظار اعتماد العميل"
+},
+{
+"id": 11147,
+"f": "views/projects/handover-center.blade.php",
+"ar": "تعديلات مطلوبة"
+},
+{
+"id": 11148,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مركز التسليم والاعتماد النهائي"
+},
+{
+"id": 11149,
+"f": "views/projects/handover-center.blade.php",
+"ar": "تجميع مخرجات المشروع في حزم تسليم موثقة، مراجعتها من العميل، وتوليد شهادة استلام رقمية قابلة للتدقيق."
+},
+{
+"id": 11150,
+"f": "views/projects/handover-center.blade.php",
+"ar": "الحزم"
+},
+{
+"id": 11151,
+"f": "views/projects/handover-center.blade.php",
+"ar": "إنشاء حزمة تسليم جديدة"
+},
+{
+"id": 11152,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مرحلية أو نهائية مع قائمة تحقق إلزامية."
+},
+{
+"id": 11153,
+"f": "views/projects/handover-center.blade.php",
+"ar": "نوع الحزمة"
+},
+{
+"id": 11154,
+"f": "views/projects/handover-center.blade.php",
+"ar": "التسليم النهائي للمشروع"
+},
+{
+"id": 11155,
+"f": "views/projects/handover-center.blade.php",
+"ar": "اختر المرحلة"
+},
+{
+"id": 11156,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مثال: حزمة تسليم المخططات التنفيذية النهائية"
+},
+{
+"id": 11157,
+"f": "views/projects/handover-center.blade.php",
+"ar": "ملخص الحزمة"
+},
+{
+"id": 11158,
+"f": "views/projects/handover-center.blade.php",
+"ar": "صف ما تتضمنه الحزمة وما يجب على العميل مراجعته"
+},
+{
+"id": 11159,
+"f": "views/projects/handover-center.blade.php",
+"ar": "قائمة التحقق"
+},
+{
+"id": 11160,
+"f": "views/projects/handover-center.blade.php",
+"ar": "إضافة عنصر"
+},
+{
+"id": 11161,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مثال: المخططات PDF المعتمدة"
+},
+{
+"id": 11162,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مثال: الملفات المصدرية"
+},
+{
+"id": 11163,
+"f": "views/projects/handover-center.blade.php",
+"ar": "مثال: تقرير الإغلاق والملاحظات"
+},
+{
+"id": 11164,
+"f": "views/projects/handover-center.blade.php",
+"ar": "إنشاء الحزمة"
+},
+{
+"id": 11165,
+"f": "views/projects/handover-center.blade.php",
+"ar": "حزم التسليم"
+},
+{
+"id": 11166,
+"f": "views/projects/handover-center.blade.php",
+"ar": "حزمة عليها ملاحظات تعديل."
+},
+{
+"id": 11167,
+"f": "views/projects/handover-center.blade.php",
+"ar": "أنشأها"
+},
+{
+"id": 11168,
+"f": "views/projects/handover-center.blade.php",
+"ar": "اكتمال القائمة"
+},
+{
+"id": 11169,
+"f": "views/projects/handover-center.blade.php",
+"ar": "قائمة تحقق التسليم"
+},
+{
+"id": 11170,
+"f": "views/projects/handover-center.blade.php",
+"ar": "ناقص"
+},
+{
+"id": 11171,
+"f": "views/projects/handover-center.blade.php",
+"ar": "تم توفيره"
+},
+{
+"id": 11172,
+"f": "views/projects/handover-center.blade.php",
+"ar": "غير منطبق"
+},
+{
+"id": 11173,
+"f": "views/projects/handover-center.blade.php",
+"ar": "حذف هذا المرفق من الحزمة؟"
+},
+{
+"id": 11174,
+"f": "views/projects/handover-center.blade.php",
+"ar": "لا توجد مرفقات بعد."
+},
+{
+"id": 11175,
+"f": "views/projects/handover-center.blade.php",
+"ar": "وصف المرفق (اختياري)"
+},
+{
+"id": 11176,
+"f": "views/projects/handover-center.blade.php",
+"ar": "شهادة الاستلام"
+},
+{
+"id": 11177,
+"f": "views/projects/handover-center.blade.php",
+"ar": "اعتمدها العميل"
+},
+{
+"id": 11178,
+"f": "views/projects/handover-center.blade.php",
+"ar": "عرض/تنزيل الشهادة"
+},
+{
+"id": 11179,
+"f": "views/projects/handover-center.blade.php",
+"ar": "إلغاء حزمة التسليم؟"
+},
+{
+"id": 11180,
+"f": "views/projects/handover-center.blade.php",
+"ar": "إلغاء الحزمة"
+},
+{
+"id": 11181,
+"f": "views/projects/handover-center.blade.php",
+"ar": "اعتماد واستلام الحزمة"
+},
+{
+"id": 11182,
+"f": "views/projects/handover-center.blade.php",
+"ar": "اكتب النواقص أو التعديلات المطلوبة"
+},
+{
+"id": 11183,
+"f": "views/projects/handover-center.blade.php",
+"ar": "طلب تعديلات"
+},
+{
+"id": 11184,
+"f": "views/projects/handover-center.blade.php",
+"ar": "ابدأ بحزمة للمرحلة الحالية أو بالتسليم النهائي عند اكتمال المشروع."
+},
+{
+"id": 11185,
+"f": "views/projects/handover-center.blade.php",
+"ar": "عنصر تسليم إضافي"
+},
+{
+"id": 11186,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "شهادة استلام واعتماد رقمي"
+},
+{
+"id": 11187,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "وثيقة صادرة من سجل التسليم الإلكتروني للمشروع"
+},
+{
+"id": 11188,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "رقم الشهادة"
+},
+{
+"id": 11189,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "رقم حزمة التسليم"
+},
+{
+"id": 11190,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "نوع التسليم"
+},
+{
+"id": 11191,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "اعتمد بواسطة"
+},
+{
+"id": 11192,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "إقرار الاستلام:"
+},
+{
+"id": 11193,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "الملفات المثبتة في الحزمة:"
+},
+{
+"id": 11194,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "بصمة الاعتماد الرقمية"
+},
+{
+"id": 11195,
+"f": "views/projects/handover-certificate.blade.php",
+"ar": "يمكن التحقق من هذه الوثيقة بمطابقة رقم الشهادة وبصمة الاعتماد مع سجل المشروع داخل المنصة. هذه الوثيقة تسجل واقعة اعتماد إلكترونية داخل النظام ولا تستبدل المتطلبات القانونية الإلزامية خارج المنصة حيث تنطبق."
+},
+{
+"id": 11196,
+"f": "views/projects/index.blade.php",
+"ar": "طلبات المشاريع"
+},
+{
+"id": 11197,
+"f": "views/projects/index.blade.php",
+"ar": "رقم المشروع، الاسم، العميل أو المهندس..."
+},
+{
+"id": 11198,
+"f": "views/projects/index.blade.php",
+"ar": "القيمة الإجمالية"
+},
+{
+"id": 11199,
+"f": "views/projects/index.blade.php",
+"ar": "نظرة عامة على المشاريع والوضع المالي وجدول الدفعات."
+},
+{
+"id": 11200,
+"f": "views/projects/index.blade.php",
+"ar": "حالة المشروع"
+},
+{
+"id": 11201,
+"f": "views/projects/index.blade.php",
+"ar": "المُحصل"
+},
+{
+"id": 11202,
+"f": "views/projects/index.blade.php",
+"ar": "تم سداد جميع الدفعات"
+},
+{
+"id": 11203,
+"f": "views/projects/index.blade.php",
+"ar": "المشروع مغلق مالياً"
+},
+{
+"id": 11204,
+"f": "views/projects/index.blade.php",
+"ar": "لا توجد دفعات قادمة"
+},
+{
+"id": 11205,
+"f": "views/projects/index.blade.php",
+"ar": "افتح المشروع لمراجعة التفاصيل."
+},
+{
+"id": 11206,
+"f": "views/projects/index.blade.php",
+"ar": "لا توجد مشاريع مطابقة حاليًا."
+},
+{
+"id": 11207,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "شيكل"
+},
+{
+"id": 11208,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "رقم المحفظة"
+},
+{
+"id": 11209,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "بانتظار التفعيل"
+}
+]

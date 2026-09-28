@@ -1,0 +1,1402 @@
+[
+{
+"id": 11965,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يمنع القرار الإداري الداخلي أي طرف من ممارسة حقوقه القانونية المتاحة."
+},
+{
+"id": 11966,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الملكية الفكرية"
+},
+{
+"id": 11967,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "حقوق المنصة في الاسم والشعار والواجهات والبرمجيات وقواعد البيانات محفوظة."
+},
+{
+"id": 11968,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع نسخ المنصة أو تفكيكها أو إعادة بيعها أو إنشاء نسخة مشتقة دون إذن."
+},
+{
+"id": 11969,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تظل ملكية أعمال المستخدمين لأصحابها ما لم ينص الاتفاق على خلاف ذلك."
+},
+{
+"id": 11970,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يكتسب العميل حق استخدام المخرجات وفق نطاق الخدمة وبعد استكمال الدفع."
+},
+{
+"id": 11971,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز إزالة المحتوى عند وجود بلاغ جدي بانتهاك حقوق الملكية الفكرية."
+},
+{
+"id": 11972,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يضمن رافع المحتوى أن لديه الحقوق اللازمة، ويتحمل تبعات خلاف ذلك."
+},
+{
+"id": 11973,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التقييمات والبلاغات"
+},
+{
+"id": 11974,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب أن يستند التقييم إلى تجربة حقيقية وواقعية."
+},
+{
+"id": 11975,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع شراء التقييمات أو تبادلها أو إنشاء تقييمات وهمية."
+},
+{
+"id": 11976,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع استخدام التقييم أو البلاغ للابتزاز أو التشهير أو الانتقام."
+},
+{
+"id": 11977,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يحق للمنصة حذف التقييمات المسيئة أو المضللة أو غير المرتبطة بالخدمة."
+},
+{
+"id": 11978,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد يعاقب مقدم البلاغ الكيدي بنفس مستوى المخالفة التي ادعاها، بحسب جسامة الضرر."
+},
+{
+"id": 11979,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الدعم الفني والمساعد الآلي"
+},
+{
+"id": 11980,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد يستخدم الدعم مساعدًا آليًا للإجابة عن الأسئلة الشائعة وتصنيف الطلبات."
+},
+{
+"id": 11981,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يجوز إرسال كلمات المرور أو بيانات البطاقات الكاملة داخل المحادثة."
+},
+{
+"id": 11982,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز حفظ محادثات الدعم لأغراض المتابعة والأمان وتحسين الخدمة."
+},
+{
+"id": 11983,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تحول المحادثة إلى موظف بشري عندما لا تكون الإجابة الآلية كافية."
+},
+{
+"id": 11984,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تعد إجابات المساعد الآلي استشارة قانونية أو هندسية رسمية ما لم يذكر خلاف ذلك بوضوح."
+},
+{
+"id": 11985,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "نظام المخالفات والعقوبات"
+},
+{
+"id": 11986,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تحدد العقوبة وفق نوع المخالفة وخطورتها وأثرها وتكرارها وسجل الحساب. ولا تلتزم المنصة بتطبيق العقوبات بالتسلسل، ويجوز الانتقال مباشرة إلى الحظر النهائي عند المخالفات الجسيمة."
+},
+{
+"id": 11987,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "درجة المخالفة"
+},
+{
+"id": 11988,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "أمثلة"
+},
+{
+"id": 11989,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "العقوبات المحتملة"
+},
+{
+"id": 11990,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "بسيطة"
+},
+{
+"id": 11991,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "بيانات ناقصة، خطأ غير متعمد، محتوى يحتاج تصحيحًا."
+},
+{
+"id": 11992,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تنبيه، طلب تصحيح، إزالة المحتوى، إنذار رسمي."
+},
+{
+"id": 11993,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إعلانات مزعجة، إساءة محدودة، تكرار مخالفة بسيطة، محاولة تجاوز المنصة."
+},
+{
+"id": 11994,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تقييد ميزة، تعليق مؤقت، منع نشر أو مراسلة، مراجعة الحساب."
+},
+{
+"id": 11995,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "جسيمة"
+},
+{
+"id": 11996,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تزوير، احتيال، انتحال، تسريب بيانات، تهديد، محتوى غير قانوني."
+},
+{
+"id": 11997,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تعليق فوري، إلغاء الطلب، تجميد معاملة محل النزاع، حظر طويل أو دائم."
+},
+{
+"id": 11998,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "اختراق، برمجيات خبيثة، سرقة مالية، ابتزاز، استغلال منظم، خطر على المستخدمين."
+},
+{
+"id": 11999,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "حظر نهائي، منع إعادة التسجيل، حفظ الأدلة، إخطار مزودي الخدمة أو الجهات المختصة عند اللزوم."
+},
+{
+"id": 12000,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إجراءات إنفاذ العقوبات"
+},
+{
+"id": 12001,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إخفاء أو حذف أو رفض المحتوى المخالف."
+},
+{
+"id": 12002,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إرسال تنبيه أو إنذار رسمي للحساب."
+},
+{
+"id": 12003,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تقييد الرسائل أو النشر أو رفع الملفات أو إجراء المدفوعات."
+},
+{
+"id": 12004,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تعليق الحساب لمدة محددة أو إلى حين استكمال التحقق."
+},
+{
+"id": 12005,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إلغاء الطلب أو الخدمة المرتبطة بالمخالفة."
+},
+{
+"id": 12006,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تجميد المبالغ أو المستحقات محل النزاع ضمن الحدود القانونية."
+},
+{
+"id": 12007,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إزالة صفة المهندس أو المكتب أو مقدم الخدمة."
+},
+{
+"id": 12008,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إنهاء الحساب وحظر الوصول إلى المنصة."
+},
+{
+"id": 12009,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "منع إنشاء حساب بديل للتحايل على العقوبة."
+},
+{
+"id": 12010,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الاحتفاظ بسجلات وأدلة المخالفة لأغراض الأمن والنزاعات."
+},
+{
+"id": 12011,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إبلاغ مزود الدفع أو الاستضافة أو الجهة المختصة عند الضرورة القانونية أو الأمنية."
+},
+{
+"id": 12012,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الطعن والمراجعة"
+},
+{
+"id": 12013,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمستخدم الاعتراض على القرار من خلال نظام الدعم أو نموذج الطعن."
+},
+{
+"id": 12014,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب أن يتضمن الطعن شرحًا واضحًا وأي مستندات أو أدلة داعمة."
+},
+{
+"id": 12015,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة طلب إثبات الهوية أو ملكية الحساب قبل المراجعة."
+},
+{
+"id": 12016,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد ترفض الطعون المتكررة أو المسيئة أو غير المدعومة بأي معلومات."
+},
+{
+"id": 12017,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز تثبيت العقوبة أو تخفيفها أو إلغاؤها بعد المراجعة."
+},
+{
+"id": 12018,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يؤدي تقديم الطعن تلقائيًا إلى رفع التعليق أثناء المراجعة."
+},
+{
+"id": 12019,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "حماية المستخدمين والتحقق"
+},
+{
+"id": 12020,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز استخدام وسائل آلية وبشرية لاكتشاف الاحتيال والمحتوى المخالف."
+},
+{
+"id": 12021,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تطلب المنصة تحققًا إضافيًا عند تسجيل الدخول أو الدفع أو رفع مستندات حساسة."
+},
+{
+"id": 12022,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد يتم تأخير بعض العمليات مؤقتًا لحماية المستخدم أو التحقق من سلامتها."
+},
+{
+"id": 12023,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تضمن أنظمة الفحص عدم وقوع أخطاء، ويجوز طلب مراجعة بشرية."
+},
+{
+"id": 12024,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "استرداد الحساب عبر الدعم متاح فقط للحسابات التي أكملت توثيق KYC قبل فقدان الوصول؛ الحساب غير الموثق لا يمكن استرداده عبر مسار الدعم الأمني."
+},
+{
+"id": 12025,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تستخدم المنصة نماذج ذكاء اصطناعي متخصصة لتحليل جودة لقطات التحقق والحيوية ومؤشرات إعادة عرض صورة أو شاشة. تبقى مطابقة هوية الوجه مبنية على محرك القياسات الحيوية المتخصص، ولا يعتمد القرار على نموذج لغوي عام وحده."
+},
+{
+"id": 12026,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "حدود المسؤولية"
+},
+{
+"id": 12027,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تقدم المنصة خدماتها بالقدر المتاح ودون ضمان عدم الانقطاع المطلق."
+},
+{
+"id": 12028,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تتحمل المنصة نتائج المعلومات غير الصحيحة التي يقدمها المستخدمون."
+},
+{
+"id": 12029,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تتحمل المنصة مسؤولية التعاملات التي تتم خارج قنواتها المعتمدة."
+},
+{
+"id": 12030,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تتحمل المنصة مسؤولية تأخر ناتج عن قوة قاهرة أو عطل خارج سيطرتها."
+},
+{
+"id": 12031,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تستبعد هذه الشروط أي مسؤولية لا يجوز استبعادها بموجب القانون."
+},
+{
+"id": 12032,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تطبق حدود المسؤولية بالقدر الذي يسمح به القانون المختص."
+},
+{
+"id": 12033,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التعويض"
+},
+{
+"id": 12034,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "بالقدر الذي يسمح به القانون، يتحمل المستخدم المسؤولية عن الأضرار والمطالبات والتكاليف الناتجة عن مخالفته لهذه الشروط، أو انتهاكه حقوق الغير، أو استخدامه غير المشروع للمنصة."
+},
+{
+"id": 12035,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الخصوصية والبيانات"
+},
+{
+"id": 12036,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تخضع معالجة البيانات الشخصية إلى"
+},
+{
+"id": 12037,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الخاصة بالمنصة، وإلى القوانين السارية عندما تنطبق."
+},
+{
+"id": 12038,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المستخدمون من دول متعددة"
+},
+{
+"id": 12039,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يلتزم المستخدم بالقوانين واللوائح السارية في دولة إقامته أو استخدامه أو تنفيذ المشروع."
+},
+{
+"id": 12040,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد لا تتوفر بعض الخدمات في جميع الدول."
+},
+{
+"id": 12041,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة تقييد خدمة أو وسيلة دفع أو محتوى في دولة معينة للامتثال القانوني."
+},
+{
+"id": 12042,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إذا تعارض بند من هذه الشروط مع حق إلزامي يمنحه قانون محلي، يطبق الحق الإلزامي في حدود ذلك التعارض."
+},
+{
+"id": 12043,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يفسر توفر المنصة في دولة ما على أنه ترخيص مهني أو تجاري فيها."
+},
+{
+"id": 12044,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "القانون الواجب التطبيق وتسوية النزاعات"
+},
+{
+"id": 12045,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يلتزم كل مستخدم بالقوانين واللوائح السارية في الدولة التي يقيم فيها أو يستخدم المنصة منها، وكذلك القوانين السارية في دولة تنفيذ المشروع أو تقديم الخدمة متى كانت ذات صلة."
+},
+{
+"id": 12046,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تسعى الأطراف أولًا إلى تسوية أي شكوى أو نزاع بصورة ودية من خلال نظام الدعم الفني داخل المنصة. وإذا تعذر الوصول إلى حل ودي، تتم إحالة المسألة إلى الجهة القضائية أو جهة فض النزاعات المختصة وفق القانون الواجب التطبيق على المعاملة."
+},
+{
+"id": 12047,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تؤدي هذه الشروط إلى حرمان المستهلك من أي حقوق إلزامية يمنحها له قانون دولته، ولا تمنع أي طرف من اللجوء إلى الجهات الرسمية المختصة."
+},
+{
+"id": 12048,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "بالنسبة إلى الخدمات الهندسية، تطبق كذلك الأنظمة المهنية وأنظمة البناء والتراخيص والاشتراطات المعمول بها في الدولة أو المدينة التي يقع فيها المشروع."
+},
+{
+"id": 12049,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تعديل الشروط"
+},
+{
+"id": 12050,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز تحديث هذه الشروط عند تطوير الخدمات أو تغير المتطلبات القانونية."
+},
+{
+"id": 12051,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تنشر النسخة الجديدة في هذه الصفحة مع تاريخ التحديث."
+},
+{
+"id": 12052,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد يطلب من المستخدم الموافقة مجددًا عند وجود تعديل جوهري."
+},
+{
+"id": 12053,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يعد استمرار الاستخدام بعد سريان التحديث موافقة عليه، حيث يسمح القانون بذلك."
+},
+{
+"id": 12054,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قابلية الفصل"
+},
+{
+"id": 12055,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إذا تبين أن أي بند غير نافذ أو غير صالح في دولة معينة، يبقى باقي البنود نافذًا، ويطبق البند بالقدر الأقرب إلى غرضه والمسموح به قانونًا."
+},
+{
+"id": 12056,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "للاستفسارات القانونية أو البلاغات أو الاعتراضات، يمكن التواصل عبر نظام الدعم الفني داخل المنصة أو عبر بيانات الاتصال الرسمية المعتمدة."
+},
+{
+"id": 12057,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "اسم المنصة"
+},
+{
+"id": 12058,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "البريد القانوني"
+},
+{
+"id": 12059,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "من خلال نظام التذاكر داخل المنصة"
+},
+{
+"id": 12060,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "خدمات هندسية رقمية متاحة لمستخدمين من دول متعددة"
+},
+{
+"id": 12061,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إنشاء الحساب أو استخدام المنصة يعني الإقرار بقراءة هذه الشروط والموافقة عليها وعلى سياسة الخصوصية. لا تمنح هذه الوثيقة المنصة حق فرض غرامات حكومية أو عقوبات جنائية؛ وإنما تنظم الإجراءات الداخلية، مع بقاء العقوبات القانونية من اختصاص الجهات الرسمية."
+},
+{
+"id": 12062,
+"f": "views/users/create.blade.php",
+"ar": "تأكيد كلمة المرور"
+},
+{
+"id": 12063,
+"f": "views/users/create.blade.php",
+"ar": "المسمى الوظيفي"
+},
+{
+"id": 12064,
+"f": "views/users/create.blade.php",
+"ar": "بيانات الوظيفة"
+},
+{
+"id": 12065,
+"f": "views/users/create.blade.php",
+"ar": "الراتب"
+},
+{
+"id": 12066,
+"f": "views/users/create.blade.php",
+"ar": "تاريخ التعيين"
+},
+{
+"id": 12067,
+"f": "views/users/create.blade.php",
+"ar": "إنشاء حساب عميل أو مهندس أو موظف أو مدير"
+},
+{
+"id": 12068,
+"f": "views/users/create.blade.php",
+"ar": "إنشاء المستخدم"
+},
+{
+"id": 12069,
+"f": "views/users/edit.blade.php",
+"ar": "حفظ التعديلات"
+},
+{
+"id": 12070,
+"f": "views/users/edit.blade.php",
+"ar": "تعديل المستخدم"
+},
+{
+"id": 12071,
+"f": "views/users/edit.blade.php",
+"ar": "تعديل البيانات والصلاحيات وملكية المكتب"
+},
+{
+"id": 12072,
+"f": "views/users/edit.blade.php",
+"ar": "تعديل بيانات وصلاحيات"
+},
+{
+"id": 12073,
+"f": "views/users/edit.blade.php",
+"ar": "مراسلة"
+},
+{
+"id": 12074,
+"f": "views/users/edit.blade.php",
+"ar": "مثال: دعم فني"
+},
+{
+"id": 12075,
+"f": "views/users/edit.blade.php",
+"ar": "عند كتابة مسمى وظيفي لمستخدم دوره عميل، سيتم تحويل دوره تلقائيًا إلى موظف."
+},
+{
+"id": 12076,
+"f": "views/users/edit.blade.php",
+"ar": "ملكية المكتب الهندسي"
+},
+{
+"id": 12077,
+"f": "views/users/edit.blade.php",
+"ar": "مدير النظام فقط يستطيع تعيين أو نقل أو إزالة مالك المكتب."
+},
+{
+"id": 12078,
+"f": "views/users/edit.blade.php",
+"ar": "مالك حالي"
+},
+{
+"id": 12079,
+"f": "views/users/edit.blade.php",
+"ar": "المكتب الذي يملكه حاليًا"
+},
+{
+"id": 12080,
+"f": "views/users/edit.blade.php",
+"ar": "بدون تغيير"
+},
+{
+"id": 12081,
+"f": "views/users/edit.blade.php",
+"ar": "تعيين أو نقل ملكية مكتب"
+},
+{
+"id": 12082,
+"f": "views/users/edit.blade.php",
+"ar": "إزالة ملكية المكتب"
+},
+{
+"id": 12083,
+"f": "views/users/edit.blade.php",
+"ar": "المالك الحالي:"
+},
+{
+"id": 12084,
+"f": "views/users/edit.blade.php",
+"ar": "بدون مالك"
+},
+{
+"id": 12085,
+"f": "views/users/edit.blade.php",
+"ar": "عند اختيار مكتب له مالك حالي، سيتم نقل الملكية إلى هذا المستخدم وتعطيل عضوية المالك السابق."
+},
+{
+"id": 12086,
+"f": "views/users/edit.blade.php",
+"ar": "صلاحيات الحساب"
+},
+{
+"id": 12087,
+"f": "views/users/edit.blade.php",
+"ar": "ملخص المستخدم"
+},
+{
+"id": 12088,
+"f": "views/users/edit.blade.php",
+"ar": "الدور الحالي"
+},
+{
+"id": 12089,
+"f": "views/users/edit.blade.php",
+"ar": "المكتب المملوك"
+},
+{
+"id": 12090,
+"f": "views/users/edit.blade.php",
+"ar": "لا يملك مكتبًا"
+},
+{
+"id": 12091,
+"f": "views/users/edit.blade.php",
+"ar": "هل أنت متأكد من حفظ التعديلات وتحديث ملكية المكتب؟"
+},
+{
+"id": 12092,
+"f": "views/users/index.blade.php",
+"ar": "الدفعات"
+},
+{
+"id": 12093,
+"f": "views/users/index.blade.php",
+"ar": "جميع المستخدمين"
+},
+{
+"id": 12094,
+"f": "views/users/index.blade.php",
+"ar": "تعديل الملف الشخصي"
+},
+{
+"id": 12095,
+"f": "views/users/index.blade.php",
+"ar": "ابحث عن العملاء أو المهندسين..."
+},
+{
+"id": 12096,
+"f": "views/users/index.blade.php",
+"ar": "التطبيقات"
+},
+{
+"id": 12097,
+"f": "views/users/index.blade.php",
+"ar": "لوحة تحكم المدير"
+},
+{
+"id": 12098,
+"f": "views/users/index.blade.php",
+"ar": "متابعة وإدارة جميع حسابات المهندسين والعملاء والموظفين."
+},
+{
+"id": 12099,
+"f": "views/users/index.blade.php",
+"ar": "الحسابات غير النشطة"
+},
+{
+"id": 12100,
+"f": "views/users/index.blade.php",
+"ar": "الاسم، البريد الإلكتروني، أو رقم الهاتف..."
+},
+{
+"id": 12101,
+"f": "views/users/index.blade.php",
+"ar": "جميع الأدوار"
+},
+{
+"id": 12102,
+"f": "views/users/index.blade.php",
+"ar": "تطبيق البحث"
+},
+{
+"id": 12103,
+"f": "views/users/index.blade.php",
+"ar": "بدء محادثة فورية مع"
+},
+{
+"id": 12104,
+"f": "views/users/index.blade.php",
+"ar": "هل أنت متأكد من حذف هذا المستخدم؟"
+},
+{
+"id": 12105,
+"f": "views/users/index.blade.php",
+"ar": "لا يوجد مستخدمون مطابقون للبحث."
+},
+{
+"id": 12106,
+"f": "views/users/index.blade.php",
+"ar": "منصة الوليد الهندسيةة. جميع الحقوق محفوظة."
+},
+{
+"id": 12107,
+"f": "views/verification/admin/index.blade.php",
+"ar": "رفض الطلب"
+},
+{
+"id": 12108,
+"f": "views/verification/admin/index.blade.php",
+"ar": "عرض الإيصال"
+},
+{
+"id": 12109,
+"f": "views/verification/admin/index.blade.php",
+"ar": "الخبرة"
+},
+{
+"id": 12110,
+"f": "views/verification/admin/index.blade.php",
+"ar": "رفض الدفعة"
+},
+{
+"id": 12111,
+"f": "views/verification/admin/index.blade.php",
+"ar": "إدارة التحقق الاحترافي"
+},
+{
+"id": 12112,
+"f": "views/verification/admin/index.blade.php",
+"ar": "مراجعة مستندات المهندسين والمكاتب ودفعات الاشتراك الشهري."
+},
+{
+"id": 12113,
+"f": "views/verification/admin/index.blade.php",
+"ar": "إعدادات الرينج والأسعار"
+},
+{
+"id": 12114,
+"f": "views/verification/admin/index.blade.php",
+"ar": "طلبات التحقق"
+},
+{
+"id": 12115,
+"f": "views/verification/admin/index.blade.php",
+"ar": "الشهادة"
+},
+{
+"id": 12116,
+"f": "views/verification/admin/index.blade.php",
+"ar": "النقابة"
+},
+{
+"id": 12117,
+"f": "views/verification/admin/index.blade.php",
+"ar": "التسجيل"
+},
+{
+"id": 12118,
+"f": "views/verification/admin/index.blade.php",
+"ar": "الترخيص"
+},
+{
+"id": 12119,
+"f": "views/verification/admin/index.blade.php",
+"ar": "اعتماد المستندات"
+},
+{
+"id": 12120,
+"f": "views/verification/admin/index.blade.php",
+"ar": "ملاحظة إدارية — اختياري"
+},
+{
+"id": 12121,
+"f": "views/verification/admin/index.blade.php",
+"ar": "سبب الرفض عند اختيار الرفض"
+},
+{
+"id": 12122,
+"f": "views/verification/admin/index.blade.php",
+"ar": "لا توجد طلبات تحقق."
+},
+{
+"id": 12123,
+"f": "views/verification/admin/index.blade.php",
+"ar": "دفعات اشتراك التوثيق المعلقة"
+},
+{
+"id": 12124,
+"f": "views/verification/admin/index.blade.php",
+"ar": "تأكيد وتفعيل شهر"
+},
+{
+"id": 12125,
+"f": "views/verification/admin/index.blade.php",
+"ar": "سبب رفض الدفعة عند الحاجة"
+},
+{
+"id": 12126,
+"f": "views/verification/admin/index.blade.php",
+"ar": "لا توجد دفعات معلقة."
+},
+{
+"id": 12127,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "منصة الوليد الهندسيةة"
+},
+{
+"id": 12128,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "حفظ الإعدادات"
+},
+{
+"id": 12129,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "أقل عدد تقييمات"
+},
+{
+"id": 12130,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "أقل سنوات خبرة"
+},
+{
+"id": 12131,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "إيصال"
+},
+{
+"id": 12132,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "إعدادات التحقق الاحترافي"
+},
+{
+"id": 12133,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "هنا مدير المنصة يحدد رينج تقييم المهندس المقبول، الحد الأدنى لعدد التقييمات والأعمال والخبرة، أسعار الاشتراك الشهري وطرق الدفع."
+},
+{
+"id": 12134,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "رينج تقييم المهندس المقبول"
+},
+{
+"id": 12135,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "من 0 إلى"
+},
+{
+"id": 12136,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "الحد الأدنى — من"
+},
+{
+"id": 12137,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "الحد الأعلى — إلى"
+},
+{
+"id": 12138,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "مثال: إذا وضعت"
+},
+{
+"id": 12139,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "فلن يستطيع مهندس تقييمه 3.9 أو أقل تقديم طلب"
+},
+{
+"id": 12140,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "الشروط الإضافية"
+},
+{
+"id": 12141,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "أقل أعمال Portfolio مقبولة"
+},
+{
+"id": 12142,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "أسعار الاشتراك الشهري"
+},
+{
+"id": 12143,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "بوابة دفع إلكترونية"
+},
+{
+"id": 12144,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "اسم بوابة الدفع الحقيقية عند ربطها لاحقًا"
+},
+{
+"id": 12145,
+"f": "views/verification/admin/settings.blade.php",
+"ar": "تفعيل الخيار هنا لا ينشئ Gateway وهمي؛ الدفع بالبطاقة يحتاج ربط مزود دفع فعلي و"
+},
+{
+"id": 12146,
+"f": "views/verification/engineer.blade.php",
+"ar": "مقبول"
+},
+{
+"id": 12147,
+"f": "views/verification/engineer.blade.php",
+"ar": "اختياري"
+},
+{
+"id": 12148,
+"f": "views/verification/engineer.blade.php",
+"ar": "تحت المراجعة"
+},
+{
+"id": 12149,
+"f": "views/verification/engineer.blade.php",
+"ar": "مطلوب"
+},
+{
+"id": 12150,
+"f": "views/verification/engineer.blade.php",
+"ar": "سنوات الخبرة"
+},
+{
+"id": 12151,
+"f": "views/verification/engineer.blade.php",
+"ar": "رقم المرجع"
+},
+{
+"id": 12152,
+"f": "views/verification/engineer.blade.php",
+"ar": "تم اعتماد المستندات — بانتظار الدفع"
+},
+{
+"id": 12153,
+"f": "views/verification/engineer.blade.php",
+"ar": "عدد التقييمات"
+},
+{
+"id": 12154,
+"f": "views/verification/engineer.blade.php",
+"ar": "الشارة فعالة حتى"
+},
+{
+"id": 12155,
+"f": "views/verification/engineer.blade.php",
+"ar": "الهوية"
+},
+{
+"id": 12156,
+"f": "views/verification/engineer.blade.php",
+"ar": "الشهادة الجامعية"
+},
+{
+"id": 12157,
+"f": "views/verification/engineer.blade.php",
+"ar": "ملاحظة للمدير — اختياري"
+},
+{
+"id": 12158,
+"f": "views/verification/engineer.blade.php",
+"ar": "التقييم بين"
+},
+{
+"id": 12159,
+"f": "views/verification/engineer.blade.php",
+"ar": "عدد التقييمات لا يقل عن"
+},
+{
+"id": 12160,
+"f": "views/verification/engineer.blade.php",
+"ar": "الأعمال المقبولة في Portfolio لا تقل عن"
+},
+{
+"id": 12161,
+"f": "views/verification/engineer.blade.php",
+"ar": "مدير المنصة يحدد رينج التقييم المقبول وباقي الشروط. بعد اعتماد الهوية والشهادة والنقابة والخبرة وPortfolio، يتم دفع اشتراك التوثيق الشهري لتفعيل الشارة."
+},
+{
+"id": 12162,
+"f": "views/verification/engineer.blade.php",
+"ar": "تقييمك الحالي"
+},
+{
+"id": 12163,
+"f": "views/verification/engineer.blade.php",
+"ar": "الرينج المقبول"
+},
+{
+"id": 12164,
+"f": "views/verification/engineer.blade.php",
+"ar": "شروط التقديم الحالية"
+},
+{
+"id": 12165,
+"f": "views/verification/engineer.blade.php",
+"ar": "مستوفى"
+},
+{
+"id": 12166,
+"f": "views/verification/engineer.blade.php",
+"ar": "غير مستوفى"
+},
+{
+"id": 12167,
+"f": "views/verification/engineer.blade.php",
+"ar": "سنوات الخبرة المطلوبة"
+},
+{
+"id": 12168,
+"f": "views/verification/engineer.blade.php",
+"ar": "الاشتراك الشهري للتوثيق"
+},
+{
+"id": 12169,
+"f": "views/verification/engineer.blade.php",
+"ar": "حالة التحقق"
+},
+{
+"id": 12170,
+"f": "views/verification/engineer.blade.php",
+"ar": "لم تقدم طلب توثيق احترافي بعد."
+},
+{
+"id": 12171,
+"f": "views/verification/engineer.blade.php",
+"ar": "طلب التحقق"
+},
+{
+"id": 12172,
+"f": "views/verification/engineer.blade.php",
+"ar": "ارفع المستندات المطلوبة. لا يتم دفع الاشتراك إلا بعد اعتماد المستندات من مدير المنصة."
+},
+{
+"id": 12173,
+"f": "views/verification/engineer.blade.php",
+"ar": "لا يمكنك التقديم حالياً لأن رينج التقييم أو عدد التقييمات أو Portfolio غير مستوفى حسب إعدادات المدير."
+},
+{
+"id": 12174,
+"f": "views/verification/engineer.blade.php",
+"ar": "إثبات النقابة"
+},
+{
+"id": 12175,
+"f": "views/verification/engineer.blade.php",
+"ar": "إثبات الخبرة — اختياري"
+},
+{
+"id": 12176,
+"f": "views/verification/engineer.blade.php",
+"ar": "أي معلومات إضافية تساعد في مراجعة طلبك..."
+},
+{
+"id": 12177,
+"f": "views/verification/engineer.blade.php",
+"ar": "إرسال طلب التحقق"
+},
+{
+"id": 12178,
+"f": "views/verification/engineer.blade.php",
+"ar": "تفعيل / تجديد الاشتراك الشهري"
+},
+{
+"id": 12179,
+"f": "views/verification/engineer.blade.php",
+"ar": "تم اعتماد مستنداتك. ارفع إثبات الدفع، وبعد مراجعة المدير تتفعل الشارة لمدة شهر."
+},
+{
+"id": 12180,
+"f": "views/verification/engineer.blade.php",
+"ar": "إثبات الدفع"
+},
+{
+"id": 12181,
+"f": "views/verification/engineer.blade.php",
+"ar": "قيمة الاشتراك الشهري"
+},
+{
+"id": 12182,
+"f": "views/verification/engineer.blade.php",
+"ar": "رفع دفعة الاشتراك"
+},
+{
+"id": 12183,
+"f": "views/verification/office.blade.php",
+"ar": "فعال"
+},
+{
+"id": 12184,
+"f": "views/verification/office.blade.php",
+"ar": "حتى"
+},
+{
+"id": 12185,
+"f": "views/verification/office.blade.php",
+"ar": "غير فعال"
+},
+{
+"id": 12186,
+"f": "views/verification/office.blade.php",
+"ar": "توثيق المكتب الاحترافي"
+},
+{
+"id": 12187,
+"f": "views/verification/office.blade.php",
+"ar": "شارة Verified منصة الوليد الهندسيةة تتطلب اعتماد مستندات المكتب واشتراك توثيق شهري ساري، بالإضافة إلى بقاء المكتب فعالًا تشغيليًا داخل المنصة."
+},
+{
+"id": 12188,
+"f": "views/verification/office.blade.php",
+"ar": "اشتراك تشغيل المكتب"
+},
+{
+"id": 12189,
+"f": "views/verification/office.blade.php",
+"ar": "ساري"
+},
+{
+"id": 12190,
+"f": "views/verification/office.blade.php",
+"ar": "غير ساري"
+},
+{
+"id": 12191,
+"f": "views/verification/office.blade.php",
+"ar": "اشتراك التوثيق الشهري"
+},
+{
+"id": 12192,
+"f": "views/verification/office.blade.php",
+"ar": "حالة طلب التوثيق"
+},
+{
+"id": 12193,
+"f": "views/verification/office.blade.php",
+"ar": "طلب توثيق المكتب"
+},
+{
+"id": 12194,
+"f": "views/verification/office.blade.php",
+"ar": "يراجع مدير المنصة التسجيل الرسمي وترخيص المكتب أولًا، ثم يسمح بدفع اشتراك التوثيق الشهري."
+},
+{
+"id": 12195,
+"f": "views/verification/office.blade.php",
+"ar": "يجب أن يكون المكتب فعالًا واشتراك تشغيل المكتب ساريًا قبل تقديم طلب التوثيق."
+},
+{
+"id": 12196,
+"f": "views/verification/office.blade.php",
+"ar": "السجل / مستند التسجيل"
+},
+{
+"id": 12197,
+"f": "views/verification/office.blade.php",
+"ar": "الترخيص الهندسي"
+},
+{
+"id": 12198,
+"f": "views/verification/office.blade.php",
+"ar": "أي معلومات إضافية تساعد في مراجعة المكتب..."
+},
+{
+"id": 12199,
+"f": "views/verification/office.blade.php",
+"ar": "إرسال طلب توثيق المكتب"
+},
+{
+"id": 12200,
+"f": "views/verification/office.blade.php",
+"ar": "دفع اشتراك توثيق المكتب"
+},
+{
+"id": 12201,
+"f": "views/verification/office.blade.php",
+"ar": "تم اعتماد مستندات المكتب. ارفع إثبات دفع الاشتراك الشهري ليتم تفعيل الشارة بعد مراجعة المدير."
+},
+{
+"id": 12202,
+"f": "views/verification/office.blade.php",
+"ar": "قيمة اشتراك التوثيق الشهري:"
+},
+{
+"id": 12203,
+"f": "views/verification/office.blade.php",
+"ar": "مرجع الدفع / رقم العملية"
+},
+{
+"id": 12204,
+"f": "views/verification/office.blade.php",
+"ar": "رفع دفعة"
+},
+{
+"id": 12205,
+"f": "views/wallet/commercial-receipts-pdf.blade.php",
+"ar": "الفئة"
+},
+{
+"id": 12206,
+"f": "views/wallet/commercial-receipts-pdf.blade.php",
+"ar": "تقرير المقبوضات المؤكدة — منصة الوليد الهندسية"
+},
+{
+"id": 12207,
+"f": "views/wallet/commercial-receipts-pdf.blade.php",
+"ar": "المقبوضات لا تساوي الربح الصافي؛ لا تشمل الاستردادات."
+},
+{
+"id": 12208,
+"f": "views/wallet/commercial-receipts-pdf.blade.php",
+"ar": "الطريقة"
+},
+{
+"id": 12209,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "تقارير الاشتراكات والمقبوضات"
+},
+{
+"id": 12210,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "يعرض هذا التقرير المقبوضات المؤكدة حسب العملة ومصدر البيع، وليس صافي ربح المنصة. الإيداعات وتحويل العملات غير محسوبة كمبيعات؛ افحص الاستردادات والتسويات بصورة منفصلة."
+},
+{
+"id": 12211,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "عرض التقرير"
+},
+{
+"id": 12212,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "تصدير CSV يفتح في"
+},
+{
+"id": 12213,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "عدد المقبوضات"
+},
+{
+"id": 12214,
+"f": "views/wallet/commercial-receipts.blade.php",
+"ar": "لا توجد مقبوضات مؤكدة ضمن المدة المختارة."
+},
+{
+"id": 12215,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "تأكيد الدفع من المحفظة"
+},
+{
+"id": 12216,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "المبلغ النهائي المستحق حسب المنصة"
+},
+{
+"id": 12217,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "رصيدك المتاح:"
+},
+{
+"id": 12218,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "رصيدك غير كافٍ — اشحن محفظتك أولًا"
+},
+{
+"id": 12219,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "الضغط على تأكيد الدفع يخصم المبلغ المبين مباشرة من رصيد محفظتك بنفس العملة. إذا تغير السعر لن يُنفّذ الدفع."
+},
+{
+"id": 12220,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "أؤكد الدفع بالمبلغ أعلاه"
+},
+{
+"id": 12221,
+"f": "views/wallet/confirm-payment.blade.php",
+"ar": "رجوع دون دفع"
+},
+{
+"id": 12222,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "دينار"
+},
+{
+"id": 12223,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "العودة للمحفظة"
+},
+{
+"id": 12224,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إنشاء طلب الشحن"
+},
+{
+"id": 12225,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اختر العملة الرقمية"
+},
+{
+"id": 12226,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اختر طريقة الدفع"
+},
+{
+"id": 12227,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "ستدفع"
+},
+{
+"id": 12228,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "رقم الحوالة أو"
+},
+{
+"id": 12229,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "شحن المحفظة — خطوات آمنة"
+},
+{
+"id": 12230,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "طلب الشحن"
+},
+{
+"id": 12231,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "الدفع والمراجعة"
+},
+{
+"id": 12232,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "مبلغ الدفع (بعملة وسيلة الدفع، وعند تطابق العملتين هو مبلغ الرصيد)"
+},
+{
+"id": 12233,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اسم مرسل الحوالة / الدفع"
+},
+{
+"id": 12234,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "المنطقة / فئة الدفع"
+},
+{
+"id": 12235,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اختر المنطقة"
+},
+{
+"id": 12236,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "طرق دفع عالمية"
+},
+{
+"id": 12237,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "نوع طريقة الدفع العالمية"
+},
+{
+"id": 12238,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اختر القسم"
+},
+{
+"id": 12239,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "وسائل الدفع العالمية الأخرى"
+},
+{
+"id": 12240,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "طريقة الدفع / الشبكة"
+},
+{
+"id": 12241,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "عملة الدفع مختلفة عن عملة محفظتك. احسب سعر الصرف أولًا وراجع المبلغ الذي سيُضاف بعد التحصيل."
+},
+{
+"id": 12242,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "احسب المقابل والرسوم"
+},
+{
+"id": 12243,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "التالي: تأكيد كلمة المرور"
+},
+{
+"id": 12244,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "لن نطلب منك كلمة المرور عبر البريد، ولا يُضاف أي رصيد الآن."
+}
+]

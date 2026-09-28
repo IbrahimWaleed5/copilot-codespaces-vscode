@@ -1,0 +1,1652 @@
+[
+{
+"id": 5735,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة التكييف والتهوية"
+},
+{
+"id": 5736,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة مكافحة الحريق والسلامة"
+},
+{
+"id": 5737,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة السباكة والأنظمة الصحية"
+},
+{
+"id": 5738,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الإلكترونيات والاتصالات"
+},
+{
+"id": 5739,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة التحكم والأتمتة"
+},
+{
+"id": 5740,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الميكاترونكس"
+},
+{
+"id": 5741,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الحاسوب"
+},
+{
+"id": 5742,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة البرمجيات"
+},
+{
+"id": 5743,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الأمن السيبراني"
+},
+{
+"id": 5744,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الطبية الحيوية"
+},
+{
+"id": 5745,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الزراعية"
+},
+{
+"id": 5746,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة البحرية"
+},
+{
+"id": 5747,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة التعدين"
+},
+{
+"id": 5748,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة النفط والغاز"
+},
+{
+"id": 5749,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة النووية"
+},
+{
+"id": 5750,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الداخلية والتصميم الداخلي"
+},
+{
+"id": 5751,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "تصميم الواجهات المعمارية"
+},
+{
+"id": 5752,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة وتنسيق المواقع"
+},
+{
+"id": 5753,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "نمذجة معلومات البناء"
+},
+{
+"id": 5754,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "التصميم البارامتري والحوسبي"
+},
+{
+"id": 5755,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الإضاءة"
+},
+{
+"id": 5756,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "الهندسة الصوتية"
+},
+{
+"id": 5757,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة المصاعد والنقل العمودي"
+},
+{
+"id": 5758,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة المصانع والمنشآت الصناعية"
+},
+{
+"id": 5759,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الجودة والسلامة"
+},
+{
+"id": 5760,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الصيانة وإدارة المرافق"
+},
+{
+"id": 5761,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة أنظمة المباني الذكية"
+},
+{
+"id": 5762,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الطاقة الشمسية"
+},
+{
+"id": 5763,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة شبكات القوى الكهربائية"
+},
+{
+"id": 5764,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة أنظمة التيار الخفيف"
+},
+{
+"id": 5765,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة البنية التحتية"
+},
+{
+"id": 5766,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الترميم وإعادة التأهيل"
+},
+{
+"id": 5767,
+"f": "database/migrations/2026_09_04_090000_expand_engineering_specialties.php",
+"ar": "هندسة الاستدامة والمباني الخضراء"
+},
+{
+"id": 5768,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "المساعد الذكي"
+},
+{
+"id": 5769,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "التقارير"
+},
+{
+"id": 5770,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "المشاريع النشطة"
+},
+{
+"id": 5771,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "عدد أعضاء الفريق"
+},
+{
+"id": 5772,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "الاستشارات الشهرية"
+},
+{
+"id": 5773,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "مساحة التخزين بالجيجابايت"
+},
+{
+"id": 5774,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "التقارير المتقدمة"
+},
+{
+"id": 5775,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "المتقدم"
+},
+{
+"id": 5776,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "خارجي"
+},
+{
+"id": 5777,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "العلامة التجارية الخاصة"
+},
+{
+"id": 5778,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "دعم أولوية"
+},
+{
+"id": 5779,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "مستقل"
+},
+{
+"id": 5780,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "للمهندس المستقل وإدارة أعماله الأساسية."
+},
+{
+"id": 5781,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "مكتب صغير"
+},
+{
+"id": 5782,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "للمكاتب الصغيرة وفرق العمل المحدودة."
+},
+{
+"id": 5783,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "مكتب احترافي"
+},
+{
+"id": 5784,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "للمكاتب النشطة التي تحتاج تقارير وذكاء اصطناعي ومرونة أعلى."
+},
+{
+"id": 5785,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "شركة هندسية"
+},
+{
+"id": 5786,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "للشركات الهندسية وفرق المشاريع الكبيرة."
+},
+{
+"id": 5787,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "مؤسسة كبيرة"
+},
+{
+"id": 5788,
+"f": "database/migrations/2026_09_09_170000_create_saas_plans_tables.php",
+"ar": "خطة مخصصة للمؤسسات الكبيرة مع حدود مرنة و"
+},
+{
+"id": 5789,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "تحويل بنكي"
+},
+{
+"id": 5790,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "السعودية"
+},
+{
+"id": 5791,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "محفظة إلكترونية"
+},
+{
+"id": 5792,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "بنك الراجحي"
+},
+{
+"id": 5793,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "حوّل المبلغ إلى الحساب الموضح ثم أرفق صورة أو PDF للإيصال. لا تعتمد الدفعة إلا بعد مراجعة الإدارة."
+},
+{
+"id": 5794,
+"f": "database/migrations/2026_09_10_120000_add_phase4_payment_payout_chat_foundation.php",
+"ar": "حوّل المبلغ إلى المحفظة الموضحة ثم أرفق صورة أو PDF للإيصال. لا تعتمد الدفعة إلا بعد مراجعة الإدارة."
+},
+{
+"id": 5795,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "التحويل البنكي"
+},
+{
+"id": 5796,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "الحساب البنكي للمنصة"
+},
+{
+"id": 5797,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "اكتب مرجع الدفع كما هو عند تنفيذ الحوالة ثم أرفق الإيصال."
+},
+{
+"id": 5798,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "سيتم تحويلك إلى بوابة الدفع الآمنة لإتمام العملية."
+},
+{
+"id": 5799,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "طريقة الدفع ظاهرة كما كانت سابقًا، وتحتاج تفعيل بيانات الربط من إعدادات البوابة."
+},
+{
+"id": 5800,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "بوابة دفع عالمية"
+},
+{
+"id": 5801,
+"f": "database/migrations/2026_09_10_143000_restore_legacy_payment_groups.php",
+"ar": "يتم الدفع عبر بوابة خارجية آمنة ولا تحفظ المنصة بيانات البطاقة."
+},
+{
+"id": 5802,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "مراجعة"
+},
+{
+"id": 5803,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "سداد دفعة مشروع"
+},
+{
+"id": 5804,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "إنجاز مرحلة مشروع"
+},
+{
+"id": 5805,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "الرد على"
+},
+{
+"id": 5806,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "تنفيذ استرداد مالي"
+},
+{
+"id": 5807,
+"f": "database/migrations/2026_09_10_180000_create_phase6_workflow_sla_tables.php",
+"ar": "صرف مستحق جاهز"
+},
+{
+"id": 5808,
+"f": "database/migrations/2026_09_10_190000_create_phase7_handover_acceptance_tables.php",
+"ar": "اعتماد حزمة تسليم"
+},
+{
+"id": 5809,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "تشغيل"
+},
+{
+"id": 5810,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "موديل"
+},
+{
+"id": 5811,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "حد المخرجات"
+},
+{
+"id": 5812,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "مفتاح تشغيل محرك الذكاء الاصطناعي"
+},
+{
+"id": 5813,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "الحد الأعلى لمخرجات كل طلب"
+},
+{
+"id": 5814,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "عدد Credits المخصومة لكل رسالة AI ناجحة"
+},
+{
+"id": 5815,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "عدد Credits المخصومة لكل تحليل ملف ناجح"
+},
+{
+"id": 5816,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "رصيد أكبر للمستخدم الفردي مع أولوية أعلى وتحليلات موسعة."
+},
+{
+"id": 5817,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "رصيد AI الشهري"
+},
+{
+"id": 5818,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "تحليل الملفات بالذكاء الاصطناعي"
+},
+{
+"id": 5819,
+"f": "database/migrations/2026_09_10_200000_create_phase8_ai_premium_tables.php",
+"ar": "الحد الأقصى لملف"
+},
+{
+"id": 5820,
+"f": "database/migrations/2026_09_11_090000_unify_smart_assistant_ai_accounts_and_history.php",
+"ar": "محادثة AI جديدة"
+},
+{
+"id": 5821,
+"f": "database/migrations/2026_09_11_090000_unify_smart_assistant_ai_accounts_and_history.php",
+"ar": "مجانية شهريًا لكل حساب لاستخدام المساعد الذكي."
+},
+{
+"id": 5822,
+"f": "database/migrations/2026_09_11_090000_unify_smart_assistant_ai_accounts_and_history.php",
+"ar": "محادثة دعم جديدة"
+},
+{
+"id": 5823,
+"f": "database/migrations/2026_09_11_090000_unify_smart_assistant_ai_accounts_and_history.php",
+"ar": "أعلى باقة للمساعد الذكي على الحساب مع تحليل ملفات وميزات متقدمة."
+},
+{
+"id": 5824,
+"f": "database/migrations/2026_09_11_120000_add_smart_assistant_modes_and_voice_settings.php",
+"ar": "عدد Credits المخصومة لكل طلب في وضع التفكير والتحليل."
+},
+{
+"id": 5825,
+"f": "database/migrations/2026_09_11_120000_add_smart_assistant_modes_and_voice_settings.php",
+"ar": "عدد Credits المخصومة لكل طلب في وضع العمل المتقدم."
+},
+{
+"id": 5826,
+"f": "database/migrations/2026_09_11_120000_add_smart_assistant_modes_and_voice_settings.php",
+"ar": "تكلفة الدور الصوتي"
+},
+{
+"id": 5827,
+"f": "database/migrations/2026_09_11_120000_add_smart_assistant_modes_and_voice_settings.php",
+"ar": "إضافية لكل رسالة مرسلة بالصوت فوق تكلفة وضع المساعد المختار."
+},
+{
+"id": 5828,
+"f": "database/migrations/2026_09_11_200000_create_production_commercial_tables.php",
+"ar": "تمكين بوابات الدفع الإنتاجية وعمليات المطابقة."
+},
+{
+"id": 5829,
+"f": "database/migrations/2026_09_11_200000_create_production_commercial_tables.php",
+"ar": "تمكين تنزيل الفواتير وكشوف الحساب"
+},
+{
+"id": 5830,
+"f": "database/migrations/2026_09_11_200000_create_production_commercial_tables.php",
+"ar": "لوحة مؤشرات الإدارة العليا والتحليلات المتقدمة."
+},
+{
+"id": 5831,
+"f": "database/migrations/2026_09_11_200000_create_production_commercial_tables.php",
+"ar": "مركز التسليم والاعتماد وشهادة الإنجاز."
+},
+{
+"id": 5832,
+"f": "database/migrations/2026_09_12_201500_add_fawateery_payment_methods.php",
+"ar": "سيتم تحويلك إلى بوابة فواتيري Bill.ps لإتمام الدفع بالبطاقة. لا تحتاج إلى رفع إيصال."
+},
+{
+"id": 5833,
+"f": "database/migrations/2026_09_12_201500_add_fawateery_payment_methods.php",
+"ar": "سيتم تحويلك إلى مسار PayPal عبر فواتيري وفق توثيق المزود الحالي. لا تحتاج إلى رفع إيصال."
+},
+{
+"id": 5834,
+"f": "database/migrations/2026_09_12_221500_force_fawateery_payment_methods_active.php",
+"ar": "فلسطين"
+},
+{
+"id": 5835,
+"f": "database/migrations/2026_09_12_221500_force_fawateery_payment_methods_active.php",
+"ar": "منصات دفع عالمية"
+},
+{
+"id": 5836,
+"f": "database/migrations/2026_09_12_221500_force_fawateery_payment_methods_active.php",
+"ar": "فواتيري"
+},
+{
+"id": 5837,
+"f": "database/migrations/2026_09_12_221500_force_fawateery_payment_methods_active.php",
+"ar": "الدفع الإلكتروني عبر فواتيري Bill.ps. سيتم تحويلك إلى بوابة الدفع لإكمال العملية، ولا يلزم رفع إيصال."
+},
+{
+"id": 5838,
+"f": "database/migrations/2026_09_12_221500_force_fawateery_payment_methods_active.php",
+"ar": "الدفع عبر مسار PayPal في فواتيري"
+},
+{
+"id": 5839,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "تم توثيق حسابك بنجاح"
+},
+{
+"id": 5840,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "تم اعتماد التوثيق"
+},
+{
+"id": 5841,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "طلب صورة هوية أوضح"
+},
+{
+"id": 5842,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مطلوب استكمال توثيق الهوية"
+},
+{
+"id": 5843,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مرحبًا، نحتاج إلى صورة أوضح لوثيقة الهوية، بحيث تظهر جميع الزوايا والبيانات بدون قص أو ضبابية. يرجى رفع الوثيقة من مركز توثيق الهوية داخل المنصة."
+},
+{
+"id": 5844,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "عدم تطابق اسم الحساب البنكي"
+},
+{
+"id": 5845,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مطلوب تحديث بيانات الاستلام"
+},
+{
+"id": 5846,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مرحبًا، اسم صاحب حساب الاستلام لا يطابق الاسم الموثق في حساب المنصة. يرجى تحديث بيانات الاستلام أو تزويدنا بمستند يثبت ملكية الحساب."
+},
+{
+"id": 5847,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مرحبًا، تمت مراجعة مستنداتك واعتماد توثيق الحساب بنجاح. يمكنك الآن استخدام الميزات المالية المتاحة لحسابك."
+},
+{
+"id": 5848,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مطلوب معلومات دفع إضافية"
+},
+{
+"id": 5849,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مطلوب استكمال معلومات عملية الدفع"
+},
+{
+"id": 5850,
+"f": "database/migrations/2026_09_13_111500_create_kyc_and_support_delivery_system.php",
+"ar": "مرحبًا، نحتاج معلومات إضافية بخصوص عملية الدفع حتى نتمكن من استكمال المراجعة. يرجى الرد على هذه التذكرة وإرفاق المستند المطلوب."
+},
+{
+"id": 5851,
+"f": "database/migrations/2026_09_13_140000_enable_admin_unlimited_ai_business.php",
+"ar": "أعلى باقة للمساعد الذكي للحساب مع تحليل ملفات وميزات متقدمة."
+},
+{
+"id": 5852,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "تكلفة وضع التفكير والتحليل"
+},
+{
+"id": 5853,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "تكلفة وضع العمل المتقدم"
+},
+{
+"id": 5854,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "تكلفة تحليل الملف"
+},
+{
+"id": 5855,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "تكلفة رسالة المحادثة"
+},
+{
+"id": 5856,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "تكلفة الدور الصوتي الإضافية"
+},
+{
+"id": 5857,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "شهريًا مع حد متدرج كل 5 ساعات وحد آخر 7 أيام وتحليل ملفات متقدم."
+},
+{
+"id": 5858,
+"f": "database/migrations/2026_09_13_160000_add_ai_usage_windows_and_pro_limits.php",
+"ar": "عدد Credits المخصومة للعملية ضمن نظام حدود 5 ساعات / 7 أيام / الشهر."
+},
+{
+"id": 5859,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "تجربة أساسية للمساعد الذكي مع الدردشة السريعة و"
+},
+{
+"id": 5860,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "شهريًا."
+},
+{
+"id": 5861,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "للاستخدام اليومي المتقدم: Thinking وصوت وتحليل ملفات وذاكرة ومساعد تقارير."
+},
+{
+"id": 5862,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "للمستخدم المحترف:"
+},
+{
+"id": 5863,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "مع Work وتحليل متقدم وأدوات هندسية وربط سياق المنصة."
+},
+{
+"id": 5864,
+"f": "database/migrations/2026_09_13_170000_create_ai_plus_and_tier_entitlements.php",
+"ar": "أعلى باقة للحساب: كل أدوات Pro مع Cowork وحدود أعلى وذاكرة أوسع وملفات حتى"
+},
+{
+"id": 5865,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "حالة الاستشارة"
+},
+{
+"id": 5866,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "اشتراك المكتب"
+},
+{
+"id": 5867,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "استرداد الحساب"
+},
+{
+"id": 5868,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "استعادة كلمة المرور"
+},
+{
+"id": 5869,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مراجعة حالة الحساب"
+},
+{
+"id": 5870,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة تسجيل الدخول"
+},
+{
+"id": 5871,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص تسجيل الدخول"
+},
+{
+"id": 5872,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، راجع البريد وكلمة المرور وتأكد من أن الحساب غير معلّق. إذا استمرت المشكلة أرسل صورة الخطأ ووقت آخر محاولة."
+},
+{
+"id": 5873,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "رابط استعادة كلمة المرور"
+},
+{
+"id": 5874,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، يمكنك طلب رابط استعادة كلمة المرور من شاشة تسجيل الدخول. إذا فقدت الوصول إلى البريد، استخدم مسار استرداد الحساب عبر الدعم بشرط أن يكون حسابك موثق KYC مسبقًا."
+},
+{
+"id": 5875,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تفعيل البريد الإلكتروني"
+},
+{
+"id": 5876,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، تحقق من صندوق الوارد والرسائل غير المرغوب فيها. يمكنك إعادة إرسال رسالة التفعيل من مركز الحساب."
+},
+{
+"id": 5877,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة التحقق بخطوتين"
+},
+{
+"id": 5878,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة في التحقق بخطوتين"
+},
+{
+"id": 5879,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، تأكد من استخدام أحدث رمز. إذا فقدت وسيلة التحقق بالكامل فانتقل لمسار استرداد الحساب الآمن."
+},
+{
+"id": 5880,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة"
+},
+{
+"id": 5881,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة في مفاتيح المرور"
+},
+{
+"id": 5882,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، افتح مركز الأمان ثم مفاتيح المرور داخل التطبيق، وتأكد من تفعيل قفل الشاشة/البصمة على جهازك."
+},
+{
+"id": 5883,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "إعادة فحص"
+},
+{
+"id": 5884,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مطلوب إعادة فحص الهوية"
+},
+{
+"id": 5885,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، أعد الفحص في إضاءة أمامية جيدة، ضع الوجه كاملًا داخل الإطار، ونفّذ الرمش وحركات الرأس بهدوء. لا تستخدم صورة أو شاشة أخرى."
+},
+{
+"id": 5886,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "دفعة قيد المراجعة"
+},
+{
+"id": 5887,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تحديث بخصوص عملية الدفع"
+},
+{
+"id": 5888,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، الدفعة قيد المراجعة. سنحدث حالتها فور التحقق من الإيصال أو رد بوابة الدفع."
+},
+{
+"id": 5889,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "فشل عملية الدفع"
+},
+{
+"id": 5890,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص عملية دفع فاشلة"
+},
+{
+"id": 5891,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، يرجى التأكد من بيانات وسيلة الدفع وعدم تكرار العملية عدة مرات. أرسل رقم المرجع أو صورة الخطأ إن وُجدت."
+},
+{
+"id": 5892,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص اشتراك المكتب الهندسي"
+},
+{
+"id": 5893,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، اشتراكات المكاتب متاحة فقط لمالك المكتب الهندسي. يرجى فتح صفحة المكتب ثم الباقة والاشتراك لمراجعة الحالة والحدود."
+},
+{
+"id": 5894,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "اشتراك المهندس"
+},
+{
+"id": 5895,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص خطة المهندس"
+},
+{
+"id": 5896,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، خطة المهندس مرتبطة بالتخزين السحابي وحدود الفرق والأعضاء. يمكنك مراجعة خطتك الحالية وحدود الاستخدام من حساب المهندس."
+},
+{
+"id": 5897,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "حد التخزين أو رفع الملفات"
+},
+{
+"id": 5898,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تم الوصول إلى حد التخزين أو حجم الملف"
+},
+{
+"id": 5899,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، تحقق من الحد المتاح في خطتك وحجم الملف المسموح. احذف الملفات غير اللازمة أو قم بترقية الخطة عند الحاجة."
+},
+{
+"id": 5900,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تحديث بخصوص الاستشارة"
+},
+{
+"id": 5901,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، يمكنك متابعة حالة الاستشارة والدفع والملفات من صفحة استشاراتي. أرسل رقم الاستشارة إذا كانت الحالة لا تتحدث كما هو متوقع."
+},
+{
+"id": 5902,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "الوصول إلى المشروع"
+},
+{
+"id": 5903,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة في صلاحيات المشروع"
+},
+{
+"id": 5904,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، الوصول إلى المشروع يعتمد على دورك داخل المشروع أو المكتب. أرسل رقم المشروع وسنراجع العضوية والصلاحيات."
+},
+{
+"id": 5905,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "عضوية المكتب"
+},
+{
+"id": 5906,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص عضوية المكتب"
+},
+{
+"id": 5907,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، يستطيع مالك/مدير المكتب مراجعة طلبات الانضمام وتحديد دور العضو وصلاحياته من إدارة المكتب."
+},
+{
+"id": 5908,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص Credits المساعد الذكي"
+},
+{
+"id": 5909,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، راجع رصيد Credits والخطة الحالية. إذا تم الخصم دون اكتمال العملية أرسل وقت العملية ونوعها لنراجع السجل."
+},
+{
+"id": 5910,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تحليل ملف في"
+},
+{
+"id": 5911,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة رفع أو تحليل ملف في المساعد الذكي"
+},
+{
+"id": 5912,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، تحقق من نوع الملف وحجمه وحد الخطة. إذا ظهر خطأ، أرسل اسم الملف وحجمه والرسالة الظاهرة دون مشاركة بيانات حساسة غير لازمة."
+},
+{
+"id": 5913,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة الإشعارات"
+},
+{
+"id": 5914,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة بخصوص الإشعارات"
+},
+{
+"id": 5915,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، تأكد من السماح بإشعارات التطبيق ومن تسجيل الجهاز. افتح التطبيق مرة أخرى ثم حدّث صفحة الإشعارات."
+},
+{
+"id": 5916,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "تعليق الحساب أو مخالفة"
+},
+{
+"id": 5917,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، يمكنك مراجعة سبب التعليق أو المخالفات من مركز حالة الحساب وتقديم طعن إذا كانت الخاصية متاحة. لا يمكن لموظف الدعم تجاوز قرار أمني دون صلاحية."
+},
+{
+"id": 5918,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "متابعة استرداد الحساب"
+},
+{
+"id": 5919,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، استرداد الحساب عبر الدعم يتطلب أن يكون الحساب موثق KYC مسبقًا. تابع الطلب باستخدام بريد المتابعة ورقم التذكرة."
+},
+{
+"id": 5920,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مشكلة كاميرا"
+},
+{
+"id": 5921,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مساعدة في كاميرا التحقق من الهوية"
+},
+{
+"id": 5922,
+"f": "database/migrations/2026_09_15_121000_seed_platform_support_reply_templates.php",
+"ar": "مرحبًا، أغلق أي تطبيق آخر يستخدم الكاميرا، امنح صلاحية الكاميرا، ثبت الهاتف أمام الوجه، واستخدم إضاءة ثابتة. إذا استمرت المشكلة أرسل نوع الجهاز وإصدار النظام."
+},
+{
+"id": 5923,
+"f": "database/migrations/2026_09_15_122000_create_engineer_cloud_plans.php",
+"ar": "مهندس"
+},
+{
+"id": 5924,
+"f": "database/migrations/2026_09_15_122000_create_engineer_cloud_plans.php",
+"ar": "مهندس أساسي"
+},
+{
+"id": 5925,
+"f": "database/migrations/2026_09_15_122000_create_engineer_cloud_plans.php",
+"ar": "للمهندس الفردي: تخزين أساسي وفريق صغير."
+},
+{
+"id": 5926,
+"f": "database/migrations/2026_09_15_122000_create_engineer_cloud_plans.php",
+"ar": "مساحة أكبر وعدة فرق لمشاريع المهندس المستقل."
+},
+{
+"id": 5927,
+"f": "database/migrations/2026_09_15_122000_create_engineer_cloud_plans.php",
+"ar": "للمهندسين ذوي المشاريع المتعددة وفرق العمل الكبيرة."
+},
+{
+"id": 5928,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "و"
+},
+{
+"id": 5929,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "تعارض بريد إلكتروني: الحسابان"
+},
+{
+"id": 5930,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "عالج التكرار قبل"
+},
+{
+"id": 5931,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "رقم غير صالح"
+},
+{
+"id": 5932,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "تعذر توحيد رقم هاتف الحساب"
+},
+{
+"id": 5933,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "يرجى مراجعته قبل"
+},
+{
+"id": 5934,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "رقم جوال مكرر: الحسابان"
+},
+{
+"id": 5935,
+"f": "database/migrations/2026_09_23_130000_guard_unique_contact_and_identity.php",
+"ar": "هوية موثقة متكررة بين حسابين؛ أوقف الترحيل وراجع"
+},
+{
+"id": 5936,
+"f": "database/migrations/2026_09_23_140000_quote_new_consultations_in_usd.php",
+"ar": "تراجع تغيير عملة الاستشارات يتطلب ترحيل بيانات مدروسًا؛ التراجع التلقائي غير آمن."
+},
+{
+"id": 5937,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "كيف أرفع إيصال الدفع؟"
+},
+{
+"id": 5938,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "ادخل إلى صفحة استشاراتي، ثم افتح الاستشارة المطلوبة واضغط على زر رفع إيصال الدفع."
+},
+{
+"id": 5939,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "كيف أتابع حالة الاستشارة؟"
+},
+{
+"id": 5940,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "يمكنك متابعة حالة الاستشارة من صفحة استشاراتي داخل لوحة التحكم."
+},
+{
+"id": 5941,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "استشارة متابعة حالة طلب"
+},
+{
+"id": 5942,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "لماذا لم يتم اعتماد الدفع؟"
+},
+{
+"id": 5943,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "قد يكون إيصال الدفع ما زال تحت المراجعة. تأكد من وضوح الإيصال وصحة قيمة التحويل."
+},
+{
+"id": 5944,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "اعتماد دفع معلق مراجعة إيصال"
+},
+{
+"id": 5945,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "كيف أغير بيانات حسابي؟"
+},
+{
+"id": 5946,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "ادخل إلى إعدادات الحساب، ثم عدّل البيانات المطلوبة واضغط حفظ."
+},
+{
+"id": 5947,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "كيف أتواصل مع المهندس؟"
+},
+{
+"id": 5948,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "بعد تعيين المهندس للاستشارة ستظهر لك المحادثة داخل صفحة الاستشارة."
+},
+{
+"id": 5949,
+"f": "database/seeders/KnowledgeBaseSeeder.php",
+"ar": "مهندس محادثة تواصل رسالة"
+},
+{
+"id": 5950,
+"f": "resources/js/phone-input.js",
+"ar": "ابحث عن دولة"
+},
+{
+"id": 5951,
+"f": "resources/js/phone-input.js",
+"ar": "لم يتم العثور على نتائج"
+},
+{
+"id": 5952,
+"f": "resources/js/phone-input.js",
+"ar": "يرجى إدخال رقم الهاتف."
+},
+{
+"id": 5953,
+"f": "resources/js/phone-input.js",
+"ar": "تعذر تشغيل قائمة الدول لحقل الهاتف:"
+},
+{
+"id": 5954,
+"f": "resources/js/profile-photo-cropper.js",
+"ar": "اختر صورة بصيغة JPG أو PNG أو"
+},
+{
+"id": 5955,
+"f": "resources/js/profile-photo-cropper.js",
+"ar": "جاري تجهيز الصورة..."
+},
+{
+"id": 5956,
+"f": "resources/js/profile-photo-cropper.js",
+"ar": "تعذر قص الصورة، حاول مرة أخرى."
+},
+{
+"id": 5957,
+"f": "resources/js/profile-photo-cropper.js",
+"ar": "تعذر تجهيز الصورة، حاول مرة أخرى."
+},
+{
+"id": 5958,
+"f": "resources/js/profile-photo-cropper.js",
+"ar": "تم تجهيز الصورة بنجاح"
+},
+{
+"id": 5959,
+"f": "views/admin/account-archive.blade.php",
+"ar": "الدور"
+},
+{
+"id": 5960,
+"f": "views/admin/account-archive.blade.php",
+"ar": "أرشيف الحسابات"
+},
+{
+"id": 5961,
+"f": "views/admin/account-archive.blade.php",
+"ar": "أرشيف حسابات المستخدمين"
+},
+{
+"id": 5962,
+"f": "views/admin/account-archive.blade.php",
+"ar": "الحسابات التي تحتوي سجلات مالية أو روابط بيانات لازمة لا تُحذف آليًا حتى تنتهي التزاماتها وتُراجع خطة الاحتفاظ المناسبة."
+},
+{
+"id": 5963,
+"f": "views/admin/account-archive.blade.php",
+"ar": "تاريخ الأرشفة"
+},
+{
+"id": 5964,
+"f": "views/admin/account-archive.blade.php",
+"ar": "آخر موعد للاستعادة"
+},
+{
+"id": 5965,
+"f": "views/admin/account-archive.blade.php",
+"ar": "لا توجد حسابات مؤرشفة."
+},
+{
+"id": 5966,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "لوحة التحكم"
+},
+{
+"id": 5967,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "بواسطة:"
+},
+{
+"id": 5968,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "إعادة ضبط"
+},
+{
+"id": 5969,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "كل التصنيفات"
+},
+{
+"id": 5970,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "سجل النظام"
+},
+{
+"id": 5971,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "متابعة العمليات الحساسة داخل المنصة ومعرفة من قام بها ومتى."
+},
+{
+"id": 5972,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "الوصف، العملية أو التصنيف..."
+},
+{
+"id": 5973,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "العملية"
+},
+{
+"id": 5974,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "كل العمليات"
+},
+{
+"id": 5975,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "كل المستخدمين"
+},
+{
+"id": 5976,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "عملية مسجلة في النظام"
+},
+{
+"id": 5977,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "عرض التغييرات"
+},
+{
+"id": 5978,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "قبل"
+},
+{
+"id": 5979,
+"f": "views/admin/audit-logs/index.blade.php",
+"ar": "لا توجد سجلات مطابقة حاليًا."
+},
+{
+"id": 5980,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تسجيل الخروج"
+},
+{
+"id": 5981,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "صرح الهندسة"
+},
+{
+"id": 5982,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "المكاتب الهندسية"
+},
+{
+"id": 5983,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "اشتراكات المكاتب"
+},
+{
+"id": 5984,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "طلبات إنشاء المكاتب"
+},
+{
+"id": 5985,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "إغلاق القائمة"
+},
+{
+"id": 5986,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "نظام الإدارة الفاخر"
+},
+{
+"id": 5987,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "مدينة غير محددة"
+},
+{
+"id": 5988,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "عضو"
+},
+{
+"id": 5989,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "رقم الاستشارة"
+},
+{
+"id": 5990,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "غير معين"
+},
+{
+"id": 5991,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "وصف الاستشارة"
+},
+{
+"id": 5992,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "بيانات الاستشارة"
+},
+{
+"id": 5993,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "المهندس الحالي"
+},
+{
+"id": 5994,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "اختر المكتب..."
+},
+{
+"id": 5995,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تنبيه"
+},
+{
+"id": 5996,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تحويل الاستشارة"
+},
+{
+"id": 5997,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تحويل الاستشارة إلى مكتب هندسي"
+},
+{
+"id": 5998,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "اختر مكتبًا فعالًا باشتراك ساري، وسيتم إلغاء تعيين المهندس الحالي عند تحويل الاستشارة إلى المكتب."
+},
+{
+"id": 5999,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "المكاتب المتاحة"
+},
+{
+"id": 6000,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تظهر فقط المكاتب الفعالة التي لديها اشتراك شهري ساري."
+},
+{
+"id": 6001,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "الاشتراك حتى:"
+},
+{
+"id": 6002,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "لا توجد مكاتب قابلة لاستقبال الاستشارة الآن."
+},
+{
+"id": 6003,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "المكتب الحالي"
+},
+{
+"id": 6004,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "غير محولة إلى مكتب"
+},
+{
+"id": 6005,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "اختر المكتب الهندسي"
+},
+{
+"id": 6006,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "لا توجد مكاتب فعالة باشتراك ساري حاليًا."
+},
+{
+"id": 6007,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "ملاحظات التحويل"
+},
+{
+"id": 6008,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "أضف أي ملاحظات لمدير المكتب..."
+},
+{
+"id": 6009,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "عند التحويل إلى مكتب جديد سيتم إزالة المهندس الحالي من الاستشارة، ثم يستطيع مدير المكتب تعيين مهندس من فريقه."
+},
+{
+"id": 6010,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "العودة إلى الاستشارات"
+},
+{
+"id": 6011,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "هل تريد تحويل الاستشارة إلى المكتب المحدد؟"
+},
+{
+"id": 6012,
+"f": "views/admin/consultation-office/assign.blade.php",
+"ar": "تأكيد تحويل الاستشارة"
+},
+{
+"id": 6013,
+"f": "views/admin/conversation-review-show.blade.php",
+"ar": "مراجعة محادثة"
+},
+{
+"id": 6014,
+"f": "views/admin/conversation-review-show.blade.php",
+"ar": "وضع مراجعة فقط — لا يمكن الإرسال أو التعديل من هذه الصفحة."
+},
+{
+"id": 6015,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الرئيسية"
+},
+{
+"id": 6016,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "من أصل"
+},
+{
+"id": 6017,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محادثة مباشرة"
+},
+{
+"id": 6018,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مكتبة المهندسين"
+},
+{
+"id": 6019,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "فريق المشروع"
+},
+{
+"id": 6020,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الآن"
+},
+{
+"id": 6021,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "برمجة وتطبيق"
+},
+{
+"id": 6022,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الرقابة والجودة"
+},
+{
+"id": 6023,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "بطاقة تدقيق"
+},
+{
+"id": 6024,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "التالي"
+},
+{
+"id": 6025,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "سجل موثق"
+},
+{
+"id": 6026,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تم رصد مؤشر يستلزم مراجعة بشرية قبل اتخاذ أي إجراء."
+},
+{
+"id": 6027,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "التنبيهات"
+},
+{
+"id": 6028,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "نشطة الآن"
+},
+{
+"id": 6029,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مراجعة آمنة"
+},
+{
+"id": 6030,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "جميع الحقوق محفوظة"
+},
+{
+"id": 6031,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "اضغط لفتح المحادثة وبدء المراجعة."
+},
+{
+"id": 6032,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الطرف الهندسي"
+},
+{
+"id": 6033,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محادثة مشروع محالة للمراجعة."
+},
+{
+"id": 6034,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مؤخرًا"
+},
+{
+"id": 6035,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مراجعة المحادثات وتدقيق الجودة - منصة الوليد الهندسية"
+},
+{
+"id": 6036,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "منصة الاستشارات والخدمات الهندسية المعتمدة"
+},
+{
+"id": 6037,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الرجوع للوحة التحكم"
+},
+{
+"id": 6038,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "لوحة تحليل الجودة والرقابة"
+},
+{
+"id": 6039,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تخضع جميع عمليات المراجعة والتوجيه لنظام التدقيق الأمني وحفظ حقوق الأطراف الهندسية"
+},
+{
+"id": 6040,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "مراجعة المحادثات وتدقيق الجودة"
+},
+{
+"id": 6041,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محادثة معلقة"
+},
+{
+"id": 6042,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تحويل المراسلة لقناة ومتابعة سبب المراجعة مع التحقق من معايير المحتوى وسرية الاستشارات الهندسية"
+},
+{
+"id": 6043,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "اعتماد التوجيهات دفعة واحدة"
+},
+{
+"id": 6044,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محادثات قيد المراجعة"
+},
+{
+"id": 6045,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تنبيهات رقابية عالية"
+},
+{
+"id": 6046,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تتطلب تدخل فوري"
+},
+{
+"id": 6047,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تم التدقيق والمصادقة اليوم"
+},
+{
+"id": 6048,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محادثة منجزة"
+},
+{
+"id": 6049,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "متوسط سرعة الإجراء"
+},
+{
+"id": 6050,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "دقيقة / جلسة"
+},
+{
+"id": 6051,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "ابحث برقم المحادثة، اسم العميل..."
+},
+{
+"id": 6052,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "استشارة فورية"
+},
+{
+"id": 6053,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "شكاوى ونزاعات"
+},
+{
+"id": 6054,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "قائمة المحادثات المحالة للتدقيق (مرتبة حسب الأقدمية والخطورة)"
+},
+{
+"id": 6055,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "تنبيه ذكاء اصطناعي"
+},
+{
+"id": 6056,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "محتوى يحتاج مراجعة:"
+},
+{
+"id": 6057,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "الرسالة الأخيرة:"
+},
+{
+"id": 6058,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "سبب المراجعة (مثال: طلب تسليم ملف خارجي، تدقيق تسعيرة...)"
+},
+{
+"id": 6059,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "يُرجى ملء هذا الحقل"
+},
+{
+"id": 6060,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "فتح للمراجعة"
+},
+{
+"id": 6061,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "لا توجد محادثات معلقة للمراجعة"
+},
+{
+"id": 6062,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "ستظهر هنا أي محادثة يتم تحويلها إلى قائمة التدقيق."
+},
+{
+"id": 6063,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "لا توجد نتائج مطابقة للبحث أو الفلتر الحالي."
+},
+{
+"id": 6064,
+"f": "views/admin/conversation-reviews.blade.php",
+"ar": "التدقيق المباشر للحالة المختارة"
+}
+]

@@ -1,0 +1,1712 @@
+[
+{
+"id": 3549,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "ربط التذكرة بنزاع/مشروع"
+},
+{
+"id": 3550,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "طلب/تفعيل تجميد صرف مستحقات النزاع"
+},
+{
+"id": 3551,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "فك تجميد مستحقات النزاع"
+},
+{
+"id": 3552,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "كشف بيانات مخفية بسبب مسجل"
+},
+{
+"id": 3553,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "للقراءة فقط"
+},
+{
+"id": 3554,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "تغيير البريد مع إخطار البريد القديم"
+},
+{
+"id": 3555,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض توثيق المهندس المهني"
+},
+{
+"id": 3556,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "مراجعة/اعتماد التوثيق المهني"
+},
+{
+"id": 3557,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "دمج التذاكر المكررة"
+},
+{
+"id": 3558,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "وسم التذكرة إزعاج وحظر المرسل"
+},
+{
+"id": 3559,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إنشاء طلب تصدير/حذف بيانات"
+},
+{
+"id": 3560,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "اعتماد طلبات الخصوصية"
+},
+{
+"id": 3561,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "فك تعليق الصرف الأمني"
+},
+{
+"id": 3562,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة ساعات العمل والعطل"
+},
+{
+"id": 3563,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض تقارير الأداء و"
+},
+{
+"id": 3564,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "توافق: إدارة تذاكر الدعم"
+},
+{
+"id": 3565,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "توافق: البحث في حسابات العملاء"
+},
+{
+"id": 3566,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "توافق: استرداد الحسابات"
+},
+{
+"id": 3567,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "توافق: قوالب الدعم"
+},
+{
+"id": 3568,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة العمليات المالية"
+},
+{
+"id": 3569,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة المستحقات والتحويلات"
+},
+{
+"id": 3570,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض المركز المالي"
+},
+{
+"id": 3571,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض جميع المدفوعات"
+},
+{
+"id": 3572,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "مراجعة واعتماد المدفوعات"
+},
+{
+"id": 3573,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "اعتماد/رفض الاستردادات"
+},
+{
+"id": 3574,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض مستحقات المهندسين والمكاتب"
+},
+{
+"id": 3575,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "تنفيذ تحويل المستحقات"
+},
+{
+"id": 3576,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض بيانات التحويل البنكي المخفية"
+},
+{
+"id": 3577,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "كشف بيانات التحويل البنكي الحساسة"
+},
+{
+"id": 3578,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض حجوزات الصرف الأمنية"
+},
+{
+"id": 3579,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "فك تعليق الصرف الأمني مع تسجيل السبب"
+},
+{
+"id": 3580,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض النزاعات المالية"
+},
+{
+"id": 3581,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض اشتراكات المنصة"
+},
+{
+"id": 3582,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض الكوبونات وتأثير الخصومات"
+},
+{
+"id": 3583,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "تفعيل/إيقاف الكوبونات"
+},
+{
+"id": 3584,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض عمولات المنصة"
+},
+{
+"id": 3585,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة نسب وعمولات المنصة"
+},
+{
+"id": 3586,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض التقارير المالية"
+},
+{
+"id": 3587,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض سجل التدقيق المالي"
+},
+{
+"id": 3588,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض التنبيهات المالية"
+},
+{
+"id": 3589,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "الإشراف ومراجعة المحتوى"
+},
+{
+"id": 3590,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "عرض مركز جاهزية الإنتاج"
+},
+{
+"id": 3591,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة إعدادات الإنتاج"
+},
+{
+"id": 3592,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة المستخدمين والمسميات"
+},
+{
+"id": 3593,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة AI والمحافظ"
+},
+{
+"id": 3594,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "الذكاء الاصطناعي"
+},
+{
+"id": 3595,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة اشتراك المكتب"
+},
+{
+"id": 3596,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة المكتب وأعضائه"
+},
+{
+"id": 3597,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "إدارة باقة المهندس"
+},
+{
+"id": 3598,
+"f": "app/Services/PlatformPermissionService.php",
+"ar": "تشكيل فرق المهندس"
+},
+{
+"id": 3599,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "غير مضبوط."
+},
+{
+"id": 3600,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "معرّف عملية مزود الدفع غير متوفر."
+},
+{
+"id": 3601,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "رسمي."
+},
+{
+"id": 3602,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "لم يرجع رابط"
+},
+{
+"id": 3603,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "لم يرجع رابط الموافقة على الدفع."
+},
+{
+"id": 3604,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "بوابة الدفع لم ترجع رابط إتمام الدفع."
+},
+{
+"id": 3605,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "بيانات PayPal غير مكتملة."
+},
+{
+"id": 3606,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "تعذر الحصول على"
+},
+{
+"id": 3607,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "بوابة الدفع"
+},
+{
+"id": 3608,
+"f": "app/Services/ProductionGatewayService.php",
+"ar": "غير معرفة."
+},
+{
+"id": 3609,
+"f": "app/Services/ProductionHealthService.php",
+"ar": "التطبيق"
+},
+{
+"id": 3610,
+"f": "app/Services/ProductionHealthService.php",
+"ar": "قاعدة البيانات"
+},
+{
+"id": 3611,
+"f": "app/Services/ProductionHealthService.php",
+"ar": "بوابات الدفع"
+},
+{
+"id": 3612,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "تنبيه جاهزية وأمان المنصة"
+},
+{
+"id": 3613,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "فتح مركز جاهزية الإنتاج"
+},
+{
+"id": 3614,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "محاولات دخول متكررة"
+},
+{
+"id": 3615,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "تم رصد عدة محاولات تسجيل دخول فاشلة خلال فترة قصيرة."
+},
+{
+"id": 3616,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع عنوان IP وسجل الأمان، وفعّل الحظر المؤقت أو غيّر كلمة المرور إذا لم تكن المحاولات متوقعة."
+},
+{
+"id": 3617,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "مشكلة في"
+},
+{
+"id": 3618,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "فشل فحص جاهزية"
+},
+{
+"id": 3619,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "تأكد أن"
+},
+{
+"id": 3620,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "وأن APP_URL يبدأ بـ https:// ثم نفذ"
+},
+{
+"id": 3621,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع DATABASE_URL واتصال Railway/MySQL ثم نفذ"
+},
+{
+"id": 3622,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع CACHE_STORE واتصال Redis/Database وتأكد من صلاحية الكتابة."
+},
+{
+"id": 3623,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع صلاحيات storage ووجود رابط storage عند استخدام"
+},
+{
+"id": 3624,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع MAIL_HOST وMAIL_USERNAME وMAIL_PASSWORD وMAIL_FROM_ADDRESS ثم اختبر Queue البريد."
+},
+{
+"id": 3625,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "أضف FIREBASE_SERVICE_ACCOUNT_BASE64 الصحيح وأعد نشر الخدمة."
+},
+{
+"id": 3626,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "راجع مفاتيح بوابات الدفع وتفعيل بوابة واحدة على الأقل قبل الإنتاج."
+},
+{
+"id": 3627,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "لا تستخدم"
+},
+{
+"id": 3628,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "في الإنتاج؛ شغّل worker مستقل."
+},
+{
+"id": 3629,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "استخدم database أو redis للجلسات في الإنتاج."
+},
+{
+"id": 3630,
+"f": "app/Services/ProductionIncidentService.php",
+"ar": "افتح سجل التطبيق وراجع تفاصيل الفحص والقيم البيئية المرتبطة بهذه الوحدة."
+},
+{
+"id": 3631,
+"f": "app/Services/ProductionNotificationService.php",
+"ar": "فتح التفاصيل"
+},
+{
+"id": 3632,
+"f": "app/Services/ProjectBimService.php",
+"ar": "إصدار الملف المرجعي لا ينتمي إلى هذا المشروع."
+},
+{
+"id": 3633,
+"f": "app/Services/ProjectBimService.php",
+"ar": "ملف عناصر BIM يجب أن يكون JSON ويحتوي على"
+},
+{
+"id": 3634,
+"f": "app/Services/ProjectBimService.php",
+"ar": "الحد الحالي للكشف المحلي هو 5000 عنصر لكل نموذج. استخدم تقرير Clash مستورد للنماذج الأكبر."
+},
+{
+"id": 3635,
+"f": "app/Services/ProjectBimService.php",
+"ar": "عنصر غير صالح في manifest عند الفهرس"
+},
+{
+"id": 3636,
+"f": "app/Services/ProjectBimService.php",
+"ar": "معرف عنصر مكرر في"
+},
+{
+"id": 3637,
+"f": "app/Services/ProjectBimService.php",
+"ar": "تشغيل الكشف المحلي يحتاج"
+},
+{
+"id": 3638,
+"f": "app/Services/ProjectBimService.php",
+"ar": "لكل إصدار."
+},
+{
+"id": 3639,
+"f": "app/Services/ProjectBimService.php",
+"ar": "تجاوز الكشف 10000 تعارض. قسّم النموذج أو استخدم تقرير Clash خارجي."
+},
+{
+"id": 3640,
+"f": "app/Services/ProjectBimService.php",
+"ar": "تقرير Clash يجب أن يكون JSON ويحتوي على"
+},
+{
+"id": 3641,
+"f": "app/Services/ProjectBimService.php",
+"ar": "الحد الأقصى 20000 تعارض في التقرير الواحد."
+},
+{
+"id": 3642,
+"f": "app/Services/ProjectBoqImportExportService.php",
+"ar": "تعذر قراءة ملف"
+},
+{
+"id": 3643,
+"f": "app/Services/ProjectBoqImportExportService.php",
+"ar": "ملف CSV فارغ."
+},
+{
+"id": 3644,
+"f": "app/Services/ProjectBoqImportExportService.php",
+"ar": "العمود المطلوب غير موجود:"
+},
+{
+"id": 3645,
+"f": "app/Services/ProjectBoqImportExportService.php",
+"ar": "أعمال الموقع"
+},
+{
+"id": 3646,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "بانتظار المراجعة"
+},
+{
+"id": 3647,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "تم إنشاء جدول كميات جديد."
+},
+{
+"id": 3648,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "لا يمكن تسجيل تقدم على Revision مستبدل."
+},
+{
+"id": 3649,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "لا يمكن إرسال BOQ فارغ للمراجعة."
+},
+{
+"id": 3650,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "يمكن إرجاع BOQ قيد المراجعة فقط."
+},
+{
+"id": 3651,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "تم إرجاع BOQ للتعديل"
+},
+{
+"id": 3652,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "يجب أن يكون BOQ قيد المراجعة قبل الاعتماد."
+},
+{
+"id": 3653,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "يمكن قفل BOQ المعتمد فقط."
+},
+{
+"id": 3654,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "تم قفل النسخة المعتمدة."
+},
+{
+"id": 3655,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "يتم إنشاء Revision من BOQ معتمد أو مقفل فقط."
+},
+{
+"id": 3656,
+"f": "app/Services/ProjectBoqService.php",
+"ar": "هذه النسخة غير قابلة للتعديل. أنشئ Revision جديدًا عند الحاجة."
+},
+{
+"id": 3657,
+"f": "app/Services/ProjectCalendarService.php",
+"ar": "تم تعليم الموعد كمكتمل."
+},
+{
+"id": 3658,
+"f": "app/Services/ProjectCalendarService.php",
+"ar": "تم إنشاء موعد جديد في تقويم المشروع."
+},
+{
+"id": 3659,
+"f": "app/Services/ProjectCalendarService.php",
+"ar": "موعد جديد في تقويم المشروع"
+},
+{
+"id": 3660,
+"f": "app/Services/ProjectCalendarService.php",
+"ar": "تم تحديث موعد التقويم."
+},
+{
+"id": 3661,
+"f": "app/Services/ProjectDrawingMarkupService.php",
+"ar": "مستخدم مسبقًا في طبقة أخرى."
+},
+{
+"id": 3662,
+"f": "app/Services/ProjectDrawingMarkupService.php",
+"ar": "تم تعديل طبقة الملاحظات على الخادم. حدّث النسخة قبل إعادة الحفظ."
+},
+{
+"id": 3663,
+"f": "app/Services/ProjectEngineerEarningService.php",
+"ar": "لم يتم تحديد نسب مهندسي المشروع بعد."
+},
+{
+"id": 3664,
+"f": "app/Services/ProjectEngineerEarningService.php",
+"ar": "لا يمكن احتساب المستحقات قبل تأكيد دفع الدفعة."
+},
+{
+"id": 3665,
+"f": "app/Services/ProjectEngineerEarningService.php",
+"ar": "مجموع نسب مهندسي المشروع يتجاوز"
+},
+{
+"id": 3666,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "إلى"
+},
+{
+"id": 3667,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "تم تحديث"
+},
+{
+"id": 3668,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "في إدارة الموقع."
+},
+{
+"id": 3669,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "تم تعديل السجل من جهاز آخر. يرجى تحديث النسخة قبل إعادة المحاولة."
+},
+{
+"id": 3670,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "تعارض مزامنة: نسخة الخادم أحدث."
+},
+{
+"id": 3671,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "تم تغيير حالة"
+},
+{
+"id": 3672,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "حالة إدارة الموقع غير صالحة."
+},
+{
+"id": 3673,
+"f": "app/Services/ProjectFieldService.php",
+"ar": "تعذر حفظ أحد مرفقات إدارة الموقع."
+},
+{
+"id": 3674,
+"f": "app/Services/ProjectFileVersionService.php",
+"ar": "الإصدار الأول للملف."
+},
+{
+"id": 3675,
+"f": "app/Services/ProjectFileVersionService.php",
+"ar": "تم سحب إتاحة النسخة المعتمدة للعميل."
+},
+{
+"id": 3676,
+"f": "app/Services/ProjectFileVersionService.php",
+"ar": "يمكن مراجعة أحدث Version فقط. الإصدارات الأقدم محفوظة كسجل تاريخي."
+},
+{
+"id": 3677,
+"f": "app/Services/ProjectFileVersionService.php",
+"ar": "تمت مراجعة هذا الإصدار سابقًا ولا يمكن تكرار القرار عليه."
+},
+{
+"id": 3678,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "تم إنشاء بند جديد في المخطط الزمني."
+},
+{
+"id": 3679,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "تم تعيين بند جديد في"
+},
+{
+"id": 3680,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "تم تحديث الإنجاز من"
+},
+{
+"id": 3681,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "هذا البند مقفل ولا يمكن حذفه."
+},
+{
+"id": 3682,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "لا يمكن إضافة Dependency لأنها ستنشئ دورة مغلقة."
+},
+{
+"id": 3683,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "لا يمكن جعل البند أبًا لنفسه."
+},
+{
+"id": 3684,
+"f": "app/Services/ProjectGanttService.php",
+"ar": "لا يمكن إنشاء دورة في الهيكل الهرمي."
+},
+{
+"id": 3685,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "حزمة التسليم ليست قابلة للإرسال من حالتها الحالية."
+},
+{
+"id": 3686,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "أكمل جميع عناصر التسليم الإلزامية قبل الإرسال. المتبقي:"
+},
+{
+"id": 3687,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "يجب إرفاق ملف واحد على الأقل قبل إرسال حزمة التسليم."
+},
+{
+"id": 3688,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "هذه الحزمة ليست بانتظار مراجعة العميل."
+},
+{
+"id": 3689,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "هذه الحزمة ليست بانتظار الاعتماد."
+},
+{
+"id": 3690,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "يوجد تسليم نهائي معتمد بالفعل لهذا المشروع."
+},
+{
+"id": 3691,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "تمت معالجة حزمة التسليم بالفعل."
+},
+{
+"id": 3692,
+"f": "app/Services/ProjectHandoverService.php",
+"ar": "أقر باستلام ومراجعة حزمة التسليم المبينة في المنصة وأعتمدها وفق نطاق المشروع والسجل الإلكتروني المرتبط بها."
+},
+{
+"id": 3693,
+"f": "app/Services/ProjectInstallmentPaymentService.php",
+"ar": "دفعة مشروع"
+},
+{
+"id": 3694,
+"f": "app/Services/ProjectInstallmentPaymentService.php",
+"ar": "طريقة الدفع المختارة غير متاحة."
+},
+{
+"id": 3695,
+"f": "app/Services/ProjectInstallmentPaymentService.php",
+"ar": "هذه الدفعة غير قابلة للدفع حاليًا."
+},
+{
+"id": 3696,
+"f": "app/Services/ProjectInstallmentPaymentService.php",
+"ar": "تم تجهيز مرجع الحوالة. سيتم تأكيدها تلقائيًا عند وصولها للبنك."
+},
+{
+"id": 3697,
+"f": "app/Services/ProjectMeetingAccessService.php",
+"ar": "مدير"
+},
+{
+"id": 3698,
+"f": "app/Services/ProjectMeetingAccessService.php",
+"ar": "قائد المشروع"
+},
+{
+"id": 3699,
+"f": "app/Services/ProjectMeetingAccessService.php",
+"ar": "مدير الفريق"
+},
+{
+"id": 3700,
+"f": "app/Services/ProjectMeetingAccessService.php",
+"ar": "قائد الفريق"
+},
+{
+"id": 3701,
+"f": "app/Services/ProjectMeetingAccessService.php",
+"ar": "مدير المشروع"
+},
+{
+"id": 3702,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "بدأ الاجتماع الآن"
+},
+{
+"id": 3703,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "لا يمكن بدء اجتماع ملغي."
+},
+{
+"id": 3704,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "هذا الاجتماع انتهى بالفعل."
+},
+{
+"id": 3705,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تم بدء الاجتماع المباشر."
+},
+{
+"id": 3706,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تم إنهاء الاجتماع المباشر."
+},
+{
+"id": 3707,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تمت دعوة"
+},
+{
+"id": 3708,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "إلى الاجتماع المباشر."
+},
+{
+"id": 3709,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "دعوة إلى اجتماع مباشر"
+},
+{
+"id": 3710,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "انضم المستخدم إلى الاجتماع المباشر."
+},
+{
+"id": 3711,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "غادر المستخدم الاجتماع المباشر."
+},
+{
+"id": 3712,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "لا يمكنك إزالة نفسك بهذه الطريقة."
+},
+{
+"id": 3713,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تمت إزالة"
+},
+{
+"id": 3714,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "من الاجتماع المباشر."
+},
+{
+"id": 3715,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تم كتم مسار وسائط للمستخدم"
+},
+{
+"id": 3716,
+"f": "app/Services/ProjectMeetingLiveService.php",
+"ar": "تم إلغاء كتم مسار وسائط للمستخدم"
+},
+{
+"id": 3717,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "تم نشر محضر الاجتماع رسميًا."
+},
+{
+"id": 3718,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "تم إنشاء الاجتماع وجدولته."
+},
+{
+"id": 3719,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "تم حفظ محضر الاجتماع وتفاصيل الحضور والنقاش."
+},
+{
+"id": 3720,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "يجب حفظ ملخص المحضر قبل النشر."
+},
+{
+"id": 3721,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "تم نشر محضر اجتماع"
+},
+{
+"id": 3722,
+"f": "app/Services/ProjectMeetingService.php",
+"ar": "تم إلغاء اجتماع"
+},
+{
+"id": 3723,
+"f": "app/Services/ProjectOfficeEarningService.php",
+"ar": "لا يوجد مشروع مرتبط بهذه الدفعة."
+},
+{
+"id": 3724,
+"f": "app/Services/ProjectOfficeEarningService.php",
+"ar": "لا يمكن احتساب مستحق المكتب قبل تأكيد دفع الدفعة."
+},
+{
+"id": 3725,
+"f": "app/Services/ProjectOfficeEarningService.php",
+"ar": "لم يتم تحديد نسبة المكتب لهذا المشروع بعد."
+},
+{
+"id": 3726,
+"f": "app/Services/ProjectRfiAccessService.php",
+"ar": "المهمة المختارة لا تتبع هذا المشروع."
+},
+{
+"id": 3727,
+"f": "app/Services/ProjectRfiAccessService.php",
+"ar": "المرحلة المختارة لا تتبع هذا المشروع."
+},
+{
+"id": 3728,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "للمشروع"
+},
+{
+"id": 3729,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "تم إنشاء طلب المعلومات."
+},
+{
+"id": 3730,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "لا يمكن تسجيل إجابة على RFI بهذه الحالة."
+},
+{
+"id": 3731,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "تم تحديث حالة الـ RFI قبل إرسال الإجابة. أعد تحميل الصفحة."
+},
+{
+"id": 3732,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "لا يمكن إضافة تعليق إلى RFI ملغي."
+},
+{
+"id": 3733,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "هذا الـ RFI مغلق أو ملغي بالفعل."
+},
+{
+"id": 3734,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "يمكن إعادة فتح RFI مجاب أو مغلق فقط."
+},
+{
+"id": 3735,
+"f": "app/Services/ProjectRfiService.php",
+"ar": "لا يمكن إلغاء RFI مغلق أو ملغي."
+},
+{
+"id": 3736,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "تم إرسال"
+},
+{
+"id": 3737,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "للمراجعة"
+},
+{
+"id": 3738,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "تم إنشاء الاعتماد الفني وإرسال الإصدار R0 للمراجعة."
+},
+{
+"id": 3739,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "تمت مراجعة"
+},
+{
+"id": 3740,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "نتيجة المراجعة:"
+},
+{
+"id": 3741,
+"f": "app/Services/ProjectSubmittalService.php",
+"ar": "تمت إعادة فتح الاعتماد للمراجعة."
+},
+{
+"id": 3742,
+"f": "app/Services/RefundService.php",
+"ar": "حالة طلب الاسترداد لا تسمح بالتنفيذ."
+},
+{
+"id": 3743,
+"f": "app/Services/RefundService.php",
+"ar": "قيد التنفيذ الآن."
+},
+{
+"id": 3744,
+"f": "app/Services/RefundService.php",
+"ar": "حالة طلب الاسترداد لا تسمح بإتمامه."
+},
+{
+"id": 3745,
+"f": "app/Services/RefundService.php",
+"ar": "مرجع عملية الاسترداد مطلوب."
+},
+{
+"id": 3746,
+"f": "app/Services/RefundService.php",
+"ar": "مصدر طلب الاسترداد غير موجود."
+},
+{
+"id": 3747,
+"f": "app/Services/RefundService.php",
+"ar": "للطلب"
+},
+{
+"id": 3748,
+"f": "app/Services/RefundService.php",
+"ar": "لا يمكن رفض استرداد مكتمل."
+},
+{
+"id": 3749,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الحالة"
+},
+{
+"id": 3750,
+"f": "app/Services/ReportCenterService.php",
+"ar": "قيد المراجعة"
+},
+{
+"id": 3751,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مرفوض"
+},
+{
+"id": 3752,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المالية"
+},
+{
+"id": 3753,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المشاريع"
+},
+{
+"id": 3754,
+"f": "app/Services/ReportCenterService.php",
+"ar": "القيمة"
+},
+{
+"id": 3755,
+"f": "app/Services/ReportCenterService.php",
+"ar": "النوع"
+},
+{
+"id": 3756,
+"f": "app/Services/ReportCenterService.php",
+"ar": "التذاكر"
+},
+{
+"id": 3757,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مفتوحة"
+},
+{
+"id": 3758,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المستخدمون"
+},
+{
+"id": 3759,
+"f": "app/Services/ReportCenterService.php",
+"ar": "السعر"
+},
+{
+"id": 3760,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الموظف"
+},
+{
+"id": 3761,
+"f": "app/Services/ReportCenterService.php",
+"ar": "محلولة"
+},
+{
+"id": 3762,
+"f": "app/Services/ReportCenterService.php",
+"ar": "حصة المنصة"
+},
+{
+"id": 3763,
+"f": "app/Services/ReportCenterService.php",
+"ar": "القسم"
+},
+{
+"id": 3764,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الإيرادات"
+},
+{
+"id": 3765,
+"f": "app/Services/ReportCenterService.php",
+"ar": "تذاكر الدعم"
+},
+{
+"id": 3766,
+"f": "app/Services/ReportCenterService.php",
+"ar": "موثق"
+},
+{
+"id": 3767,
+"f": "app/Services/ReportCenterService.php",
+"ar": "إجمالي الإيرادات"
+},
+{
+"id": 3768,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المفتوحة"
+},
+{
+"id": 3769,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الباقة"
+},
+{
+"id": 3770,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الرسائل"
+},
+{
+"id": 3771,
+"f": "app/Services/ReportCenterService.php",
+"ar": "تقارير"
+},
+{
+"id": 3772,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المؤشر"
+},
+{
+"id": 3773,
+"f": "app/Services/ReportCenterService.php",
+"ar": "إجمالي التذاكر"
+},
+{
+"id": 3774,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المتأخرة"
+},
+{
+"id": 3775,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مشاريع نشطة"
+},
+{
+"id": 3776,
+"f": "app/Services/ReportCenterService.php",
+"ar": "طلبات"
+},
+{
+"id": 3777,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مستخدمة"
+},
+{
+"id": 3778,
+"f": "app/Services/ReportCenterService.php",
+"ar": "تقارير الدعم"
+},
+{
+"id": 3779,
+"f": "app/Services/ReportCenterService.php",
+"ar": "التقرير التنفيذي"
+},
+{
+"id": 3780,
+"f": "app/Services/ReportCenterService.php",
+"ar": "تقارير الباقات والكوبونات"
+},
+{
+"id": 3781,
+"f": "app/Services/ReportCenterService.php",
+"ar": "ليس لديك صلاحية عرض هذا التقرير."
+},
+{
+"id": 3782,
+"f": "app/Services/ReportCenterService.php",
+"ar": "محادثات AI المؤرشفة"
+},
+{
+"id": 3783,
+"f": "app/Services/ReportCenterService.php",
+"ar": "أرشيف الدعم"
+},
+{
+"id": 3784,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المشاريع المنتهية"
+},
+{
+"id": 3785,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الاستشارات المنتهية"
+},
+{
+"id": 3786,
+"f": "app/Services/ReportCenterService.php",
+"ar": "أرشيف"
+},
+{
+"id": 3787,
+"f": "app/Services/ReportCenterService.php",
+"ar": "التقارير المحفوظة المؤرشفة"
+},
+{
+"id": 3788,
+"f": "app/Services/ReportCenterService.php",
+"ar": "لا يوجد جدول تذاكر الدعم."
+},
+{
+"id": 3789,
+"f": "app/Services/ReportCenterService.php",
+"ar": "غير مصنف"
+},
+{
+"id": 3790,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المغلقة/المحلولة"
+},
+{
+"id": 3791,
+"f": "app/Services/ReportCenterService.php",
+"ar": "التصعيدات"
+},
+{
+"id": 3792,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المعاد فتحها"
+},
+{
+"id": 3793,
+"f": "app/Services/ReportCenterService.php",
+"ar": "متوسط وقت الحل"
+},
+{
+"id": 3794,
+"f": "app/Services/ReportCenterService.php",
+"ar": "استردادات مرتبطة بالدعم"
+},
+{
+"id": 3795,
+"f": "app/Services/ReportCenterService.php",
+"ar": "صافي المنصة بعد الاستردادات/الصرف"
+},
+{
+"id": 3796,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المدفوعات المعلقة"
+},
+{
+"id": 3797,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المدفوعات الفاشلة"
+},
+{
+"id": 3798,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المبالغ المستردة"
+},
+{
+"id": 3799,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مستحقات المهندسين المعلقة"
+},
+{
+"id": 3800,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مدفوع للمهندسين"
+},
+{
+"id": 3801,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مستحقات المكاتب المعلقة"
+},
+{
+"id": 3802,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مدفوع للمكاتب"
+},
+{
+"id": 3803,
+"f": "app/Services/ReportCenterService.php",
+"ar": "قيمة خصومات الكوبونات"
+},
+{
+"id": 3804,
+"f": "app/Services/ReportCenterService.php",
+"ar": "وسيلة/بوابة الدفع"
+},
+{
+"id": 3805,
+"f": "app/Services/ReportCenterService.php",
+"ar": "العمليات"
+},
+{
+"id": 3806,
+"f": "app/Services/ReportCenterService.php",
+"ar": "إجمالي المستخدمين"
+},
+{
+"id": 3807,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مشاريع جديدة"
+},
+{
+"id": 3808,
+"f": "app/Services/ReportCenterService.php",
+"ar": "استشارات جديدة"
+},
+{
+"id": 3809,
+"f": "app/Services/ReportCenterService.php",
+"ar": "حسابات موثقة"
+},
+{
+"id": 3810,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الجدد في الفترة"
+},
+{
+"id": 3811,
+"f": "app/Services/ReportCenterService.php",
+"ar": "النشطة الآن"
+},
+{
+"id": 3812,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الجديدة في الفترة"
+},
+{
+"id": 3813,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الموثقة في الفترة"
+},
+{
+"id": 3814,
+"f": "app/Services/ReportCenterService.php",
+"ar": "التذاكر في الفترة"
+},
+{
+"id": 3815,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الإيرادات في الفترة"
+},
+{
+"id": 3816,
+"f": "app/Services/ReportCenterService.php",
+"ar": "عدد الباقات"
+},
+{
+"id": 3817,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المشتركون الحاليون"
+},
+{
+"id": 3818,
+"f": "app/Services/ReportCenterService.php",
+"ar": "إيراد الباقات في الفترة"
+},
+{
+"id": 3819,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الكوبونات النشطة"
+},
+{
+"id": 3820,
+"f": "app/Services/ReportCenterService.php",
+"ar": "مرات استخدام الكوبونات"
+},
+{
+"id": 3821,
+"f": "app/Services/ReportCenterService.php",
+"ar": "إجمالي الخصومات"
+},
+{
+"id": 3822,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المشتركون"
+},
+{
+"id": 3823,
+"f": "app/Services/ReportCenterService.php",
+"ar": "طلبات الفترة"
+},
+{
+"id": 3824,
+"f": "app/Services/ReportCenterService.php",
+"ar": "نسبة التحويل من المشاهدة للشراء تحتاج تتبع مشاهدات الباقات، لذلك لا يتم اختلاق نسبة غير موجودة."
+},
+{
+"id": 3825,
+"f": "app/Services/ReportCenterService.php",
+"ar": "لا يوجد جدول"
+},
+{
+"id": 3826,
+"f": "app/Services/ReportCenterService.php",
+"ar": "متوسط نسبة التحقق"
+},
+{
+"id": 3827,
+"f": "app/Services/ReportCenterService.php",
+"ar": "متوسط مدة المراجعة"
+},
+{
+"id": 3828,
+"f": "app/Services/ReportCenterService.php",
+"ar": "لا يوجد جدول محادثات"
+},
+{
+"id": 3829,
+"f": "app/Services/ReportCenterService.php",
+"ar": "المحادثات الحقيقية"
+},
+{
+"id": 3830,
+"f": "app/Services/ReportCenterService.php",
+"ar": "الملفات المرفوعة"
+},
+{
+"id": 3831,
+"f": "app/Services/ReportCenterService.php",
+"ar": "تحولت للدعم"
+},
+{
+"id": 3832,
+"f": "app/Services/ReportCenterService.php",
+"ar": "نسبة التدخل البشري"
+},
+{
+"id": 3833,
+"f": "app/Services/ReportCenterService.php",
+"ar": "نوع العملية"
+},
+{
+"id": 3834,
+"f": "app/Services/ReportCenterService.php",
+"ar": "عدد الطلبات"
+},
+{
+"id": 3835,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "تم استنفاد عدد استخدامات الكوبون."
+},
+{
+"id": 3836,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "الكوبون لا ينطبق على الخطة المختارة."
+},
+{
+"id": 3837,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "عملة الكوبون لا تطابق عملة الخطة."
+},
+{
+"id": 3838,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "الكوبون لم يعد مفعّلًا."
+},
+{
+"id": 3839,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "تم استنفاد الكوبون أثناء تنفيذ العملية."
+},
+{
+"id": 3840,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "دورة الفوترة غير صالحة."
+},
+{
+"id": 3841,
+"f": "app/Services/SaasCommercialService.php",
+"ar": "تم الوصول إلى حد الخطة لهذه الميزة."
+},
+{
+"id": 3842,
+"f": "app/Services/SaasPlanService.php",
+"ar": "ميزة"
+},
+{
+"id": 3843,
+"f": "app/Services/SaasPlanService.php",
+"ar": "غير متاحة في باقة المكتب الحالية. قم بترقية الباقة لاستخدامها."
+},
+{
+"id": 3844,
+"f": "app/Services/SaasPlanService.php",
+"ar": "وصل مكتبك إلى الحد الأقصى لميزة"
+},
+{
+"id": 3845,
+"f": "app/Services/SaasPlanService.php",
+"ar": "في الباقة الحالية"
+},
+{
+"id": 3846,
+"f": "app/Services/SaasPlanService.php",
+"ar": "قم بترقية الباقة للمتابعة."
+},
+{
+"id": 3847,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "ملغي"
+},
+{
+"id": 3848,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "موقوف"
+},
+{
+"id": 3849,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "منتهي"
+},
+{
+"id": 3850,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "اشتراك فعال"
+},
+{
+"id": 3851,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "المكتب المرتبط بالاشتراك غير موجود."
+},
+{
+"id": 3852,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "هناك دفعة اشتراك قيد المراجعة، لكن الوصول المدفوع غير فعال حاليًا."
+},
+{
+"id": 3853,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "اشتراك المكتب ملغي. اختر باقة وجدّد الاشتراك للمتابعة."
+},
+{
+"id": 3854,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "المكتب موقوف ولا يمكن تنفيذ هذا الإجراء."
+},
+{
+"id": 3855,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "انتهت مدة التجربة أو الاشتراك. اختر باقة وجدّد الاشتراك للمتابعة."
+},
+{
+"id": 3856,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "يمكن جدولة الإلغاء للاشتراك المدفوع الفعال فقط."
+},
+{
+"id": 3857,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "تجربة مجانية"
+},
+{
+"id": 3858,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "فترة سماح"
+},
+{
+"id": 3859,
+"f": "app/Services/SaasSubscriptionService.php",
+"ar": "دفعة معلقة / متأخرة"
+},
+{
+"id": 3860,
+"f": "app/Services/SecurityDeviceService.php",
+"ar": "جهاز مسجل"
+},
+{
+"id": 3861,
+"f": "app/Services/SupportBotService.php",
+"ar": "رفض"
+},
+{
+"id": 3862,
+"f": "app/Services/SupportBotService.php",
+"ar": "استشاراتي"
+},
+{
+"id": 3863,
+"f": "app/Services/SupportBotService.php",
+"ar": "الآراء والملاحظات"
+},
+{
+"id": 3864,
+"f": "app/Services/SupportBotService.php",
+"ar": "ثم"
+},
+{
+"id": 3865,
+"f": "app/Services/SupportBotService.php",
+"ar": "تعليق"
+},
+{
+"id": 3866,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما"
+},
+{
+"id": 3867,
+"f": "app/Services/SupportBotService.php",
+"ar": "مساعد منصة الوليد الهندسية الهندسي"
+},
+{
+"id": 3868,
+"f": "app/Services/SupportBotService.php",
+"ar": "رمز التحقق"
+},
+{
+"id": 3869,
+"f": "app/Services/SupportBotService.php",
+"ar": "المستخدم مسجل الدخول."
+},
+{
+"id": 3870,
+"f": "app/Services/SupportBotService.php",
+"ar": "الى"
+},
+{
+"id": 3871,
+"f": "app/Services/SupportBotService.php",
+"ar": "ممكن"
+},
+{
+"id": 3872,
+"f": "app/Services/SupportBotService.php",
+"ar": "مع"
+},
+{
+"id": 3873,
+"f": "app/Services/SupportBotService.php",
+"ar": "كل"
+},
+{
+"id": 3874,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا توجد مقالة مطابقة مباشرة في قاعدة المعرفة لهذا السؤال."
+},
+{
+"id": 3875,
+"f": "app/Services/SupportBotService.php",
+"ar": "المعلومة رقم"
+},
+{
+"id": 3876,
+"f": "app/Services/SupportBotService.php",
+"ar": "السؤال:"
+},
+{
+"id": 3877,
+"f": "app/Services/SupportBotService.php",
+"ar": "الإجابة المعتمدة:"
+},
+{
+"id": 3878,
+"f": "app/Services/SupportBotService.php",
+"ar": "الكلمات المفتاحية:"
+},
+{
+"id": 3879,
+"f": "app/Services/SupportBotService.php",
+"ar": "المساعد الرسمي داخل منصة الوليد الهندسية الهندسية. مهمتك الأساسية: - مساعدة العميل فعليًا في استخدام المنصة. - الإجابة عن أسئلة الخدمات والخطوات والحساب والاستشارات والمهندسين والمكاتب والدفع والدعم. - لا تقل"
+},
+{
+"id": 3880,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا توجد لدي معلومات"
+},
+{
+"id": 3881,
+"f": "app/Services/SupportBotService.php",
+"ar": "لمجرد عدم وجود مقالة مطابقة. - استخدم خريطة المنصة أدناه للإجابة عن الأسئلة التشغيلية العامة. - استخدم مقالات قاعدة المعرفة باعتبارها معلومات معتمدة ذات أولوية أعلى. - إذا تعارضت مقالة مع معلومة عامة، اتبع المقالة المعتمدة. - لا تخترع أرقام أسعار أو مدد أو حالات فعلية غير موجودة في السياق. - إذا كان السؤال يحتاج معرفة بيانات الحساب الحالية أو حالة طلب بعينه ولم تُرسل هذه البيانات في السياق، اشرح للمستخدم أين يتابعها داخل المنصة ولا تدّعِ أنك شاهدتها. - أعطِ خطوات عملية وواضحة وبالعربية السهلة. - افهم اللهجة الفلسطينية/الشامية والعربية الفصحى. - لا تحوّل المستخدم لموظف الدعم لمجرد أنك غير متأكد من صياغة الجواب؛ حاول أولًا مساعدته من خريطة النظام ومقالات المعرفة. قاعدة التحويل الأمني الإلزامي: إذا كان السؤال يتعلق باختراق حساب، سرقة حساب، وصول غير مصرح به، كلمة مرور مسروقة، رمز تحقق أو OTP، تسريب بيانات، طلب كشف بيانات مستخدم آخر، تغيير صلاحيات بغير حق، ثغرة أمنية، محاولة تجاوز الحماية، عملية دفع مشبوهة، انتحال هوية، أو أي حادث أمني فعلي: - لا تعطِ خطوات قد تزيد الخطر أو تساعد على تجاوز الحماية. - أخبر المستخدم بوضوح أن الحالة تحتاج موظف دعم. - اطلب تحويل المحادثة إلى موظف الدعم. - لا تطلب من المستخدم إرسال كلمة المرور أو رمز التحقق أو بيانات البطاقة."
+},
+{
+"id": 3882,
+"f": "app/Services/SupportBotService.php",
+"ar": "خريطة المنصة التشغيلية المعتمدة"
+},
+{
+"id": 3883,
+"f": "app/Services/SupportBotService.php",
+"ar": "مقالات قاعدة المعرفة ذات الصلة"
+},
+{
+"id": 3884,
+"f": "app/Services/SupportBotService.php",
+"ar": "تعليمات الإجابة"
+},
+{
+"id": 3885,
+"f": "app/Services/SupportBotService.php",
+"ar": "أجب كموظف مساعدة رقمي فاهم للمنصة: 1. افهم مقصد المستخدم حتى لو كتب باللهجة. 2. جاوب مباشرة. 3. أعطه الخطوات داخل المنصة. 4. لا تستخدم عبارة"
+},
+{
+"id": 3886,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما عندي معلومات"
+},
+{
+"id": 3887,
+"f": "app/Services/SupportBotService.php",
+"ar": "إلا إذا كان المطلوب معلومة فعلية خاصة بالحساب ولم يزودك النظام بها. 5. في هذه الحالة لا تنهِ المساعدة؛ وضح أين يمكنه معرفة المعلومة أو ما الذي يجب فعله. 6. إذا كانت المشكلة أمنية أو حساسة، أو تحتاج تدخلًا بشريًا فعليًا، اطلب التحويل إلى موظف الدعم."
+},
+{
+"id": 3888,
+"f": "app/Services/SupportBotService.php",
+"ar": "خريطة منصة الوليد الهندسية الهندسية — محدثة"
+},
+{
+"id": 3889,
+"f": "app/Services/SupportBotService.php",
+"ar": "هوية المنصة - الاسم الظاهر للمستخدم: منصة الوليد الهندسية. - المنصة تجمع العملاء والمهندسين والمكاتب الهندسية وتدير الاستشارات والمشاريع والمدفوعات والملفات والدعم. - الخدمات تشمل التصميم المعماري والإنشائي والكهربائي والميكانيكي والتصميم الداخلي والواجهات واللاند سكيب والحلول التقنية والاستشارات الهندسية. - توجد صفحة عامة للموقع، مكتبة أعمال المهندسين، صفحات المهندسين، وصفحات المكاتب الهندسية. 2) الأدوار - customer: العميل. - engineer: المهندس. - employee: الموظف. - admin: مدير النظام. - office_owner: مالك/مدير المكتب حسب عضويته الفعلية في المكتب. - financial_manager: المدير المالي. - كل مستخدم يرى الأدوات والبيانات حسب دوره وصلاحياته فقط. 3) الاستشارات - العميل يستطيع إنشاء استشارة واختيار نوعها وكتابة العنوان والوصف ورفع ملف. - العميل يتابع استشاراته من"
+},
+{
+"id": 3890,
+"f": "app/Services/SupportBotService.php",
+"ar": "الإدارة تتابع الاستشارات وتقوم بإسنادها. - عند إسناد الاستشارة إلى مكتب هندسي، تظهر لمالك/مدير المكتب ليعيّن مهندسًا فعالًا من أعضاء المكتب. - المهندس المعيّن ينفذ الاستشارة ويرفع الملف النهائي حسب الصلاحيات. - بعد اكتمال الاستشارة يمكن للعميل طلب تحويلها إلى مشروع كامل. 4) الانتقال من الاستشارة إلى مشروع - المشروع يبدأ من استشارة مكتملة عند طلب العميل تنفيذ مشروع. - العميل والمهندس يتفاوضان على نطاق العمل والسعر والمدة. - المشروع يحتفظ بنفس المحادثة الخاصة بين العميل والمهندس التي بدأت من الاستشارة؛ لا يتم إنشاء محادثة ثانية بينهما. - إذا كان المشروع تابعًا لمكتب، يُربط المشروع بالمكتب. - المهندس الذي تم التفاوض معه يكون"
+}
+]

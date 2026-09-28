@@ -1,0 +1,2102 @@
+[
+{
+"id": 9176,
+"f": "views/finance/platform-commissions/index.blade.php",
+"ar": "تعديل النسب كمدير"
+},
+{
+"id": 9177,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "الفترة:"
+},
+{
+"id": 9178,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "خلال الفترة المحددة"
+},
+{
+"id": 9179,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "صافي الربح"
+},
+{
+"id": 9180,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "إجراءات"
+},
+{
+"id": 9181,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "جميع المكاتب المسموحة"
+},
+{
+"id": 9182,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "جاري"
+},
+{
+"id": 9183,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "مرحلة أولية"
+},
+{
+"id": 9184,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "تحميل التقرير"
+},
+{
+"id": 9185,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "نظام التقارير المالية"
+},
+{
+"id": 9186,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "تحليل الإيرادات، المصروفات، وصافي الربح للمشاريع"
+},
+{
+"id": 9187,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "محصل"
+},
+{
+"id": 9188,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "ربح"
+},
+{
+"id": 9189,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "صافي الفترة"
+},
+{
+"id": 9190,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "هامش الربح"
+},
+{
+"id": 9191,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "نسبة صافي الربح من الإيرادات المحصلة"
+},
+{
+"id": 9192,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "الإيرادات مقابل المصروفات (آخر ٦ أشهر)"
+},
+{
+"id": 9193,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "لا توجد بيانات مالية ضمن الفترة الحالية."
+},
+{
+"id": 9194,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "أفضل المشاريع ربحية"
+},
+{
+"id": 9195,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "صافي الربح:"
+},
+{
+"id": 9196,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "لا توجد مشاريع ربحية ضمن الفترة المحددة."
+},
+{
+"id": 9197,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "التقارير الشهرية المفصلة"
+},
+{
+"id": 9198,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "فلتر"
+},
+{
+"id": 9199,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "الهامش"
+},
+{
+"id": 9200,
+"f": "views/finance/reports/partials/dashboard-card.blade.php",
+"ar": "لا توجد بيانات شهرية ضمن الفترة المحددة."
+},
+{
+"id": 9201,
+"f": "views/finance/reports/print.blade.php",
+"ar": "لا توجد بيانات."
+},
+{
+"id": 9202,
+"f": "views/finance/reports/print.blade.php",
+"ar": "طباعة / حفظ"
+},
+{
+"id": 9203,
+"f": "views/finance/reports/print.blade.php",
+"ar": "تاريخ إصدار التقرير:"
+},
+{
+"id": 9204,
+"f": "views/finance/reports/print.blade.php",
+"ar": "صافي التدفق"
+},
+{
+"id": 9205,
+"f": "views/finance/reports/print.blade.php",
+"ar": "الحصة المتوقعة"
+},
+{
+"id": 9206,
+"f": "views/finance/reports/print.blade.php",
+"ar": "المعلق"
+},
+{
+"id": 9207,
+"f": "views/finance/reports/print.blade.php",
+"ar": "المصروف"
+},
+{
+"id": 9208,
+"f": "views/finance/reports/print.blade.php",
+"ar": "توزيع المصروفات"
+},
+{
+"id": 9209,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "المستفيد:"
+},
+{
+"id": 9210,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "أداة مالية"
+},
+{
+"id": 9211,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "تم كشف البيانات لهذه الجلسة فقط"
+},
+{
+"id": 9212,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "البنك:"
+},
+{
+"id": 9213,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "السبب المسجل:"
+},
+{
+"id": 9214,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "عرض الفاتورة"
+},
+{
+"id": 9215,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "سبب كشف البيانات"
+},
+{
+"id": 9216,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "كشف رقم الحساب و"
+},
+{
+"id": 9217,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "سبب فك التعليق الأمني (إلزامي)"
+},
+{
+"id": 9218,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "سبب فك تعليق الصرف الأمني"
+},
+{
+"id": 9219,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "فك التعليق الأمني فقط؛ لن يُعاد رصيد محجوز تلقائيًا. متابعة؟"
+},
+{
+"id": 9220,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "فك التعليق الأمني"
+},
+{
+"id": 9221,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "إيقاف الكوبون"
+},
+{
+"id": 9222,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "تفعيل الكوبون"
+},
+{
+"id": 9223,
+"f": "views/financial-manager/feature.blade.php",
+"ar": "لا توجد بيانات في هذا القسم حاليًا."
+},
+{
+"id": 9224,
+"f": "views/financial-manager/index.blade.php",
+"ar": "دفعات معلقة"
+},
+{
+"id": 9225,
+"f": "views/financial-manager/index.blade.php",
+"ar": "لوحة المدير المالي للمدفوعات والفواتير والاستردادات والمستحقات والاشتراكات والتقارير. لا تمنح صلاحيات KYC أو 2FA أو قفل الحساب أو المحادثات الخاصة."
+},
+{
+"id": 9226,
+"f": "views/financial-manager/index.blade.php",
+"ar": "إيراد اليوم"
+},
+{
+"id": 9227,
+"f": "views/financial-manager/index.blade.php",
+"ar": "إيراد الشهر"
+},
+{
+"id": 9228,
+"f": "views/financial-manager/index.blade.php",
+"ar": "مستحقات معلقة"
+},
+{
+"id": 9229,
+"f": "views/financial-manager/index.blade.php",
+"ar": "حجوزات أمنية"
+},
+{
+"id": 9230,
+"f": "views/financial-manager/index.blade.php",
+"ar": "اشتراكات نشطة"
+},
+{
+"id": 9231,
+"f": "views/financial-manager/index.blade.php",
+"ar": "أدوات المدير المالي"
+},
+{
+"id": 9232,
+"f": "views/financial-manager/index.blade.php",
+"ar": "كل أداة تظهر فقط إذا كانت صلاحية الحساب تسمح بها."
+},
+{
+"id": 9233,
+"f": "views/financial-manager/index.blade.php",
+"ar": "فتح الأداة"
+},
+{
+"id": 9234,
+"f": "views/financial-manager/index.blade.php",
+"ar": "الحساب المالي لا يحصل تلقائيًا على KYC أو تغيير البريد أو إزالة 2FA أو قفل الحساب أو عرض المحادثات الخاصة. كشف رقم الحساب/IBAN الكامل وتعديل الكوبونات يحتاجان صلاحيات منفصلة."
+},
+{
+"id": 9235,
+"f": "views/financial/control-center.blade.php",
+"ar": "الصافي"
+},
+{
+"id": 9236,
+"f": "views/financial/control-center.blade.php",
+"ar": "تم الحل"
+},
+{
+"id": 9237,
+"f": "views/financial/control-center.blade.php",
+"ar": "خلاف على نطاق العمل"
+},
+{
+"id": 9238,
+"f": "views/financial/control-center.blade.php",
+"ar": "تحديث البيانات"
+},
+{
+"id": 9239,
+"f": "views/financial/control-center.blade.php",
+"ar": "المرجع المالي"
+},
+{
+"id": 9240,
+"f": "views/financial/control-center.blade.php",
+"ar": "قيد المراجعة والتحقيق"
+},
+{
+"id": 9241,
+"f": "views/financial/control-center.blade.php",
+"ar": "عدم تسليم الخدمة"
+},
+{
+"id": 9242,
+"f": "views/financial/control-center.blade.php",
+"ar": "جودة العمل"
+},
+{
+"id": 9243,
+"f": "views/financial/control-center.blade.php",
+"ar": "خلاف مالي"
+},
+{
+"id": 9244,
+"f": "views/financial/control-center.blade.php",
+"ar": "تأخير"
+},
+{
+"id": 9245,
+"f": "views/financial/control-center.blade.php",
+"ar": "مشكلة تواصل"
+},
+{
+"id": 9246,
+"f": "views/financial/control-center.blade.php",
+"ar": "بانتظار رد الطرف الآخر"
+},
+{
+"id": 9247,
+"f": "views/financial/control-center.blade.php",
+"ar": "استرداد جزئي"
+},
+{
+"id": 9248,
+"f": "views/financial/control-center.blade.php",
+"ar": "استرداد كامل"
+},
+{
+"id": 9249,
+"f": "views/financial/control-center.blade.php",
+"ar": "مشاريع"
+},
+{
+"id": 9250,
+"f": "views/financial/control-center.blade.php",
+"ar": "صرف"
+},
+{
+"id": 9251,
+"f": "views/financial/control-center.blade.php",
+"ar": "حركة"
+},
+{
+"id": 9252,
+"f": "views/financial/control-center.blade.php",
+"ar": "الوقت والتاريخ"
+},
+{
+"id": 9253,
+"f": "views/financial/control-center.blade.php",
+"ar": "نوع المعاملة"
+},
+{
+"id": 9254,
+"f": "views/financial/control-center.blade.php",
+"ar": "إجمالي التحصيل"
+},
+{
+"id": 9255,
+"f": "views/financial/control-center.blade.php",
+"ar": "شامل كافة المعاملات"
+},
+{
+"id": 9256,
+"f": "views/financial/control-center.blade.php",
+"ar": "السيولة المستقرة الصافية"
+},
+{
+"id": 9257,
+"f": "views/financial/control-center.blade.php",
+"ar": "إجمالي إيراد المنصة"
+},
+{
+"id": 9258,
+"f": "views/financial/control-center.blade.php",
+"ar": "اشتراكات"
+},
+{
+"id": 9259,
+"f": "views/financial/control-center.blade.php",
+"ar": "عمولات تنفيذ"
+},
+{
+"id": 9260,
+"f": "views/financial/control-center.blade.php",
+"ar": "عمولات الخدمات والمشاريع"
+},
+{
+"id": 9261,
+"f": "views/financial/control-center.blade.php",
+"ar": "عمولات الاستشارات والمشاريع"
+},
+{
+"id": 9262,
+"f": "views/financial/control-center.blade.php",
+"ar": "إيراد الاشتراكات والباقات"
+},
+{
+"id": 9263,
+"f": "views/financial/control-center.blade.php",
+"ar": "الباقات المدفوعة المسجلة"
+},
+{
+"id": 9264,
+"f": "views/financial/control-center.blade.php",
+"ar": "باقات AI وشراء الرصيد الإضافي"
+},
+{
+"id": 9265,
+"f": "views/financial/control-center.blade.php",
+"ar": "محتجز (ضمان قيد التنفيذ)"
+},
+{
+"id": 9266,
+"f": "views/financial/control-center.blade.php",
+"ar": "مجمّد لحين الإفراج النظامي"
+},
+{
+"id": 9267,
+"f": "views/financial/control-center.blade.php",
+"ar": "المصروف للمستفيدين والخبراء"
+},
+{
+"id": 9268,
+"f": "views/financial/control-center.blade.php",
+"ar": "حوالات تم اعتماد صرفها"
+},
+{
+"id": 9269,
+"f": "views/financial/control-center.blade.php",
+"ar": "مستحقات محجوزة وقائياً"
+},
+{
+"id": 9270,
+"f": "views/financial/control-center.blade.php",
+"ar": "مرتبطة بنزاعات أو حجز مالي"
+},
+{
+"id": 9271,
+"f": "views/financial/control-center.blade.php",
+"ar": "الاستردادات المكتملة"
+},
+{
+"id": 9272,
+"f": "views/financial/control-center.blade.php",
+"ar": "أعيدت إلى العملاء"
+},
+{
+"id": 9273,
+"f": "views/financial/control-center.blade.php",
+"ar": "نزاعات مفتوحة وقيد النظر"
+},
+{
+"id": 9274,
+"f": "views/financial/control-center.blade.php",
+"ar": "تتطلب متابعة إدارية"
+},
+{
+"id": 9275,
+"f": "views/financial/control-center.blade.php",
+"ar": "استردادات معلقة الموافقة"
+},
+{
+"id": 9276,
+"f": "views/financial/control-center.blade.php",
+"ar": "بانتظار التنفيذ أو الإكمال"
+},
+{
+"id": 9277,
+"f": "views/financial/control-center.blade.php",
+"ar": "استرداد معلق"
+},
+{
+"id": 9278,
+"f": "views/financial/control-center.blade.php",
+"ar": "محتجز في الضمان"
+},
+{
+"id": 9279,
+"f": "views/financial/control-center.blade.php",
+"ar": "صرف مستحق"
+},
+{
+"id": 9280,
+"f": "views/financial/control-center.blade.php",
+"ar": "النظام متصل ومحدّث"
+},
+{
+"id": 9281,
+"f": "views/financial/control-center.blade.php",
+"ar": "مركز الرقابة المالية والتحكيم الشامل"
+},
+{
+"id": 9282,
+"f": "views/financial/control-center.blade.php",
+"ar": "إدارة الاستردادات"
+},
+{
+"id": 9283,
+"f": "views/financial/control-center.blade.php",
+"ar": "ملخص العمليات الرقابية والمحاسبية الموحدة"
+},
+{
+"id": 9284,
+"f": "views/financial/control-center.blade.php",
+"ar": "متابعة فورية ومباشرة لحركات التحصيل، عمولات المنصة، أرصدة الضمان المحجوزة وقائياً (Escrow)، قضايا النزاع، الاستردادات، وأوامر الصرف."
+},
+{
+"id": 9285,
+"f": "views/financial/control-center.blade.php",
+"ar": "العملة الافتراضية الرئيسية"
+},
+{
+"id": 9286,
+"f": "views/financial/control-center.blade.php",
+"ar": "متعدد العملات"
+},
+{
+"id": 9287,
+"f": "views/financial/control-center.blade.php",
+"ar": "حالة المطابقة المحاسبية"
+},
+{
+"id": 9288,
+"f": "views/financial/control-center.blade.php",
+"ar": "بيانات مباشرة"
+},
+{
+"id": 9289,
+"f": "views/financial/control-center.blade.php",
+"ar": "مؤشرات الرقابة والسيولة الإجمالية"
+},
+{
+"id": 9290,
+"f": "views/financial/control-center.blade.php",
+"ar": "حسب آخر البيانات المسجلة"
+},
+{
+"id": 9291,
+"f": "views/financial/control-center.blade.php",
+"ar": "نزاعات تحتاج متابعة إدارية وتحكيمية"
+},
+{
+"id": 9292,
+"f": "views/financial/control-center.blade.php",
+"ar": "تتطلب مراجعة لإصدار قرار أو حجز/إفراج"
+},
+{
+"id": 9293,
+"f": "views/financial/control-center.blade.php",
+"ar": "ظاهرة"
+},
+{
+"id": 9294,
+"f": "views/financial/control-center.blade.php",
+"ar": "لا توجد نزاعات مفتوحة تحتاج متابعة."
+},
+{
+"id": 9295,
+"f": "views/financial/control-center.blade.php",
+"ar": "استردادات تحتاج اعتماد وتنفيذ مالي"
+},
+{
+"id": 9296,
+"f": "views/financial/control-center.blade.php",
+"ar": "طلبات معتمدة أو قيد المعالجة"
+},
+{
+"id": 9297,
+"f": "views/financial/control-center.blade.php",
+"ar": "العميل المستحق:"
+},
+{
+"id": 9298,
+"f": "views/financial/control-center.blade.php",
+"ar": "عرض الاستردادات"
+},
+{
+"id": 9299,
+"f": "views/financial/control-center.blade.php",
+"ar": "لا توجد استردادات معلقة."
+},
+{
+"id": 9300,
+"f": "views/financial/control-center.blade.php",
+"ar": "تدقيق شامل لكافة الحركات: الاستشارات، المشاريع، الباقات، الاستردادات، وعمليات الصرف مرتبة زمنياً."
+},
+{
+"id": 9301,
+"f": "views/financial/control-center.blade.php",
+"ar": "البيان والخدمة المرتبطة"
+},
+{
+"id": 9302,
+"f": "views/financial/control-center.blade.php",
+"ar": "لا توجد حركات مالية حتى الآن."
+},
+{
+"id": 9303,
+"f": "views/financial/control-center.blade.php",
+"ar": "إجمالي قيود الصفحة:"
+},
+{
+"id": 9304,
+"f": "views/financial/control-center.blade.php",
+"ar": "صافي التدفق:"
+},
+{
+"id": 9305,
+"f": "views/financial/control-center.blade.php",
+"ar": "أحدث عمليات الصرف والتحويل للمستفيدين"
+},
+{
+"id": 9306,
+"f": "views/financial/control-center.blade.php",
+"ar": "سجل المدفوعات الصادرة عبر بوابات الدفع والتحويلات المعتمدة"
+},
+{
+"id": 9307,
+"f": "views/financial/control-center.blade.php",
+"ar": "بوابات الصرف المستخدمة:"
+},
+{
+"id": 9308,
+"f": "views/financial/control-center.blade.php",
+"ar": "المبلغ الصافي المحول"
+},
+{
+"id": 9309,
+"f": "views/financial/control-center.blade.php",
+"ar": "حالة التحويل"
+},
+{
+"id": 9310,
+"f": "views/financial/control-center.blade.php",
+"ar": "لا توجد عمليات صرف حتى الآن."
+},
+{
+"id": 9311,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "الإمارات"
+},
+{
+"id": 9312,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "الأردن"
+},
+{
+"id": 9313,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "مصر"
+},
+{
+"id": 9314,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اسم المستفيد الكامل"
+},
+{
+"id": 9315,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "آخر 4 أرقام"
+},
+{
+"id": 9316,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "محفظة رقمية معتمدة"
+},
+{
+"id": 9317,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "الحساب البنكي"
+},
+{
+"id": 9318,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "عنوان على الشبكة الموثقة"
+},
+{
+"id": 9319,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "الرجوع"
+},
+{
+"id": 9320,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "المدفوعات والمستحقات"
+},
+{
+"id": 9321,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "بيانات الاستلام محمية ولا يتم اعتماد أي حساب قبل مراجعة الإدارة"
+},
+{
+"id": 9322,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "أي تعديل على بيانات الاستلام يعيد الحساب تلقائيًا إلى المراجعة قبل السماح بصرف المستحقات."
+},
+{
+"id": 9323,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "نوع حساب الاستلام"
+},
+{
+"id": 9324,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "عبر مزود صرف آمن"
+},
+{
+"id": 9325,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "محفظة عملات رقمية معتمدة"
+},
+{
+"id": 9326,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "كما يظهر في حساب الاستلام"
+},
+{
+"id": 9327,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "المدينة، الشارع، المبنى"
+},
+{
+"id": 9328,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "مثال: رام الله - شارع الإرسال"
+},
+{
+"id": 9329,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اسم البنك الرسمي"
+},
+{
+"id": 9330,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اسم الفرع"
+},
+{
+"id": 9331,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "رقم الحساب المحلي"
+},
+{
+"id": 9332,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "رقم الآيبان الدولي"
+},
+{
+"id": 9333,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "يبدأ برمز الدولة"
+},
+{
+"id": 9334,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "رمز السويفت"
+},
+{
+"id": 9335,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "أو 11 حرفًا"
+},
+{
+"id": 9336,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "أدخل رقم الحساب أو IBAN واحدًا على الأقل، وتأكد من تطابق اسم المستفيد مع بيانات البنك."
+},
+{
+"id": 9337,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "تأكد من تطابق الأصل والشبكة والعنوان. لا تُدخل عبارة الاسترداد أو المفتاح الخاص."
+},
+{
+"id": 9338,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "شبكة الاستلام"
+},
+{
+"id": 9339,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "عنوان استلام المستحقات"
+},
+{
+"id": 9340,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "عنوان محفظتك على الشبكة المحددة"
+},
+{
+"id": 9341,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اختر USD في حقل عملة الاستلام؛ سيتم مراجعة هذا العنوان من الإدارة كأي حساب استلام آخر."
+},
+{
+"id": 9342,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "سيتم صرف المستحقات إلى بريد PayPal بعد توثيق الحساب من الإدارة."
+},
+{
+"id": 9343,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "حماية بيانات البطاقة"
+},
+{
+"id": 9344,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "لا تدخل رقم Visa الكامل أو CVV. اربط البطاقة لدى مزود الصرف واحفظ فقط"
+},
+{
+"id": 9345,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "مزود الصرف"
+},
+{
+"id": 9346,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اسم مزود الصرف"
+},
+{
+"id": 9347,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "اتركه فارغًا للاحتفاظ بالرمز الحالي"
+},
+{
+"id": 9348,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "مراجعة أمنية"
+},
+{
+"id": 9349,
+"f": "views/financial/my-payout-account.blade.php",
+"ar": "تخضع جميع حسابات الاستلام لمراجعة الإدارة قبل تفعيل صرف المستحقات."
+},
+{
+"id": 9350,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "الفرع"
+},
+{
+"id": 9351,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "الحساب / الوجهة"
+},
+{
+"id": 9352,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "عملات رقمية:"
+},
+{
+"id": 9353,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "اعتماد بعد المراجعة"
+},
+{
+"id": 9354,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "لا توجد حسابات مطابقة للفلاتر الحالية."
+},
+{
+"id": 9355,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "حفظ وإرسال للمراجعة"
+},
+{
+"id": 9356,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تم تنفيذ العملية"
+},
+{
+"id": 9357,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "التسويات والمدفوعات"
+},
+{
+"id": 9358,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "حسابات المستفيدين"
+},
+{
+"id": 9359,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "الحسابات البنكية للمستفيدين"
+},
+{
+"id": 9360,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "توثيق ومطابقة حسابات استلام مستحقات المهندسين والمكاتب قبل تنفيذ التحويلات، مع إبقاء بيانات الحساب الحساسة مخفية جزئيًا داخل لوحة الإدارة."
+},
+{
+"id": 9361,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تصفية متقدمة"
+},
+{
+"id": 9362,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "إجمالي الحسابات"
+},
+{
+"id": 9363,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "خلال الأسبوع الحالي"
+},
+{
+"id": 9364,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تحتاج قرارًا"
+},
+{
+"id": 9365,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "المراجعة قبل السماح بالصرف"
+},
+{
+"id": 9366,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "موثقة ومعتمدة"
+},
+{
+"id": 9367,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "جاهزة للصرف"
+},
+{
+"id": 9368,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "نسبة التوثيق"
+},
+{
+"id": 9369,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تحتاج تعديل"
+},
+{
+"id": 9370,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "سبب الرفض محفوظ لكل حساب"
+},
+{
+"id": 9371,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "جميع الحسابات"
+},
+{
+"id": 9372,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "ابحث بالاسم، البنك، الآيبان، SWIFT أو البريد..."
+},
+{
+"id": 9373,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "نوع وسيلة الاستلام"
+},
+{
+"id": 9374,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "كل الوسائل"
+},
+{
+"id": 9375,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "عبر مزود الصرف"
+},
+{
+"id": 9376,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "البنك"
+},
+{
+"id": 9377,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "كل البنوك"
+},
+{
+"id": 9378,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "سجل حسابات استلام المستحقات"
+},
+{
+"id": 9379,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تظهر البيانات الحساسة بصيغة مخفية لأغراض الأمان."
+},
+{
+"id": 9380,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "المستفيد والجهة"
+},
+{
+"id": 9381,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "بطاقة مرتبطة بمزود صرف"
+},
+{
+"id": 9382,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "الحسابات"
+},
+{
+"id": 9383,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "إخفاء البيانات الحساسة"
+},
+{
+"id": 9384,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "رقم الحساب والـIBAN يظهران بصيغة مخفية في سجل الإدارة، بينما تبقى بيانات الصرف محفوظة في السجل الأصلي."
+},
+{
+"id": 9385,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "التوثيق شرط للصرف"
+},
+{
+"id": 9386,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "الحساب لا يصبح جاهزًا لتحويل المستحقات إلا بعد اعتماد الإدارة وتحديث حالة التوثيق إلى موثق."
+},
+{
+"id": 9387,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "رفض مسبب وقابل للمراجعة"
+},
+{
+"id": 9388,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "أي رفض يتطلب سببًا واضحًا، ويمكن للإدارة لاحقًا إعادة مراجعة الحساب واعتماده دون إنشاء سجل مكرر."
+},
+{
+"id": 9389,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "رفض توثيق حساب الاستلام"
+},
+{
+"id": 9390,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "اكتب السبب بدقة ليبقى محفوظًا مع الحساب ويعرف الفريق سبب عدم الاعتماد."
+},
+{
+"id": 9391,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "مثال: اسم المستفيد لا يطابق البيانات المسجلة، أو IBAN غير واضح..."
+},
+{
+"id": 9392,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "تأكيد الرفض"
+},
+{
+"id": 9393,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "إضافة أو تحديث حساب مستفيد من لوحة الإدارة. سيعود الحساب إلى حالة المراجعة قبل الصرف."
+},
+{
+"id": 9394,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "مهندس / مستخدم"
+},
+{
+"id": 9395,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "اسم المستفيد كما يظهر في الحساب"
+},
+{
+"id": 9396,
+"f": "views/financial/payout-accounts.blade.php",
+"ar": "عنوان المستفيد — اختياري"
+},
+{
+"id": 9397,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تحويل الدفعة"
+},
+{
+"id": 9398,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "عرض فقط"
+},
+{
+"id": 9399,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحقات المهندسين"
+},
+{
+"id": 9400,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "جاهز منذ"
+},
+{
+"id": 9401,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تحديد جميع المستحقات القابلة للصرف"
+},
+{
+"id": 9402,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حساب التحويل"
+},
+{
+"id": 9403,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مهندس غير معروف"
+},
+{
+"id": 9404,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حساب استلام موثّق"
+},
+{
+"id": 9405,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حساب الاستلام يحتاج توثيق"
+},
+{
+"id": 9406,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "راجع حساب الاستلام"
+},
+{
+"id": 9407,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا توجد مستحقات مهندسين جاهزة حاليًا."
+},
+{
+"id": 9408,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حساب الاستلام"
+},
+{
+"id": 9409,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "موثّق"
+},
+{
+"id": 9410,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "غير جاهز"
+},
+{
+"id": 9411,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مكتب غير معروف"
+},
+{
+"id": 9412,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا توجد مستحقات مكاتب جاهزة حاليًا."
+},
+{
+"id": 9413,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مرجع"
+},
+{
+"id": 9414,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا يوجد حساب استلام"
+},
+{
+"id": 9415,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "يجب ربط حساب قبل الصرف"
+},
+{
+"id": 9416,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "التسويات والصرف"
+},
+{
+"id": 9417,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحق جاهز"
+},
+{
+"id": 9418,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا يظهر المستحق هنا إلا بعد اعتماد العميل اكتمال العمل وتأكيد الدفعة، ولا يسمح بالصرف إلا إلى حساب استلام موثّق وغير محجوز بنزاع مالي."
+},
+{
+"id": 9419,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تصدير كشف الصرف"
+},
+{
+"id": 9420,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "إجمالي المستحقات الجاهزة"
+},
+{
+"id": 9421,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحقًا"
+},
+{
+"id": 9422,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "بحساب موثّق"
+},
+{
+"id": 9423,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحق مهندس مستقل"
+},
+{
+"id": 9424,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحقات المكاتب"
+},
+{
+"id": 9425,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحق مكتب هندسي"
+},
+{
+"id": 9426,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تحويلات قيد التنفيذ"
+},
+{
+"id": 9427,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا توجد مبالغ قيد المعالجة"
+},
+{
+"id": 9428,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "جميع المستحقات"
+},
+{
+"id": 9429,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "فلترة بالاسم، المشروع، رقم الدفعة أو المرجع..."
+},
+{
+"id": 9430,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحقات المهندسين المستقلين"
+},
+{
+"id": 9431,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "مستحقات المكاتب الاستشارية"
+},
+{
+"id": 9432,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حساب مؤسسي موثّق"
+},
+{
+"id": 9433,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تحويلات قيد التنفيذ بالمزودات"
+},
+{
+"id": 9434,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تحتاج تأكيد المزود أو مرجع PayPal/Visa حسب نوع العملية"
+},
+{
+"id": 9435,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "الحقيقي"
+},
+{
+"id": 9436,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "بانتظار تأكيد البنك أو تحديث حالة المزود."
+},
+{
+"id": 9437,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "بانتظار تحديث المزود."
+},
+{
+"id": 9438,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "للعرض فقط — التأكيد متاح للإدارة."
+},
+{
+"id": 9439,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "لا توجد تحويلات معلقة حاليًا."
+},
+{
+"id": 9440,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حماية النزاعات"
+},
+{
+"id": 9441,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "أي مستحق عليه حجز نزاع لا يدخل هذه القائمة أصلًا، ويمنع PayoutService صرفه من الخادم."
+},
+{
+"id": 9442,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "الصرف يتطلب حسابًا افتراضيًا موثّقًا للمستفيد، سواء كان بنكًا أو PayPal أو Visa عبر مزود الصرف."
+},
+{
+"id": 9443,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تأكيد مزود حقيقي"
+},
+{
+"id": 9444,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "عمليات PayPal/Visa لا تسجّل مدفوعة حتى إدخال مرجع المزود الحقيقي؛ أما البنك فيتبع تحديث بوابة البنك."
+},
+{
+"id": 9445,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "تأكيد إصدار أمر الصرف"
+},
+{
+"id": 9446,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "سيتم استخدام حساب الاستلام الموثّق للمستفيد."
+},
+{
+"id": 9447,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "اعتماد وبدء الصرف"
+},
+{
+"id": 9448,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "حدد مستحقًا واحدًا على الأقل للصرف الجماعي."
+},
+{
+"id": 9449,
+"f": "views/financial/payout-queue.blade.php",
+"ar": "سيتم إصدار أوامر صرف للمستحقات المحددة باستخدام حسابات الاستلام الموثقة. هل تريد المتابعة؟"
+},
+{
+"id": 9450,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "رمز العملة الرقمية"
+},
+{
+"id": 9451,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "بنك / تحويل بنكي"
+},
+{
+"id": 9452,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "منصة / بوابة دفع"
+},
+{
+"id": 9453,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "اسم الشبكة"
+},
+{
+"id": 9454,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "عنوان الشبكة"
+},
+{
+"id": 9455,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "يتطلب إيصال"
+},
+{
+"id": 9456,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "مفعّل ومتاح للمستخدم"
+},
+{
+"id": 9457,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "نفس نظام الدفع السابق، لكن مرتب داخل ثلاث فئات فقط: فلسطين، السعودية، ومنصات دفع عالمية. كل البيانات تستخدم تلقائيًا في الباقات والاستشارات ودفعات المشاريع."
+},
+{
+"id": 9458,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "البنوك والمحافظ وبوابات الدفع القديمة."
+},
+{
+"id": 9459,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "بنك أو محفظة"
+},
+{
+"id": 9460,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "إيصال إلزامي للمراجعة."
+},
+{
+"id": 9461,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "بطاقات أو منصات عالمية وروابط دفع آمنة."
+},
+{
+"id": 9462,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "مثال: USDT أو USDC أو رمز آخر"
+},
+{
+"id": 9463,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "عنوان محفظة الشركة على الشبكة المختارة"
+},
+{
+"id": 9464,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "رصيد المحفظة يظل بالدولار USD، واسم العملة لا يحدد سعر صرفها أو هوية عقدها على الشبكة تلقائيًا. يلزم تحقق المسؤول من الأصل والشبكة والمبلغ الفعليين قبل اعتماد الإيداع. لا تدخل مفتاحًا خاصًا أو عبارة استرداد."
+},
+{
+"id": 9465,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "اسم طريقة الدفع"
+},
+{
+"id": 9466,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "اسم البنك/المحفظة/المنصة"
+},
+{
+"id": 9467,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "رابط الدفع الآمن (اختياري)"
+},
+{
+"id": 9468,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "للربط API (اختياري)"
+},
+{
+"id": 9469,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "تعليمات الدفع"
+},
+{
+"id": 9470,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "الحالة الفعلية:"
+},
+{
+"id": 9471,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "مفعّل ومتاح"
+},
+{
+"id": 9472,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "رابط الدفع"
+},
+{
+"id": 9473,
+"f": "views/financial/platform-payment-methods.blade.php",
+"ar": "لا توجد طرق دفع."
+},
+{
+"id": 9474,
+"f": "views/financial/project-closing.blade.php",
+"ar": "سبب إعادة الفتح"
+},
+{
+"id": 9475,
+"f": "views/financial/project-closing.blade.php",
+"ar": "لا توجد مشاريع مطابقة."
+},
+{
+"id": 9476,
+"f": "views/financial/project-closing.blade.php",
+"ar": "الإغلاق المالي للمشاريع"
+},
+{
+"id": 9477,
+"f": "views/financial/project-closing.blade.php",
+"ar": "لا يتم الإغلاق إلا بعد اكتمال المشروع وتسوية دفعات العميل ومستحقات المهندس."
+},
+{
+"id": 9478,
+"f": "views/financial/project-closing.blade.php",
+"ar": "مكتملة تنفيذيًا"
+},
+{
+"id": 9479,
+"f": "views/financial/project-closing.blade.php",
+"ar": "مفتوحة ماليًا"
+},
+{
+"id": 9480,
+"f": "views/financial/project-closing.blade.php",
+"ar": "مغلقة ماليًا"
+},
+{
+"id": 9481,
+"f": "views/financial/project-closing.blade.php",
+"ar": "جاهزة للإغلاق"
+},
+{
+"id": 9482,
+"f": "views/financial/project-closing.blade.php",
+"ar": "رقم المشروع / الاسم / العميل / المهندس"
+},
+{
+"id": 9483,
+"f": "views/financial/project-closing.blade.php",
+"ar": "الحالة التنفيذية"
+},
+{
+"id": 9484,
+"f": "views/financial/project-closing.blade.php",
+"ar": "الحالة المالية"
+},
+{
+"id": 9485,
+"f": "views/financial/project-closing.blade.php",
+"ar": "جاهز للإغلاق"
+},
+{
+"id": 9486,
+"f": "views/financial/project-closing.blade.php",
+"ar": "الحالة التنفيذية:"
+},
+{
+"id": 9487,
+"f": "views/financial/project-closing.blade.php",
+"ar": "تأكيد الإغلاق المالي النهائي للمشروع؟"
+},
+{
+"id": 9488,
+"f": "views/financial/project-closing.blade.php",
+"ar": "إغلاق مالي نهائي"
+},
+{
+"id": 9489,
+"f": "views/financial/project-closing.blade.php",
+"ar": "إعادة فتح مالي"
+},
+{
+"id": 9490,
+"f": "views/financial/project-closing.blade.php",
+"ar": "دفعات غير مسددة"
+},
+{
+"id": 9491,
+"f": "views/financial/project-closing.blade.php",
+"ar": "عمولات مهندس بانتظار الدفع"
+},
+{
+"id": 9492,
+"f": "views/financial/project-closing.blade.php",
+"ar": "تم الإغلاق المالي:"
+},
+{
+"id": 9493,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "مستحق المهندس"
+},
+{
+"id": 9494,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "مستحقات مهندسي المشاريع"
+},
+{
+"id": 9495,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "متابعة عمولات مهندسي المشاريع وتسجيل التحويلات المالية."
+},
+{
+"id": 9496,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "تم دفعه"
+},
+{
+"id": 9497,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "سيتم إرسال طلب تحويل مستحق المهندس إلى البنك. لن تعتبر الدفعة مدفوعة إلا بعد تأكيد البنك. متابعة؟"
+},
+{
+"id": 9498,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "دفع مستحق المهندس"
+},
+{
+"id": 9499,
+"f": "views/financial/project-engineer-earnings.blade.php",
+"ar": "لا توجد مستحقات مطابقة."
+},
+{
+"id": 9500,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "قيد التحويل البنكي"
+},
+{
+"id": 9501,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "مستحق المكتب"
+},
+{
+"id": 9502,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "إجمالي المستحقات"
+},
+{
+"id": 9503,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "رقم أو اسم المشروع"
+},
+{
+"id": 9504,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "قيمة الدفعة"
+},
+{
+"id": 9505,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "مستحقات المكاتب الهندسية"
+},
+{
+"id": 9506,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "إدارة نسب ومستحقات المكاتب للمشاريع"
+},
+{
+"id": 9507,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "سيتم إرسال طلب تحويل مستحق المكتب إلى البنك ولن يسجل مدفوعًا إلا بعد تأكيد البنك. متابعة؟"
+},
+{
+"id": 9508,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "دفع مستحق المكتب"
+},
+{
+"id": 9509,
+"f": "views/financial/project-office-earnings.blade.php",
+"ar": "لا توجد مستحقات مكاتب حتى الآن."
+},
+{
+"id": 9510,
+"f": "views/financial/projects/index.blade.php",
+"ar": "كل المهندسين"
+},
+{
+"id": 9511,
+"f": "views/financial/projects/index.blade.php",
+"ar": "صافي المكتب"
+},
+{
+"id": 9512,
+"f": "views/financial/projects/index.blade.php",
+"ar": "مراجعة جميع دفعات المشاريع والإيصالات من مكان واحد."
+},
+{
+"id": 9513,
+"f": "views/financial/projects/index.blade.php",
+"ar": "إجمالي المجدول"
+},
+{
+"id": 9514,
+"f": "views/financial/projects/index.blade.php",
+"ar": "تم تحصيله"
+},
+{
+"id": 9515,
+"f": "views/financial/projects/index.blade.php",
+"ar": "صافي المهندس"
+},
+{
+"id": 9516,
+"f": "views/financial/projects/index.blade.php",
+"ar": "القيمة / الاستحقاق"
+},
+{
+"id": 9517,
+"f": "views/financial/projects/index.blade.php",
+"ar": "حفظ العمولة"
+},
+{
+"id": 9518,
+"f": "views/financial/projects/index.blade.php",
+"ar": "قائمة"
+},
+{
+"id": 9519,
+"f": "views/financial/projects/index.blade.php",
+"ar": "لا توجد دفعات مشاريع مطابقة للفلاتر الحالية."
+},
+{
+"id": 9520,
+"f": "views/financial/refunds.blade.php",
+"ar": "مركز الرقابة المالية"
+},
+{
+"id": 9521,
+"f": "views/financial/refunds.blade.php",
+"ar": "معتمد للصرف"
+},
+{
+"id": 9522,
+"f": "views/financial/refunds.blade.php",
+"ar": "نظام التسوية:"
+},
+{
+"id": 9523,
+"f": "views/financial/refunds.blade.php",
+"ar": "نشط وجاهز للمراجعة"
+},
+{
+"id": 9524,
+"f": "views/financial/refunds.blade.php",
+"ar": "تصدير مسوغات الصرف"
+},
+{
+"id": 9525,
+"f": "views/financial/refunds.blade.php",
+"ar": "مراجعة وتوثيق مرجع التحويل"
+},
+{
+"id": 9526,
+"f": "views/financial/refunds.blade.php",
+"ar": "طلبات تتطلب التحقق"
+},
+{
+"id": 9527,
+"f": "views/financial/refunds.blade.php",
+"ar": "تنفيذ اعتمادات استرداد المبالغ للعملاء بعد القرارات الرضائية والتحكيمية."
+},
+{
+"id": 9528,
+"f": "views/financial/refunds.blade.php",
+"ar": "لا يعتبر الاسترداد مكتملًا محاسبيًا إلا بعد توثيق مرجع التحويل الحقيقي الصادر من البنك أو بوابة الدفع."
+},
+{
+"id": 9529,
+"f": "views/financial/refunds.blade.php",
+"ar": "إجمالي طلبات الاسترداد اليوم"
+},
+{
+"id": 9530,
+"f": "views/financial/refunds.blade.php",
+"ar": "نسبة المعالجة خلال 24 ساعة"
+},
+{
+"id": 9531,
+"f": "views/financial/refunds.blade.php",
+"ar": "بروتوكول تسوية الاستردادات المالية"
+},
+{
+"id": 9532,
+"f": "views/financial/refunds.blade.php",
+"ar": "جميع الطلبات أدناه تخضع للتحقق المالي. إدخال مرجع الحوالة البنكية أو معرّف الاسترداد من بوابة الدفع هو الشرط النهائي لنقل الطلب إلى حالة"
+},
+{
+"id": 9533,
+"f": "views/financial/refunds.blade.php",
+"ar": "طلبات قيد المراجعة والمطابقة"
+},
+{
+"id": 9534,
+"f": "views/financial/refunds.blade.php",
+"ar": "عملية تنتظر التنفيذ"
+},
+{
+"id": 9535,
+"f": "views/financial/refunds.blade.php",
+"ar": "استردادات مكتملة هذا الشهر"
+},
+{
+"id": 9536,
+"f": "views/financial/refunds.blade.php",
+"ar": "تم توثيقها"
+},
+{
+"id": 9537,
+"f": "views/financial/refunds.blade.php",
+"ar": "مرتبطة بقضايا تحكيم مالي"
+},
+{
+"id": 9538,
+"f": "views/financial/refunds.blade.php",
+"ar": "طلب مرتبط بنزاع"
+},
+{
+"id": 9539,
+"f": "views/financial/refunds.blade.php",
+"ar": "مرفوضة وغير مطابقة"
+},
+{
+"id": 9540,
+"f": "views/financial/refunds.blade.php",
+"ar": "طلب مرفوض"
+},
+{
+"id": 9541,
+"f": "views/financial/refunds.blade.php",
+"ar": "يظل سبب الرفض محفوظًا في سجل الطلب."
+},
+{
+"id": 9542,
+"f": "views/financial/refunds.blade.php",
+"ar": "كافة الطلبات"
+},
+{
+"id": 9543,
+"f": "views/financial/refunds.blade.php",
+"ar": "معلقة وتنتظر التنفيذ"
+},
+{
+"id": 9544,
+"f": "views/financial/refunds.blade.php",
+"ar": "بحث بالمرجع أو اسم العميل..."
+},
+{
+"id": 9545,
+"f": "views/financial/refunds.blade.php",
+"ar": "ملف النزاع المرتبط"
+},
+{
+"id": 9546,
+"f": "views/financial/refunds.blade.php",
+"ar": "القيمة والعملة"
+},
+{
+"id": 9547,
+"f": "views/financial/refunds.blade.php",
+"ar": "المصدر ومحتوى الدفعة"
+},
+{
+"id": 9548,
+"f": "views/financial/refunds.blade.php",
+"ar": "إجراء المعالجة والتأكيد المالي"
+},
+{
+"id": 9549,
+"f": "views/financial/refunds.blade.php",
+"ar": "لا يوجد نزاع مرتبط"
+},
+{
+"id": 9550,
+"f": "views/financial/refunds.blade.php",
+"ar": "وضع قيد المعالجة أولًا"
+},
+{
+"id": 9551,
+"f": "views/financial/refunds.blade.php",
+"ar": "إدخال مرجع التحويل الحقيقي:"
+},
+{
+"id": 9552,
+"f": "views/financial/refunds.blade.php",
+"ar": "سبب رفض الاسترداد..."
+},
+{
+"id": 9553,
+"f": "views/financial/refunds.blade.php",
+"ar": "مرجع غير متوفر"
+},
+{
+"id": 9554,
+"f": "views/financial/refunds.blade.php",
+"ar": "استرداد موثق ومكتمل"
+},
+{
+"id": 9555,
+"f": "views/financial/refunds.blade.php",
+"ar": "لم يسجل سبب"
+},
+{
+"id": 9556,
+"f": "views/financial/refunds.blade.php",
+"ar": "لا توجد طلبات استرداد مطابقة للفلاتر الحالية."
+},
+{
+"id": 9557,
+"f": "views/financial/refunds.blade.php",
+"ar": "توثيق المراجع المالية"
+},
+{
+"id": 9558,
+"f": "views/financial/refunds.blade.php",
+"ar": "يدعم النظام تسجيل مرجع التحويل البنكي أو معرّف الاسترداد الصادر من بوابة الدفع، ولا يغلق الطلب من دون هذا المرجع."
+},
+{
+"id": 9559,
+"f": "views/financial/refunds.blade.php",
+"ar": "الأثر المحاسبي الفوري"
+},
+{
+"id": 9560,
+"f": "views/financial/refunds.blade.php",
+"ar": "عند تأكيد الاسترداد يعاد احتساب المبلغ المتبقي ومستحقات المشروع أو الاستشارة والـEscrow المرتبط حسب حالة المصدر."
+},
+{
+"id": 9561,
+"f": "views/financial/refunds.blade.php",
+"ar": "سجل تدقيق واضح"
+},
+{
+"id": 9562,
+"f": "views/financial/refunds.blade.php",
+"ar": "يتم الاحتفاظ بحالة الطلب ومرجع التنفيذ وسبب الرفض وربطها بملف النزاع أو الدفعة الأصلية لسهولة المراجعة."
+},
+{
+"id": 9563,
+"f": "views/invoices/pdf.blade.php",
+"ar": "شعار المكتب"
+},
+{
+"id": 9564,
+"f": "views/invoices/pdf.blade.php",
+"ar": "توقيع الإدارة"
+},
+{
+"id": 9565,
+"f": "views/invoices/pdf.blade.php",
+"ar": "بيانات العميل"
+},
+{
+"id": 9566,
+"f": "views/invoices/pdf.blade.php",
+"ar": "الضريبة"
+},
+{
+"id": 9567,
+"f": "views/invoices/pdf.blade.php",
+"ar": "دفعة خاصة بالمشروع:"
+},
+{
+"id": 9568,
+"f": "views/invoices/pdf.blade.php",
+"ar": "دفعة خاصة بالاستشارة رقم"
+},
+{
+"id": 9569,
+"f": "views/invoices/pdf.blade.php",
+"ar": "دفعة مقابل خدمة هندسية"
+},
+{
+"id": 9570,
+"f": "views/invoices/pdf.blade.php",
+"ar": "نقدًا"
+},
+{
+"id": 9571,
+"f": "views/invoices/pdf.blade.php",
+"ar": "مستند مالي إلكتروني"
+},
+{
+"id": 9572,
+"f": "views/invoices/pdf.blade.php",
+"ar": "للاستشارات والخدمات الهندسية"
+},
+{
+"id": 9573,
+"f": "views/invoices/pdf.blade.php",
+"ar": "تفاصيل الدفع"
+},
+{
+"id": 9574,
+"f": "views/invoices/pdf.blade.php",
+"ar": "لم يتم تعيين مهندس"
+},
+{
+"id": 9575,
+"f": "views/invoices/pdf.blade.php",
+"ar": "الخدمة / الدفعة"
+},
+{
+"id": 9576,
+"f": "views/invoices/pdf.blade.php",
+"ar": "وصف الخدمة"
+},
+{
+"id": 9577,
+"f": "views/invoices/pdf.blade.php",
+"ar": "صدرت مقابل"
+},
+{
+"id": 9578,
+"f": "views/invoices/pdf.blade.php",
+"ar": "رقم الدفعة"
+},
+{
+"id": 9579,
+"f": "views/invoices/pdf.blade.php",
+"ar": "رقم العملية"
+},
+{
+"id": 9580,
+"f": "views/invoices/pdf.blade.php",
+"ar": "هذه الفاتورة صادرة إلكترونيًا بعد تأكيد عملية الدفع، وتوضح اسم الدفعة والغرض الذي صدرت من أجله."
+},
+{
+"id": 9581,
+"f": "views/invoices/pdf.blade.php",
+"ar": "الختم الرسمي"
+},
+{
+"id": 9582,
+"f": "views/invoices/pdf.blade.php",
+"ar": "ختم"
+},
+{
+"id": 9583,
+"f": "views/invoices/pdf.blade.php",
+"ar": "صورة التوقيع غير موجودة"
+},
+{
+"id": 9584,
+"f": "views/invoices/pdf.blade.php",
+"ar": "مستند صادر إلكترونيًا من"
+},
+{
+"id": 9585,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "نتيجة التحقق من الهوية"
+},
+{
+"id": 9586,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "تم استلام بيانات التحقق"
+},
+{
+"id": 9587,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "لم يكتمل التحقق"
+},
+{
+"id": 9588,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "طلبك قيد المراجعة"
+},
+{
+"id": 9589,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "سيتم إشعارك بنتيجة توثيق الهوية النهائية بعد مراجعتها من فريقنا. يمكنك متابعة الحالة من صفحة"
+},
+{
+"id": 9590,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "في حسابك."
+},
+{
+"id": 9591,
+"f": "views/kyc/didit-return.blade.php",
+"ar": "الرجوع إلى حسابي"
+},
+{
+"id": 9592,
+"f": "views/kyc/index.blade.php",
+"ar": "إلزامي"
+},
+{
+"id": 9593,
+"f": "views/kyc/index.blade.php",
+"ar": "غير موثق"
+},
+{
+"id": 9594,
+"f": "views/kyc/index.blade.php",
+"ar": "بوابة الأمان والتحقق"
+},
+{
+"id": 9595,
+"f": "views/kyc/index.blade.php",
+"ar": "مركز توثيق الهوية الرسمية"
+}
+]

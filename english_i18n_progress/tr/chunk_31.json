@@ -1,0 +1,2477 @@
+[
+{
+"id": 11210,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "تم اختيار:"
+},
+{
+"id": 11211,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "متابعة الدفع"
+},
+{
+"id": 11212,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "نشط محلياً"
+},
+{
+"id": 11213,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "دفع محلي بإيصال"
+},
+{
+"id": 11214,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "بوابات عالمية"
+},
+{
+"id": 11215,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "مسار دفع محمي"
+},
+{
+"id": 11216,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "دفع دفعة المشروع"
+},
+{
+"id": 11217,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "المبلغ المطلوب سداده"
+},
+{
+"id": 11218,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "دفعة مرتبطة بالمشروع وتخضع لآلية التحقق المعتمدة حسب وسيلة الدفع"
+},
+{
+"id": 11219,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "لا توجد طريقة دفع مفعلة"
+},
+{
+"id": 11220,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "لا توجد طرق دفع ضمن هذا القسم."
+},
+{
+"id": 11221,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "اكتب مرجع الدفع"
+},
+{
+"id": 11222,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "كما هو عند تنفيذ الحوالة لضمان سرعة المطابقة."
+},
+{
+"id": 11223,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "فتح بوابة الدفع"
+},
+{
+"id": 11224,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "فلسطين:"
+},
+{
+"id": 11225,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "تظهر جميع البنوك والمحافظ وبوابات الدفع القديمة التابعة لفلسطين، وكل وسيلة تعمل وفق حالة تفعيلها الحالية."
+},
+{
+"id": 11226,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "السعودية:"
+},
+{
+"id": 11227,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "اختر بنكًا أو محفظة، حوّل إلى البيانات الظاهرة ثم أرفق الإيصال. تبقى العملية قيد مراجعة الإدارة حتى اعتمادها."
+},
+{
+"id": 11228,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "منصات دفع عالمية:"
+},
+{
+"id": 11229,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "تظهر البطاقات والمنصات العالمية التي قامت الإدارة بإضافتها أو تفعيلها لهذا المسار."
+},
+{
+"id": 11230,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "مطلوب للتحقق"
+},
+{
+"id": 11231,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "اضغط هنا لاختيار أو رفع إيصال الدفع"
+},
+{
+"id": 11232,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "الحد الأقصى 10 ميجابايت"
+},
+{
+"id": 11233,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "اختيار ملف الإثبات"
+},
+{
+"id": 11234,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "يرسل الإيصال للمراجعة والتدقيق المالي ولا يُعتمد الدفع تلقائيًا بدون تحقق."
+},
+{
+"id": 11235,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "متابعة الدفع وإرسال الإيصال"
+},
+{
+"id": 11236,
+"f": "views/projects/installment-payment.blade.php",
+"ar": "صورة الإيصال تُحفظ كإثبات للحوالة. نجاح صفحة الدفع أو الصورة وحدهما لا يعتمد الدفعة؛ التأكيد النهائي يتم من التحقق الموثق أو مراجعة الإدارة عند الحاجة."
+},
+{
+"id": 11237,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "المعلومات الأساسية"
+},
+{
+"id": 11238,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "جدول الأعمال"
+},
+{
+"id": 11239,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "عنوان البند..."
+},
+{
+"id": 11240,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "تفاصيل موجزة..."
+},
+{
+"id": 11241,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "المسؤول..."
+},
+{
+"id": 11242,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "المدة (د)"
+},
+{
+"id": 11243,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "جدولة اجتماع مشروع"
+},
+{
+"id": 11244,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "حدد موعد الاجتماع والمشاركين وجدول الأعمال. الاجتماع سيُعقد مباشرة داخل المنصة بالصوت والفيديو ومشاركة الشاشة."
+},
+{
+"id": 11245,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "عنوان الاجتماع"
+},
+{
+"id": 11246,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "مثال: مراجعة التصميم الأولي للمرحلة الثانية"
+},
+{
+"id": 11247,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "المشاركون والأهداف"
+},
+{
+"id": 11248,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "أهداف الاجتماع"
+},
+{
+"id": 11249,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "حدد الأهداف الرئيسية والنتائج المتوقعة من هذا الاجتماع..."
+},
+{
+"id": 11250,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "الحضور المدعوون"
+},
+{
+"id": 11251,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "مرفقات الاجتماع"
+},
+{
+"id": 11252,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "اسحب الملفات هنا أو انقر للاختيار"
+},
+{
+"id": 11253,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "حتى 50MB للملف"
+},
+{
+"id": 11254,
+"f": "views/projects/meetings/create.blade.php",
+"ar": "إنشاء الاجتماع"
+},
+{
+"id": 11255,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "مجدول"
+},
+{
+"id": 11256,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "تسليم"
+},
+{
+"id": 11257,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "تنسيقي"
+},
+{
+"id": 11258,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "سجل الاجتماعات"
+},
+{
+"id": 11259,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "يناير"
+},
+{
+"id": 11260,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "فبراير"
+},
+{
+"id": 11261,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "مارس"
+},
+{
+"id": 11262,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "أبريل"
+},
+{
+"id": 11263,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "مايو"
+},
+{
+"id": 11264,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "يونيو"
+},
+{
+"id": 11265,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "يوليو"
+},
+{
+"id": 11266,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "أغسطس"
+},
+{
+"id": 11267,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "سبتمبر"
+},
+{
+"id": 11268,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "أكتوبر"
+},
+{
+"id": 11269,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "نوفمبر"
+},
+{
+"id": 11270,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "ديسمبر"
+},
+{
+"id": 11271,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "سجل شامل لجميع الاجتماعات المتعلقة بالمشروع، بما في ذلك المحاضر، وقرارات التصميم، وحالة المتابعة."
+},
+{
+"id": 11272,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "القادمة"
+},
+{
+"id": 11273,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "تم نشر المحاضر"
+},
+{
+"id": 11274,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "البحث في الاجتماعات..."
+},
+{
+"id": 11275,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "الحالة: الكل"
+},
+{
+"id": 11276,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "النوع: الكل"
+},
+{
+"id": 11277,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "تم النشر"
+},
+{
+"id": 11278,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "اجتماع افتراضي"
+},
+{
+"id": 11279,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "حاضرين"
+},
+{
+"id": 11280,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "دعوات"
+},
+{
+"id": 11281,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "لا توجد اجتماعات"
+},
+{
+"id": 11282,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "لا توجد اجتماعات لهذا المشروع حتى الآن."
+},
+{
+"id": 11283,
+"f": "views/projects/meetings/index.blade.php",
+"ar": "إنشاء أول اجتماع"
+},
+{
+"id": 11284,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "المشروع الهندسي"
+},
+{
+"id": 11285,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "المسؤول"
+},
+{
+"id": 11286,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "التاريخ والوقت"
+},
+{
+"id": 11287,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "رقم الاجتماع"
+},
+{
+"id": 11288,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "سجل الحضور"
+},
+{
+"id": 11289,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "حضر"
+},
+{
+"id": 11290,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "غائب"
+},
+{
+"id": 11291,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "اعتذر"
+},
+{
+"id": 11292,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "مدعو"
+},
+{
+"id": 11293,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "لا يوجد سجل حضور."
+},
+{
+"id": 11294,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "ملاحظات النقاش"
+},
+{
+"id": 11295,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "تمت المناقشة"
+},
+{
+"id": 11296,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "مؤجل"
+},
+{
+"id": 11297,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "ملخص الاجتماع"
+},
+{
+"id": 11298,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "القرارات المعتمدة"
+},
+{
+"id": 11299,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "المهمة"
+},
+{
+"id": 11300,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "محضر اجتماع مشروع"
+},
+{
+"id": 11301,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "الحضور"
+},
+{
+"id": 11302,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "جدول الأعمال والنقاش"
+},
+{
+"id": 11303,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "مصفوفة المهام"
+},
+{
+"id": 11304,
+"f": "views/projects/meetings/minutes-pdf.blade.php",
+"ar": "نشر المحضر:"
+},
+{
+"id": 11305,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "غير متصل"
+},
+{
+"id": 11306,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "متصل"
+},
+{
+"id": 11307,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "إزالة"
+},
+{
+"id": 11308,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر إرسال الرسالة."
+},
+{
+"id": 11309,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "انتهى الاجتماع"
+},
+{
+"id": 11310,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم إنهاء الاجتماع"
+},
+{
+"id": 11311,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مشاركة الشاشة"
+},
+{
+"id": 11312,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "الكاميرا مغلقة"
+},
+{
+"id": 11313,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "اكتب رسالة..."
+},
+{
+"id": 11314,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "دخول"
+},
+{
+"id": 11315,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "كتم"
+},
+{
+"id": 11316,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مدير الاجتماع:"
+},
+{
+"id": 11317,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تفاصيل الاجتماع"
+},
+{
+"id": 11318,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "يمكنك الرجوع إلى تفاصيل الاجتماع لمراجعة المحضر والقرارات و"
+},
+{
+"id": 11319,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "الاجتماع جاهز للبدء"
+},
+{
+"id": 11320,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "بانتظار بدء الاجتماع"
+},
+{
+"id": 11321,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "اضغط بدء الاجتماع، وبعدها يمكنك الدخول وتشغيل الميكروفون أو الكاميرا أو مشاركة الشاشة."
+},
+{
+"id": 11322,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "سيظهر لك زر الدخول تلقائيًا عند بدء المضيف للاجتماع."
+},
+{
+"id": 11323,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "المشاركون والمحادثة"
+},
+{
+"id": 11324,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "دعوة"
+},
+{
+"id": 11325,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "جاري تحميل الحضور..."
+},
+{
+"id": 11326,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "بدء الاجتماع"
+},
+{
+"id": 11327,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "الميكروفون"
+},
+{
+"id": 11328,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "الكاميرا"
+},
+{
+"id": 11329,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مغادرة"
+},
+{
+"id": 11330,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "إنهاء للجميع"
+},
+{
+"id": 11331,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "دعوة مشارك"
+},
+{
+"id": 11332,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مدير المنصة يستطيع دعوة أي مستخدم فعال على المنصة إلى هذه الغرفة فقط."
+},
+{
+"id": 11333,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تظهر هنا فقط الأسماء المسموح بها ضمن المشروع وفريقه ومكتبه حسب الصلاحيات الحالية."
+},
+{
+"id": 11334,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "اكتب اسمًا أو انتظر تحميل القائمة..."
+},
+{
+"id": 11335,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مشاركة شاشة"
+},
+{
+"id": 11336,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مشاركة شاشتك"
+},
+{
+"id": 11337,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "يعمل"
+},
+{
+"id": 11338,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "جاري الاتصال..."
+},
+{
+"id": 11339,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم الدخول إلى الاجتماع"
+},
+{
+"id": 11340,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "فشل الاتصال"
+},
+{
+"id": 11341,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر الدخول إلى الاجتماع."
+},
+{
+"id": 11342,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "غادرت الاجتماع"
+},
+{
+"id": 11343,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تمت مغادرة الاجتماع"
+},
+{
+"id": 11344,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم بدء الاجتماع وأصبحت مدير الجلسة"
+},
+{
+"id": 11345,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر بدء الاجتماع."
+},
+{
+"id": 11346,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "هل تريد إنهاء الاجتماع للجميع؟"
+},
+{
+"id": 11347,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم إنهاء الاجتماع للجميع"
+},
+{
+"id": 11348,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر إنهاء الاجتماع."
+},
+{
+"id": 11349,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر الوصول إلى الميكروفون."
+},
+{
+"id": 11350,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر الوصول إلى الكاميرا."
+},
+{
+"id": 11351,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر مشاركة الشاشة أو تم إلغاؤها."
+},
+{
+"id": 11352,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "مدير الاجتماع"
+},
+{
+"id": 11353,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "لا يوجد مستخدمون متصلون."
+},
+{
+"id": 11354,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "غير متصل حاليًا."
+},
+{
+"id": 11355,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "بدأ الاجتماع — أنت مدير الجلسة"
+},
+{
+"id": 11356,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "قام مدير الاجتماع بكتم ميكروفونك."
+},
+{
+"id": 11357,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "أنهى المضيف الاجتماع"
+},
+{
+"id": 11358,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تمت إزالتك من الاجتماع."
+},
+{
+"id": 11359,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "إزالة هذا المشارك من الاجتماع؟"
+},
+{
+"id": 11360,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تمت إزالة المشارك"
+},
+{
+"id": 11361,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر إزالة المشارك."
+},
+{
+"id": 11362,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "لا يوجد مسار ميكروفون نشط لهذا المشارك."
+},
+{
+"id": 11363,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم كتم ميكروفون المشارك"
+},
+{
+"id": 11364,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر كتم المشارك."
+},
+{
+"id": 11365,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "جاري البحث..."
+},
+{
+"id": 11366,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "إرسال دعوة"
+},
+{
+"id": 11367,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "لا يوجد مستخدمون متاحون ضمن نطاق صلاحيتك."
+},
+{
+"id": 11368,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر تحميل قائمة الدعوات."
+},
+{
+"id": 11369,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تم إرسال الدعوة"
+},
+{
+"id": 11370,
+"f": "views/projects/meetings/room.blade.php",
+"ar": "تعذر إرسال الدعوة."
+},
+{
+"id": 11371,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "إضافة"
+},
+{
+"id": 11372,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "سجل النشاط"
+},
+{
+"id": 11373,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "لا يوجد نشاط مسجل."
+},
+{
+"id": 11374,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "محضر الاجتماع"
+},
+{
+"id": 11375,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "إلغاء الاجتماع"
+},
+{
+"id": 11376,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "العودة إلى سجل الاجتماعات"
+},
+{
+"id": 11377,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "دخول الاجتماع المباشر"
+},
+{
+"id": 11378,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "فتح غرفة الاجتماع"
+},
+{
+"id": 11379,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "المحضر"
+},
+{
+"id": 11380,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "هدف الاجتماع"
+},
+{
+"id": 11381,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "ملخص المحضر"
+},
+{
+"id": 11382,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "الاستحقاق"
+},
+{
+"id": 11383,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "ملخص الاجتماع..."
+},
+{
+"id": 11384,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "القرارات"
+},
+{
+"id": 11385,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "القرارات المعتمدة..."
+},
+{
+"id": 11386,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "ملاحظات النقاش..."
+},
+{
+"id": 11387,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "مرفقات المحضر — اختياري"
+},
+{
+"id": 11388,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "حفظ المحضر"
+},
+{
+"id": 11389,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "نشر المحضر"
+},
+{
+"id": 11390,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "نشر Minutes رسميًا"
+},
+{
+"id": 11391,
+"f": "views/projects/meetings/show.blade.php",
+"ar": "التفاصيل..."
+},
+{
+"id": 11392,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "الحد الأقصى"
+},
+{
+"id": 11393,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "إدارة المشروع والمراحل"
+},
+{
+"id": 11394,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "سجل التسليمات"
+},
+{
+"id": 11395,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "ملاحظات التسليم"
+},
+{
+"id": 11396,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "ملف التسليم"
+},
+{
+"id": 11397,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "تسليم المرحلة:"
+},
+{
+"id": 11398,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "أرسل مخرجات المرحلة إلى العميل للمراجعة والاعتماد، مع ربط التسليم بالدفعة المحتجزة في"
+},
+{
+"id": 11399,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "تعذر إرسال التسليم"
+},
+{
+"id": 11400,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "لا توجد دفعة محتجزة في"
+},
+{
+"id": 11401,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "يجب أولًا تأكيد دفعة العميل ماليًا واحتجازها في Escrow قبل إنشاء تسليم لهذه المرحلة."
+},
+{
+"id": 11402,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "الدفعة المحتجزة المرتبطة"
+},
+{
+"id": 11403,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "أضف وصفًا مختصرًا للأعمال المنجزة، الملاحظات الفنية، أو أي معلومات يحتاجها العميل أثناء المراجعة..."
+},
+{
+"id": 11404,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "اسحب وأفلت الملف هنا أو"
+},
+{
+"id": 11405,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "اضغط للتصفح"
+},
+{
+"id": 11406,
+"f": "views/projects/milestones/submissions/create.blade.php",
+"ar": "إرسال التسليم للعميل"
+},
+{
+"id": 11407,
+"f": "views/projects/milestones/submissions/index.blade.php",
+"ar": "تسليمات المرحلة:"
+},
+{
+"id": 11408,
+"f": "views/projects/milestones/submissions/index.blade.php",
+"ar": "كل Revision محفوظ مع حالة المراجعة والدفعة المرتبطة، ويمكن الرجوع إلى أي إصدار ومراجعة حالته في أي وقت."
+},
+{
+"id": 11409,
+"f": "views/projects/milestones/submissions/index.blade.php",
+"ar": "عند رفع أول Revision لهذه المرحلة سيظهر هنا مع حالة المراجعة والدفعة المرتبطة به."
+},
+{
+"id": 11410,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "إدارة تسليمات المشروع"
+},
+{
+"id": 11411,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "معلومات التسليم"
+},
+{
+"id": 11412,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "لا توجد ملاحظات مرفقة مع هذا التسليم."
+},
+{
+"id": 11413,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "فتح ملف التسليم"
+},
+{
+"id": 11414,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "لا يوجد ملف مرفق"
+},
+{
+"id": 11415,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "أدخل أي ملاحظات إضافية مرتبطة بالاعتماد..."
+},
+{
+"id": 11416,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "الإفراج عن الدفعة"
+},
+{
+"id": 11417,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "يرجى توضيح سبب الرفض والتعديلات المطلوبة في الـRevision القادم..."
+},
+{
+"id": 11418,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "بانتظار صاحب الصلاحية"
+},
+{
+"id": 11419,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "لا توجد إجراءات متاحة لهذا الحساب."
+},
+{
+"id": 11420,
+"f": "views/projects/milestones/submissions/show.blade.php",
+"ar": "لا توجد إجراءات معلقة."
+},
+{
+"id": 11421,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "ملفات المشروع"
+},
+{
+"id": 11422,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "عالية"
+},
+{
+"id": 11423,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "عادية"
+},
+{
+"id": 11424,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "طلبات المعلومات"
+},
+{
+"id": 11425,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "خطة المشروع"
+},
+{
+"id": 11426,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "المرحلة المرتبطة"
+},
+{
+"id": 11427,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "المهمة المرتبطة"
+},
+{
+"id": 11428,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "السؤال / طلب التوضيح"
+},
+{
+"id": 11429,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "العودة لقائمة"
+},
+{
+"id": 11430,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "إنشاء طلب معلومات"
+},
+{
+"id": 11431,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "وثّق الاستفسار الهندسي رسميًا، وحدد المسؤول عن الرد، الأولوية، الموعد المطلوب، والمرجع المرتبط بالمشروع."
+},
+{
+"id": 11432,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "تفاصيل الاستفسار"
+},
+{
+"id": 11433,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "مثال: تعارض مسار مجرى التكييف مع الكمرة"
+},
+{
+"id": 11434,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "اشرح التعارض أو المعلومة المطلوبة بدقة، واربطها بالمخطط أو المواصفة إن أمكن..."
+},
+{
+"id": 11435,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "اكتب السؤال بصياغة قابلة للرجوع إليها لاحقًا ضمن السجل الرسمي للمشروع."
+},
+{
+"id": 11436,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "التعيين والأولوية"
+},
+{
+"id": 11437,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "موعد الرد المطلوب"
+},
+{
+"id": 11438,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "اختر أو اسحب المرفقات"
+},
+{
+"id": 11439,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "حتى 10 ملفات — 50MB للملف"
+},
+{
+"id": 11440,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "إنشاء RFI رسمي"
+},
+{
+"id": 11441,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "قبل إنشاء"
+},
+{
+"id": 11442,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "اكتب سؤالًا واحدًا واضحًا"
+},
+{
+"id": 11443,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "تجنب جمع عدة تعارضات غير مترابطة في RFI واحد."
+},
+{
+"id": 11444,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "اربط المرجع الصحيح"
+},
+{
+"id": 11445,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "حدد المرحلة أو المهمة المرتبطة لتسهيل المتابعة."
+},
+{
+"id": 11446,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "أرفق الأدلة"
+},
+{
+"id": 11447,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "مخطط، صورة، لقطة CAD أو مواصفة عند الحاجة."
+},
+{
+"id": 11448,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "مستويات الأولوية"
+},
+{
+"id": 11449,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "التوثيق"
+},
+{
+"id": 11450,
+"f": "views/projects/rfis/create.blade.php",
+"ar": "بعد الإنشاء سيأخذ الطلب رقم RFI رسمي، ويتم حفظ المنشئ والتاريخ والحالة والمرفقات ضمن سجل المشروع."
+},
+{
+"id": 11451,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "متأخر"
+},
+{
+"id": 11452,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "مفتوح"
+},
+{
+"id": 11453,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "العودة للمشروع"
+},
+{
+"id": 11454,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "مرفق"
+},
+{
+"id": 11455,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "أعيد فتحه"
+},
+{
+"id": 11456,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "تمت الإجابة"
+},
+{
+"id": 11457,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "إجمالي الطلبات"
+},
+{
+"id": 11458,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "كل المسؤولين"
+},
+{
+"id": 11459,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "تطبيق التصفية"
+},
+{
+"id": 11460,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "الاستحقاق:"
+},
+{
+"id": 11461,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "سجل رسمي للأسئلة الهندسية، الردود، المرفقات، التعيينات، مواعيد الاستحقاق وحالة الإغلاق."
+},
+{
+"id": 11462,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "مفتوح / معاد فتحه"
+},
+{
+"id": 11463,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "بحث برقم RFI أو العنوان أو السؤال..."
+},
+{
+"id": 11464,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "أنشأه:"
+},
+{
+"id": 11465,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "لا يوجد RFI لهذا المشروع حتى الآن"
+},
+{
+"id": 11466,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "عند إنشاء أول طلب معلومات سيظهر هنا ضمن السجل الرسمي للمشروع."
+},
+{
+"id": 11467,
+"f": "views/projects/rfis/index.blade.php",
+"ar": "إنشاء أول"
+},
+{
+"id": 11468,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "تحميل"
+},
+{
+"id": 11469,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "سجل"
+},
+{
+"id": 11470,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "الرقم"
+},
+{
+"id": 11471,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إنشاء"
+},
+{
+"id": 11472,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "تاريخ الإنشاء"
+},
+{
+"id": 11473,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "سبب الإلغاء..."
+},
+{
+"id": 11474,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إجابة رسمية"
+},
+{
+"id": 11475,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إعادة فتح"
+},
+{
+"id": 11476,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "لا يوجد نشاط مسجل حتى الآن."
+},
+{
+"id": 11477,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "ملخص"
+},
+{
+"id": 11478,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إدارة الحالة"
+},
+{
+"id": 11479,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "ملاحظة الإغلاق — اختيارية"
+},
+{
+"id": 11480,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "العودة إلى سجل"
+},
+{
+"id": 11481,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "سجل رسمي قابل للتتبع — السؤال، الإجابة، المرفقات وجميع تغييرات الحالة."
+},
+{
+"id": 11482,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "أنشأه"
+},
+{
+"id": 11483,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "مرفقات السؤال"
+},
+{
+"id": 11484,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "آخر إجابة رسمية"
+},
+{
+"id": 11485,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "سجل النشاط والتتبع"
+},
+{
+"id": 11486,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "تغيير الحالة:"
+},
+{
+"id": 11487,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "اعتماد الإجابة"
+},
+{
+"id": 11488,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إضافة تعليق"
+},
+{
+"id": 11489,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "أضف ملاحظة أو استفسار متابعة..."
+},
+{
+"id": 11490,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إرفاق ملفات مع التعليق"
+},
+{
+"id": 11491,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إضافة للسجل"
+},
+{
+"id": 11492,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "إغلاق الطلب"
+},
+{
+"id": 11493,
+"f": "views/projects/rfis/show.blade.php",
+"ar": "سبب إعادة الفتح..."
+},
+{
+"id": 11494,
+"f": "views/projects/show.blade.php",
+"ar": "العقد الإلكتروني"
+},
+{
+"id": 11495,
+"f": "views/projects/show.blade.php",
+"ar": "قادمة"
+},
+{
+"id": 11496,
+"f": "views/projects/show.blade.php",
+"ar": "سبب الإيقاف"
+},
+{
+"id": 11497,
+"f": "views/projects/show.blade.php",
+"ar": "تقويم المشروع"
+},
+{
+"id": 11498,
+"f": "views/projects/show.blade.php",
+"ar": "إدارة الفريق"
+},
+{
+"id": 11499,
+"f": "views/projects/show.blade.php",
+"ar": "مستحقات المكتب"
+},
+{
+"id": 11500,
+"f": "views/projects/show.blade.php",
+"ar": "مستحق المكتب المتوقع"
+},
+{
+"id": 11501,
+"f": "views/projects/show.blade.php",
+"ar": "حالة التنفيذ"
+},
+{
+"id": 11502,
+"f": "views/projects/show.blade.php",
+"ar": "الحالة الحالية:"
+},
+{
+"id": 11503,
+"f": "views/projects/show.blade.php",
+"ar": "بدء المشروع"
+},
+{
+"id": 11504,
+"f": "views/projects/show.blade.php",
+"ar": "طلب إنهاء المشروع"
+},
+{
+"id": 11505,
+"f": "views/projects/show.blade.php",
+"ar": "يتم حساب قيمة الدفعة تلقائيًا من سعر المشروع."
+},
+{
+"id": 11506,
+"f": "views/projects/show.blade.php",
+"ar": "ادفع الآن"
+},
+{
+"id": 11507,
+"f": "views/projects/show.blade.php",
+"ar": "تأكيد الاستلام"
+},
+{
+"id": 11508,
+"f": "views/projects/show.blade.php",
+"ar": "نظرة عامة على البيانات المالية والجدول الزمني للدفعات."
+},
+{
+"id": 11509,
+"f": "views/projects/show.blade.php",
+"ar": "محادثة المهندس"
+},
+{
+"id": 11510,
+"f": "views/projects/show.blade.php",
+"ar": "نفس محادثة الاستشارة"
+},
+{
+"id": 11511,
+"f": "views/projects/show.blade.php",
+"ar": "اجتماعات المشروع"
+},
+{
+"id": 11512,
+"f": "views/projects/show.blade.php",
+"ar": "جدول الكميات"
+},
+{
+"id": 11513,
+"f": "views/projects/show.blade.php",
+"ar": "خطة المشروع والمهام"
+},
+{
+"id": 11514,
+"f": "views/projects/show.blade.php",
+"ar": "العقد الإلكتروني لم يكتمل بعد."
+},
+{
+"id": 11515,
+"f": "views/projects/show.blade.php",
+"ar": "لا يمكن بدء المشروع قبل اكتمال تواقيع العميل والمهندس الرئيسي وممثل المكتب عند وجود مكتب."
+},
+{
+"id": 11516,
+"f": "views/projects/show.blade.php",
+"ar": "هذه واجهة مالية مختصرة للمشروع. تظهر لك فقط البيانات والدفعات والإيصالات المرتبطة بصلاحيات الإدارة المالية."
+},
+{
+"id": 11517,
+"f": "views/projects/show.blade.php",
+"ar": "معرف العميل"
+},
+{
+"id": 11518,
+"f": "views/projects/show.blade.php",
+"ar": "تم التحصيل"
+},
+{
+"id": 11519,
+"f": "views/projects/show.blade.php",
+"ar": "المتبقي للتحصيل"
+},
+{
+"id": 11520,
+"f": "views/projects/show.blade.php",
+"ar": "غير مجدول"
+},
+{
+"id": 11521,
+"f": "views/projects/show.blade.php",
+"ar": "الإدارة المالية للمكتب"
+},
+{
+"id": 11522,
+"f": "views/projects/show.blade.php",
+"ar": "مستحقات مدفوعة للمكتب"
+},
+{
+"id": 11523,
+"f": "views/projects/show.blade.php",
+"ar": "مستحقات معلقة للمكتب"
+},
+{
+"id": 11524,
+"f": "views/projects/show.blade.php",
+"ar": "آخر تحديد للنسبة:"
+},
+{
+"id": 11525,
+"f": "views/projects/show.blade.php",
+"ar": "نسبة المكتب من المشروع %"
+},
+{
+"id": 11526,
+"f": "views/projects/show.blade.php",
+"ar": "مدير المنصة فقط يستطيع تحديد أو تعديل نسبة المكتب."
+},
+{
+"id": 11527,
+"f": "views/projects/show.blade.php",
+"ar": "حفظ نسبة المكتب"
+},
+{
+"id": 11528,
+"f": "views/projects/show.blade.php",
+"ar": "نسبة المكتب يتم تحديدها من مدير المنصة، ويمكن لإدارة المكتب مشاهدة النسبة والمستحقات وتوزيع نسب مهندسي المشروع."
+},
+{
+"id": 11529,
+"f": "views/projects/show.blade.php",
+"ar": "يمكنك إدارة دفع مستحقات المكتب من صفحة المستحقات المالية، ولا يمكنك تعديل نسبة المكتب."
+},
+{
+"id": 11530,
+"f": "views/projects/show.blade.php",
+"ar": "تقدم تنفيذ المشروع"
+},
+{
+"id": 11531,
+"f": "views/projects/show.blade.php",
+"ar": "التقدم العام محسوب من متوسط نسب إنجاز مراحل المشروع."
+},
+{
+"id": 11532,
+"f": "views/projects/show.blade.php",
+"ar": "إدارة الخطة والمهام"
+},
+{
+"id": 11533,
+"f": "views/projects/show.blade.php",
+"ar": "عرض مهامي"
+},
+{
+"id": 11534,
+"f": "views/projects/show.blade.php",
+"ar": "المهام المكتملة"
+},
+{
+"id": 11535,
+"f": "views/projects/show.blade.php",
+"ar": "اكتملت مراحل التنفيذ"
+},
+{
+"id": 11536,
+"f": "views/projects/show.blade.php",
+"ar": "المشروع قيد التنفيذ"
+},
+{
+"id": 11537,
+"f": "views/projects/show.blade.php",
+"ar": "بانتظار بدء مراحل التنفيذ"
+},
+{
+"id": 11538,
+"f": "views/projects/show.blade.php",
+"ar": "التقدم العام"
+},
+{
+"id": 11539,
+"f": "views/projects/show.blade.php",
+"ar": "دورة حياة المشروع"
+},
+{
+"id": 11540,
+"f": "views/projects/show.blade.php",
+"ar": "يجب اكتمال توقيع العقد أولًا"
+},
+{
+"id": 11541,
+"f": "views/projects/show.blade.php",
+"ar": "إيقاف مؤقت"
+},
+{
+"id": 11542,
+"f": "views/projects/show.blade.php",
+"ar": "اعتماد إنهاء المشروع"
+},
+{
+"id": 11543,
+"f": "views/projects/show.blade.php",
+"ar": "سبب رفض الإنهاء"
+},
+{
+"id": 11544,
+"f": "views/projects/show.blade.php",
+"ar": "المهندس الرئيسي وأعضاء الفريق المضافون للمشروع."
+},
+{
+"id": 11545,
+"f": "views/projects/show.blade.php",
+"ar": "محادثة الفريق"
+},
+{
+"id": 11546,
+"f": "views/projects/show.blade.php",
+"ar": "إضافة دفعة للمشروع"
+},
+{
+"id": 11547,
+"f": "views/projects/show.blade.php",
+"ar": "المتبقي غير المجدول:"
+},
+{
+"id": 11548,
+"f": "views/projects/show.blade.php",
+"ar": "اسم الدفعة"
+},
+{
+"id": 11549,
+"f": "views/projects/show.blade.php",
+"ar": "مثال: الدفعة الأولى"
+},
+{
+"id": 11550,
+"f": "views/projects/show.blade.php",
+"ar": "نسبة الدفعة"
+},
+{
+"id": 11551,
+"f": "views/projects/show.blade.php",
+"ar": "نسبة الدفعة %"
+},
+{
+"id": 11552,
+"f": "views/projects/show.blade.php",
+"ar": "إضافة للجدول"
+},
+{
+"id": 11553,
+"f": "views/projects/show.blade.php",
+"ar": "جدول دفعات المشروع"
+},
+{
+"id": 11554,
+"f": "views/projects/show.blade.php",
+"ar": "هذا الجدول مستقل تمامًا عن دفعات الاستشارة."
+},
+{
+"id": 11555,
+"f": "views/projects/show.blade.php",
+"ar": "الإيصال قيد المراجعة"
+},
+{
+"id": 11556,
+"f": "views/projects/show.blade.php",
+"ar": "آخر سبب رفض:"
+},
+{
+"id": 11557,
+"f": "views/projects/show.blade.php",
+"ar": "النسبة / القيمة"
+},
+{
+"id": 11558,
+"f": "views/projects/show.blade.php",
+"ar": "موعد الدفع:"
+},
+{
+"id": 11559,
+"f": "views/projects/show.blade.php",
+"ar": "الإيصال قيد المراجعة المالية"
+},
+{
+"id": 11560,
+"f": "views/projects/show.blade.php",
+"ar": "لم يتم إنشاء جدول دفعات لهذا المشروع بعد."
+},
+{
+"id": 11561,
+"f": "views/projects/show.blade.php",
+"ar": "القيمة المحسوبة:"
+},
+{
+"id": 11562,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "مادة"
+},
+{
+"id": 11563,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "عينة"
+},
+{
+"id": 11564,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "عاجل"
+},
+{
+"id": 11565,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "العودة إلى سجل الاعتمادات"
+},
+{
+"id": 11566,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "إنشاء اعتماد فني"
+},
+{
+"id": 11567,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "أرسل المادة أو المخطط التنفيذي أو"
+},
+{
+"id": 11568,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "للمراجعة والاعتماد الرسمي."
+},
+{
+"id": 11569,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "أدخل عنوان الاعتماد..."
+},
+{
+"id": 11570,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "أضف أي تفاصيل أو ملاحظات إضافية..."
+},
+{
+"id": 11571,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "اختر النوع..."
+},
+{
+"id": 11572,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "المسؤول عن المراجعة"
+},
+{
+"id": 11573,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "اختر مراجعاً..."
+},
+{
+"id": 11574,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "بدون مرحلة محددة..."
+},
+{
+"id": 11575,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "بدون مهمة محددة..."
+},
+{
+"id": 11576,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "موعد المراجعة المستهدف"
+},
+{
+"id": 11577,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "المرفقات (ملفات الإصدار"
+},
+{
+"id": 11578,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "مطلوبة"
+},
+{
+"id": 11579,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "اسحب وأفلت الملفات هنا"
+},
+{
+"id": 11580,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "أو انقر لتصفح جهازك"
+},
+{
+"id": 11581,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "الحد الأقصى 50MB للملف"
+},
+{
+"id": 11582,
+"f": "views/projects/submittals/create.blade.php",
+"ar": "إرسال R0 للمراجعة"
+},
+{
+"id": 11583,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "مرسل"
+},
+{
+"id": 11584,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "معتمد مع ملاحظات"
+},
+{
+"id": 11585,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "تعديل وإعادة تقديم"
+},
+{
+"id": 11586,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "الاعتمادات الفنية"
+},
+{
+"id": 11587,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "المراجع:"
+},
+{
+"id": 11588,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "سجل المواد، المخططات التنفيذية، طرق التنفيذ، العينات وجميع دورات المراجعة."
+},
+{
+"id": 11589,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "إعادة تقديم"
+},
+{
+"id": 11590,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "بحث بالرقم أو العنوان أو"
+},
+{
+"id": 11591,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "استحقاق:"
+},
+{
+"id": 11592,
+"f": "views/projects/submittals/index.blade.php",
+"ar": "لا يوجد Submittals لهذا المشروع حتى الآن. ابدأ بإنشاء أول اعتماد فني."
+},
+{
+"id": 11593,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "تاريخ الاستحقاق"
+},
+{
+"id": 11594,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "المشروع:"
+},
+{
+"id": 11595,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "التفاصيل الفنية"
+},
+{
+"id": 11596,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "سجل النشاطات"
+},
+{
+"id": 11597,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "عودة لسجل الاعتمادات"
+},
+{
+"id": 11598,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "المراجعة"
+},
+{
+"id": 11599,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "مقدم الطلب"
+},
+{
+"id": 11600,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "المراجع"
+},
+{
+"id": 11601,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "رقم المواصفة"
+},
+{
+"id": 11602,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "سجل المراجعات"
+},
+{
+"id": 11603,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "لا توجد Revisions مسجلة."
+},
+{
+"id": 11604,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "إجراءات المراجعة"
+},
+{
+"id": 11605,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "ملاحظات المراجعة..."
+},
+{
+"id": 11606,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "مرفقات المراجعة — اختياري"
+},
+{
+"id": 11607,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "ما الذي تم تعديله في الإصدار الجديد؟"
+},
+{
+"id": 11608,
+"f": "views/projects/submittals/show.blade.php",
+"ar": "إضافة مراجعة"
+},
+{
+"id": 11609,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "تم الإرسال"
+},
+{
+"id": 11610,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "المهندس الرئيسي:"
+},
+{
+"id": 11611,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "تمت القراءة"
+},
+{
+"id": 11612,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "جاري الاتصال بالمحادثة..."
+},
+{
+"id": 11613,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "رد على"
+},
+{
+"id": 11614,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "تسجيل صوتي جاهز"
+},
+{
+"id": 11615,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "إرفاق ملفات"
+},
+{
+"id": 11616,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "جاري التسجيل..."
+},
+{
+"id": 11617,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "وضع احتياطي — تحديث تلقائي"
+},
+{
+"id": 11618,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "متصل الآن"
+},
+{
+"id": 11619,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "انضم مهندس للمحادثة"
+},
+{
+"id": 11620,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "تم تحديث حالة المتصلين"
+},
+{
+"id": 11621,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "يكتب..."
+},
+{
+"id": 11622,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "المرفقات:"
+},
+{
+"id": 11623,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "المتصفح لا يدعم التسجيل الصوتي."
+},
+{
+"id": 11624,
+"f": "views/projects/team-chat/show.blade.php",
+"ar": "لم يتم السماح باستخدام الميكروفون."
+},
+{
+"id": 11625,
+"f": "views/projects/team.blade.php",
+"ar": "اختر مهندسًا"
+},
+{
+"id": 11626,
+"f": "views/projects/team.blade.php",
+"ar": "إضافة مهندس إلى الفريق"
+},
+{
+"id": 11627,
+"f": "views/projects/team.blade.php",
+"ar": "تظهر هنا حسابات المهندسين النشطين داخل المنصة فقط."
+},
+{
+"id": 11628,
+"f": "views/projects/team.blade.php",
+"ar": "دوره في المشروع"
+},
+{
+"id": 11629,
+"f": "views/projects/team.blade.php",
+"ar": "مثال: مهندس معماري / إنشائي / كهرباء"
+},
+{
+"id": 11630,
+"f": "views/projects/team.blade.php",
+"ar": "إضافة إلى فريق المشروع"
+},
+{
+"id": 11631,
+"f": "views/projects/team.blade.php",
+"ar": "أعضاء الفريق الحاليون"
+},
+{
+"id": 11632,
+"f": "views/projects/team.blade.php",
+"ar": "لم تتم إضافة أعضاء إلى فريق المشروع بعد."
+},
+{
+"id": 11633,
+"f": "views/projects/team.blade.php",
+"ar": "أضيف في:"
+},
+{
+"id": 11634,
+"f": "views/projects/team.blade.php",
+"ar": "إزالة هذا المهندس من فريق المشروع؟"
+},
+{
+"id": 11635,
+"f": "views/projects/work-plan.blade.php",
+"ar": "البداية"
+},
+{
+"id": 11636,
+"f": "views/projects/work-plan.blade.php",
+"ar": "النهاية"
+},
+{
+"id": 11637,
+"f": "views/projects/work-plan.blade.php",
+"ar": "نسبة الإنجاز"
+},
+{
+"id": 11638,
+"f": "views/projects/work-plan.blade.php",
+"ar": "تسليمات المرحلة"
+},
+{
+"id": 11639,
+"f": "views/projects/work-plan.blade.php",
+"ar": "بانتظار البدء"
+},
+{
+"id": 11640,
+"f": "views/projects/work-plan.blade.php",
+"ar": "المهام"
+},
+{
+"id": 11641,
+"f": "views/projects/work-plan.blade.php",
+"ar": "الإنجاز"
+},
+{
+"id": 11642,
+"f": "views/projects/work-plan.blade.php",
+"ar": "إضافة مهمة"
+},
+{
+"id": 11643,
+"f": "views/projects/work-plan.blade.php",
+"ar": "عرض تقدم المشروع"
+},
+{
+"id": 11644,
+"f": "views/projects/work-plan.blade.php",
+"ar": "مهمة"
+},
+{
+"id": 11645,
+"f": "views/projects/work-plan.blade.php",
+"ar": "متوقفة"
+},
+{
+"id": 11646,
+"f": "views/projects/work-plan.blade.php",
+"ar": "خطة المشروع والمراحل"
+},
+{
+"id": 11647,
+"f": "views/projects/work-plan.blade.php",
+"ar": "تظهر لك المراحل العامة ونسبة إنجاز كل مرحلة، دون تفاصيل المهام الداخلية لفريق العمل."
+},
+{
+"id": 11648,
+"f": "views/projects/work-plan.blade.php",
+"ar": "مهامي داخل المشروع"
+},
+{
+"id": 11649,
+"f": "views/projects/work-plan.blade.php",
+"ar": "ستظهر لك فقط المهام المسندة إليك. يمكنك تحديث الحالة ونسبة الإنجاز."
+},
+{
+"id": 11650,
+"f": "views/projects/work-plan.blade.php",
+"ar": "إضافة مرحلة جديدة"
+},
+{
+"id": 11651,
+"f": "views/projects/work-plan.blade.php",
+"ar": "أنشئ مرحلة رئيسية ثم أضف المهام داخلها."
+},
+{
+"id": 11652,
+"f": "views/projects/work-plan.blade.php",
+"ar": "عنوان المرحلة"
+},
+{
+"id": 11653,
+"f": "views/projects/work-plan.blade.php",
+"ar": "إضافة المرحلة"
+},
+{
+"id": 11654,
+"f": "views/projects/work-plan.blade.php",
+"ar": "البداية:"
+},
+{
+"id": 11655,
+"f": "views/projects/work-plan.blade.php",
+"ar": "النهاية:"
+},
+{
+"id": 11656,
+"f": "views/projects/work-plan.blade.php",
+"ar": "هل تريد حذف المرحلة وجميع مهامها؟"
+},
+{
+"id": 11657,
+"f": "views/projects/work-plan.blade.php",
+"ar": "حذف المرحلة"
+},
+{
+"id": 11658,
+"f": "views/projects/work-plan.blade.php",
+"ar": "المسند إليه:"
+},
+{
+"id": 11659,
+"f": "views/projects/work-plan.blade.php",
+"ar": "التسليم:"
+},
+{
+"id": 11660,
+"f": "views/projects/work-plan.blade.php",
+"ar": "الإنجاز:"
+},
+{
+"id": 11661,
+"f": "views/projects/work-plan.blade.php",
+"ar": "لا توجد مهام ظاهرة في هذه المرحلة."
+},
+{
+"id": 11662,
+"f": "views/projects/work-plan.blade.php",
+"ar": "عنوان المهمة"
+},
+{
+"id": 11663,
+"f": "views/projects/work-plan.blade.php",
+"ar": "وصف المهمة"
+},
+{
+"id": 11664,
+"f": "views/projects/work-plan.blade.php",
+"ar": "إضافة المهمة"
+},
+{
+"id": 11665,
+"f": "views/projects/work-plan.blade.php",
+"ar": "عدد المهام الداخلية"
+},
+{
+"id": 11666,
+"f": "views/projects/work-plan.blade.php",
+"ar": "لا توجد مراحل للمشروع حتى الآن."
+},
+{
+"id": 11667,
+"f": "views/reports/archive.blade.php",
+"ar": "أرشيف المنصة حسب صلاحياتك"
+},
+{
+"id": 11668,
+"f": "views/reports/archive.blade.php",
+"ar": "عرض تاريخي بدون حذف السجلات الأصلية."
+},
+{
+"id": 11669,
+"f": "views/reports/archive.blade.php",
+"ar": "استعادة"
+},
+{
+"id": 11670,
+"f": "views/reports/archive.blade.php",
+"ar": "لا توجد عناصر."
+},
+{
+"id": 11671,
+"f": "views/reports/archive.blade.php",
+"ar": "لا توجد أقسام أرشيف متاحة لصلاحياتك."
+},
+{
+"id": 11672,
+"f": "views/reports/center.blade.php",
+"ar": "مركز التقارير"
+},
+{
+"id": 11673,
+"f": "views/reports/center.blade.php",
+"ar": "الأرشيف"
+},
+{
+"id": 11674,
+"f": "views/reports/center.blade.php",
+"ar": "ملخصات تشغيلية ومالية محفوظة بصلاحيات المسمى الوظيفي."
+},
+{
+"id": 11675,
+"f": "views/reports/center.blade.php",
+"ar": "الأقسام المتاحة لك"
+},
+{
+"id": 11676,
+"f": "views/reports/center.blade.php",
+"ar": "لا توجد بيانات ملخصة لهذه الفترة."
+},
+{
+"id": 11677,
+"f": "views/reports/center.blade.php",
+"ar": "اسم التقرير المحفوظ"
+},
+{
+"id": 11678,
+"f": "views/reports/center.blade.php",
+"ar": "حفظ التقرير"
+},
+{
+"id": 11679,
+"f": "views/reports/center.blade.php",
+"ar": "لا توجد سجلات ضمن الفترة."
+},
+{
+"id": 11680,
+"f": "views/reports/center.blade.php",
+"ar": "تقاريري المحفوظة"
+},
+{
+"id": 11681,
+"f": "views/reviews/create.blade.php",
+"ar": "إرسال التقييم"
+},
+{
+"id": 11682,
+"f": "views/reviews/create.blade.php",
+"ar": "تقييم الاستشارة"
+},
+{
+"id": 11683,
+"f": "views/reviews/create.blade.php",
+"ar": "تقييمك للاستشارة"
+},
+{
+"id": 11684,
+"f": "views/reviews/create.blade.php",
+"ar": "رأيك وملاحظاتك"
+},
+{
+"id": 11685,
+"f": "views/reviews/create.blade.php",
+"ar": "اكتب رأيك في جودة الخدمة والتعامل والنتيجة النهائية..."
+},
+{
+"id": 11686,
+"f": "views/reviews/index.blade.php",
+"ar": "إمكانية العرض"
+},
+{
+"id": 11687,
+"f": "views/reviews/index.blade.php",
+"ar": "رقم النسخة"
+},
+{
+"id": 11688,
+"f": "views/reviews/index.blade.php",
+"ar": "التعليق"
+},
+{
+"id": 11689,
+"f": "views/reviews/index.blade.php",
+"ar": "الدرجة"
+},
+{
+"id": 11690,
+"f": "views/reviews/index.blade.php",
+"ar": "العنصر الأول"
+},
+{
+"id": 11691,
+"f": "views/reviews/index.blade.php",
+"ar": "العنصر الثاني"
+},
+{
+"id": 11692,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "تأكيد تنبيه أمني"
+},
+{
+"id": 11693,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "التحقق الأمني الفوري"
+},
+{
+"id": 11694,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "هل تؤكد أن هذا الإجراء لم يكن منك؟"
+},
+{
+"id": 11695,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "تم رصد نشاط حساس يستوجب المصادقة المباشرة. عند تأكيدك بأن هذا النشاط مشبوه أو غير صادر عنك، سيتخذ النظام إجراءات الحماية الفورية لحماية حسابك ومشاريعك وبياناتك الحساسة."
+},
+{
+"id": 11696,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "تفاصيل البلاغ والحدث الأمني"
+},
+{
+"id": 11697,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "مستوى الحرج: مرتفع جداً"
+},
+{
+"id": 11698,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "نوع الحدث المسجل:"
+},
+{
+"id": 11699,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "آلية التوثيق:"
+},
+{
+"id": 11700,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "الإجراءات الاحترازية التلقائية التي ستُنفذ فوراً:"
+},
+{
+"id": 11701,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "تعليق فوري للحساب لحماية المشاريع والأرصدة"
+},
+{
+"id": 11702,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "إنهاء قسري لكافة الجلسات النشطة على جميع الأجهزة"
+},
+{
+"id": 11703,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "فتح تذكرة أمان حرجة ذات أولوية قصوى لمتابعة الفريق"
+},
+{
+"id": 11704,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "هذه الخطوة تمنع ماسحات وروبوتات البريد الإلكتروني من قفل حسابك بمجرد فحص الرابط تلقائياً."
+}
+]

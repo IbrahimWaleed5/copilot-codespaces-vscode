@@ -1,0 +1,1302 @@
+[
+{
+"id": 11705,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "نعم، هذا ليس أنا — جمّد وأمّن الحساب فوراً"
+},
+{
+"id": 11706,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "أنا من قمت بهذا الإجراء — إغلاق النافذة بأمان"
+},
+{
+"id": 11707,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "إذا كنت أنت صاحب الإجراء، يمكنك إغلاق هذه الصفحة بأمان دون ضغط زر التأكيد."
+},
+{
+"id": 11708,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "يمكنك إغلاق هذه الصفحة بأمان"
+},
+{
+"id": 11709,
+"f": "views/security-not-me-confirm.blade.php",
+"ar": "لم يتم تنفيذ أي إجراء على حسابك."
+},
+{
+"id": 11710,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "مركز العمليات والأمان والرقابة السيبرانية المتقدمة"
+},
+{
+"id": 11711,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "اتصال مشفر وآمن"
+},
+{
+"id": 11712,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "مكتمل فوراً"
+},
+{
+"id": 11713,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "منصة الوليد الهندسية للاستشارات والاعتماد الهندسي — جميع الحقوق محفوظة"
+},
+{
+"id": 11714,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم تأمين الحساب وتجميد الوصول مؤقتاً - منصة الوليد الهندسية"
+},
+{
+"id": 11715,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "استجابة الطوارئ الفورية"
+},
+{
+"id": 11716,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم تأمين الحساب وتجميد الوصول بنجاح"
+},
+{
+"id": 11717,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم تنفيذ الإجراءات الاحترازية المشددة فوراً لحماية حسابك، أصولك الهندسية، وبيانات مشاريعك من أي وصول غير مصرح به. النظام الآن في وضع الحماية القصوى."
+},
+{
+"id": 11718,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تجميد فوري وشامل"
+},
+{
+"id": 11719,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم تعليق الوصول للحساب والعمليات الحساسة مؤقتاً حتى اكتمال المراجعة الأمنية."
+},
+{
+"id": 11720,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "إبطال جميع الجلسات"
+},
+{
+"id": 11721,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم إنهاء الجلسات النشطة و"
+},
+{
+"id": 11722,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "المسجلة على الحساب لحماية الوصول."
+},
+{
+"id": 11723,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "قيد المتابعة"
+},
+{
+"id": 11724,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "فتح تذكرة أمان حرجة"
+},
+{
+"id": 11725,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "تم إخطار فريق الدعم وإحالة البلاغ كأولوية أمنية قصوى للمراجعة."
+},
+{
+"id": 11726,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "بيانات تذكرة الأمان المعتمدة"
+},
+{
+"id": 11727,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "أولوية أمنية قصوى"
+},
+{
+"id": 11728,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "رقم التذكرة الأمني المرجعي:"
+},
+{
+"id": 11729,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "نسخ الرقم"
+},
+{
+"id": 11730,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "حالة التدقيق الأمني:"
+},
+{
+"id": 11731,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "قيد المراجعة والتحقق الفني"
+},
+{
+"id": 11732,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "احتفظ برقم التذكرة أعلاه؛ سيُستخدم لمتابعة حالة البلاغ واستعادة الوصول عبر قنوات الدعم المعتمدة."
+},
+{
+"id": 11733,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "متابعة حالة التذكرة في مركز الدعم"
+},
+{
+"id": 11734,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "فتح بوابة الدعم الفني"
+},
+{
+"id": 11735,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "إذا كنت قد أكدت البلاغ عن طريق الخطأ، استخدم رقم التذكرة أعلاه وتواصل مع الدعم. يمكن لفريق الدعم بدء مسار التحقق من الهوية KYC قبل إعادة فتح الوصول للحساب."
+},
+{
+"id": 11736,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "مركز الأمان متصل"
+},
+{
+"id": 11737,
+"f": "views/security-not-me-confirmed.blade.php",
+"ar": "متابعة تذكرة دعم"
+},
+{
+"id": 11738,
+"f": "views/sla/index.blade.php",
+"ar": "تم الاطلاع"
+},
+{
+"id": 11739,
+"f": "views/sla/index.blade.php",
+"ar": "ضمن الوقت"
+},
+{
+"id": 11740,
+"f": "views/sla/index.blade.php",
+"ar": "المشروع / المسؤول"
+},
+{
+"id": 11741,
+"f": "views/sla/index.blade.php",
+"ar": "مغلق تلقائيًا"
+},
+{
+"id": 11742,
+"f": "views/sla/index.blade.php",
+"ar": "دفعات العملاء"
+},
+{
+"id": 11743,
+"f": "views/sla/index.blade.php",
+"ar": "تنفيذ المشاريع"
+},
+{
+"id": 11744,
+"f": "views/sla/index.blade.php",
+"ar": "العمليات المالية"
+},
+{
+"id": 11745,
+"f": "views/sla/index.blade.php",
+"ar": "إجراءات قيد المتابعة"
+},
+{
+"id": 11746,
+"f": "views/sla/index.blade.php",
+"ar": "ضمن نافذة الاستحقاق"
+},
+{
+"id": 11747,
+"f": "views/sla/index.blade.php",
+"ar": "تتطلب متابعة سريعة"
+},
+{
+"id": 11748,
+"f": "views/sla/index.blade.php",
+"ar": "مصعّدة للإدارة"
+},
+{
+"id": 11749,
+"f": "views/sla/index.blade.php",
+"ar": "بحاجة لتدخل إداري"
+},
+{
+"id": 11750,
+"f": "views/sla/index.blade.php",
+"ar": "بانتظار الإغلاق من المصدر"
+},
+{
+"id": 11751,
+"f": "views/sla/index.blade.php",
+"ar": "أغلقت خلال 7 أيام"
+},
+{
+"id": 11752,
+"f": "views/sla/index.blade.php",
+"ar": "إجراءات أنجزت مؤخرًا"
+},
+{
+"id": 11753,
+"f": "views/sla/index.blade.php",
+"ar": "متابعة تشغيلية موحدة"
+},
+{
+"id": 11754,
+"f": "views/sla/index.blade.php",
+"ar": "يجمع المواعيد الحرجة من الدفعات والمراحل وRFI وSubmittals والنزاعات والاستردادات والصرف، ويصعّد المتأخر تلقائيًا دون إغلاق العملية الأصلية يدويًا."
+},
+{
+"id": 11755,
+"f": "views/sla/index.blade.php",
+"ar": "الرقابة المالية"
+},
+{
+"id": 11756,
+"f": "views/sla/index.blade.php",
+"ar": "تحديث الآن"
+},
+{
+"id": 11757,
+"f": "views/sla/index.blade.php",
+"ar": "محرك المواعيد والتصعيد الذكي"
+},
+{
+"id": 11758,
+"f": "views/sla/index.blade.php",
+"ar": "نشط وآلي"
+},
+{
+"id": 11759,
+"f": "views/sla/index.blade.php",
+"ar": "تتغير الحالة إلى"
+},
+{
+"id": 11760,
+"f": "views/sla/index.blade.php",
+"ar": "بناءً على قاعدة SLA، ويغلق التنبيه تلقائيًا عند إنجاز العملية الأصلية."
+},
+{
+"id": 11761,
+"f": "views/sla/index.blade.php",
+"ar": "المزامنة المجدولة"
+},
+{
+"id": 11762,
+"f": "views/sla/index.blade.php",
+"ar": "كل 60 دقيقة"
+},
+{
+"id": 11763,
+"f": "views/sla/index.blade.php",
+"ar": "قائمة الإجراءات والمواعيد الحرجة"
+},
+{
+"id": 11764,
+"f": "views/sla/index.blade.php",
+"ar": "تأكيد الاطلاع لا يغلق المهمة؛ الإغلاق يتم من مصدرها الفعلي حفاظًا على سلامة سير العمل والتدقيق."
+},
+{
+"id": 11765,
+"f": "views/sla/index.blade.php",
+"ar": "بحث بالمرجع، المشروع أو المسؤول..."
+},
+{
+"id": 11766,
+"f": "views/sla/index.blade.php",
+"ar": "النشطة"
+},
+{
+"id": 11767,
+"f": "views/sla/index.blade.php",
+"ar": "المغلقة"
+},
+{
+"id": 11768,
+"f": "views/sla/index.blade.php",
+"ar": "المرجع ومفتاح القاعدة"
+},
+{
+"id": 11769,
+"f": "views/sla/index.blade.php",
+"ar": "فتح المصدر"
+},
+{
+"id": 11770,
+"f": "views/sla/index.blade.php",
+"ar": "لا توجد إجراءات مطابقة للفلاتر الحالية."
+},
+{
+"id": 11771,
+"f": "views/sla/index.blade.php",
+"ar": "إدارة المنصة فقط"
+},
+{
+"id": 11772,
+"f": "views/sla/index.blade.php",
+"ar": "المصادر التي لديها موعد أصلي تستخدمه مباشرة؛ أما النزاعات والاستردادات والصرف فتستخدم مدة الاستحقاق المحددة هنا."
+},
+{
+"id": 11773,
+"f": "views/sla/index.blade.php",
+"ar": "مدة الاستحقاق"
+},
+{
+"id": 11774,
+"f": "views/sla/index.blade.php",
+"ar": "من المصدر"
+},
+{
+"id": 11775,
+"f": "views/sla/index.blade.php",
+"ar": "التصعيد بعد التأخير"
+},
+{
+"id": 11776,
+"f": "views/sla/index.blade.php",
+"ar": "إشعار المسؤول المباشر"
+},
+{
+"id": 11777,
+"f": "views/sla/index.blade.php",
+"ar": "تصعيد للإدارة"
+},
+{
+"id": 11778,
+"f": "views/sla/index.blade.php",
+"ar": "حفظ القاعدة"
+},
+{
+"id": 11779,
+"f": "views/support-center.blade.php",
+"ar": "تواصل مع المساعد الآلي أو اطلب تحويل المحادثة إلى موظف دعم. تستمر هنا نفس تذكرة الدعم المفتوحة في حسابك."
+},
+{
+"id": 11780,
+"f": "views/support-center.blade.php",
+"ar": "مركز مساعدة منصة الوليد الهندسية"
+},
+{
+"id": 11781,
+"f": "views/support-center.blade.php",
+"ar": "اكتب سؤالك، وسيتم تحميل محادثتك المفتوحة تلقائيًا."
+},
+{
+"id": 11782,
+"f": "views/support/create.blade.php",
+"ar": "جاري الإرسال..."
+},
+{
+"id": 11783,
+"f": "views/support/create.blade.php",
+"ar": "إنشاء تذكرة دعم جديدة"
+},
+{
+"id": 11784,
+"f": "views/support/create.blade.php",
+"ar": "يرجى ملء التفاصيل أدناه لمساعدتنا في معالجة طلبك بسرعة وكفاءة."
+},
+{
+"id": 11785,
+"f": "views/support/create.blade.php",
+"ar": "سيتم إرسال التذكرة إلى:"
+},
+{
+"id": 11786,
+"f": "views/support/create.blade.php",
+"ar": "عنوان المشكلة"
+},
+{
+"id": 11787,
+"f": "views/support/create.blade.php",
+"ar": "مثال: تأخير في تسليم المخططات الإنشائية"
+},
+{
+"id": 11788,
+"f": "views/support/create.blade.php",
+"ar": "عالية (عاجل)"
+},
+{
+"id": 11789,
+"f": "views/support/create.blade.php",
+"ar": "حرج (توقف العمل)"
+},
+{
+"id": 11790,
+"f": "views/support/create.blade.php",
+"ar": "وصف التفاصيل"
+},
+{
+"id": 11791,
+"f": "views/support/create.blade.php",
+"ar": "اشرح تفاصيل المشكلة أو طلب الدعم هنا..."
+},
+{
+"id": 11792,
+"f": "views/support/create.blade.php",
+"ar": "اسحب وأفلت المخططات أو الصور هنا"
+},
+{
+"id": 11793,
+"f": "views/support/create.blade.php",
+"ar": "سيتم الرد خلال 24 ساعة عمل"
+},
+{
+"id": 11794,
+"f": "views/support/create.blade.php",
+"ar": "إرسال التذكرة"
+},
+{
+"id": 11795,
+"f": "views/support/create.blade.php",
+"ar": "تاريخ التذاكر"
+},
+{
+"id": 11796,
+"f": "views/support/create.blade.php",
+"ar": "عرض ومتابعة الطلبات السابقة."
+},
+{
+"id": 11797,
+"f": "views/support/create.blade.php",
+"ar": "الدعم المباشر"
+},
+{
+"id": 11798,
+"f": "views/support/create.blade.php",
+"ar": "تابع تذاكرك وتواصل مع موظف الدعم."
+},
+{
+"id": 11799,
+"f": "views/support/create.blade.php",
+"ar": "دليل المستخدم"
+},
+{
+"id": 11800,
+"f": "views/support/create.blade.php",
+"ar": "إعدادات الحساب والملف الشخصي."
+},
+{
+"id": 11801,
+"f": "views/support/public/faq.blade.php",
+"ar": "قاعدة المعرفة والأسئلة الشائعة"
+},
+{
+"id": 11802,
+"f": "views/support/public/faq.blade.php",
+"ar": "إجابات واضحة حول الحسابات، الخدمات الهندسية، الملفات، الدفع والدعم."
+},
+{
+"id": 11803,
+"f": "views/support/public/faq.blade.php",
+"ar": "ابحث عن سؤال أو خدمة أو كلمة مفتاحية..."
+},
+{
+"id": 11804,
+"f": "views/support/public/faq.blade.php",
+"ar": "قاعدة محدثة باستمرار"
+},
+{
+"id": 11805,
+"f": "views/support/public/faq.blade.php",
+"ar": "هل كانت الإجابة مفيدة؟"
+},
+{
+"id": 11806,
+"f": "views/support/public/faq.blade.php",
+"ar": "لم تجد إجابة؟"
+},
+{
+"id": 11807,
+"f": "views/support/public/faq.blade.php",
+"ar": "افتح تذكرة أو تابع تذكرتك الحالية."
+},
+{
+"id": 11808,
+"f": "views/support/public/faq.blade.php",
+"ar": "تواصل معنا"
+},
+{
+"id": 11809,
+"f": "views/support/public/lookup.blade.php",
+"ar": "مركز المساعدة"
+},
+{
+"id": 11810,
+"f": "views/support/public/lookup.blade.php",
+"ar": "رقم التذكرة"
+},
+{
+"id": 11811,
+"f": "views/support/public/lookup.blade.php",
+"ar": "تابع تذكرتك بدون تسجيل دخول باستخدام بريد المتابعة الذي استلم رقم التذكرة ورقم التذكرة."
+},
+{
+"id": 11812,
+"f": "views/support/public/lookup.blade.php",
+"ar": "عرض تذكرة موجودة"
+},
+{
+"id": 11813,
+"f": "views/support/public/lookup.blade.php",
+"ar": "أدخل بريد المتابعة الذي استلم رقم التذكرة (أو بريد الحساب للتذاكر العادية) مع رقم التذكرة مثل"
+},
+{
+"id": 11814,
+"f": "views/support/public/lookup.blade.php",
+"ar": "بريد المتابعة / بريد الحساب"
+},
+{
+"id": 11815,
+"f": "views/support/public/lookup.blade.php",
+"ar": "فتح التذكرة ومتابعة المحادثة"
+},
+{
+"id": 11816,
+"f": "views/support/public/lookup.blade.php",
+"ar": "قبل فتح تذكرة"
+},
+{
+"id": 11817,
+"f": "views/support/public/lookup.blade.php",
+"ar": "قد تجد الحل مباشرة في قاعدة المعرفة. الإجابات المعتمدة نفسها يستخدمها مساعد المنصة الذكي، وإذا لم تُحل المشكلة يمكنك متابعة تذكرتك مع موظف الدعم."
+},
+{
+"id": 11818,
+"f": "views/support/public/lookup.blade.php",
+"ar": "فتح الأسئلة الشائعة"
+},
+{
+"id": 11819,
+"f": "views/support/public/lookup.blade.php",
+"ar": "تذاكري داخل الحساب"
+},
+{
+"id": 11820,
+"f": "views/support/public/lookup.blade.php",
+"ar": "العودة للمنصة"
+},
+{
+"id": 11821,
+"f": "views/support/public/show.blade.php",
+"ar": "بانتظار ردك"
+},
+{
+"id": 11822,
+"f": "views/support/public/show.blade.php",
+"ar": "حفظ التقييم"
+},
+{
+"id": 11823,
+"f": "views/support/public/show.blade.php",
+"ar": "تذكرة أخرى"
+},
+{
+"id": 11824,
+"f": "views/support/public/show.blade.php",
+"ar": "لا توجد رسائل."
+},
+{
+"id": 11825,
+"f": "views/support/public/show.blade.php",
+"ar": "اكتب ردك لموظف الدعم..."
+},
+{
+"id": 11826,
+"f": "views/support/public/show.blade.php",
+"ar": "قيّم تجربة الدعم"
+},
+{
+"id": 11827,
+"f": "views/support/public/show.blade.php",
+"ar": "يساعدنا تقييمك على تحسين جودة وسرعة الدعم."
+},
+{
+"id": 11828,
+"f": "views/support/recovery/public.blade.php",
+"ar": "إرفاق الهوية"
+},
+{
+"id": 11829,
+"f": "views/support/recovery/public.blade.php",
+"ar": "استرداد الحساب والتحقق"
+},
+{
+"id": 11830,
+"f": "views/support/recovery/public.blade.php",
+"ar": "التحقق KYC لاسترداد الحساب"
+},
+{
+"id": 11831,
+"f": "views/support/recovery/public.blade.php",
+"ar": "هذا الرابط أرسله فريق الدعم إلى"
+},
+{
+"id": 11832,
+"f": "views/support/recovery/public.blade.php",
+"ar": "لا تحتاج لتسجيل الدخول. ارفع الهوية ثم أكمل فحص الوجه والحيوية؛ النظام يقارن الجلسة الجديدة مباشرةً مع مرجع KYC الحيوي القديم المرتبط بهذا الحساب، ثم يرسل النتيجة لموظف الدعم."
+},
+{
+"id": 11833,
+"f": "views/support/recovery/public.blade.php",
+"ar": "بانتظار الرفع"
+},
+{
+"id": 11834,
+"f": "views/support/recovery/public.blade.php",
+"ar": "مطابقة بيانات الهوية"
+},
+{
+"id": 11835,
+"f": "views/support/recovery/public.blade.php",
+"ar": "غير متطابقة"
+},
+{
+"id": 11836,
+"f": "views/support/recovery/public.blade.php",
+"ar": "متطابقة"
+},
+{
+"id": 11837,
+"f": "views/support/recovery/public.blade.php",
+"ar": "بانتظار"
+},
+{
+"id": 11838,
+"f": "views/support/recovery/public.blade.php",
+"ar": "الحيوي"
+},
+{
+"id": 11839,
+"f": "views/support/recovery/public.blade.php",
+"ar": "مطابقة ناجحة"
+},
+{
+"id": 11840,
+"f": "views/support/recovery/public.blade.php",
+"ar": "تحتاج مراجعة"
+},
+{
+"id": 11841,
+"f": "views/support/recovery/public.blade.php",
+"ar": "آخر 4 أرقام من رقم الهوية"
+},
+{
+"id": 11842,
+"f": "views/support/recovery/public.blade.php",
+"ar": "الوجه الأمامي للهوية"
+},
+{
+"id": 11843,
+"f": "views/support/recovery/public.blade.php",
+"ar": "الوجه الخلفي للهوية (اختياري)"
+},
+{
+"id": 11844,
+"f": "views/support/recovery/public.blade.php",
+"ar": "رفع الهوية والتحقق من بياناتها"
+},
+{
+"id": 11845,
+"f": "views/support/recovery/public.blade.php",
+"ar": "يتم تخزين المرفقات في التخزين الخاص وليست ملفات عامة. لا يرسل النظام كلمة مرور أو يفتح الحساب تلقائيًا؛ الاعتماد النهائي بيد موظف الدعم بعد مراجعة النتيجة."
+},
+{
+"id": 11846,
+"f": "views/support/recovery/public.blade.php",
+"ar": "فحص الوجه والحيوية"
+},
+{
+"id": 11847,
+"f": "views/support/recovery/public.blade.php",
+"ar": "سيطلب منك النظام التقاط لقطات حية من عدة زوايا. تتم المطابقة مع مرجع KYC السابق وليس مع صورة عشوائية جديدة."
+},
+{
+"id": 11848,
+"f": "views/support/recovery/public.blade.php",
+"ar": "ابدأ KYC الحيوي في نافذة جديدة"
+},
+{
+"id": 11849,
+"f": "views/support/recovery/public.blade.php",
+"ar": "تحديث نتيجة المطابقة"
+},
+{
+"id": 11850,
+"f": "views/support/recovery/public.blade.php",
+"ar": "نجحت المطابقة"
+},
+{
+"id": 11851,
+"f": "views/support/recovery/public.blade.php",
+"ar": "وصلت النتيجة لموظف الدعم. سيقوم بمراجعة الهوية والبيانات. إذا اعتمدها، سيُلغى 2FA القديم وتُرسل لك كلمة مرور مؤقتة على بريد الحساب، ويجب تغييرها بعد الدخول."
+},
+{
+"id": 11852,
+"f": "views/support/recovery/public.blade.php",
+"ar": "تحتاج مراجعة بشرية"
+},
+{
+"id": 11853,
+"f": "views/support/recovery/public.blade.php",
+"ar": "اكتمل الفحص، لكن النظام لم يعتمد النتيجة آليًا. تم إرسالها للدعم للمراجعة."
+},
+{
+"id": 11854,
+"f": "views/support/recovery/public.blade.php",
+"ar": "الحساب:"
+},
+{
+"id": 11855,
+"f": "views/support/recovery/public.blade.php",
+"ar": "صلاحية الرابط يحكمها التوقيع الأمني ووقت الانتهاء."
+},
+{
+"id": 11856,
+"f": "views/support/security-frozen.blade.php",
+"ar": "تم تجميد الحساب أمنيًا"
+},
+{
+"id": 11857,
+"f": "views/support/security-frozen.blade.php",
+"ar": "استقبلنا بلاغ «هذا مش أنا» من البريد السابق. تم إيقاف الحساب وإبطال الجلسات النشطة لحمايته. تواصل مع الدعم لاستكمال KYC واسترداد الحساب."
+},
+{
+"id": 11858,
+"f": "views/support/security-frozen.blade.php",
+"ar": "فتح مركز الدعم"
+},
+{
+"id": 11859,
+"f": "views/support/show.blade.php",
+"ar": "تفاصيل التذكرة"
+},
+{
+"id": 11860,
+"f": "views/support/show.blade.php",
+"ar": "معلومات التذكرة"
+},
+{
+"id": 11861,
+"f": "views/support/show.blade.php",
+"ar": "غ"
+},
+{
+"id": 11862,
+"f": "views/support/show.blade.php",
+"ar": "تم تحويل التذكرة إلى المدير"
+},
+{
+"id": 11863,
+"f": "views/support/show.blade.php",
+"ar": "تحويل المشكلة إلى المدير"
+},
+{
+"id": 11864,
+"f": "views/support/show.blade.php",
+"ar": "استخدم هذا الخيار فقط عندما تحتاج المشكلة إلى قرار أو تدخل إداري."
+},
+{
+"id": 11865,
+"f": "views/support/show.blade.php",
+"ar": "اكتب سبب تحويل المشكلة إلى المدير..."
+},
+{
+"id": 11866,
+"f": "views/support/show.blade.php",
+"ar": "هل تريد تحويل هذه المشكلة إلى المدير؟"
+},
+{
+"id": 11867,
+"f": "views/support/show.blade.php",
+"ar": "تحويل إلى المدير"
+},
+{
+"id": 11868,
+"f": "views/support/show.blade.php",
+"ar": "مستخدم غير متاح"
+},
+{
+"id": 11869,
+"f": "views/support/show.blade.php",
+"ar": "لا يوجد بريد إلكتروني"
+},
+{
+"id": 11870,
+"f": "views/support/show.blade.php",
+"ar": "هذه التذكرة مغلقة."
+},
+{
+"id": 11871,
+"f": "views/support/show.blade.php",
+"ar": "قيّم خدمة الدعم"
+},
+{
+"id": 11872,
+"f": "views/support/show.blade.php",
+"ar": "تقييمك يظهر في تقارير أداء فريق الدعم ويساعدنا على التحسين."
+},
+{
+"id": 11873,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "نطاق الخدمة"
+},
+{
+"id": 11874,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "حرجة"
+},
+{
+"id": 11875,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الشروط والأحكام وسياسة الاستخدام"
+},
+{
+"id": 11876,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "القواعد المنظمة لاستخدام منصة الوليد الهندسية والخدمات المقدمة من خلالها."
+},
+{
+"id": 11877,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "وثيقة ملزمة لجميع المستخدمين"
+},
+{
+"id": 11878,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "شروط استخدام منصة الوليد الهندسية"
+},
+{
+"id": 11879,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "باستخدام المنصة أو إنشاء حساب أو طلب خدمة أو تقديم خدمة من خلالها، يقر المستخدم بأنه قرأ هذه الشروط وفهمها ووافق على الالتزام بها."
+},
+{
+"id": 11880,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تعمل منصة الوليد الهندسية لخدمة مستخدمين من دول مختلفة. ويلتزم كل مستخدم بالقوانين السارية في دولته، إضافة إلى هذه الشروط. وقد تختلف بعض الحقوق والالتزامات بحسب الدولة أو المنطقة."
+},
+{
+"id": 11881,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التعريفات"
+},
+{
+"id": 11882,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "منصة الوليد الهندسية وموقعها وخدماتها الرقمية."
+},
+{
+"id": 11883,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "كل شخص يزور المنصة أو ينشئ حسابًا أو يستخدم خدماتها."
+},
+{
+"id": 11884,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "من يطلب خدمة أو استشارة أو مشروعًا هندسيًا."
+},
+{
+"id": 11885,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "مقدم الخدمة:"
+},
+{
+"id": 11886,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المهندس أو المكتب أو المختص الذي يعرض أو ينفذ خدمة."
+},
+{
+"id": 11887,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "النصوص والصور والمخططات والملفات والرسائل والتقييمات والمرفقات."
+},
+{
+"id": 11888,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المخالفة:"
+},
+{
+"id": 11889,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "أي فعل يخالف هذه الشروط أو القانون الواجب التطبيق."
+},
+{
+"id": 11890,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "توفر المنصة بيئة رقمية لعرض وطلب ومتابعة الخدمات والاستشارات الهندسية."
+},
+{
+"id": 11891,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تتضمن الخدمات التواصل، رفع الملفات، المدفوعات، الفواتير، التقييمات والدعم الفني."
+},
+{
+"id": 11892,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تعمل المنصة كوسيط تقني بين العميل ومقدم الخدمة، ولا تعد طرفًا منفذًا للخدمة إلا إذا نص الطلب صراحة على ذلك."
+},
+{
+"id": 11893,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تختلف متطلبات الترخيص والاعتماد والممارسة المهنية بحسب دولة تنفيذ المشروع."
+},
+{
+"id": 11894,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تغني مخرجات المنصة عن الاعتماد الرسمي من الجهات المختصة متى كان الاعتماد مطلوبًا قانونًا."
+},
+{
+"id": 11895,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "أهلية المستخدم ودقة البيانات"
+},
+{
+"id": 11896,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب أن يكون المستخدم بالغًا وقادرًا قانونيًا على إبرام العقود."
+},
+{
+"id": 11897,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يجوز للقاصر إنشاء حساب مستقل إلا بموافقة وليه أو ممثله القانوني."
+},
+{
+"id": 11898,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب تقديم بيانات صحيحة وحديثة وغير مضللة."
+},
+{
+"id": 11899,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة طلب إثبات الهوية أو المؤهل أو الترخيص أو ملكية وسيلة الدفع."
+},
+{
+"id": 11900,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يحق للمنصة رفض أو تعليق الحساب عند تعذر التحقق من البيانات."
+},
+{
+"id": 11901,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يتحمل المستخدم مسؤولية تحديث بياناته عند تغيرها."
+},
+{
+"id": 11902,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "أمن الحساب"
+},
+{
+"id": 11903,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المستخدم مسؤول عن سرية كلمة المرور ورموز التحقق ووسائل الدخول."
+},
+{
+"id": 11904,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع بيع الحساب أو تأجيره أو التنازل عنه أو مشاركته دون إذن."
+},
+{
+"id": 11905,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع السماح للغير بانتحال هوية صاحب الحساب."
+},
+{
+"id": 11906,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب إبلاغ الدعم فور الاشتباه بأي وصول غير مصرح به."
+},
+{
+"id": 11907,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة تسجيل الخروج من جميع الأجهزة أو فرض إعادة التحقق عند الاشتباه."
+},
+{
+"id": 11908,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تعد الأنشطة الصادرة من الحساب منسوبة لصاحبه ما لم يثبت خلاف ذلك."
+},
+{
+"id": 11909,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الاستخدامات المحظورة"
+},
+{
+"id": 11910,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المخالفات الآتية قد تؤدي إلى تعليق فوري أو حظر نهائي دون إنذار مسبق، مع حفظ حق المنصة في اتخاذ الإجراءات القانونية المناسبة."
+},
+{
+"id": 11911,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "اختراق المنصة أو اختبار الثغرات أو تجاوز الصلاحيات دون تصريح مكتوب."
+},
+{
+"id": 11912,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "رفع فيروسات أو شيفرات ضارة أو ملفات مصممة للإضرار بالأنظمة أو المستخدمين."
+},
+{
+"id": 11913,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تنفيذ هجمات حجب الخدمة أو الإغراق أو الاستخدام الآلي المفرط."
+},
+{
+"id": 11914,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الوصول إلى حساب أو ملف أو محادثة لا يملك المستخدم صلاحية الوصول إليها."
+},
+{
+"id": 11915,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "سرقة أو تسريب أو بيع أو نشر البيانات الشخصية أو السرية."
+},
+{
+"id": 11916,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "انتحال هوية شخص أو مهندس أو مكتب أو شركة أو جهة رسمية."
+},
+{
+"id": 11917,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تزوير التراخيص أو الشهادات أو التقارير أو المخططات أو الفواتير أو إيصالات الدفع."
+},
+{
+"id": 11918,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الاحتيال المالي أو غسل الأموال أو استخدام وسائل دفع مسروقة أو غير مصرح بها."
+},
+{
+"id": 11919,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التهديد أو الابتزاز أو التشهير أو التحرش أو الإهانة أو خطاب الكراهية."
+},
+{
+"id": 11920,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "نشر محتوى جنسي أو عنيف أو صادم أو غير قانوني."
+},
+{
+"id": 11921,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الترويج لنشاط غير مشروع أو تسهيله."
+},
+{
+"id": 11922,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إرسال الرسائل المزعجة أو الإعلانات المتكررة أو الروابط الخبيثة."
+},
+{
+"id": 11923,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "جمع بيانات المستخدمين آليًا أو نسخ قاعدة البيانات أو المحتوى دون تصريح."
+},
+{
+"id": 11924,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "إنشاء حسابات متعددة للتحايل على القيود أو العقوبات أو العروض."
+},
+{
+"id": 11925,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "استخدام المنصة للإضرار بسمعة مستخدم أو منافس أو جهة أخرى."
+},
+{
+"id": 11926,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التلاعب بالتقييمات أو المراجعات أو البلاغات أو نظام الدعم."
+},
+{
+"id": 11927,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "المحتوى والصور والملفات"
+},
+{
+"id": 11928,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب أن يكون المستخدم مالكًا للمحتوى أو حاصلًا على إذن قانوني لاستخدامه."
+},
+{
+"id": 11929,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع رفع أعمال أو صور أو مخططات أو مستندات مسروقة أو منتهكة لحقوق الغير."
+},
+{
+"id": 11930,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع نشر بيانات شخصية أو سرية تخص الآخرين دون أساس قانوني أو موافقة."
+},
+{
+"id": 11931,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع تضمين أكواد خبيثة أو روابط احتيالية أو ملفات مخفية ضارة."
+},
+{
+"id": 11932,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز فحص المحتوى آليًا أو يدويًا قبل النشر أو بعده."
+},
+{
+"id": 11933,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز رفض المحتوى أو إخفاؤه أو حذفه أو إرساله للمراجعة."
+},
+{
+"id": 11934,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تتحمل المنصة مسؤولية النسخ الاحتياطية الشخصية للمستخدم، وعلى المستخدم الاحتفاظ بنسخة من ملفاته المهمة."
+},
+{
+"id": 11935,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الخدمات والممارسة الهندسية"
+},
+{
+"id": 11936,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب على مقدم الخدمة الإفصاح بصدق عن تخصصه وخبرته ومؤهلاته."
+},
+{
+"id": 11937,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يجوز ممارسة عمل مهني يتطلب ترخيصًا دون امتلاك الترخيص اللازم في دولة التنفيذ."
+},
+{
+"id": 11938,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب الالتزام بنطاق العمل والجدول الزمني والمواصفات المتفق عليها."
+},
+{
+"id": 11939,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع تقديم تقارير أو مخططات أو حسابات مزورة أو مضللة أو غير مهنية."
+},
+{
+"id": 11940,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب المحافظة على سرية بيانات العميل والمشروع."
+},
+{
+"id": 11941,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يلتزم العميل بتقديم معلومات صحيحة وكاملة عن المشروع والموقع والمتطلبات."
+},
+{
+"id": 11942,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "العميل مسؤول عن التأكد من ملاءمة المخرجات للأنظمة المحلية والحصول على التصاريح اللازمة."
+},
+{
+"id": 11943,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة إيقاف مقدم الخدمة عند ورود بلاغات مهنية موثوقة أو فقدان الترخيص."
+},
+{
+"id": 11944,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "التواصل وتجاوز المنصة"
+},
+{
+"id": 11945,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة تنظيم طرق تبادل بيانات التواصل بما يحمي المستخدمين وحقوق المنصة."
+},
+{
+"id": 11946,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع التحايل المتعمد لإتمام الصفقة خارج المنصة بهدف التهرب من الرسوم أو التوثيق."
+},
+{
+"id": 11947,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع إرسال أرقام أو روابط أو وسائل دفع خارجية عندما يكون ذلك مخالفًا لمسار الخدمة."
+},
+{
+"id": 11948,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا تضمن المنصة حماية المعاملات التي تتم خارج قنواتها المعتمدة."
+},
+{
+"id": 11949,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز تعليق الحساب عند تكرار محاولات تجاوز المنصة."
+},
+{
+"id": 11950,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الأسعار والمدفوعات والفواتير"
+},
+{
+"id": 11951,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب دفع المبلغ وفق السعر والطريقة والعملة الظاهرة في الطلب."
+},
+{
+"id": 11952,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تختلف الضرائب والرسوم البنكية ورسوم التحويل بحسب الدولة ووسيلة الدفع."
+},
+{
+"id": 11953,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يعد الدفع مكتملًا إلا بعد تأكيده من المنصة أو مزود الدفع."
+},
+{
+"id": 11954,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يمنع رفع إيصال مزور أو معدل أو مستخدم في عملية أخرى."
+},
+{
+"id": 11955,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز تعليق تنفيذ الخدمة عند تأخر الدفع أو الاشتباه في العملية."
+},
+{
+"id": 11956,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز تجميد المبلغ محل النزاع إلى حين انتهاء المراجعة، ضمن ما يسمح به القانون."
+},
+{
+"id": 11957,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تخضع عمليات الاسترداد لسياسة الاسترجاع ونطاق العمل المنفذ."
+},
+{
+"id": 11958,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "قد تطلب المنصة معلومات إضافية للتحقق من مصدر الدفع أو ملكيته."
+},
+{
+"id": 11959,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "الإلغاء والاسترداد والنزاعات"
+},
+{
+"id": 11960,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "تحدد أهلية الإلغاء أو الاسترداد بحسب مرحلة تنفيذ الخدمة والاتفاق المرتبط بالطلب."
+},
+{
+"id": 11961,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "لا يستحق العميل استردادًا عن جزء تم تنفيذه وقبوله أو تسليمه، إلا إذا نص القانون على خلاف ذلك."
+},
+{
+"id": 11962,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز خصم رسوم فعلية أو تكاليف خدمات تم تنفيذها قبل الإلغاء."
+},
+{
+"id": 11963,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجب تقديم الاعتراض خلال المدة الموضحة في الطلب أو سياسة الاسترداد."
+},
+{
+"id": 11964,
+"f": "views/terms-and-conditions.blade.php",
+"ar": "يجوز للمنصة طلب مستندات أو أدلة قبل الفصل الإداري في النزاع."
+}
+]

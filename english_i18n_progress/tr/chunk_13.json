@@ -1,0 +1,962 @@
+[
+{
+"id": 3891,
+"f": "app/Services/SupportBotService.php",
+"ar": "مبدئيًا. - مالك/مدير المكتب يمكنه لاحقًا تعيين أو تغيير"
+},
+{
+"id": 3892,
+"f": "app/Services/SupportBotService.php",
+"ar": "إلى مهندس فعال من نفس المكتب وفق الصلاحيات. 5) خصوصية المحادثات - محادثة العميل مع المهندس في الاستشارة/المشروع خاصة بهما. - Admin لا يطّلع على محتوى محادثة العميل والمهندس."
+},
+{
+"id": 3893,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا يطّلع على هذه المحادثة. - الإدارة تستطيع التواصل المباشر مع المهندس عبر محادثة إدارية منفصلة عندما تكون هذه الميزة متاحة. - لا تكشف محتوى محادثة خاصة لأي طرف غير مخول. 6) محادثة فريق المشروع"
+},
+{
+"id": 3894,
+"f": "app/Services/SupportBotService.php",
+"ar": "منفصلة عن محادثة العميل والمهندس. - الدخول إلى"
+},
+{
+"id": 3895,
+"f": "app/Services/SupportBotService.php",
+"ar": "وأعضاء فريق المشروع النشطين. - العميل وAdmin و"
+},
+{
+"id": 3896,
+"f": "app/Services/SupportBotService.php",
+"ar": "والمهندس غير المعيّن لا يدخلون"
+},
+{
+"id": 3897,
+"f": "app/Services/SupportBotService.php",
+"ar": "الرسائل قد تدعم النصوص والصور والصوت والفيديو والملفات والرد على الرسائل. - توجد خصائص قراءة/استلام وحالة اتصال وكتابة عند تفعيلها. - الرسائل والمرفقات تخضع لرقابة المحتوى. 7) إدارة المشروع - المشروع قد يحتوي على milestones ومهام وملفات وجدول دفعات وطلبات تغيير وفريق عمل."
+},
+{
+"id": 3898,
+"f": "app/Services/SupportBotService.php",
+"ar": "يدير التنفيذ الفني وفريق المشروع وفق الصلاحيات. - أعضاء الفريق يرون المهام والبيانات المسموح بها لهم فقط. - العميل يرى تقدم مشروعه والدفعات والتسليمات والملفات المخصصة له. - Admin يرى المشاريع على مستوى المنصة إداريًا وماليًا، دون خرق خصوصية محادثة العميل والمهندس أو"
+},
+{
+"id": 3899,
+"f": "app/Services/SupportBotService.php",
+"ar": "يرى مشاريع مكتبه إداريًا وماليًا حسب الصلاحيات."
+},
+{
+"id": 3900,
+"f": "app/Services/SupportBotService.php",
+"ar": "يرى الجوانب المالية المسموح بها فقط. 8) دفعات المشاريع - المشروع يمكن أن يحتوي على عدة دفعات/Installments. - لكل دفعة مبلغ وحالة وموعد وبيانات مرتبطة بها حسب إعداد المشروع. - العميل يرفع إيصال الدفعة عندما تتطلب العملية ذلك. - حالة الدفعة قد تمر بحالة انتظار التحقق ثم مدفوعة أو مرفوضة/ملغاة بحسب النظام. - بعد تأكيد الدفعة يتم احتساب المستحقات المالية المرتبطة بها. - لا تخترع أن دفعة مدفوعة أو مرفوضة إذا لم تصل بيانات فعلية عن الدفعة. - إذا سأل المستخدم عن حالة دفعته الفعلية ولم تُرسل بياناتها للمساعد، وجّهه إلى صفحة المشروع/الدفعات. 9) فواتير PDF - بعد تأكيد الدفع يمكن إصدار فاتورة PDF إلكترونية. - الفاتورة تعرض رقم الفاتورة وتاريخ الإصدار واسم العميل وطريقة الدفع وقيمة الدفعة. - الفاتورة المحدثة توضح اسم الدفعة والغرض الذي صدرت من أجله. - في دفعات المشاريع يمكن أن يظهر اسم الدفعة ورقمها واسم/رقم المشروع وقيمة الدفعة. - لا تخترع رقم فاتورة أو قيمة أو اسم دفعة غير موجود في البيانات. 10) المشاريع التابعة لمكتب والمستحقات - Admin يحدد نسبة المكتب من المشروع عبر office_percentage. - نسبة المكتب تُحتسب من قيمة المشروع/الدفعة بحسب الآلية المالية المعتمدة. - عند تأكيد دفعة مشروع مكتبي يتم إنشاء مستحق للمكتب. - Admin أو"
+},
+{
+"id": 3901,
+"f": "app/Services/SupportBotService.php",
+"ar": "من المهندسين الفعالين في المكتب. - يمكن تحديد نسب داخلية لمهندسي المشروع من حصة المكتب حسب النظام. - لا تفترض أن أي مهندس في المكتب عضو في مشروع بعينه ما لم تكن لديه علاقة فعلية بالمشروع. 12) لوحة المكتب - لدى مالك/مدير المكتب لوحة تعرض بيانات المكتب، الأعضاء، الاستشارات المرتبطة، المشاريع، وقيمًا مالية وإحصاءات حسب الصلاحيات. - توجد صفحة لمشاريع المكتب مع بحث وفلترة وحالة المشروع واسم العميل و"
+},
+{
+"id": 3902,
+"f": "app/Services/SupportBotService.php",
+"ar": "وقيمة المشروع ونسبة المكتب. - لا تعرض مشاريع مكاتب أخرى لمالك/مدير مكتب. 13) الإدارة المالية - توجد مستحقات مهندس للمشاريع المستقلة. - توجد مستحقات مكتب للمشاريع التابعة لمكتب. - المدير المالي يدير عمليات مالية مسموحة مثل مراجعة/تأكيد بعض المستحقات والدفعات وفق الصلاحيات. - لا تمنح المدير المالي وصولًا لمحادثات خاصة أو"
+},
+{
+"id": 3903,
+"f": "app/Services/SupportBotService.php",
+"ar": "الآراء والملاحظات - يوجد نظام Feedback مستقل. - يستطيع الزائر أو المستخدم إرسال رأي أو اقتراح أو شكوى أو ملاحظة أخرى. - يمكن إضافة تقييم من 1 إلى 5. - الحقول الأساسية تشمل نوع الرسالة والعنوان والنص، ويمكن أن تشمل الاسم والبريد للزائر. - حالات الملاحظة: new ثم reviewed ثم"
+},
+{
+"id": 3904,
+"f": "app/Services/SupportBotService.php",
+"ar": "لديه صفحة لإدارة جميع الآراء والملاحظات والبحث والفلترة وتحديث الحالة وإضافة ملاحظات إدارية. - يظهر للـAdmin عداد للآراء الجديدة في شريط التنقل. - يوجد قسم"
+},
+{
+"id": 3905,
+"f": "app/Services/SupportBotService.php",
+"ar": "في الصفحة العامة ورابط لإرسال الرأي. - لا تعرض ملاحظات الإدارة الداخلية للمستخدم العام. 15) الموقع العام وSEO - الاسم الظاهر للموقع: منصة الوليد الهندسية. - الصفحة الرئيسية تحتوي على معلومات واضحة عن الخدمات والأعمال والمهندسين والآراء والملاحظات. - تم إعداد عناصر SEO أساسية مثل title وdescription وcanonical وrobots وبيانات WebSite/Organization المنظمة. - يوجد robots.txt و sitemap.xml داخل public عند نشرهما. - هذه المعلومات تخص ظهور الموقع لمحركات البحث، ولا تعني ضمان ترتيب معين في"
+},
+{
+"id": 3906,
+"f": "app/Services/SupportBotService.php",
+"ar": "المهندسون والأعمال - المهندس يستطيع إضافة أعماله وصوره ومعلوماته حسب الصلاحيات. - العميل يستطيع تصفح مكتبة الأعمال وصفحات المهندسين واختيار مهندس عندما يكون المسار متاحًا. - لا تخترع تقييمًا لمهندس إذا لم يصل تقييم فعلي من النظام. 17) المكاتب الهندسية - توجد طلبات إنشاء/تسجيل مكاتب وطلبات عضوية حسب النظام. - مالك/مدير المكتب يدير المكتب والأعضاء والاستشارات والمشاريع المرتبطة بمكتبه. - بعض عمليات المكتب تعتمد على اشتراك فعال وحالة مكتب فعالة. - لا تفترض أن مكتبًا فعال أو أن اشتراكه ساري إذا لم تُرسل هذه البيانات. 18) الدفع والإيصالات - بعض الخدمات تتطلب رفع إيصال. - الإدارة تراجع الإيصال وتقبله أو ترفضه. - عند الرفض قد يظهر سبب الرفض للمستخدم. - لا تطلب كلمة مرور أو OTP أو بيانات بطاقة داخل المحادثة. - أي اشتباه بدفعة غير مصرح بها أو احتيال مالي يجب تصعيده للدعم البشري. 19) الرقابة والأمان - النظام يفحص النصوص وبعض المرفقات باستخدام نظام رقابة مركزي. - المحتوى المخالف قد يُرفض وقد تُسجل مخالفة أو تحذير. - تكرار المخالفات قد يؤدي إلى تعليق الحساب وفق سياسة المنصة. - الحساب المعلّق قد يملك مسار اعتراض مخصص. - لا تساعد على تجاوز الرقابة أو الصلاحيات أو الوصول إلى بيانات مستخدم آخر. 20) الدعم الفني والمساعد الذكي - المساعد الذكي هو"
+},
+{
+"id": 3907,
+"f": "app/Services/SupportBotService.php",
+"ar": "يستطيع الزائر استخدام المساعد للأسئلة العامة. - المستخدم المسجل يستطيع استخدام الدعم مع حفظ المحادثة/التذكرة حسب النظام. - إذا لم تُحل المشكلة آليًا يمكن التحويل إلى موظف دعم. - الحالات الأمنية الحساسة تُحوّل للدعم مباشرة. - لا تقل إنك نفذت تغييرًا فعليًا في الحساب إلا إذا قام النظام بإرسال نتيجة تنفيذ مؤكدة. 21) العقود الإلكترونية والتوقيع - المنصة تدعم العقود الإلكترونية المرتبطة بالمشاريع والأطراف. - يمكن أن يشمل العقد بيانات النطاق والقيمة والمدة والأطراف والتوقيعات والحالة حسب الصلاحيات. - لا تخترع أن عقدًا موقع أو ساري أو منتهي ما لم تصل حالته الفعلية في السياق. - التوقيع والصلاحيات الخاصة بالعقد يجب أن تبقى محكومة من"
+},
+{
+"id": 3908,
+"f": "app/Services/SupportBotService.php",
+"ar": "وعروض المشاريع - يوجد Marketplace لطلبات المشاريع الهندسية. - يمكن نشر طلب مشروع وملفاته وفق صلاحيات العميل والنظام. - الجهات/المهندسون المصرح لهم يستطيعون تقديم Quotations أو عروض أسعار. - العرض قد يحتوي سعرًا ومدة وملاحظات وملفات حسب النموذج. - لا تخترع سعر عرض أو حالة قبول عرض لم تصل للمساعد فعليًا."
+},
+{
+"id": 3909,
+"f": "app/Services/SupportBotService.php",
+"ar": "للإيرادات والمصروفات وصافي النتائج والمؤشرات المتاحة حسب الصلاحيات. - Admin و"
+},
+{
+"id": 3910,
+"f": "app/Services/SupportBotService.php",
+"ar": "لديهما صلاحيات مالية أوسع وفق النظام. - لا تخترع مبلغًا أو ربحًا أو خسارة أو رصيدًا لم يصل فعليًا في السياق. 25) الإشعارات - المنصة ترسل Notifications لأحداث مثل الطلبات والإسناد والدفع والملفات والمشاريع والاجتماعات وغيرها. - المستخدم يرى إشعاراته فقط، ولا تكشف إشعارات مستخدم آخر. - إذا أرسل النظام عدد الإشعارات غير المقروءة في السياق الحي، يمكن ذكره للمستخدم. 26) الاجتماعات داخل المنصة - الاجتماعات الحديثة تتم داخل المنصة، ولا تحتاج Zoom أو"
+},
+{
+"id": 3911,
+"f": "app/Services/SupportBotService.php",
+"ar": "للاجتماعات المباشرة الجديدة."
+},
+{
+"id": 3912,
+"f": "app/Services/SupportBotService.php",
+"ar": "يستخدمان للحضور Presence والدردشة وتحديثات الحالة والانضمام/المغادرة والإشعارات الفورية. - LiveKit يستخدم للصوت والفيديو والميكروفون والكاميرا ومشاركة الشاشة و"
+},
+{
+"id": 3913,
+"f": "app/Services/SupportBotService.php",
+"ar": "نموذج جدولة الاجتماع يركز على: العنوان، التاريخ والوقت، الهدف/الوصف، المشاركين، Agenda، والمرفقات. - الموقع الفيزيائي ورابط الاجتماع الخارجي واختيار Chairperson اليدوي لم تعد مطلوبة في التدفق الجديد للاجتماعات الداخلية. 27) صلاحيات الاجتماعات المباشرة - ليس كل مشارك يستطيع بدء الاجتماع. - Admin يستطيع إدارة الاجتماعات وفق صلاحيات الإدارة. - مدير المشروع"
+},
+{
+"id": 3914,
+"f": "app/Services/SupportBotService.php",
+"ar": "أو مدير فريق المشروع أو Owner/Manager للمكتب المرتبط بالمشروع يمكنه بدء الاجتماع عندما تسمح الصلاحيات الفعلية. - بقية المستخدمين يدخلون إذا كانوا مدعوين/مصرح لهم ولا يحصلون تلقائيًا على صلاحية البدء. - الشخص المخول الذي يبدأ الجلسة يصبح مدير الجلسة المباشرة وفق المنطق الحالي. - مدير الاجتماع/Admin المصرح له يستطيع إنهاء الاجتماع للجميع وكتم مشارك وإزالة مشارك ودعوة مستخدمين ضمن نطاقه. - لا يجوز للمساعد منح صلاحية Start/Kick/Mute/Invite من نفسه؛ يعتمد على سياق Laravel الفعلي."
+},
+{
+"id": 3915,
+"f": "app/Services/SupportBotService.php",
+"ar": "جدول الأعمال الذي سيتم مناقشته في الاجتماع."
+},
+{
+"id": 3916,
+"f": "app/Services/SupportBotService.php",
+"ar": "محضر الاجتماع ويشمل الملخص والقرارات والحضور ومناقشات البنود حسب النظام."
+},
+{
+"id": 3917,
+"f": "app/Services/SupportBotService.php",
+"ar": "مهمة تنفيذية ناتجة عن الاجتماع أو قرار، وليست اجتماعًا جديدًا."
+},
+{
+"id": 3918,
+"f": "app/Services/SupportBotService.php",
+"ar": "قد ترتبط ببند Agenda وتحتوي عنوانًا وتفاصيل ومسؤولًا وموعدًا وأولوية وحالة. - نشر أو تعديل المحضر والمهام يخضع لصلاحيات الاجتماع والمشروع. 29) إدارة المشروع المتقدمة - المشروع قد يضم مهام وMilestones وملفات وتسليمات وطلبات تغيير وسجل نشاط وجدولًا زمنيًا وأعضاء فريق واجتماعات وعقود ودفعات. - كل مستخدم يرى ويعدل فقط ما تسمح به صلاحياته ودوره داخل المشروع. 30) الدعم الفني والتذاكر - الدعم الذكي مرتبط بنظام"
+},
+{
+"id": 3919,
+"f": "app/Services/SupportBotService.php",
+"ar": "للمستخدم المسجل. - يمكن أن تبقى المحادثة مع البوت أو تنتقل إلى waiting_employee ثم employee. - المستخدم يستطيع تأكيد أن المشكلة حُلّت أو طلب التحويل إلى موظف. - الحالات الأمنية الحساسة تُصعّد للدعم وفق قواعد النظام. 31) قاعدة الإجابة - للأسئلة العامة مثل: أين أجد الميزة؟ كيف أرسل دفعة؟ كيف أطلب مشروعًا؟ أجب بخطوات واضحة. - للأسئلة التي تحتاج بيانات حية مثل: هل دفعت؟ كم باقي علي؟ من"
+},
+{
+"id": 3920,
+"f": "app/Services/SupportBotService.php",
+"ar": "الحالي؟ هل تم قبول طلبي؟ لا تخترع الإجابة. - إذا لم تُرسل البيانات الفعلية، وجّه المستخدم إلى الصفحة المناسبة داخل حسابه. - التزم دائمًا بحدود الدور والصلاحيات والخصوصية."
+},
+{
+"id": 3921,
+"f": "app/Services/SupportBotService.php",
+"ar": "انسرق حساب"
+},
+{
+"id": 3922,
+"f": "app/Services/SupportBotService.php",
+"ar": "سرق حساب"
+},
+{
+"id": 3923,
+"f": "app/Services/SupportBotService.php",
+"ar": "حسابي انسرق"
+},
+{
+"id": 3924,
+"f": "app/Services/SupportBotService.php",
+"ar": "اخترق حساب"
+},
+{
+"id": 3925,
+"f": "app/Services/SupportBotService.php",
+"ar": "اختراق حساب"
+},
+{
+"id": 3926,
+"f": "app/Services/SupportBotService.php",
+"ar": "تهكير حساب"
+},
+{
+"id": 3927,
+"f": "app/Services/SupportBotService.php",
+"ar": "هكر حساب"
+},
+{
+"id": 3928,
+"f": "app/Services/SupportBotService.php",
+"ar": "دخل على حسابي"
+},
+{
+"id": 3929,
+"f": "app/Services/SupportBotService.php",
+"ar": "دخول غير مصرح"
+},
+{
+"id": 3930,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش انا دخلت"
+},
+{
+"id": 3931,
+"f": "app/Services/SupportBotService.php",
+"ar": "تسجيل دخول غريب"
+},
+{
+"id": 3932,
+"f": "app/Services/SupportBotService.php",
+"ar": "غيرت كلمه السر"
+},
+{
+"id": 3933,
+"f": "app/Services/SupportBotService.php",
+"ar": "كلمه السر انسرقت"
+},
+{
+"id": 3934,
+"f": "app/Services/SupportBotService.php",
+"ar": "كلمه المرور انسرقت"
+},
+{
+"id": 3935,
+"f": "app/Services/SupportBotService.php",
+"ar": "الباسورد انسرق"
+},
+{
+"id": 3936,
+"f": "app/Services/SupportBotService.php",
+"ar": "كود التحقق"
+},
+{
+"id": 3937,
+"f": "app/Services/SupportBotService.php",
+"ar": "تسريب بيانات"
+},
+{
+"id": 3938,
+"f": "app/Services/SupportBotService.php",
+"ar": "بياناتي تسربت"
+},
+{
+"id": 3939,
+"f": "app/Services/SupportBotService.php",
+"ar": "كشف بيانات"
+},
+{
+"id": 3940,
+"f": "app/Services/SupportBotService.php",
+"ar": "بيانات مستخدم اخر"
+},
+{
+"id": 3941,
+"f": "app/Services/SupportBotService.php",
+"ar": "بيانات عميل اخر"
+},
+{
+"id": 3942,
+"f": "app/Services/SupportBotService.php",
+"ar": "بيانات شخص اخر"
+},
+{
+"id": 3943,
+"f": "app/Services/SupportBotService.php",
+"ar": "تغيير صلاحيات"
+},
+{
+"id": 3944,
+"f": "app/Services/SupportBotService.php",
+"ar": "ارفع صلاحيتي"
+},
+{
+"id": 3945,
+"f": "app/Services/SupportBotService.php",
+"ar": "اعطيني صلاحيات"
+},
+{
+"id": 3946,
+"f": "app/Services/SupportBotService.php",
+"ar": "تجاوز الحمايه"
+},
+{
+"id": 3947,
+"f": "app/Services/SupportBotService.php",
+"ar": "تجاوز النظام"
+},
+{
+"id": 3948,
+"f": "app/Services/SupportBotService.php",
+"ar": "ثغره امنيه"
+},
+{
+"id": 3949,
+"f": "app/Services/SupportBotService.php",
+"ar": "ثغره بالنظام"
+},
+{
+"id": 3950,
+"f": "app/Services/SupportBotService.php",
+"ar": "عمليه مشبوهه"
+},
+{
+"id": 3951,
+"f": "app/Services/SupportBotService.php",
+"ar": "دفع مشبوه"
+},
+{
+"id": 3952,
+"f": "app/Services/SupportBotService.php",
+"ar": "خصم مشبوه"
+},
+{
+"id": 3953,
+"f": "app/Services/SupportBotService.php",
+"ar": "دفعة مشبوهة"
+},
+{
+"id": 3954,
+"f": "app/Services/SupportBotService.php",
+"ar": "انتحال هويه"
+},
+{
+"id": 3955,
+"f": "app/Services/SupportBotService.php",
+"ar": "مشكله"
+},
+{
+"id": 3956,
+"f": "app/Services/SupportBotService.php",
+"ar": "مشكلتي"
+},
+{
+"id": 3957,
+"f": "app/Services/SupportBotService.php",
+"ar": "عندي مشكله"
+},
+{
+"id": 3958,
+"f": "app/Services/SupportBotService.php",
+"ar": "في مشكله"
+},
+{
+"id": 3959,
+"f": "app/Services/SupportBotService.php",
+"ar": "واجهت مشكله"
+},
+{
+"id": 3960,
+"f": "app/Services/SupportBotService.php",
+"ar": "خطا"
+},
+{
+"id": 3961,
+"f": "app/Services/SupportBotService.php",
+"ar": "تعطل"
+},
+{
+"id": 3962,
+"f": "app/Services/SupportBotService.php",
+"ar": "متعطل"
+},
+{
+"id": 3963,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما بشتغل"
+},
+{
+"id": 3964,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش شغال"
+},
+{
+"id": 3965,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا يعمل"
+},
+{
+"id": 3966,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما بيفتح"
+},
+{
+"id": 3967,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش بيفتح"
+},
+{
+"id": 3968,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما بقدر"
+},
+{
+"id": 3969,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش قادر"
+},
+{
+"id": 3970,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا استطيع"
+},
+{
+"id": 3971,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما وصل"
+},
+{
+"id": 3972,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش واصل"
+},
+{
+"id": 3973,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما انرسل"
+},
+{
+"id": 3974,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش راضي"
+},
+{
+"id": 3975,
+"f": "app/Services/SupportBotService.php",
+"ar": "علق"
+},
+{
+"id": 3976,
+"f": "app/Services/SupportBotService.php",
+"ar": "الدفع ما"
+},
+{
+"id": 3977,
+"f": "app/Services/SupportBotService.php",
+"ar": "الدفعه ما"
+},
+{
+"id": 3978,
+"f": "app/Services/SupportBotService.php",
+"ar": "الاشتراك ما"
+},
+{
+"id": 3979,
+"f": "app/Services/SupportBotService.php",
+"ar": "الحساب ما"
+},
+{
+"id": 3980,
+"f": "app/Services/SupportBotService.php",
+"ar": "التوثيق ما"
+},
+{
+"id": 3981,
+"f": "app/Services/SupportBotService.php",
+"ar": "رمز التحقق ما"
+},
+{
+"id": 3982,
+"f": "app/Services/SupportBotService.php",
+"ar": "الملف ما"
+},
+{
+"id": 3983,
+"f": "app/Services/SupportBotService.php",
+"ar": "الرفع ما"
+},
+{
+"id": 3984,
+"f": "app/Services/SupportBotService.php",
+"ar": "اختفى"
+},
+{
+"id": 3985,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش ظاهر"
+},
+{
+"id": 3986,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما بظهر"
+},
+{
+"id": 3987,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا يظهر"
+},
+{
+"id": 3988,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما انحلت"
+},
+{
+"id": 3989,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش محلوله"
+},
+{
+"id": 3990,
+"f": "app/Services/SupportBotService.php",
+"ar": "لسه المشكله"
+},
+{
+"id": 3991,
+"f": "app/Services/SupportBotService.php",
+"ar": "ما زبط"
+},
+{
+"id": 3992,
+"f": "app/Services/SupportBotService.php",
+"ar": "مش زابط"
+},
+{
+"id": 3993,
+"f": "app/Services/SupportBotService.php",
+"ar": "نوع الزائر: زائر غير مسجل الدخول."
+},
+{
+"id": 3994,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا تفترض وجود طلبات أو استشارات أو دفعات خاصة به."
+},
+{
+"id": 3995,
+"f": "app/Services/SupportBotService.php",
+"ar": "إذا احتاج خدمة تتطلب حسابًا، اطلب منه تسجيل الدخول أو إنشاء حساب."
+},
+{
+"id": 3996,
+"f": "app/Services/SupportBotService.php",
+"ar": "الدور الحالي في المنصة:"
+},
+{
+"id": 3997,
+"f": "app/Services/SupportBotService.php",
+"ar": "عدد المخالفات المؤكدة:"
+},
+{
+"id": 3998,
+"f": "app/Services/SupportBotService.php",
+"ar": "المتبقي حتى حد التعليق:"
+},
+{
+"id": 3999,
+"f": "app/Services/SupportBotService.php",
+"ar": "لا تكشف أي بيانات حساسة أو معلومات لا تخص هذا المستخدم."
+},
+{
+"id": 4000,
+"f": "app/Services/SupportBotService.php",
+"ar": "كيف"
+},
+{
+"id": 4001,
+"f": "app/Services/SupportBotService.php",
+"ar": "شو"
+},
+{
+"id": 4002,
+"f": "app/Services/SupportBotService.php",
+"ar": "ماذا"
+},
+{
+"id": 4003,
+"f": "app/Services/SupportBotService.php",
+"ar": "وين"
+},
+{
+"id": 4004,
+"f": "app/Services/SupportBotService.php",
+"ar": "اين"
+},
+{
+"id": 4005,
+"f": "app/Services/SupportBotService.php",
+"ar": "هل"
+},
+{
+"id": 4006,
+"f": "app/Services/SupportBotService.php",
+"ar": "في"
+},
+{
+"id": 4007,
+"f": "app/Services/SupportBotService.php",
+"ar": "على"
+},
+{
+"id": 4008,
+"f": "app/Services/SupportBotService.php",
+"ar": "الي"
+},
+{
+"id": 4009,
+"f": "app/Services/SupportBotService.php",
+"ar": "عن"
+},
+{
+"id": 4010,
+"f": "app/Services/SupportBotService.php",
+"ar": "انا"
+},
+{
+"id": 4011,
+"f": "app/Services/SupportBotService.php",
+"ar": "عندي"
+},
+{
+"id": 4012,
+"f": "app/Services/SupportBotService.php",
+"ar": "لو"
+},
+{
+"id": 4013,
+"f": "app/Services/SupportBotService.php",
+"ar": "هو"
+},
+{
+"id": 4014,
+"f": "app/Services/SupportBotService.php",
+"ar": "هي"
+},
+{
+"id": 4015,
+"f": "app/Services/SupportBotService.php",
+"ar": "هذه"
+},
+{
+"id": 4016,
+"f": "app/Services/SupportBotService.php",
+"ar": "او"
+},
+{
+"id": 4017,
+"f": "app/Services/SupportBotService.php",
+"ar": "اي"
+},
+{
+"id": 4018,
+"f": "app/Services/SupportBotService.php",
+"ar": "ليش"
+},
+{
+"id": 4019,
+"f": "app/Services/SupportBotService.php",
+"ar": "ليه"
+},
+{
+"id": 4020,
+"f": "app/Services/SupportBotService.php",
+"ar": "طريقه"
+},
+{
+"id": 4021,
+"f": "app/Services/SupportChecklistService.php",
+"ar": "يجب إكمال قائمة التحقق الأمنية قبل تنفيذ هذا الإجراء."
+},
+{
+"id": 4022,
+"f": "app/Services/SupportDeliveryService.php",
+"ar": "فريق الدعم"
+},
+{
+"id": 4023,
+"f": "app/Services/SupportDeliveryService.php",
+"ar": "تم إرسال تحديث جديد في تذكرة الدعم."
+},
+{
+"id": 4024,
+"f": "app/Services/SupportDeliveryService.php",
+"ar": "رد جديد من دعم منصة الوليد الهندسية"
+},
+{
+"id": 4025,
+"f": "app/Services/SupportDeliveryService.php",
+"ar": "يوجد تحديث جديد داخل التذكرة."
+},
+{
+"id": 4026,
+"f": "app/Services/SupportInboundService.php",
+"ar": "رسالة دعم واردة"
+},
+{
+"id": 4027,
+"f": "app/Services/SupportInboundService.php",
+"ar": "رسالة واردة عبر"
+},
+{
+"id": 4028,
+"f": "app/Services/SupportOperationsService.php",
+"ar": "تذكرة دعم"
+},
+{
+"id": 4029,
+"f": "app/Services/SupportOperationsService.php",
+"ar": "بريد من الدعم"
+},
+{
+"id": 4030,
+"f": "app/Services/SupportOperationsService.php",
+"ar": "عملية دفع"
+},
+{
+"id": 4031,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "رفع صاحب الحساب مستندات الهوية من رابط الاسترداد، وتطابقت بيانات الهوية المعلنة مع مرجع KYC المسجل. بانتظار الفحص الحيوي."
+},
+{
+"id": 4032,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "رفع صاحب الحساب مستندات الهوية من رابط الاسترداد، لكن توجد ملاحظة على مطابقة بيانات الهوية. راجع المستندات قبل أي استرداد."
+},
+{
+"id": 4033,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "مستندات KYC جديدة لاسترداد الحساب"
+},
+{
+"id": 4034,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "نجحت مطابقة KYC لاسترداد الحساب"
+},
+{
+"id": 4035,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "يحتاج مراجعة بشرية"
+},
+{
+"id": 4036,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "نجحت الحيوية ومطابقة الوجه مع مرجع KYC القديم للحساب. يمكنك مراجعة الهوية ثم اعتماد الاسترداد وإرسال كلمة مرور مؤقتة."
+},
+{
+"id": 4037,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "اكتمل الفحص الحيوي لكن النتيجة تحتاج مراجعة أمان بشرية قبل استرداد الحساب."
+},
+{
+"id": 4038,
+"f": "app/Services/SupportRecoveryNotifier.php",
+"ar": "لم تنجح جلسة KYC الجديدة في اجتياز شروط الحيوية/مطابقة المرجع القديم."
+},
+{
+"id": 4039,
+"f": "app/Services/SupportRiskService.php",
+"ar": "محاولات دخول فاشلة كثيرة خلال 30 يومًا"
+},
+{
+"id": 4040,
+"f": "app/Services/SupportRiskService.php",
+"ar": "عدة محاولات دخول فاشلة مؤخرًا"
+},
+{
+"id": 4041,
+"f": "app/Services/SupportRiskService.php",
+"ar": "يوجد سجل تحذيرات على الحساب"
+},
+{
+"id": 4042,
+"f": "app/Services/SupportRiskService.php",
+"ar": "الحساب ليس بحالة"
+},
+{
+"id": 4043,
+"f": "app/Services/SupportRiskService.php",
+"ar": "تكرار طلبات استرداد الحساب"
+},
+{
+"id": 4044,
+"f": "app/Services/SupportRiskService.php",
+"ar": "عدد كبير من الأجهزة النشطة"
+},
+{
+"id": 4045,
+"f": "app/Services/SupportTicketLockService.php",
+"ar": "موظف آخر"
+},
+{
+"id": 4046,
+"f": "app/Services/SupportTicketLockService.php",
+"ar": "موظف آخر يراجع هذه التذكرة الآن:"
+},
+{
+"id": 4047,
+"f": "app/Services/UniqueIdentityService.php",
+"ar": "غير مجهز، تم إيقاف اعتماد الهوية احترازيًا."
+},
+{
+"id": 4048,
+"f": "app/Services/UniqueIdentityService.php",
+"ar": "يلزم بلد إصدار ونوع ورقم هوية صالح قبل الاعتماد."
+},
+{
+"id": 4049,
+"f": "app/Services/UniqueIdentityService.php",
+"ar": "هذه الهوية مرتبطة بحساب آخر. استعد حسابك الأصلي أو راجع الدعم."
+},
+{
+"id": 4050,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "واتساب"
+},
+{
+"id": 4051,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "حساب بنكي"
+},
+{
+"id": 4052,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "هاتف"
+},
+{
+"id": 4053,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ا"
+},
+{
+"id": 4054,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "واتس"
+},
+{
+"id": 4055,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تواصل"
+},
+{
+"id": 4056,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "خارج المنصه"
+},
+{
+"id": 4057,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "خارج الموقع"
+},
+{
+"id": 4058,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "أ"
+},
+{
+"id": 4059,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "ي"
+},
+{
+"id": 4060,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تلغرام"
+},
+{
+"id": 4061,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تيليجرام"
+},
+{
+"id": 4062,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "انستغرام"
+},
+{
+"id": 4063,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "سناب"
+},
+{
+"id": 4064,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "محفظتي"
+},
+{
+"id": 4065,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بنك"
+},
+{
+"id": 4066,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "حسابي"
+},
+{
+"id": 4067,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "قاصر"
+},
+{
+"id": 4068,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "طفل"
+},
+{
+"id": 4069,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "طفله"
+},
+{
+"id": 4070,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "جنس"
+},
+{
+"id": 4071,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "عاري"
+},
+{
+"id": 4072,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "عري"
+},
+{
+"id": 4073,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "صور خاصه"
+},
+{
+"id": 4074,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "اباحي"
+},
+{
+"id": 4075,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "حسابك"
+},
+{
+"id": 4076,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "كلمني"
+},
+{
+"id": 4077,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "راسلني"
+},
+{
+"id": 4078,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "تيك توك"
+},
+{
+"id": 4079,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "بالخاص"
+},
+{
+"id": 4080,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "خصم"
+},
+{
+"id": 4081,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "هذا"
+},
+{
+"id": 4082,
+"f": "app/Services/UniversalContentModerationService.php",
+"ar": "رقمي"
+}
+]

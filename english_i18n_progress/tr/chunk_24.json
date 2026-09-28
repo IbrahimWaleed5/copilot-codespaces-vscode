@@ -1,0 +1,2227 @@
+[
+{
+"id": 8269,
+"f": "views/disputes/show.blade.php",
+"ar": "إصدار القرار والتحكيم"
+},
+{
+"id": 8270,
+"f": "views/disputes/show.blade.php",
+"ar": "صلاحية مسؤول"
+},
+{
+"id": 8271,
+"f": "views/disputes/show.blade.php",
+"ar": "حدد الإجراء التنفيذي المطلوب بحق الضمان المالي ومسار القضية بناءً على مراجعة السجل والمستندات."
+},
+{
+"id": 8272,
+"f": "views/disputes/show.blade.php",
+"ar": "نوع القرار / الإجراء"
+},
+{
+"id": 8273,
+"f": "views/disputes/show.blade.php",
+"ar": "بدء المراجعة والتحقيق الرسمي"
+},
+{
+"id": 8274,
+"f": "views/disputes/show.blade.php",
+"ar": "طلب إيضاحات ومستندات إضافية"
+},
+{
+"id": 8275,
+"f": "views/disputes/show.blade.php",
+"ar": "استرداد مالي جزئي"
+},
+{
+"id": 8276,
+"f": "views/disputes/show.blade.php",
+"ar": "استرداد مالي كامل للعميل"
+},
+{
+"id": 8277,
+"f": "views/disputes/show.blade.php",
+"ar": "إغلاق النزاع وإتاحة الصرف للمنفذ"
+},
+{
+"id": 8278,
+"f": "views/disputes/show.blade.php",
+"ar": "رفض النزاع وإتاحة الصرف"
+},
+{
+"id": 8279,
+"f": "views/disputes/show.blade.php",
+"ar": "تعيين أو نقل المراجع المسؤول"
+},
+{
+"id": 8280,
+"f": "views/disputes/show.blade.php",
+"ar": "المراجع الحالي"
+},
+{
+"id": 8281,
+"f": "views/disputes/show.blade.php",
+"ar": "اترك دون تعيين"
+},
+{
+"id": 8282,
+"f": "views/disputes/show.blade.php",
+"ar": "اختر دفعة المشروع للخصم منها"
+},
+{
+"id": 8283,
+"f": "views/disputes/show.blade.php",
+"ar": "قيمة الاسترداد المحددة"
+},
+{
+"id": 8284,
+"f": "views/disputes/show.blade.php",
+"ar": "يظهر هذا الحقل فقط عند اختيار الاسترداد الجزئي."
+},
+{
+"id": 8285,
+"f": "views/disputes/show.blade.php",
+"ar": "مسببات القرار والملاحظات"
+},
+{
+"id": 8286,
+"f": "views/disputes/show.blade.php",
+"ar": "بيان أسباب القرار وملاحظات المراجعة..."
+},
+{
+"id": 8287,
+"f": "views/disputes/show.blade.php",
+"ar": "اعتماد وحفظ القرار"
+},
+{
+"id": 8288,
+"f": "views/disputes/show.blade.php",
+"ar": "شروط التحكيم والضمان"
+},
+{
+"id": 8289,
+"f": "views/disputes/show.blade.php",
+"ar": "لا يمكن صرف المستحقات المرتبطة أثناء بقاء النزاع مفتوحًا."
+},
+{
+"id": 8290,
+"f": "views/disputes/show.blade.php",
+"ar": "صلاحيات الاسترداد والإفراج عن الأموال محصورة بالإدارة."
+},
+{
+"id": 8291,
+"f": "views/disputes/show.blade.php",
+"ar": "الملاحظات الداخلية لا تظهر لأطراف النزاع، وتبقى ضمن سجل المراجعة."
+},
+{
+"id": 8292,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "إبداع هوم"
+},
+{
+"id": 8293,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "إشعار حساب"
+},
+{
+"id": 8294,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "الجهاز:"
+},
+{
+"id": 8295,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "الموقع التقريبي:"
+},
+{
+"id": 8296,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "فتح في المنصة"
+},
+{
+"id": 8297,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "إذا لم تكن أنت من نفّذ هذا الإجراء، استخدم الزر التالي فورًا. سيتم قفل الحساب مؤقتًا وفتح تذكرة أمان تلقائيًا."
+},
+{
+"id": 8298,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "هذا مش أنا"
+},
+{
+"id": 8299,
+"f": "views/emails/customer-lifecycle.blade.php",
+"ar": "لن نرسل كلمة مرور أو OTP أو نسبة KYC أو رقم حساب كامل عبر البريد. لا تشارك رموز الدخول مع أي شخص."
+},
+{
+"id": 8300,
+"f": "views/emails/support-reply.blade.php",
+"ar": "رسالة من"
+},
+{
+"id": 8301,
+"f": "views/emails/support-reply.blade.php",
+"ar": "الموضوع:"
+},
+{
+"id": 8302,
+"f": "views/emails/support-reply.blade.php",
+"ar": "يوجد مرفق داخل التذكرة. افتح التذكرة من المنصة لعرضه أو تنزيله بشكل آمن."
+},
+{
+"id": 8303,
+"f": "views/emails/support-reply.blade.php",
+"ar": "يمكنك متابعة كل الرسائل والمرفقات من داخل الموقع أو التطبيق. حفاظًا على الأمان، لا ترسل رقم البطاقة الكامل أو CVV أو كلمات المرور عبر الدعم."
+},
+{
+"id": 8304,
+"f": "views/emails/support-reply.blade.php",
+"ar": "فريق دعم"
+},
+{
+"id": 8305,
+"f": "views/emails/support-reply.blade.php",
+"ar": "هذه رسالة آلية مرتبطة بتذكرة دعم داخل المنصة. استخدم زر فتح التذكرة للرد والمتابعة."
+},
+{
+"id": 8306,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "بوابة الأمان"
+},
+{
+"id": 8307,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "استعادة الحسابات"
+},
+{
+"id": 8308,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "مستوى أمني عالي"
+},
+{
+"id": 8309,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "تنبيه أمني مشدد:"
+},
+{
+"id": 8310,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "تحتوي هذه الشاشة على بيانات تعريفية حساسة. يحظر استرجاع أو إعادة تعيين أي حساب قبل مطابقة الهوية والمستندات المرفقة وتوثيق نتيجة التحقق."
+},
+{
+"id": 8311,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "إحصائيات الطلبات السريعة"
+},
+{
+"id": 8312,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "بالانتظار"
+},
+{
+"id": 8313,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "ابحث برقم الطلب، البريد، الهاتف، أو الاسم..."
+},
+{
+"id": 8314,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "بانتظار التحقق"
+},
+{
+"id": 8315,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "طلبات استرداد الحسابات الحديثة"
+},
+{
+"id": 8316,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "فتح الطلب وتفاصيله"
+},
+{
+"id": 8317,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "عرض سبب الرفض والتقرير"
+},
+{
+"id": 8318,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "إصدار كلمة المرور المؤقتة"
+},
+{
+"id": 8319,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "مراجعة الهوية ومستند الإثبات"
+},
+{
+"id": 8320,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "نسخ المعرف"
+},
+{
+"id": 8321,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "الموظف المعين:"
+},
+{
+"id": 8322,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "سجل التدقيق الأمني"
+},
+{
+"id": 8323,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "لا توجد طلبات تطابق عوامل البحث الحالية."
+},
+{
+"id": 8324,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "موظفو الاسترداد المصرّح لهم"
+},
+{
+"id": 8325,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "صلاحيات الإدارة"
+},
+{
+"id": 8326,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "سحب الصلاحية"
+},
+{
+"id": 8327,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "منح الصلاحية"
+},
+{
+"id": 8328,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "لا يوجد موظفون."
+},
+{
+"id": 8329,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "شريط التنقل السفلي"
+},
+{
+"id": 8330,
+"f": "views/employee/account-recovery/index.blade.php",
+"ar": "إعدادات الأمان"
+},
+{
+"id": 8331,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "استلام الطلب"
+},
+{
+"id": 8332,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "توثيق التحقق من الهوية"
+},
+{
+"id": 8333,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "إصدار كلمة مرور مؤقتة"
+},
+{
+"id": 8334,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "طلب استرداد يدوي"
+},
+{
+"id": 8335,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تغيير كلمة المرور المؤقتة"
+},
+{
+"id": 8336,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "كلمة المرور المؤقتة — تظهر مرة واحدة فقط"
+},
+{
+"id": 8337,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "صالحة حتى"
+},
+{
+"id": 8338,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "أرسلها فقط عبر وسيلة التواصل التي تم التحقق منها:"
+},
+{
+"id": 8339,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "عند أول تسجيل دخول سيُجبر صاحب الحساب على تعيين كلمة مرور جديدة."
+},
+{
+"id": 8340,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "نسخ كلمة المرور المؤقتة"
+},
+{
+"id": 8341,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تم استرجاع حسابك في"
+},
+{
+"id": 8342,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "البريد المسجل:"
+},
+{
+"id": 8343,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "صالحة حتى:"
+},
+{
+"id": 8344,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "سجّل الدخول ثم غيّر كلمة المرور فورًا."
+},
+{
+"id": 8345,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "نسخ رسالة جاهزة لإرسالها للمستخدم"
+},
+{
+"id": 8346,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "الرقم المرجعي للطلب"
+},
+{
+"id": 8347,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "صاحب الحساب"
+},
+{
+"id": 8348,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "البريد الإلكتروني الأساسي"
+},
+{
+"id": 8349,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "رقم الهاتف المرتبط"
+},
+{
+"id": 8350,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "الاسم الذي أدخله صاحب الطلب"
+},
+{
+"id": 8351,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "وسيلة التواصل البديلة"
+},
+{
+"id": 8352,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "حالة الحساب الأصلية"
+},
+{
+"id": 8353,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "مرفقات وإثباتات الهوية"
+},
+{
+"id": 8354,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "هذه الملفات محفوظة في تخزين خاص ولا تظهر للعامة."
+},
+{
+"id": 8355,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "سجل الإجراءات الأمني"
+},
+{
+"id": 8356,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "المنفذ:"
+},
+{
+"id": 8357,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "صاحب الطلب / النظام"
+},
+{
+"id": 8358,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "ملاحظات:"
+},
+{
+"id": 8359,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "لا يوجد سجل إجراءات بعد."
+},
+{
+"id": 8360,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "قم بتعيين هذا الطلب لنفسك لبدء عملية المراجعة والتحقق."
+},
+{
+"id": 8361,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تعيين إلي"
+},
+{
+"id": 8362,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "طريقة التحقق المستخدمة"
+},
+{
+"id": 8363,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "اختر الطريقة"
+},
+{
+"id": 8364,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "مكالمة على رقم معروف مسبقًا"
+},
+{
+"id": 8365,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "مكالمة فيديو"
+},
+{
+"id": 8366,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "مستندات هوية"
+},
+{
+"id": 8367,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "معلومات حساب موثوقة"
+},
+{
+"id": 8368,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تحقق مباشر"
+},
+{
+"id": 8369,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "ملاحظات التحقق"
+},
+{
+"id": 8370,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "سجل تفاصيل عملية التحقق هنا..."
+},
+{
+"id": 8371,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "سيؤدي هذا الإجراء إلى إزالة"
+},
+{
+"id": 8372,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "وTOTP و"
+},
+{
+"id": 8373,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "وPasskeys وإبطال الجلسات القديمة. لن يتم تغيير كلمة مرور المستخدم أو رفع أي إيقاف إداري."
+},
+{
+"id": 8374,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تأكيد استرجاع الوصول وإزالة وسائل التحقق القديمة؟"
+},
+{
+"id": 8375,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تنفيذ الاسترجاع"
+},
+{
+"id": 8376,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "يصدر النظام كلمة مرور قوية عشوائية، يعطل وسائل 2FA القديمة، يبطل كل الجلسات والتوكنات، ويجبر صاحب الحساب على تغيير كلمة المرور عند أول دخول. كلمة المرور نفسها لا تُحفظ في سجل التدقيق."
+},
+{
+"id": 8377,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "تأكيد إصدار كلمة مرور مؤقتة وإبطال كل جلسات الحساب؟"
+},
+{
+"id": 8378,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "استرجاع الحساب"
+},
+{
+"id": 8379,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "توليد كلمة مرور مؤقتة"
+},
+{
+"id": 8380,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "اذكر سبب الرفض بوضوح..."
+},
+{
+"id": 8381,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "رفض وإغلاق"
+},
+{
+"id": 8382,
+"f": "views/employee/account-recovery/show.blade.php",
+"ar": "هذا الطلب مستلم بواسطة موظف دعم آخر. يمكنك الاطلاع على التفاصيل والسجل، لكن تنفيذ إجراءات الاسترجاع متاح للموظف المستلم أو للمدير فقط."
+},
+{
+"id": 8383,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "إجباري"
+},
+{
+"id": 8384,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "مركز الإيميلات المهمة للعميل"
+},
+{
+"id": 8385,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "سجل إرسال"
+},
+{
+"id": 8386,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "قوالب RTL. الإيميلات الأمنية والمالية الأساسية إجبارية، وإيميلات المنصة الاختيارية يحكمها إعداد المستخدم."
+},
+{
+"id": 8387,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "بالطابور"
+},
+{
+"id": 8388,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "كتالوج الإيميلات"
+},
+{
+"id": 8389,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "كل Event له فئة، إلزامية، ومدة منع تكرار."
+},
+{
+"id": 8390,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "بحث بالمستلم، الحدث أو العنوان..."
+},
+{
+"id": 8391,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "كل الفئات"
+},
+{
+"id": 8392,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "المستخدم/المستلم"
+},
+{
+"id": 8393,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "الحدث"
+},
+{
+"id": 8394,
+"f": "views/employee/customer-email-center/index.blade.php",
+"ar": "لا يوجد سجل إرسال بعد."
+},
+{
+"id": 8395,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "البيانات الحساسة"
+},
+{
+"id": 8396,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "البريد الآمن"
+},
+{
+"id": 8397,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "والتعطيل"
+},
+{
+"id": 8398,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "القوالب"
+},
+{
+"id": 8399,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "تصدير/حذف البيانات"
+},
+{
+"id": 8400,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "صلاحيات الدعم"
+},
+{
+"id": 8401,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "كل وظيفة الآن تفتح صفحتها أو مركزها الخاص، وليس نفس الصفحة للجميع."
+},
+{
+"id": 8402,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "صلاحية فعّالة"
+},
+{
+"id": 8403,
+"f": "views/employee/support-center/index.blade.php",
+"ar": "أداة متاحة"
+},
+{
+"id": 8404,
+"f": "views/employee/support-center/tool.blade.php",
+"ar": "هذه صفحة مستقلة لهذه الوظيفة وليست إعادة توجيه إلى نفس لوحة الدعم. تنفيذ الإجراء نفسه يبقى خاضعًا لصلاحيات الـBackend وعمليات التدقيق الحالية."
+},
+{
+"id": 8405,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "لا توجد نتائج مطابقة."
+},
+{
+"id": 8406,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "ابحث بالاسم أو البريد أو رقم الهاتف أو رقم المستخدم. فتح ملف أي عميل يتم تسجيله في سجل وصول الدعم."
+},
+{
+"id": 8407,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "العودة للدعم"
+},
+{
+"id": 8408,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "الاسم، البريد، الهاتف أو"
+},
+{
+"id": 8409,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "المخالفات"
+},
+{
+"id": 8410,
+"f": "views/employee/support-customers/index.blade.php",
+"ar": "فتح الملف الكامل"
+},
+{
+"id": 8411,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "الدور الأساسي"
+},
+{
+"id": 8412,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "ملف العميل للدعم"
+},
+{
+"id": 8413,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "هذه الصفحة تعرض بيانات تشغيلية فقط لمساعدة الدعم. لا تعرض كلمة المرور الحالية أو أسرار 2FA. استرداد الحساب يتطلب مراجعة KYC ومطابقة مرجع سابق قبل إصدار كلمة مرور مؤقتة."
+},
+{
+"id": 8414,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "تفاصيل الحساب"
+},
+{
+"id": 8415,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "المصادقة الثنائية"
+},
+{
+"id": 8416,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "غير مفعلة"
+},
+{
+"id": 8417,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "المستوى"
+},
+{
+"id": 8418,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "المخاطر"
+},
+{
+"id": 8419,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "الذكاء الاصطناعي والاشتراك"
+},
+{
+"id": 8420,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "حالة الباقة"
+},
+{
+"id": 8421,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "المستخدم شهريًا"
+},
+{
+"id": 8422,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "المشترى"
+},
+{
+"id": 8423,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "عمليات الدفع"
+},
+{
+"id": 8424,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "سجل تذاكر العميل"
+},
+{
+"id": 8425,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "الرقم المرجعي"
+},
+{
+"id": 8426,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "لا توجد تذاكر."
+},
+{
+"id": 8427,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "تحذيرات"
+},
+{
+"id": 8428,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "طعون مفتوحة"
+},
+{
+"id": 8429,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "آخر أحداث تسجيل الدخول والأمان"
+},
+{
+"id": 8430,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "طريقة الدخول"
+},
+{
+"id": 8431,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "لا توجد أحداث."
+},
+{
+"id": 8432,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "إرسال بريد سريع للمستخدم"
+},
+{
+"id": 8433,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "أدخل عنوان رسالة الدعم"
+},
+{
+"id": 8434,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "اكتب الرسالة التي تريد إرسالها"
+},
+{
+"id": 8435,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "رابط اختياري"
+},
+{
+"id": 8436,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "اسم زر الرابط"
+},
+{
+"id": 8437,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "إرسال رابط KYC عام بدون تسجيل دخول"
+},
+{
+"id": 8438,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "اعتماد الاسترداد وإرسال كلمة مرور مؤقتة"
+},
+{
+"id": 8439,
+"f": "views/employee/support-customers/show.blade.php",
+"ar": "لن يرسل النظام كلمة المرور القديمة. سيولّد كلمة مرور مؤقتة جديدة لمدة 24 ساعة، يلغي 2FA القديم، يبطل الجلسات السابقة، ويُلزم المستخدم بتغيير كلمة المرور بعد الدخول."
+},
+{
+"id": 8440,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "أولوية عالية"
+},
+{
+"id": 8441,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "جاهز للاعتماد البشري"
+},
+{
+"id": 8442,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "مراجعة دقيقة"
+},
+{
+"id": 8443,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "النسبة الإجمالية"
+},
+{
+"id": 8444,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "طابور مراجعة KYC بالذكاء الاصطناعي"
+},
+{
+"id": 8445,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "الدرجات هنا داخلية لموظفي الدعم فقط. الذكاء الاصطناعي يقترح ويصنّف الأولوية، لكن القرار النهائي يبقى للمراجع البشري."
+},
+{
+"id": 8446,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "العودة لمركز الدعم"
+},
+{
+"id": 8447,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "حقول"
+},
+{
+"id": 8448,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "غير جاهزة بعد. شغّل Migration الخاص بـ V25.4 أولًا."
+},
+{
+"id": 8449,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "كل النتائج"
+},
+{
+"id": 8450,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "بانتظار مراجعة بشرية"
+},
+{
+"id": 8451,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "بحث بالاسم، البريد أو رقم الطلب..."
+},
+{
+"id": 8452,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "معلومات إضافية"
+},
+{
+"id": 8453,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "مراجعة ثانية موصى بها"
+},
+{
+"id": 8454,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "مستخدم/جهة غير معروفة"
+},
+{
+"id": 8455,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "الوجه"
+},
+{
+"id": 8456,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "القديم"
+},
+{
+"id": 8457,
+"f": "views/employee/support-kyc-ai/index.blade.php",
+"ar": "الجودة"
+},
+{
+"id": 8458,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "تطابق الوجه"
+},
+{
+"id": 8459,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "التطابق مع KYC القديم"
+},
+{
+"id": 8460,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "جودة الصورة"
+},
+{
+"id": 8461,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "صلاحية الوثيقة"
+},
+{
+"id": 8462,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "تطابق OCR الإجمالي"
+},
+{
+"id": 8463,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "نتيجة فحص"
+},
+{
+"id": 8464,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "العودة للطابور"
+},
+{
+"id": 8465,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "توصية النظام"
+},
+{
+"id": 8466,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "لا توجد توصية."
+},
+{
+"id": 8467,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "المستوى المطلوب"
+},
+{
+"id": 8468,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "مراجعة ثانية"
+},
+{
+"id": 8469,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "موصى بها/مطلوبة حسب السياسة"
+},
+{
+"id": 8470,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "قاعدة القرار"
+},
+{
+"id": 8471,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "هذه النتيجة لا تعتمد أو ترفض العميل تلقائيًا. استخدمها كإشارة مساعدة، وراجع الصور والوثائق والبيانات الفعلية قبل القرار."
+},
+{
+"id": 8472,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "النسبة وبيانات التحليل الداخلية لا تُرسل إلى العميل عبر البريد أو الإشعارات."
+},
+{
+"id": 8473,
+"f": "views/employee/support-kyc-ai/show.blade.php",
+"ar": "التحليل المنقّى"
+},
+{
+"id": 8474,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الإدارة"
+},
+{
+"id": 8475,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "العمليات اليومية"
+},
+{
+"id": 8476,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "التوزيع التلقائي والسعة"
+},
+{
+"id": 8477,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "طابور"
+},
+{
+"id": 8478,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الأجهزة والجلسات والأمان"
+},
+{
+"id": 8479,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "المالية والثقة"
+},
+{
+"id": 8480,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "للصرف"
+},
+{
+"id": 8481,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الإشراف والتدقيق"
+},
+{
+"id": 8482,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الحوادث العامة والبنر"
+},
+{
+"id": 8483,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "وساعات العمل والعطل"
+},
+{
+"id": 8484,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "التواصل والقنوات"
+},
+{
+"id": 8485,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "البريد الصادر من الدعم"
+},
+{
+"id": 8486,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "مركز إيميلات العميل"
+},
+{
+"id": 8487,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "فحص المرفقات والروابط الآمنة"
+},
+{
+"id": 8488,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الخصوصية والتقارير"
+},
+{
+"id": 8489,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "تصدير/حذف بيانات المستخدم"
+},
+{
+"id": 8490,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "الوثائق المهنية والتنبيهات"
+},
+{
+"id": 8491,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "صلاحيات الدعم والمستويات"
+},
+{
+"id": 8492,
+"f": "views/employee/support-operations/_sidebar.blade.php",
+"ar": "خدمات المنصة"
+},
+{
+"id": 8493,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "تحققت من الهوية"
+},
+{
+"id": 8494,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "تحققت من ملكية الحساب"
+},
+{
+"id": 8495,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "وثقت السبب"
+},
+{
+"id": 8496,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "طلبات الخصوصية"
+},
+{
+"id": 8497,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "كشف بيانات مخفية مع"
+},
+{
+"id": 8498,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "القيمة لا تظهر افتراضيًا. كل كشف يحتاج سببًا ويسجل."
+},
+{
+"id": 8499,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "سبب الكشف"
+},
+{
+"id": 8500,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "كشف"
+},
+{
+"id": 8501,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "سبب فتح جلسة القراءة"
+},
+{
+"id": 8502,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "فتح جلسة مؤقتة"
+},
+{
+"id": 8503,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "تغيير البريد الأساسي بأمان"
+},
+{
+"id": 8504,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "يرسل تنبيهًا للبريد القديم مع زر «هذا مش أنا»، ويعلق الصرف تلقائيًا 72 ساعة."
+},
+{
+"id": 8505,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "تصدير البيانات"
+},
+{
+"id": 8506,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "حذف الحساب — فترة سماح"
+},
+{
+"id": 8507,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "سبب الطلب"
+},
+{
+"id": 8508,
+"f": "views/employee/support-operations/_v25_trust_tools.blade.php",
+"ar": "إنشاء الطلب"
+},
+{
+"id": 8509,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "السبب مطلوب"
+},
+{
+"id": 8510,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "المنصة"
+},
+{
+"id": 8511,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "آخر"
+},
+{
+"id": 8512,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "أسباب مؤشر المخاطر"
+},
+{
+"id": 8513,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "لا توجد مؤشرات مرتفعة حاليًا."
+},
+{
+"id": 8514,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "الاشتراك والدفعات"
+},
+{
+"id": 8515,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "عدد الدفعات"
+},
+{
+"id": 8516,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "إجراءات الحساب"
+},
+{
+"id": 8517,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "تسجيل خروج كل الأجهزة"
+},
+{
+"id": 8518,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "إجراء حساس / موافقة مزدوجة"
+},
+{
+"id": 8519,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "إصدار كلمة مرور لاسترداد عالي المخاطر"
+},
+{
+"id": 8520,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "تغيير البريد الأساسي"
+},
+{
+"id": 8521,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "استرداد عالي المخاطر"
+},
+{
+"id": 8522,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "رقم طلب الاسترداد - اختياري"
+},
+{
+"id": 8523,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "سبب الإجراء بالتفصيل"
+},
+{
+"id": 8524,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "إرسال للمشرف لاعتماد ثانٍ"
+},
+{
+"id": 8525,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "الجهاز"
+},
+{
+"id": 8526,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "آخر ظهور"
+},
+{
+"id": 8527,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "لا توجد أجهزة مسجلة."
+},
+{
+"id": 8528,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "حسابات محتمل ارتباطها"
+},
+{
+"id": 8529,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "لا توجد حسابات مطابقة للبريد/الهاتف."
+},
+{
+"id": 8530,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "طلب استرداد مالي"
+},
+{
+"id": 8531,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "رفع الطلب للمالية/المشرف"
+},
+{
+"id": 8532,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "توصية إشراف"
+},
+{
+"id": 8533,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "قفل مؤقت"
+},
+{
+"id": 8534,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "مراجعة يدوية"
+},
+{
+"id": 8535,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "سبب التوصية"
+},
+{
+"id": 8536,
+"f": "views/employee/support-operations/customer.blade.php",
+"ar": "إرسال التوصية"
+},
+{
+"id": 8537,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "اعتمادات الإجراءات الحساسة"
+},
+{
+"id": 8538,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "لا توجد طلبات معلقة."
+},
+{
+"id": 8539,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "التذاكر و"
+},
+{
+"id": 8540,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "كل إجراء حساس مسجل ويخضع للصلاحيات."
+},
+{
+"id": 8541,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "اعتمادات حساسة"
+},
+{
+"id": 8542,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "استردادات مالية"
+},
+{
+"id": 8543,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "متوسط أول رد/دقيقة"
+},
+{
+"id": 8544,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "موافقة ثانية عند الحاجة"
+},
+{
+"id": 8545,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "طلبه:"
+},
+{
+"id": 8546,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "ملاحظة المراجعة"
+},
+{
+"id": 8547,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "طلبات الاسترداد المالي من الدعم"
+},
+{
+"id": 8548,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "التنفيذ الفعلي يبقى للمالية"
+},
+{
+"id": 8549,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "اعتماد وإرسال للمالية"
+},
+{
+"id": 8550,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "افتح ملف العميل لرؤية مؤشر المخاطر، محاولات الدخول، الأجهزة النشطة، الحسابات المرتبطة والخط الزمني."
+},
+{
+"id": 8551,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "بحث العملاء"
+},
+{
+"id": 8552,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "للردود والبريد المتكرر"
+},
+{
+"id": 8553,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "لا توجد قوالب مفعلة."
+},
+{
+"id": 8554,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "سجل تدقيق الدعم"
+},
+{
+"id": 8555,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "لا توجد سجلات حديثة."
+},
+{
+"id": 8556,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "كل أدوات الدعم"
+},
+{
+"id": 8557,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "تظهر الأدوات حسب صلاحية موظف الدعم حتى لا يقود أي زر إلى"
+},
+{
+"id": 8558,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "الاسترداد المالي"
+},
+{
+"id": 8559,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "الثقة والتشغيل"
+},
+{
+"id": 8560,
+"f": "views/employee/support-operations/index.blade.php",
+"ar": "متابعة تذكرة"
+},
+{
+"id": 8561,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "يراجع هذه التذكرة الآن حتى"
+},
+{
+"id": 8562,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "رقم النزاع"
+},
+{
+"id": 8563,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "سبب الربط"
+},
+{
+"id": 8564,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "تجميد الصرف مؤقتًا (يتطلب صلاحية)"
+},
+{
+"id": 8565,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "ربط نزاع / تجميد صرف"
+},
+{
+"id": 8566,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "التذكرة الأساسية"
+},
+{
+"id": 8567,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "سبب الدمج"
+},
+{
+"id": 8568,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "دمج كتذكرة مكررة"
+},
+{
+"id": 8569,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "سبب وسم الإزعاج"
+},
+{
+"id": 8570,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "حظر المرسل من إنشاء تذاكر جديدة"
+},
+{
+"id": 8571,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "مدة الحظر بالساعات - فارغ"
+},
+{
+"id": 8572,
+"f": "views/employee/support-tickets/_v25_tools.blade.php",
+"ar": "دائم"
+},
+{
+"id": 8573,
+"f": "views/employee/support-tickets/index.blade.php",
+"ar": "متابعة التذاكر المحولة من البوت والرد على العملاء"
+},
+{
+"id": 8574,
+"f": "views/employee/support-tickets/index.blade.php",
+"ar": "رقم التذكرة أو اسم العميل"
+},
+{
+"id": 8575,
+"f": "views/employee/support-tickets/index.blade.php",
+"ar": "التذكرة"
+},
+{
+"id": 8576,
+"f": "views/employee/support-tickets/index.blade.php",
+"ar": "لا توجد تذاكر دعم."
+},
+{
+"id": 8577,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "لم يتم اختيار أي ملف"
+},
+{
+"id": 8578,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "اختيار ملف"
+},
+{
+"id": 8579,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "البيانات"
+},
+{
+"id": 8580,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "عاجلة جدًا"
+},
+{
+"id": 8581,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "تحديد كمحلولة"
+},
+{
+"id": 8582,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "لم يتم التعيين"
+},
+{
+"id": 8583,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "العودة للتذاكر"
+},
+{
+"id": 8584,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "قالب جاهز"
+},
+{
+"id": 8585,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "بدون قالب — اكتب بحرية"
+},
+{
+"id": 8586,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "رد من دعم"
+},
+{
+"id": 8587,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "اكتب أي رسالة تريد إرسالها للعميل..."
+},
+{
+"id": 8588,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "ملاحظة داخلية لا تظهر للعميل ولا ترسل بالإيميل"
+},
+{
+"id": 8589,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "إرسال داخل المنصة"
+},
+{
+"id": 8590,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "هذه التذكرة مغلقة ولا يمكن إضافة رد جديد."
+},
+{
+"id": 8591,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "بيانات التذكرة"
+},
+{
+"id": 8592,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "تقييم العميل"
+},
+{
+"id": 8593,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "فتح ملف العميل للدعم"
+},
+{
+"id": 8594,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "استلام التذكرة"
+},
+{
+"id": 8595,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "إعادة فتح التذكرة"
+},
+{
+"id": 8596,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "سبب تغيير الأولوية"
+},
+{
+"id": 8597,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "تغيير الأولوية"
+},
+{
+"id": 8598,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "أمان"
+},
+{
+"id": 8599,
+"f": "views/employee/support-tickets/show.blade.php",
+"ar": "تصعيد التذكرة"
+},
+{
+"id": 8600,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "النزاعات، تعليق الصرف، الخصوصية، التوثيق المهني، SLA ومؤشرات جودة الحل."
+},
+{
+"id": 8601,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "تذاكر 30 يوم"
+},
+{
+"id": 8602,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "حالات تكرار"
+},
+{
+"id": 8603,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "تعليق صرف فعال"
+},
+{
+"id": 8604,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "توثيق مهني ينتهي خلال 30 يومًا"
+},
+{
+"id": 8605,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "حفظ التوثيق"
+},
+{
+"id": 8606,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "لا توجد مستندات مهنية قريبة الانتهاء."
+},
+{
+"id": 8607,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "تعليق الصرف الأمني"
+},
+{
+"id": 8608,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "سبب فك التعليق"
+},
+{
+"id": 8609,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "فك التعليق"
+},
+{
+"id": 8610,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "لا يوجد تعليق صرف أمني فعال."
+},
+{
+"id": 8611,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "عطل وأيام لا يحتسب فيها"
+},
+{
+"id": 8612,
+"f": "views/employee/support-trust/index.blade.php",
+"ar": "اسم العطلة"
+},
+{
+"id": 8613,
+"f": "views/employee/support-trust/readonly.blade.php",
+"ar": "ينتهي الوصول:"
+},
+{
+"id": 8614,
+"f": "views/employee/support-trust/readonly.blade.php",
+"ar": "الدعم / المخاطر"
+},
+{
+"id": 8615,
+"f": "views/employee/support-trust/readonly.blade.php",
+"ar": "لا توجد أي أزرار تعديل أو تنفيذ في هذا الوضع. كل فتح للجلسة مسجل في"
+},
+{
+"id": 8616,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "راجع الإجابات المعتمدة قبل الرد على العميل. المقالات المفعّلة للـAI يستخدمها المساعد أيضًا."
+},
+{
+"id": 8617,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "عرض FAQ للعملاء"
+},
+{
+"id": 8618,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "ابحث في السؤال أو الإجابة أو الكلمات المفتاحية..."
+},
+{
+"id": 8619,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "ظاهرة للعملاء"
+},
+{
+"id": 8620,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "مشاهدة"
+},
+{
+"id": 8621,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "كلمات مفتاحية:"
+},
+{
+"id": 8622,
+"f": "views/employee/support-workspace/knowledge.blade.php",
+"ar": "لا توجد مقالات مطابقة."
+},
+{
+"id": 8623,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "أدائي في الدعم الفني"
+},
+{
+"id": 8624,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "حتى اليوم."
+},
+{
+"id": 8625,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "آخر تقييمات العملاء"
+},
+{
+"id": 8626,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "التعليقات تظهر لك لتحسين جودة الرد والخدمة."
+},
+{
+"id": 8627,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "بدون تعليق."
+},
+{
+"id": 8628,
+"f": "views/employee/support-workspace/performance.blade.php",
+"ar": "لا توجد تقييمات بعد."
+},
+{
+"id": 8629,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "أنت على المناوبة الآن"
+},
+{
+"id": 8630,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "مناوباتي في الدعم"
+},
+{
+"id": 8631,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "المواعيد التي حددها مدير المنصة لك ضمن فريق الدعم."
+},
+{
+"id": 8632,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "حالتك الآن"
+},
+{
+"id": 8633,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "خارج وقت المناوبة"
+},
+{
+"id": 8634,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "المنطقة الزمنية"
+},
+{
+"id": 8635,
+"f": "views/employee/support-workspace/shifts.blade.php",
+"ar": "لم يتم تعيين مناوبات لك بعد."
+},
+{
+"id": 8636,
+"f": "views/employee/support/index.blade.php",
+"ar": "لوحة الدعم الفني"
+},
+{
+"id": 8637,
+"f": "views/employee/support/index.blade.php",
+"ar": "الأمان والجلسات"
+},
+{
+"id": 8638,
+"f": "views/employee/support/index.blade.php",
+"ar": "مركز الثقة والتشغيل"
+},
+{
+"id": 8639,
+"f": "views/employee/support/index.blade.php",
+"ar": "مستخدم غير معروف"
+},
+{
+"id": 8640,
+"f": "views/employee/support/index.blade.php",
+"ar": "طلبات الاسترداد المالي"
+},
+{
+"id": 8641,
+"f": "views/employee/support/index.blade.php",
+"ar": "بحث في التذاكر..."
+},
+{
+"id": 8642,
+"f": "views/employee/support/index.blade.php",
+"ar": "مرحبًا بك في مركز إدارة الدعم. تابع التذاكر المسندة إليك، افتح المحادثات، ورد على المستخدمين، وحدّث حالة كل طلب."
+},
+{
+"id": 8643,
+"f": "views/employee/support/index.blade.php",
+"ar": "إنشاء تذكرة جديدة"
+},
+{
+"id": 8644,
+"f": "views/employee/support/index.blade.php",
+"ar": "تذاكر مفتوحة"
+},
+{
+"id": 8645,
+"f": "views/employee/support/index.blade.php",
+"ar": "تم حلها"
+},
+{
+"id": 8646,
+"f": "views/employee/support/index.blade.php",
+"ar": "حالات عاجلة"
+},
+{
+"id": 8647,
+"f": "views/employee/support/index.blade.php",
+"ar": "أحدث التذاكر"
+},
+{
+"id": 8648,
+"f": "views/employee/support/index.blade.php",
+"ar": "بحث بالرقم أو العميل..."
+},
+{
+"id": 8649,
+"f": "views/employee/support/index.blade.php",
+"ar": "لا توجد تذاكر مسندة إليك"
+},
+{
+"id": 8650,
+"f": "views/employee/support/index.blade.php",
+"ar": "ستظهر هنا التذاكر التي يعيّنها المدير لك."
+},
+{
+"id": 8651,
+"f": "views/employees/create.blade.php",
+"ar": "أدخل بيانات الموظف الأساسية لإنشاء حسابه في النظام."
+},
+{
+"id": 8652,
+"f": "views/employees/create.blade.php",
+"ar": "بيانات الموظف"
+},
+{
+"id": 8653,
+"f": "views/employees/create.blade.php",
+"ar": "الحقول التالية مطلوبة لإنشاء الحساب."
+},
+{
+"id": 8654,
+"f": "views/employees/create.blade.php",
+"ar": "أدخل اسم الموظف"
+},
+{
+"id": 8655,
+"f": "views/employees/create.blade.php",
+"ar": "إظهار / إخفاء كلمة المرور"
+},
+{
+"id": 8656,
+"f": "views/employees/create.blade.php",
+"ar": "نوع الحساب"
+},
+{
+"id": 8657,
+"f": "views/employees/create.blade.php",
+"ar": "موظف دعم فني"
+},
+{
+"id": 8658,
+"f": "views/employees/create.blade.php",
+"ar": "حفظ الموظف"
+},
+{
+"id": 8659,
+"f": "views/employees/index.blade.php",
+"ar": "مسح الفلاتر"
+},
+{
+"id": 8660,
+"f": "views/employees/index.blade.php",
+"ar": "الصلاحية"
+},
+{
+"id": 8661,
+"f": "views/employees/index.blade.php",
+"ar": "إضافة موظف"
+},
+{
+"id": 8662,
+"f": "views/employees/index.blade.php",
+"ar": "التحليلات"
+},
+{
+"id": 8663,
+"f": "views/employees/index.blade.php",
+"ar": "تاريخ الانضمام"
+},
+{
+"id": 8664,
+"f": "views/employees/index.blade.php",
+"ar": "موظفين"
+},
+{
+"id": 8665,
+"f": "views/employees/index.blade.php",
+"ar": "هل أنت متأكد من حذف"
+},
+{
+"id": 8666,
+"f": "views/employees/index.blade.php",
+"ar": "لوحة تحكم الإدارة"
+},
+{
+"id": 8667,
+"f": "views/employees/index.blade.php",
+"ar": "فرق الهندسة"
+},
+{
+"id": 8668,
+"f": "views/employees/index.blade.php",
+"ar": "مستودع الأعمال"
+},
+{
+"id": 8669,
+"f": "views/employees/index.blade.php",
+"ar": "البحث في الموظفين..."
+},
+{
+"id": 8670,
+"f": "views/employees/index.blade.php",
+"ar": "للهندسة"
+},
+{
+"id": 8671,
+"f": "views/employees/index.blade.php",
+"ar": "جميع الصلاحيات"
+},
+{
+"id": 8672,
+"f": "views/employees/index.blade.php",
+"ar": "إجمالي الموظفين"
+},
+{
+"id": 8673,
+"f": "views/employees/index.blade.php",
+"ar": "معتمدون"
+},
+{
+"id": 8674,
+"f": "views/employees/index.blade.php",
+"ar": "المدراء"
+},
+{
+"id": 8675,
+"f": "views/employees/index.blade.php",
+"ar": "المسؤولون التنفيذيون"
+},
+{
+"id": 8676,
+"f": "views/employees/index.blade.php",
+"ar": "قائمة الكوادر"
+},
+{
+"id": 8677,
+"f": "views/employees/index.blade.php",
+"ar": "لا يوجد موظفون حتى الآن."
+},
+{
+"id": 8678,
+"f": "views/employees/index.blade.php",
+"ar": "هذا الموظف"
+},
+{
+"id": 8679,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "الشهادة الهندسية"
+},
+{
+"id": 8680,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "طلب الانضمام كمهندس"
+},
+{
+"id": 8681,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "نرجو إكمال الدفع للتمتع بجميع ميزات المنصة. ستتم مراجعة طلبكم فوراً من قبل الإدارة بعد رفع إيصال التحويل."
+},
+{
+"id": 8682,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "أدخل بيانات تخصصك وارفع الشهادة والسيرة الذاتية وإيصال الدفع. ستقوم الإدارة بمراجعة الطلب وتحديد مدة تفعيل حساب المهندس."
+},
+{
+"id": 8683,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "يتم احتساب الخصم على نفس الباقة عند إرسال الطلب."
+},
+{
+"id": 8684,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "قيمة الاشتراك"
+},
+{
+"id": 8685,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "رسوم تقديم الطلب"
+},
+{
+"id": 8686,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "تشمل الوصول الكامل إلى مميزات المنصة بعد موافقة الإدارة."
+},
+{
+"id": 8687,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "رفع إيصال التحويل"
+},
+{
+"id": 8688,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "إرسال البيانات"
+},
+{
+"id": 8689,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "يرجى رفع صورة واضحة"
+},
+{
+"id": 8690,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "اختيار التخصص ورفع المستندات"
+},
+{
+"id": 8691,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "فحص الطلب وإيصال الدفع"
+},
+{
+"id": 8692,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "تفعيل حساب المهندس"
+},
+{
+"id": 8693,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "يصلك إشعار فور التفعيل"
+},
+{
+"id": 8694,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "بيانات طلب الانضمام"
+},
+{
+"id": 8695,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "اختر التخصص الهندسي"
+},
+{
+"id": 8696,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "اضغط لرفع الشهادة"
+},
+{
+"id": 8697,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "أو JPG أو JPEG أو"
+},
+{
+"id": 8698,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "اضغط لرفع السيرة الذاتية"
+},
+{
+"id": 8699,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "أو DOC أو"
+},
+{
+"id": 8700,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "بيانات الدفع المتاحة"
+},
+{
+"id": 8701,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "ملاحظات هامة جداً"
+},
+{
+"id": 8702,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "تأكد من كتابة اسمك الثلاثي في وصف عملية التحويل."
+},
+{
+"id": 8703,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "يجب أن يكون إيصال التحويل واضحاً وبصيغة JPG أو PNG أو"
+},
+{
+"id": 8704,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "تتم مراجعة الطلب من الإدارة بعد وصول الإيصال."
+},
+{
+"id": 8705,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "إرفاق إيصال دفع تجديد الاشتراك"
+},
+{
+"id": 8706,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "إرفاق إيصال دفع رسوم الطلب"
+},
+{
+"id": 8707,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "الحد الأقصى للملف: 10 ميجابايت"
+},
+{
+"id": 8708,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "اضغط لرفع الإيصال أو اسحبه هنا"
+},
+{
+"id": 8709,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "الملفات المدعومة:"
+},
+{
+"id": 8710,
+"f": "views/engineer-applications/create.blade.php",
+"ar": "انسخ القيمة التالية:"
+},
+{
+"id": 8711,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "طلبات واشتراكات المهندسين"
+},
+{
+"id": 8712,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "مراجعة طلبات الانضمام ودفعات التجديد، وتحديد عدد أيام تفعيل حساب المهندس."
+},
+{
+"id": 8713,
+"f": "views/engineer-applications/index.blade.php",
+"ar": "طلبات الصفحة"
+}
+]

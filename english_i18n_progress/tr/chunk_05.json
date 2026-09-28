@@ -1,0 +1,1712 @@
+[
+{
+"id": 1343,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم وسم التذكرة كإزعاج"
+},
+{
+"id": 1344,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "وحظر المرسل."
+},
+{
+"id": 1345,
+"f": "app/Http/Controllers/Employee/SupportTrustController.php",
+"ar": "تم حفظ العطلة في تقويم"
+},
+{
+"id": 1346,
+"f": "app/Http/Controllers/EmployeeController.php",
+"ar": "تم إضافة الموظف بنجاح"
+},
+{
+"id": 1347,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "اختر باقة المهندس أولًا ثم أكمل المستندات المطلوبة."
+},
+{
+"id": 1348,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "تم إرسال طلب تجديد باقة المهندس."
+},
+{
+"id": 1349,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "حدد عدد أيام اشتراك المهندس."
+},
+{
+"id": 1350,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "عدد أيام الاشتراك يجب أن يكون رقمًا صحيحًا."
+},
+{
+"id": 1351,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "مدة الاشتراك يجب أن تكون يومًا واحدًا على الأقل."
+},
+{
+"id": 1352,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "الحد الأقصى لمدة الاشتراك هو 3650 يومًا."
+},
+{
+"id": 1353,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "تم قبول الدفع وتفعيل المهندس لمدة"
+},
+{
+"id": 1354,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "يوم."
+},
+{
+"id": 1355,
+"f": "app/Http/Controllers/EngineerApplicationController.php",
+"ar": "يجب كتابة سبب رفض الطلب."
+},
+{
+"id": 1356,
+"f": "app/Http/Controllers/EngineerEarningController.php",
+"ar": "تم تحديث نسبة المهندس المباشر إلى"
+},
+{
+"id": 1357,
+"f": "app/Http/Controllers/EngineerEarningController.php",
+"ar": "تم تحديث نسبة المهندس. مستحقه:"
+},
+{
+"id": 1358,
+"f": "app/Http/Controllers/EngineerEarningController.php",
+"ar": "وحصة المنصة:"
+},
+{
+"id": 1359,
+"f": "app/Http/Controllers/EngineerEarningController.php",
+"ar": "تم إرسال طلب التحويل للبنك، وبانتظار تأكيد العملية."
+},
+{
+"id": 1360,
+"f": "app/Http/Controllers/EngineerSpecialtyController.php",
+"ar": "تم حفظ التخصص والنبذة بنجاح"
+},
+{
+"id": 1361,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "لديك طلب تحقق قائم بالفعل."
+},
+{
+"id": 1362,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "تم إرسال طلب التحقق للمدير. بعد قبول المستندات ستظهر لك خطوة الاشتراك الشهري."
+},
+{
+"id": 1363,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "يجب اعتماد طلب التحقق أولًا."
+},
+{
+"id": 1364,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "لم تعد تستوفي رينج التقييم أو شروط التحقق الحالية، لذلك لا يمكن بدء أو تجديد الاشتراك."
+},
+{
+"id": 1365,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "لم يحدد مدير المنصة سعر الاشتراك الشهري للتوثيق بعد."
+},
+{
+"id": 1366,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "لديك دفعة تحقق قيد المراجعة بالفعل."
+},
+{
+"id": 1367,
+"f": "app/Http/Controllers/EngineerVerificationController.php",
+"ar": "تم رفع دفعة الاشتراك وهي الآن قيد المراجعة."
+},
+{
+"id": 1368,
+"f": "app/Http/Controllers/EngineerWorkController.php",
+"ar": "أحد ملفات التخصص بصيغة غير مسموحة. استخدم PDF/CAD/BIM/Office/CSV/3D أو"
+},
+{
+"id": 1369,
+"f": "app/Http/Controllers/EngineerWorkController.php",
+"ar": "يرجى كتابة سبب رفض العمل."
+},
+{
+"id": 1370,
+"f": "app/Http/Controllers/EngineerWorkController.php",
+"ar": "سبب الرفض يجب ألا يتجاوز 1000 حرف."
+},
+{
+"id": 1371,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "ليس لديك صلاحية إدارة المكتب."
+},
+{
+"id": 1372,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "ليس لديك صلاحية إدارة ملف مكتب."
+},
+{
+"id": 1373,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "تم نشر تقييمك الموثق للمكتب."
+},
+{
+"id": 1374,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "ليس لديك صلاحية تعديل ملف مكتب."
+},
+{
+"id": 1375,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "ليس لديك صلاحية الدخول إلى لوحة المكتب."
+},
+{
+"id": 1376,
+"f": "app/Http/Controllers/EngineeringOfficeController.php",
+"ar": "ليس لديك صلاحية عرض مشاريع المكتب."
+},
+{
+"id": 1377,
+"f": "app/Http/Controllers/ExpenseApprovalController.php",
+"ar": "تم تسجيل المصروف كمدفوع."
+},
+{
+"id": 1378,
+"f": "app/Http/Controllers/ExpenseCategoryController.php",
+"ar": "تمت إضافة التصنيف وربطه بالنطاق المحدد."
+},
+{
+"id": 1379,
+"f": "app/Http/Controllers/ExpenseCategoryController.php",
+"ar": "يجب ربط التصنيف بمشروع تقوده كمهندس ليدر."
+},
+{
+"id": 1380,
+"f": "app/Http/Controllers/ExpenseController.php",
+"ar": "تم إنشاء المصروف."
+},
+{
+"id": 1381,
+"f": "app/Http/Controllers/ExpenseController.php",
+"ar": "تم تحديث بيانات المصروف."
+},
+{
+"id": 1382,
+"f": "app/Http/Controllers/FawateeryGatewayController.php",
+"ar": "عملية الدفع لم تعد قابلة للبدء."
+},
+{
+"id": 1383,
+"f": "app/Http/Controllers/FeedbackController.php",
+"ar": "شكرًا لك، تم إرسال رأيك وملاحظتك بنجاح."
+},
+{
+"id": 1384,
+"f": "app/Http/Controllers/FeedbackController.php",
+"ar": "تم تحديث حالة الرأي والملاحظة بنجاح."
+},
+{
+"id": 1385,
+"f": "app/Http/Controllers/FeedbackController.php",
+"ar": "ليس لديك صلاحية إدارة الآراء والملاحظات."
+},
+{
+"id": 1386,
+"f": "app/Http/Controllers/FinancialControlCenterController.php",
+"ar": "دفعة استشارة"
+},
+{
+"id": 1387,
+"f": "app/Http/Controllers/FinancialControlCenterController.php",
+"ar": "رصيد ذكاء اصطناعي"
+},
+{
+"id": 1388,
+"f": "app/Http/Controllers/FinancialControlCenterController.php",
+"ar": "استرداد للعميل"
+},
+{
+"id": 1389,
+"f": "app/Http/Controllers/FinancialManagerCenterController.php",
+"ar": "تم فك التعليق الأمني فقط؛ دون تغيير أرصدة المحفظة."
+},
+{
+"id": 1390,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "التصنيف"
+},
+{
+"id": 1391,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "رقم المشروع"
+},
+{
+"id": 1392,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "البيان"
+},
+{
+"id": 1393,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "ربحية المشاريع"
+},
+{
+"id": 1394,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "التقرير المالي"
+},
+{
+"id": 1395,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "الإيرادات المحصلة"
+},
+{
+"id": 1396,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "المصروفات المدفوعة"
+},
+{
+"id": 1397,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "الصافي بعد الالتزامات"
+},
+{
+"id": 1398,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "الإيرادات المعلقة"
+},
+{
+"id": 1399,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "المصروفات المعتمدة غير المدفوعة"
+},
+{
+"id": 1400,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "صافي التدفق النقدي"
+},
+{
+"id": 1401,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "إيراد محصل"
+},
+{
+"id": 1402,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "إيراد معلق"
+},
+{
+"id": 1403,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "مصروف مدفوع"
+},
+{
+"id": 1404,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "صافي نقدي"
+},
+{
+"id": 1405,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "النسبة %"
+},
+{
+"id": 1406,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "المكتب المختار غير موجود."
+},
+{
+"id": 1407,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "الحد الأقصى لفترة التقرير هو 3 سنوات."
+},
+{
+"id": 1408,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "تحليل المصروفات"
+},
+{
+"id": 1409,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "تاريخ البداية غير صحيح."
+},
+{
+"id": 1410,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "تاريخ النهاية غير صحيح."
+},
+{
+"id": 1411,
+"f": "app/Http/Controllers/FinancialReportController.php",
+"ar": "تاريخ النهاية يجب أن يكون بعد أو مساويًا لتاريخ البداية."
+},
+{
+"id": 1412,
+"f": "app/Http/Controllers/KnowledgeBaseController.php",
+"ar": "شكرًا لملاحظتك."
+},
+{
+"id": 1413,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "حالة التوثيق الحالية لا تسمح بإرسال طلب جديد."
+},
+{
+"id": 1414,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "نوع مستند KYC غير مسموح:"
+},
+{
+"id": 1415,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "تم استلام مستندات التوثيق وهي الآن بانتظار المراجعة."
+},
+{
+"id": 1416,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "قاعدة بيانات KYC لم تُجهّز بعد. نفّذ"
+},
+{
+"id": 1417,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "تعذر تحميل بيانات KYC حاليًا. امسح Cache وتأكد من تشغيل Migration الخاص بالتوثيق."
+},
+{
+"id": 1418,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "حالة KYC الحالية لا تسمح ببدء جلسة تحقق جديدة."
+},
+{
+"id": 1419,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "بدأ المستخدم فحص حيوية الوجه المباشر من الموقع."
+},
+{
+"id": 1420,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "تم إرسال طلب توثيق الهوية للمراجعة."
+},
+{
+"id": 1421,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "تم إرسال طلب توثيق المكتب للمراجعة."
+},
+{
+"id": 1422,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "المستندات المطلوبة غير مكتملة:"
+},
+{
+"id": 1423,
+"f": "app/Http/Controllers/KycController.php",
+"ar": "تم رفع مستندات"
+},
+{
+"id": 1424,
+"f": "app/Http/Controllers/MarketplaceProjectController.php",
+"ar": "المكتب المختار غير متاح حاليًا."
+},
+{
+"id": 1425,
+"f": "app/Http/Controllers/MarketplaceProjectController.php",
+"ar": "مشروع جديد في السوق الهندسي"
+},
+{
+"id": 1426,
+"f": "app/Http/Controllers/MarketplaceProjectController.php",
+"ar": "نشر عميل مشروعًا جديدًا بعنوان:"
+},
+{
+"id": 1427,
+"f": "app/Http/Controllers/MarketplaceProjectController.php",
+"ar": "تم نشر المشروع في السوق الهندسي وأصبح جاهزًا لاستقبال عروض الأسعار."
+},
+{
+"id": 1428,
+"f": "app/Http/Controllers/MarketplaceProjectController.php",
+"ar": "تم إغلاق استقبال عروض جديدة. يمكنك مقارنة العروض الحالية واختيار أحدها."
+},
+{
+"id": 1429,
+"f": "app/Http/Controllers/MarketplaceQuotationController.php",
+"ar": "تم اختيار العرض وإنشاء المشروع. انتقلت الآن إلى مرحلة العقد الإلكتروني."
+},
+{
+"id": 1430,
+"f": "app/Http/Controllers/MilestoneSubmissionController.php",
+"ar": "تم اعتماد المرحلة والإفراج عن مبلغ الضمان وتوزيع المستحقات."
+},
+{
+"id": 1431,
+"f": "app/Http/Controllers/MilestoneSubmissionController.php",
+"ar": "تم رفض التسليم. بقي المبلغ محتجزًا ويمكن رفع Revision جديد."
+},
+{
+"id": 1432,
+"f": "app/Http/Controllers/MobileAppDeviceTokenController.php",
+"ar": "تم ربط الجهاز بحساب المستخدم."
+},
+{
+"id": 1433,
+"f": "app/Http/Controllers/MobileAppDeviceTokenController.php",
+"ar": "تم فصل الجهاز عن الحساب."
+},
+{
+"id": 1434,
+"f": "app/Http/Controllers/MobilePasskeyBridgeController.php",
+"ar": "رابط Passkey غير صالح."
+},
+{
+"id": 1435,
+"f": "app/Http/Controllers/MobilePasskeyBridgeController.php",
+"ar": "انتهت صلاحية رابط Passkey أو تم استخدامه مسبقًا."
+},
+{
+"id": 1436,
+"f": "app/Http/Controllers/MobilePasskeyBridgeController.php",
+"ar": "تم فتح إدارة Passkeys داخل التطبيق بشكل آمن."
+},
+{
+"id": 1437,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "لا يمكنك إرسال طعن لأن الحساب غير معلّق."
+},
+{
+"id": 1438,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "يجب كتابة رسالة الطعن."
+},
+{
+"id": 1439,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "يجب ألا تقل رسالة الطعن عن 20 حرفًا."
+},
+{
+"id": 1440,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "رسالة الطعن طويلة جدًا."
+},
+{
+"id": 1441,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "المرفق يجب أن يكون صورة أو ملف"
+},
+{
+"id": 1442,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "حجم المرفق يجب ألا يتجاوز 5 ميجابايت."
+},
+{
+"id": 1443,
+"f": "app/Http/Controllers/ModerationAppealController.php",
+"ar": "تم إرسال الطعن إلى الإدارة بنجاح، وسيتم إشعارك بعد مراجعته."
+},
+{
+"id": 1444,
+"f": "app/Http/Controllers/NotificationController.php",
+"ar": "تعذر فتح تفاصيل هذا الإشعار لأن الصفحة المرتبطة به لم تعد متاحة."
+},
+{
+"id": 1445,
+"f": "app/Http/Controllers/NotificationController.php",
+"ar": "تم تحديد الإشعار كمقروء."
+},
+{
+"id": 1446,
+"f": "app/Http/Controllers/Office/OfficeFinanceController.php",
+"ar": "تم دفع هذا المستحق للمهندس سابقاً."
+},
+{
+"id": 1447,
+"f": "app/Http/Controllers/Office/OfficeFinanceController.php",
+"ar": "هذا المستحق ملغي."
+},
+{
+"id": 1448,
+"f": "app/Http/Controllers/Office/OfficeFinanceController.php",
+"ar": "هذا المستحق غير فعال."
+},
+{
+"id": 1449,
+"f": "app/Http/Controllers/OfficeApplicationController.php",
+"ar": "اختر باقة المكتب أولًا ثم أكمل مستندات التسجيل."
+},
+{
+"id": 1450,
+"f": "app/Http/Controllers/OfficeApplicationController.php",
+"ar": "تم إرسال طلب المكتب ومستنداته للباقة المختارة. بعد موافقة الإدارة تبدأ التجربة على نفس الباقة."
+},
+{
+"id": 1451,
+"f": "app/Http/Controllers/OfficeApplicationFileController.php",
+"ar": "يجب تسجيل الدخول للوصول إلى الملف."
+},
+{
+"id": 1452,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "المسمى الوظيفي يجب ألا يتجاوز 150 حرفًا."
+},
+{
+"id": 1453,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "التخصص المختار غير موجود."
+},
+{
+"id": 1454,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "لا يمكنك تعديل أعضاء مكتب آخر."
+},
+{
+"id": 1455,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "يجب تحديد دور العضو داخل المكتب."
+},
+{
+"id": 1456,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "دور العضو داخل المكتب غير صحيح."
+},
+{
+"id": 1457,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "يجب تحديد حالة العضو."
+},
+{
+"id": 1458,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "حالة العضو غير صحيحة."
+},
+{
+"id": 1459,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "لا يمكنك إزالة أعضاء مكتب آخر."
+},
+{
+"id": 1460,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "ليس لديك صلاحية إدارة أعضاء مكتب."
+},
+{
+"id": 1461,
+"f": "app/Http/Controllers/OfficeMemberController.php",
+"ar": "ليس لديك صلاحية إدارة أعضاء المكتب."
+},
+{
+"id": 1462,
+"f": "app/Http/Controllers/OfficeMembershipApplicationController.php",
+"ar": "لا يمكنك عرض طلبات هذا المكتب."
+},
+{
+"id": 1463,
+"f": "app/Http/Controllers/OfficeMembershipApplicationController.php",
+"ar": "لا يمكنك الوصول إلى ملفات هذا الطلب."
+},
+{
+"id": 1464,
+"f": "app/Http/Controllers/OfficeSubscriptionController.php",
+"ar": "تم رفع إيصال الباقة وإرساله للمراجعة. إذا كانت التجربة أو الاشتراك الحالي فعالًا فلن تخسر الأيام المتبقية."
+},
+{
+"id": 1465,
+"f": "app/Http/Controllers/OfficeSubscriptionController.php",
+"ar": "تمت جدولة إلغاء الاشتراك عند نهاية الفترة المدفوعة الحالية."
+},
+{
+"id": 1466,
+"f": "app/Http/Controllers/OfficeSubscriptionController.php",
+"ar": "تم التراجع عن الإلغاء وسيستمر الاشتراك حتى نهاية الفترة الحالية."
+},
+{
+"id": 1467,
+"f": "app/Http/Controllers/OfficeTenantSwitchController.php",
+"ar": "تم تبديل مساحة المكتب بنجاح."
+},
+{
+"id": 1468,
+"f": "app/Http/Controllers/OfficeTenantSwitchController.php",
+"ar": "تمت إعادة اختيار مساحة المكتب الافتراضية."
+},
+{
+"id": 1469,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "يجب أن يكون المكتب فعالًا واشتراك تشغيل المكتب ساريًا قبل طلب شارة التحقق."
+},
+{
+"id": 1470,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "للمكتب طلب تحقق قائم بالفعل."
+},
+{
+"id": 1471,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "تم إرسال طلب توثيق المكتب. بعد اعتماد المستندات ستظهر خطوة الاشتراك الشهري."
+},
+{
+"id": 1472,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "يجب اعتماد طلب توثيق المكتب أولًا."
+},
+{
+"id": 1473,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "المكتب غير مؤهل حاليًا للتجديد."
+},
+{
+"id": 1474,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "لم يحدد مدير المنصة سعر اشتراك توثيق المكتب بعد."
+},
+{
+"id": 1475,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "للمكتب دفعة توثيق قيد المراجعة بالفعل."
+},
+{
+"id": 1476,
+"f": "app/Http/Controllers/OfficeVerificationController.php",
+"ar": "تم رفع دفعة اشتراك توثيق المكتب وهي قيد المراجعة."
+},
+{
+"id": 1477,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تم إنشاء مرجع الحوالة."
+},
+{
+"id": 1478,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تم تأكيد الدفع بنجاح."
+},
+{
+"id": 1479,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تمت العودة من بوابة الدفع. ننتظر تأكيد العملية الآمن من مزود الدفع."
+},
+{
+"id": 1480,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تمت مراجعة إيصال دفعتك وقبوله"
+},
+{
+"id": 1481,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "للاستشارة رقم"
+},
+{
+"id": 1482,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "يرجى كتابة سبب رفض الدفعة."
+},
+{
+"id": 1483,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تمت مراجعة إيصال دفع الاستشارة رقم"
+},
+{
+"id": 1484,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "ورفضه. السبب:"
+},
+{
+"id": 1485,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "إعادة رفع الإيصال"
+},
+{
+"id": 1486,
+"f": "app/Http/Controllers/PaymentController.php",
+"ar": "تم رفض الدفعة وإبلاغ العميل بالسبب."
+},
+{
+"id": 1487,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "سبب الرفض"
+},
+{
+"id": 1488,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تاريخ التقديم"
+},
+{
+"id": 1489,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "غير مدعوم."
+},
+{
+"id": 1490,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "وسيلة الاستلام"
+},
+{
+"id": 1491,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "وآخر 4 أرقام."
+},
+{
+"id": 1492,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تاريخ التوثيق"
+},
+{
+"id": 1493,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "حساب استلام الأموال من محفظتي"
+},
+{
+"id": 1494,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "يُستخدم الحساب الشخصي الموثق لاستلام رصيد محفظتك؛ مستحقات المكتب تُسحب عبر حساب المكتب."
+},
+{
+"id": 1495,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "الحساب البنكي للمكتب"
+},
+{
+"id": 1496,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "يستخدم هذا الحساب لاستلام مستحقات المكتب من المشاريع والمدفوعات التي تديرها المنصة."
+},
+{
+"id": 1497,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تم حفظ حساب استلام المستحقات وإرساله لمراجعة الإدارة. أي تعديل جديد يعيد الحساب إلى المراجعة."
+},
+{
+"id": 1498,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تم حفظ حساب المكتب البنكي وإرساله لمراجعة الإدارة."
+},
+{
+"id": 1499,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تم حفظ حساب استلام المستحقات. يجب توثيقه قبل السماح بالصرف."
+},
+{
+"id": 1500,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تم توثيق حساب الاستلام وأصبح جاهزًا للصرف."
+},
+{
+"id": 1501,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "تم رفض حساب الاستلام وحفظ سبب الرفض للمراجعة والتعديل."
+},
+{
+"id": 1502,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "اربط بطاقة Visa عبر مزود الصرف وأرسل"
+},
+{
+"id": 1503,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "العملة الرقمية في هذه المرحلة تدعم صرف مستحقات USD فقط."
+},
+{
+"id": 1504,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "حدد الأصل الرقمي والشبكة وعنوان الاستلام."
+},
+{
+"id": 1505,
+"f": "app/Http/Controllers/PayoutAccountController.php",
+"ar": "حساب الاستلام مرتبط بطلب سحب قائم؛ لا يمكن تعديل بياناته حتى إتمام الطلب أو رفضه."
+},
+{
+"id": 1506,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "جاهز للصرف"
+},
+{
+"id": 1507,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "مستحق:"
+},
+{
+"id": 1508,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "تم إرسال التحويل للبنك وبانتظار تأكيده."
+},
+{
+"id": 1509,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "تم تجهيز عملية الصرف. أكّدها بعد تنفيذ التحويل لدى مزود المستفيد."
+},
+{
+"id": 1510,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "جاهز/أرسل في"
+},
+{
+"id": 1511,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "مستحق مهندس"
+},
+{
+"id": 1512,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "مستحق مكتب"
+},
+{
+"id": 1513,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "تحويل قيد التنفيذ"
+},
+{
+"id": 1514,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "مستحق."
+},
+{
+"id": 1515,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "تعذر"
+},
+{
+"id": 1516,
+"f": "app/Http/Controllers/PayoutQueueController.php",
+"ar": "تم تأكيد التحويل الخارجي وتسجيل المستحق مدفوعًا."
+},
+{
+"id": 1517,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "كلمة المرور التي أدخلتها غير صحيحة."
+},
+{
+"id": 1518,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "أدخل رمز التحقق."
+},
+{
+"id": 1519,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "رمز التحقق يجب أن يتكون من 6 أرقام."
+},
+{
+"id": 1520,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "انتهت جلسة التفعيل. ابدأ عملية التفعيل من جديد."
+},
+{
+"id": 1521,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "أدخل كلمة المرور الحالية للتأكيد."
+},
+{
+"id": 1522,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "يجب إدخال كلمة المرور لإرسال رمز التحقق."
+},
+{
+"id": 1523,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "يجب إدخال كلمة المرور للتأكيد."
+},
+{
+"id": 1524,
+"f": "app/Http/Controllers/ProfileController.php",
+"ar": "تمت أرشفة الحساب لمدة 60 يومًا. يمكنك استعادته قبل انتهاء المهلة."
+},
+{
+"id": 1525,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تعارض."
+},
+{
+"id": 1526,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم إنشاء نموذج BIM للمشروع."
+},
+{
+"id": 1527,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم رفع نموذج BIM وإصدار"
+},
+{
+"id": 1528,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم رفع إصدار BIM جديد."
+},
+{
+"id": 1529,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم رفع الإصدار"
+},
+{
+"id": 1530,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم تشغيل"
+},
+{
+"id": 1531,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "اكتمل الكشف:"
+},
+{
+"id": 1532,
+"f": "app/Http/Controllers/ProjectBimController.php",
+"ar": "تم استيراد تقرير Clash خارجي."
+},
+{
+"id": 1533,
+"f": "app/Http/Controllers/ProjectBoqController.php",
+"ar": "تم إرسال BOQ للمراجعة."
+},
+{
+"id": 1534,
+"f": "app/Http/Controllers/ProjectBoqController.php",
+"ar": "تم إرجاع BOQ للتعديل."
+},
+{
+"id": 1535,
+"f": "app/Http/Controllers/ProjectBoqController.php",
+"ar": "تم قفل"
+},
+{
+"id": 1536,
+"f": "app/Http/Controllers/ProjectBoqController.php",
+"ar": "تم إنشاء Revision جديد."
+},
+{
+"id": 1537,
+"f": "app/Http/Controllers/ProjectBoqExportController.php",
+"ar": "بند، وتجاوز"
+},
+{
+"id": 1538,
+"f": "app/Http/Controllers/ProjectBoqItemController.php",
+"ar": "تم تسجيل الكمية المنفذة والتكلفة الفعلية."
+},
+{
+"id": 1539,
+"f": "app/Http/Controllers/ProjectBoqSectionController.php",
+"ar": "تمت إضافة قسم"
+},
+{
+"id": 1540,
+"f": "app/Http/Controllers/ProjectCalendarController.php",
+"ar": "تم إنشاء موعد جديد في التقويم."
+},
+{
+"id": 1541,
+"f": "app/Http/Controllers/ProjectCalendarController.php",
+"ar": "تم إلغاء الموعد."
+},
+{
+"id": 1542,
+"f": "app/Http/Controllers/ProjectCalendarController.php",
+"ar": "تم حذف الموعد من التقويم."
+},
+{
+"id": 1543,
+"f": "app/Http/Controllers/ProjectCalendarIcsController.php",
+"ar": "منصة الوليد الهندسي"
+},
+{
+"id": 1544,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "لا يمكن خفض قيمة المشروع إلى مبلغ أقل من إجمالي الدفعات المجدولة حاليًا"
+},
+{
+"id": 1545,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "وإرساله للعميل."
+},
+{
+"id": 1546,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "ويحتاج موافقتك."
+},
+{
+"id": 1547,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "تم التعامل مع أمر التغيير مسبقًا."
+},
+{
+"id": 1548,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "تغيرت قيمة أو مدة المشروع منذ إنشاء أمر التغيير. اطلب من المهندس إنشاء أمر تغيير جديد."
+},
+{
+"id": 1549,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "لا يمكن اعتماد أمر التغيير لأن القيمة الجديدة أقل من إجمالي الدفعات المجدولة."
+},
+{
+"id": 1550,
+"f": "app/Http/Controllers/ProjectChangeOrderController.php",
+"ar": "وتم تحديث قيمة ومدة المشروع."
+},
+{
+"id": 1551,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "أنشأ العميل طلب مشروع كامل من الاستشارة رقم"
+},
+{
+"id": 1552,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "أنت لست عضوًا فعالًا في المكتب المسؤول عن هذا المشروع."
+},
+{
+"id": 1553,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "تم إرسال عرض مشروع"
+},
+{
+"id": 1554,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "أرسل المهندس عرضًا للمشروع المرتبط بالاستشارة رقم"
+},
+{
+"id": 1555,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "وافق العميل على عرض المشروع"
+},
+{
+"id": 1556,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "وتم إنشاء المشروع."
+},
+{
+"id": 1557,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "وافق العميل على عرض المشروع المرتبط بالاستشارة رقم"
+},
+{
+"id": 1558,
+"f": "app/Http/Controllers/ProjectController.php",
+"ar": "وافق العميل على مشروع"
+},
+{
+"id": 1559,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "مكتمل"
+},
+{
+"id": 1560,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "ملغى"
+},
+{
+"id": 1561,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "متوقف مؤقتًا"
+},
+{
+"id": 1562,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "بانتظار اعتماد الإنهاء"
+},
+{
+"id": 1563,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "مغلق ماليًا"
+},
+{
+"id": 1564,
+"f": "app/Http/Controllers/ProjectDashboardController.php",
+"ar": "مفتوح ماليًا"
+},
+{
+"id": 1565,
+"f": "app/Http/Controllers/ProjectDrawingMarkupController.php",
+"ar": "تم إنشاء Markup من واجهة الموقع."
+},
+{
+"id": 1566,
+"f": "app/Http/Controllers/ProjectDrawingMarkupController.php",
+"ar": "تم حفظ الملاحظات."
+},
+{
+"id": 1567,
+"f": "app/Http/Controllers/ProjectDrawingMarkupController.php",
+"ar": "تم إغلاق طبقة الملاحظات."
+},
+{
+"id": 1568,
+"f": "app/Http/Controllers/ProjectEngineerAllocationController.php",
+"ar": "في المشروع"
+},
+{
+"id": 1569,
+"f": "app/Http/Controllers/ProjectEngineerAllocationController.php",
+"ar": "تم إلغاء نسبة المهندس"
+},
+{
+"id": 1570,
+"f": "app/Http/Controllers/ProjectEngineerEarningController.php",
+"ar": "بدأ المدير تحويل مستحق مهندس المشروع عبر البنك."
+},
+{
+"id": 1571,
+"f": "app/Http/Controllers/ProjectEngineerEarningController.php",
+"ar": "تم إرسال طلب التحويل للبنك. سيصبح المستحق مدفوعًا فقط بعد تأكيد البنك."
+},
+{
+"id": 1572,
+"f": "app/Http/Controllers/ProjectEscrowController.php",
+"ar": "تم إيداع دفعة المشروع في حساب الضمان."
+},
+{
+"id": 1573,
+"f": "app/Http/Controllers/ProjectFieldController.php",
+"ar": "يمكن إسناد سجل الموقع إلى أحد المشاركين في المشروع فقط."
+},
+{
+"id": 1574,
+"f": "app/Http/Controllers/ProjectFieldController.php",
+"ar": "تم إنشاء سجل إدارة الموقع بنجاح."
+},
+{
+"id": 1575,
+"f": "app/Http/Controllers/ProjectFieldController.php",
+"ar": "تم تحديث حالة السجل."
+},
+{
+"id": 1576,
+"f": "app/Http/Controllers/ProjectFileController.php",
+"ar": "للعميل."
+},
+{
+"id": 1577,
+"f": "app/Http/Controllers/ProjectFileController.php",
+"ar": "تم اعتماد أحدث Version وإتاحته للعميل."
+},
+{
+"id": 1578,
+"f": "app/Http/Controllers/ProjectFileController.php",
+"ar": "من العميل."
+},
+{
+"id": 1579,
+"f": "app/Http/Controllers/ProjectFileController.php",
+"ar": "تم سحب إتاحة النسخة المعتمدة من العميل مع الاحتفاظ بسجل الاعتماد."
+},
+{
+"id": 1580,
+"f": "app/Http/Controllers/ProjectFileController.php",
+"ar": "من القائمة مع إبقاء السجل في قاعدة البيانات."
+},
+{
+"id": 1581,
+"f": "app/Http/Controllers/ProjectFileReviewController.php",
+"ar": "تم اعتماد Version الملف وإتاحته للعميل."
+},
+{
+"id": 1582,
+"f": "app/Http/Controllers/ProjectFileReviewController.php",
+"ar": "تم رفض Version الحالي. النسخة المعتمدة السابقة للعميل بقيت كما هي."
+},
+{
+"id": 1583,
+"f": "app/Http/Controllers/ProjectFileVersionController.php",
+"ar": "لا يمكن رفع Version جديد إلى مشروع غير نشط."
+},
+{
+"id": 1584,
+"f": "app/Http/Controllers/ProjectFileVersionController.php",
+"ar": "وهي الآن بانتظار المراجعة. النسخة المعتمدة السابقة للعميل لم تتغير."
+},
+{
+"id": 1585,
+"f": "app/Http/Controllers/ProjectFinanceController.php",
+"ar": "تم حفظ عمولة المنصة"
+},
+{
+"id": 1586,
+"f": "app/Http/Controllers/ProjectFinanceController.php",
+"ar": "صافي المستفيد:"
+},
+{
+"id": 1587,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "تم إغلاق المشروع ماليًا مسبقًا."
+},
+{
+"id": 1588,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "دفعة مشروع غير مسددة أو غير محسومة."
+},
+{
+"id": 1589,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "عمولة مهندس مشروع بانتظار الدفع."
+},
+{
+"id": 1590,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "تم الإغلاق المالي النهائي للمشروع"
+},
+{
+"id": 1591,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "حالة الإغلاق المالي تغيرت."
+},
+{
+"id": 1592,
+"f": "app/Http/Controllers/ProjectFinancialClosingController.php",
+"ar": "أعاد المدير فتح المشروع ماليًا. السبب:"
+},
+{
+"id": 1593,
+"f": "app/Http/Controllers/ProjectGanttController.php",
+"ar": "تمت إضافة بند جديد إلى المخطط الزمني."
+},
+{
+"id": 1594,
+"f": "app/Http/Controllers/ProjectGanttController.php",
+"ar": "هذا البند مقفل."
+},
+{
+"id": 1595,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "اختر المرحلة المرتبطة بحزمة التسليم."
+},
+{
+"id": 1596,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إنشاء حزمة التسليم."
+},
+{
+"id": 1597,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم تحديث عنصر التسليم."
+},
+{
+"id": 1598,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إلغاء حزمة التسليم."
+},
+{
+"id": 1599,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "حزمة تسليم بانتظار اعتمادك"
+},
+{
+"id": 1600,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "لمراجعتك واعتمادها."
+},
+{
+"id": 1601,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم اعتماد حزمة التسليم"
+},
+{
+"id": 1602,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "اعتمد العميل"
+},
+{
+"id": 1603,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "وتم إصدار شهادة"
+},
+{
+"id": 1604,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم اعتماد التسليم وإصدار شهادة الاستلام."
+},
+{
+"id": 1605,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "ملاحظات على حزمة التسليم"
+},
+{
+"id": 1606,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "طلب العميل تعديلات على"
+},
+{
+"id": 1607,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إنشاء حزمة تسليم"
+},
+{
+"id": 1608,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إرفاق ملف التسليم."
+},
+{
+"id": 1609,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم حذف المرفق من حزمة التسليم."
+},
+{
+"id": 1610,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إرسال الحزمة للعميل للمراجعة."
+},
+{
+"id": 1611,
+"f": "app/Http/Controllers/ProjectHandoverController.php",
+"ar": "تم إرسال ملاحظاتك وإعادة الحزمة للتعديل."
+},
+{
+"id": 1612,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "بنسبة"
+},
+{
+"id": 1613,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "رفع العميل إيصال الدفعة رقم"
+},
+{
+"id": 1614,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "لم يحن موعد استحقاق هذه الدفعة بعد."
+},
+{
+"id": 1615,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم رفض إيصال دفعة المشروع"
+},
+{
+"id": 1616,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "الدفعة رقم"
+},
+{
+"id": 1617,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "دفعة مشروع جديدة"
+},
+{
+"id": 1618,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تمت إضافة الدفعة رقم"
+},
+{
+"id": 1619,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "وبقيمة"
+},
+{
+"id": 1620,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "وموعدها"
+},
+{
+"id": 1621,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "جدول دفعات مشروع"
+},
+{
+"id": 1622,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تمت إضافة دفعة جديدة للمشروع"
+},
+{
+"id": 1623,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "هذه الدفعة مدفوعة بالفعل."
+},
+{
+"id": 1624,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "إيصال دفع بانتظار التحقق"
+},
+{
+"id": 1625,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم تجهيز مرجع الحوالة."
+},
+{
+"id": 1626,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "هذه الدفعة مؤكدة كمدفوعة بالفعل."
+},
+{
+"id": 1627,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم رفع إيصال دفعة مشروع"
+},
+{
+"id": 1628,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "إيصال دفعة مشروع بانتظار المراجعة"
+},
+{
+"id": 1629,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم تأكيد دفعة مشروع بقيمة"
+},
+{
+"id": 1630,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم تأكيد دفعة المشروع"
+},
+{
+"id": 1631,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم تأكيد الدفعة رقم"
+},
+{
+"id": 1632,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم تأكيد استلام دفعة المشروع واحتساب المستحقات المالية."
+},
+{
+"id": 1633,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم رفض إيصال الدفعة رقم"
+},
+{
+"id": 1634,
+"f": "app/Http/Controllers/ProjectInstallmentController.php",
+"ar": "تم رفض الإيصال وإبلاغ العميل والمهندس."
+},
+{
+"id": 1635,
+"f": "app/Http/Controllers/ProjectLifecycleController.php",
+"ar": "لا يمكن طلب إنهاء المشروع قبل إكمال جميع المهام. المتبقي:"
+},
+{
+"id": 1636,
+"f": "app/Http/Controllers/ProjectLifecycleController.php",
+"ar": "لا يمكن طلب الإنهاء قبل تسوية جميع دفعات المشروع."
+},
+{
+"id": 1637,
+"f": "app/Http/Controllers/ProjectLifecycleController.php",
+"ar": "أنهى المهندس تنفيذ المشروع"
+},
+{
+"id": 1638,
+"f": "app/Http/Controllers/ProjectLifecycleController.php",
+"ar": "وينتظر موافقتك على الإغلاق."
+},
+{
+"id": 1639,
+"f": "app/Http/Controllers/ProjectLifecycleController.php",
+"ar": "وافق العميل على إنهاء المشروع وتم إغلاقه."
+},
+{
+"id": 1640,
+"f": "app/Http/Controllers/ProjectMeetingActionItemController.php",
+"ar": "غير تابع لهذا الاجتماع."
+},
+{
+"id": 1641,
+"f": "app/Http/Controllers/ProjectMeetingActionItemController.php",
+"ar": "تم إضافة"
+},
+{
+"id": 1642,
+"f": "app/Http/Controllers/ProjectMeetingController.php",
+"ar": "تم إنشاء الاجتماع وجدولته بنجاح."
+},
+{
+"id": 1643,
+"f": "app/Http/Controllers/ProjectMeetingController.php",
+"ar": "لا يمكن تحرير محضر اجتماع ملغي."
+},
+{
+"id": 1644,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "الاجتماع المباشر لم يبدأ بعد."
+},
+{
+"id": 1645,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "بدء الاجتماع متاح فقط لمدير المشروع/الفريق أو مدير المنصة."
+},
+{
+"id": 1646,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "إنهاء الاجتماع متاح فقط لمدير الاجتماع أو مدير المنصة."
+},
+{
+"id": 1647,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "الاجتماع المباشر غير نشط."
+},
+{
+"id": 1648,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "المحادثة المباشرة متاحة أثناء الاجتماع فقط."
+},
+{
+"id": 1649,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "لا يمكنك دعوة هذا المستخدم إلى الاجتماع."
+},
+{
+"id": 1650,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "تم إرسال الدعوة."
+},
+{
+"id": 1651,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "إزالة المشاركين متاحة فقط لمدير الاجتماع أو مدير المنصة."
+},
+{
+"id": 1652,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "كتم المشاركين متاح فقط لمدير الاجتماع أو مدير المنصة."
+},
+{
+"id": 1653,
+"f": "app/Http/Controllers/ProjectMeetingLiveController.php",
+"ar": "ليس لديك صلاحية دخول هذا الاجتماع."
+},
+{
+"id": 1654,
+"f": "app/Http/Controllers/ProjectMeetingMinutesPdfController.php",
+"ar": "المحضر غير منشور بعد."
+},
+{
+"id": 1655,
+"f": "app/Http/Controllers/ProjectOfficeEarningController.php",
+"ar": "مدير المنصة فقط يستطيع تحديد نسبة المكتب."
+},
+{
+"id": 1656,
+"f": "app/Http/Controllers/ProjectOfficeEarningController.php",
+"ar": "تم تحديد نسبة المكتب في المشروع"
+},
+{
+"id": 1657,
+"f": "app/Http/Controllers/ProjectOfficeEarningController.php",
+"ar": "تم تحديد نسبة المكتب في المشروع بنجاح."
+},
+{
+"id": 1658,
+"f": "app/Http/Controllers/ProjectOfficeEarningController.php",
+"ar": "بدأ المدير تحويل مستحق المكتب عبر البنك."
+},
+{
+"id": 1659,
+"f": "app/Http/Controllers/ProjectOfficeEarningController.php",
+"ar": "تم إرسال طلب تحويل مستحق المكتب للبنك، وبانتظار تأكيد البنك."
+},
+{
+"id": 1660,
+"f": "app/Http/Controllers/ProjectSubmittalController.php",
+"ar": "تم إنشاء Submittal وإرسال الإصدار R0 للمراجعة."
+},
+{
+"id": 1661,
+"f": "app/Http/Controllers/ProjectSubmittalController.php",
+"ar": "لا يمكن مراجعة Submittal مغلق أو ملغي."
+},
+{
+"id": 1662,
+"f": "app/Http/Controllers/ProjectTaskController.php",
+"ar": "لا يمكن تعديل مهام مشروع غير معتمد."
+},
+{
+"id": 1663,
+"f": "app/Http/Controllers/ProjectTeamChatController.php",
+"ar": "اكتب رسالة أو أرفق ملفًا أو تسجيلًا صوتيًا."
+},
+{
+"id": 1664,
+"f": "app/Http/Controllers/ProjectTeamChatController.php",
+"ar": "تم إرسال رسالة في محادثة فريق المشروع."
+},
+{
+"id": 1665,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "يمكن إضافة مهندسين فعالين من نفس المكتب فقط إلى فريق هذا المشروع."
+},
+{
+"id": 1666,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إضافة المهندس"
+},
+{
+"id": 1667,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "إلى فريق المشروع"
+},
+{
+"id": 1668,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "بدور:"
+},
+{
+"id": 1669,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إضافتك إلى فريق مشروع"
+},
+{
+"id": 1670,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "أضافك المهندس الرئيسي إلى فريق المشروع"
+},
+{
+"id": 1671,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إزالة المهندس"
+},
+{
+"id": 1672,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "من فريق المشروع"
+},
+{
+"id": 1673,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إزالتك من فريق مشروع"
+},
+{
+"id": 1674,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إزالتك من فريق المشروع"
+},
+{
+"id": 1675,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "تمت إزالة المهندس من فريق المشروع."
+},
+{
+"id": 1676,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "لا يمكن إدارة فريق المشروع قبل اعتماد المشروع."
+},
+{
+"id": 1677,
+"f": "app/Http/Controllers/ProjectTeamController.php",
+"ar": "المهندس الرئيسي لم يعد عضوًا فعالًا في المكتب المسؤول عن المشروع."
+},
+{
+"id": 1678,
+"f": "app/Http/Controllers/PublicSupportPortalController.php",
+"ar": "يمكن تقييم التذكرة بعد حلها."
+},
+{
+"id": 1679,
+"f": "app/Http/Controllers/PublicSupportPortalController.php",
+"ar": "شكرًا لتقييمك لخدمة الدعم."
+},
+{
+"id": 1680,
+"f": "app/Http/Controllers/PublicSupportPortalController.php",
+"ar": "تم إرسال ردك إلى فريق الدعم."
+},
+{
+"id": 1681,
+"f": "app/Http/Controllers/PublicSupportPortalController.php",
+"ar": "انتهت جلسة الوصول. أدخل بريدك ورقم التذكرة مرة أخرى."
+},
+{
+"id": 1682,
+"f": "app/Http/Controllers/PublicSupportRecoveryController.php",
+"ar": "أدخل آخر 4 أرقام من الهوية."
+},
+{
+"id": 1683,
+"f": "app/Http/Controllers/PublicSupportRecoveryController.php",
+"ar": "ارفق صورة الوجه الأمامي للهوية."
+},
+{
+"id": 1684,
+"f": "app/Http/Controllers/PublicSupportRecoveryController.php",
+"ar": "تم رفع مستندات الهوية من رابط الاسترداد، وتطابقت آخر 4 أرقام مع KYC السابق أو لم يكن المرجع الرقمي متاحًا."
+}
+]

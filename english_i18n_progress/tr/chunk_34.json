@@ -1,0 +1,1532 @@
+[
+{
+"id": 12245,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "كلمة مرور حسابك"
+},
+{
+"id": 12246,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تحقق وأرسل OTP إلى بريدي"
+},
+{
+"id": 12247,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تأكيد رمز البريد الإلكتروني"
+},
+{
+"id": 12248,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "أدخل الرمز المرسل إلى بريد حسابك الموثق. الرمز صالح لمدة 5 دقائق."
+},
+{
+"id": 12249,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "رمز من 6 أرقام"
+},
+{
+"id": 12250,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تأكيد والمتابعة إلى الدفع"
+},
+{
+"id": 12251,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "أدخل كلمة المرور لإعادة إرسال الرمز"
+},
+{
+"id": 12252,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إعادة إرسال"
+},
+{
+"id": 12253,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إتمام الدفع وإرسال إشعار التحويل"
+},
+{
+"id": 12254,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "الطلب:"
+},
+{
+"id": 12255,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "الرصيد لن يُضاف حتى يتحقق المدير المالي أو مدير المنصة من التحصيل ويعتمده."
+},
+{
+"id": 12256,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "يرجى تحويل"
+},
+{
+"id": 12257,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "الرصيد المعتمد بعد الصرف:"
+},
+{
+"id": 12258,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "لا تحوّل مبلغًا آخر دون طلب جديد."
+},
+{
+"id": 12259,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تحويل العملات الرقمية"
+},
+{
+"id": 12260,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "على شبكة"
+},
+{
+"id": 12261,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "العنوان المعتمد لنفس هذا الطلب:"
+},
+{
+"id": 12262,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "أرسل المبلغ المطابق لطلبك بعملة مستقرة USD على الشبكة الموضحة فقط. الرسوم على المرسل. لا تُضاف الأموال قبل التحقق من"
+},
+{
+"id": 12263,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "والمبلغ والوجهة وتأكيدات الشبكة لدى المدير المالي."
+},
+{
+"id": 12264,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "فتح وسيلة الدفع المختارة"
+},
+{
+"id": 12265,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "بيانات وسيلة الدفع المعتمدة لطلبك:"
+},
+{
+"id": 12266,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "لا تستخدم حسابًا أو رقمًا تابعًا لطريقة أو بلد مختلفين؛ تأكد أن وسيلة الدفع تقبل العملة المعروضة."
+},
+{
+"id": 12267,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اسم مرسل الحوالة"
+},
+{
+"id": 12268,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "عند الدفع بالعملات الرقمية"
+},
+{
+"id": 12269,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إرفاق إشعار التحويل"
+},
+{
+"id": 12270,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إرسال للمراجعة المالية"
+},
+{
+"id": 12271,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "حالة الطلب:"
+},
+{
+"id": 12272,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "إذا كان بانتظار المراجعة فلن يظهر الرصيد في محفظتك حتى يعتمد المسؤول وصول المال فعليًا."
+},
+{
+"id": 12273,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "عرض المحفظة وسجل الطلبات"
+},
+{
+"id": 12274,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "أدخل مبلغ الدفع واختر وسيلة الدفع أولًا."
+},
+{
+"id": 12275,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تعذّر حساب الصرف."
+},
+{
+"id": 12276,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "ويُضاف إلى محفظتك"
+},
+{
+"id": 12277,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "بعد التحصيل والتحقق. سعر الصرف:"
+},
+{
+"id": 12278,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "تعذّر عرض السعر."
+},
+{
+"id": 12279,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "اختر الفئة ثم العملة للوصول إلى طرق الدفع."
+},
+{
+"id": 12280,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "لا توجد طريقة دفع مفعلة لهذه الفئة والعملة. إذا اخترت السعودية فاختر SAR واشحنه أولًا، ثم حوّل الرصيد بسعر ساري وسيولة متاحة؛ لا تتعامل مع قيمة SAR كأنها"
+},
+{
+"id": 12281,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "أكمل اختيار المنطقة والقسم والعملة وطريقة الدفع أولًا."
+},
+{
+"id": 12282,
+"f": "views/wallet/deposit-wizard.blade.php",
+"ar": "احسب سعر الصرف والمبلغ المستلم أولًا ثم أكّد إنشاء الطلب."
+},
+{
+"id": 12283,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "اختبار"
+},
+{
+"id": 12284,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "احسب السعر والرسوم"
+},
+{
+"id": 12285,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "الرسوم:"
+},
+{
+"id": 12286,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "محفظتي الرقمية"
+},
+{
+"id": 12287,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "وUSDC منفصلتان عن الرصيد المالي. الإيداع الرقمي لا يضيف USD تلقائيًا."
+},
+{
+"id": 12288,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "رصيدي الرقمي"
+},
+{
+"id": 12289,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "لا يوجد رصيد رقمي مؤكد حاليًا."
+},
+{
+"id": 12290,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "إيداع العملات الرقمية"
+},
+{
+"id": 12291,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "محفظتي المالية"
+},
+{
+"id": 12292,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "الرصيد المالي هو الذي يُستخدم لشراء الباقات والاستشارات."
+},
+{
+"id": 12293,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "العملات والشبكات المهيأة في المنصة"
+},
+{
+"id": 12294,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "العناصر المعروضة معلومات فقط؛ لا يمكن التحويل قبل تفعيل الشبكة واعتماد السعر والرسوم وتوفر الرصيد المؤهل."
+},
+{
+"id": 12295,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "مهيأة في الإعدادات"
+},
+{
+"id": 12296,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "غير متاحة للتحويل"
+},
+{
+"id": 12297,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "لم تُعتمد أسعار تحويل مفعّلة بعد؛ يمكن للمدير إدخالها من لوحة الإدارة، ولا تُنفذ أي عملية مالية تلقائيًا."
+},
+{
+"id": 12298,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "التحويل بين المحفظتين قيد الاختبار المالي، ولن يُخصم أي رصيد."
+},
+{
+"id": 12299,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "معاينة التحويل بين المحفظتين"
+},
+{
+"id": 12300,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "اتجاه التحويل"
+},
+{
+"id": 12301,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "من الرقمية إلى المالية"
+},
+{
+"id": 12302,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "من المالية إلى الرقمية"
+},
+{
+"id": 12303,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "العملة الرقمية والشبكة المفعّلة"
+},
+{
+"id": 12304,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "عملة الرصيد المالي"
+},
+{
+"id": 12305,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "المبلغ (بحسب محفظة المصدر)"
+},
+{
+"id": 12306,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "تأكيد عرض السعر (صالح لدقيقتين)"
+},
+{
+"id": 12307,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "الخصم:"
+},
+{
+"id": 12308,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "المقابل:"
+},
+{
+"id": 12309,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "السعر:"
+},
+{
+"id": 12310,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "ميكرو وحدة من"
+},
+{
+"id": 12311,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "لكل"
+},
+{
+"id": 12312,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "السحب الخارجي التلقائي غير متاح قبل ربط محفظة توقيع مستقلة والتحقق الفعلي من أرصدة الشبكات."
+},
+{
+"id": 12313,
+"f": "views/wallet/digital-wallet.blade.php",
+"ar": "سحب إلى عنوان خارجي"
+},
+{
+"id": 12314,
+"f": "views/wallet/finance.blade.php",
+"ar": "بريد المستلم"
+},
+{
+"id": 12315,
+"f": "views/wallet/finance.blade.php",
+"ar": "المراجعة المالية والتدقيق"
+},
+{
+"id": 12316,
+"f": "views/wallet/finance.blade.php",
+"ar": "بوابة الرقابة والتحقق من الحوالات المصرفية ومطابقة القيود المالية"
+},
+{
+"id": 12317,
+"f": "views/wallet/finance.blade.php",
+"ar": "مراجعة عمليات المحفظة"
+},
+{
+"id": 12318,
+"f": "views/wallet/finance.blade.php",
+"ar": "طلبات مالية بحاجة للمراجعة"
+},
+{
+"id": 12319,
+"f": "views/wallet/finance.blade.php",
+"ar": "المراجع المالي"
+},
+{
+"id": 12320,
+"f": "views/wallet/finance.blade.php",
+"ar": "قوائم المراجعة"
+},
+{
+"id": 12321,
+"f": "views/wallet/finance.blade.php",
+"ar": "دفعات الشحن بانتظار المراجعة"
+},
+{
+"id": 12322,
+"f": "views/wallet/finance.blade.php",
+"ar": "طلبات السحب والتحويل"
+},
+{
+"id": 12323,
+"f": "views/wallet/finance.blade.php",
+"ar": "تحديث قائمة الطلبات"
+},
+{
+"id": 12324,
+"f": "views/wallet/finance.blade.php",
+"ar": "العمليات المالية معطلة حتى تفعيل التشغيل الآمن."
+},
+{
+"id": 12325,
+"f": "views/wallet/finance.blade.php",
+"ar": "تقرير حركات المحفظة المالية"
+},
+{
+"id": 12326,
+"f": "views/wallet/finance.blade.php",
+"ar": "تصدير قيود المحفظة فقط"
+},
+{
+"id": 12327,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا يُعد هذا تقرير الإيراد أو تقرير عمولات المنصة؛"
+},
+{
+"id": 12328,
+"f": "views/wallet/finance.blade.php",
+"ar": "توجد تقارير الإيرادات الشاملة بمركز التقارير المحاسبية."
+},
+{
+"id": 12329,
+"f": "views/wallet/finance.blade.php",
+"ar": "من:"
+},
+{
+"id": 12330,
+"f": "views/wallet/finance.blade.php",
+"ar": "إلى:"
+},
+{
+"id": 12331,
+"f": "views/wallet/finance.blade.php",
+"ar": "العملة: الكل"
+},
+{
+"id": 12332,
+"f": "views/wallet/finance.blade.php",
+"ar": "الأرصدة المستحقة للمستخدمين حسب العملة"
+},
+{
+"id": 12333,
+"f": "views/wallet/finance.blade.php",
+"ar": "إجمالي التزامات المحفظة المعلقة"
+},
+{
+"id": 12334,
+"f": "views/wallet/finance.blade.php",
+"ar": "المستحق بالعملة"
+},
+{
+"id": 12335,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا توجد أرصدة مستحقة لعرضها حاليًا."
+},
+{
+"id": 12336,
+"f": "views/wallet/finance.blade.php",
+"ar": "طلبات الإيداع والشحن"
+},
+{
+"id": 12337,
+"f": "views/wallet/finance.blade.php",
+"ar": "تأكد من كشف البنك المباشر وليس الإيصال وحده"
+},
+{
+"id": 12338,
+"f": "views/wallet/finance.blade.php",
+"ar": "يجب مضاهاة رقم الحركة البنكية والقيمة المحصلة فعلياً في حساب الشركة قبل الاعتماد."
+},
+{
+"id": 12339,
+"f": "views/wallet/finance.blade.php",
+"ar": "مراجعة يدوية مطلوبة:"
+},
+{
+"id": 12340,
+"f": "views/wallet/finance.blade.php",
+"ar": "مرجع العميل:"
+},
+{
+"id": 12341,
+"f": "views/wallet/finance.blade.php",
+"ar": "وسيلة الدفع:"
+},
+{
+"id": 12342,
+"f": "views/wallet/finance.blade.php",
+"ar": "اسم مرسل التحويل المدخل:"
+},
+{
+"id": 12343,
+"f": "views/wallet/finance.blade.php",
+"ar": "تنزيل إيصال الإيداع للمقارنة بكشف البنك"
+},
+{
+"id": 12344,
+"f": "views/wallet/finance.blade.php",
+"ar": "إيداع بعملتين: تحقّق من كشف البنك أن المبلغ المحصل هو"
+},
+{
+"id": 12345,
+"f": "views/wallet/finance.blade.php",
+"ar": "قبل إضافة"
+},
+{
+"id": 12346,
+"f": "views/wallet/finance.blade.php",
+"ar": "يلزم وجود سيولة مموّلة مسبقًا في خزينة العملة المستلمة."
+},
+{
+"id": 12347,
+"f": "views/wallet/finance.blade.php",
+"ar": "أدخل المبلغ الذي تأكدت من تحصيله بعملة الدفع"
+},
+{
+"id": 12348,
+"f": "views/wallet/finance.blade.php",
+"ar": "المبلغ الصحيح بعملة"
+},
+{
+"id": 12349,
+"f": "views/wallet/finance.blade.php",
+"ar": "البنك أو مزود الدفع المستلم"
+},
+{
+"id": 12350,
+"f": "views/wallet/finance.blade.php",
+"ar": "مثال: بنك فلسطين / حساب الشركة رقم"
+},
+{
+"id": 12351,
+"f": "views/wallet/finance.blade.php",
+"ar": "رقم عملية التحويل المتحقق منها بكشف الحساب"
+},
+{
+"id": 12352,
+"f": "views/wallet/finance.blade.php",
+"ar": "أدخل الرقم المرجعي المطبوع في كشف البنك"
+},
+{
+"id": 12353,
+"f": "views/wallet/finance.blade.php",
+"ar": "تفاصيل التحقق المستقل من التحصيل"
+},
+{
+"id": 12354,
+"f": "views/wallet/finance.blade.php",
+"ar": "ملاحظات المطابقة المصرفية وتوقيت وصول المبلغ..."
+},
+{
+"id": 12355,
+"f": "views/wallet/finance.blade.php",
+"ar": "تحققت من استلام الأصل الرقمي إلى عنوان الشركة، والمبلغ والشبكة وعدد التأكيدات."
+},
+{
+"id": 12356,
+"f": "views/wallet/finance.blade.php",
+"ar": "تأكيد المطابقة الصارم:"
+},
+{
+"id": 12357,
+"f": "views/wallet/finance.blade.php",
+"ar": "أؤكد مطابقة هذه الحوالة مع كشف البنك أو مزود الدفع الفعلي للشركة، وليس الاعتماد على صورة الإيصال فقط."
+},
+{
+"id": 12358,
+"f": "views/wallet/finance.blade.php",
+"ar": "اعتماد بعد التأكد من التحصيل"
+},
+{
+"id": 12359,
+"f": "views/wallet/finance.blade.php",
+"ar": "في حال الرفض: سبب عدم القبول"
+},
+{
+"id": 12360,
+"f": "views/wallet/finance.blade.php",
+"ar": "وضح سبب الرفض..."
+},
+{
+"id": 12361,
+"f": "views/wallet/finance.blade.php",
+"ar": "إرسال طلب توضيح بالبريد الإلكتروني"
+},
+{
+"id": 12362,
+"f": "views/wallet/finance.blade.php",
+"ar": "اكتب المعلومات المطلوبة أو المستند الناقص"
+},
+{
+"id": 12363,
+"f": "views/wallet/finance.blade.php",
+"ar": "إرسال بريد وطلب معلومات"
+},
+{
+"id": 12364,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا توجد إجراءات متاحة لهذه الحالة."
+},
+{
+"id": 12365,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا توجد طلبات إيداع حاليًا."
+},
+{
+"id": 12366,
+"f": "views/wallet/finance.blade.php",
+"ar": "طلبات سحب المحفظة والمستحقات"
+},
+{
+"id": 12367,
+"f": "views/wallet/finance.blade.php",
+"ar": "الاعتماد برمز OTP لا يعني أن الحوالة نُفذت؛ تُؤكد التسوية بعد التحويل الفعلي."
+},
+{
+"id": 12368,
+"f": "views/wallet/finance.blade.php",
+"ar": "مصدر الرصيد:"
+},
+{
+"id": 12369,
+"f": "views/wallet/finance.blade.php",
+"ar": "رصيد المحفظة الشخصي"
+},
+{
+"id": 12370,
+"f": "views/wallet/finance.blade.php",
+"ar": "مستحقات المهندس / المكتب"
+},
+{
+"id": 12371,
+"f": "views/wallet/finance.blade.php",
+"ar": "بيانات استلام التحويل — للإدارة المالية فقط"
+},
+{
+"id": 12372,
+"f": "views/wallet/finance.blade.php",
+"ar": "حساب الاستلام المعتمد:"
+},
+{
+"id": 12373,
+"f": "views/wallet/finance.blade.php",
+"ar": "عملة رقمية:"
+},
+{
+"id": 12374,
+"f": "views/wallet/finance.blade.php",
+"ar": "تحقق من العنوان والشبكة قبل التحويل الرقمي"
+},
+{
+"id": 12375,
+"f": "views/wallet/finance.blade.php",
+"ar": "إرسال OTP إلى بريد المدير المخوّل"
+},
+{
+"id": 12376,
+"f": "views/wallet/finance.blade.php",
+"ar": "رمز OTP المكون من 6 أرقام"
+},
+{
+"id": 12377,
+"f": "views/wallet/finance.blade.php",
+"ar": "بعد تنفيذ التحويل فعليًا"
+},
+{
+"id": 12378,
+"f": "views/wallet/finance.blade.php",
+"ar": "أؤكد تنفيذ التحويل إلى المستفيد فعليًا والتحقق من مرجعه."
+},
+{
+"id": 12379,
+"f": "views/wallet/finance.blade.php",
+"ar": "تحققت من نجاح"
+},
+{
+"id": 12380,
+"f": "views/wallet/finance.blade.php",
+"ar": "والشبكة والأصل والعنوان."
+},
+{
+"id": 12381,
+"f": "views/wallet/finance.blade.php",
+"ar": "تم السحب بنجاح — تأكيد التحويل"
+},
+{
+"id": 12382,
+"f": "views/wallet/finance.blade.php",
+"ar": "سبب الرفض وإعادة الحجز"
+},
+{
+"id": 12383,
+"f": "views/wallet/finance.blade.php",
+"ar": "رفض الطلب وإلغاء الحجز"
+},
+{
+"id": 12384,
+"f": "views/wallet/finance.blade.php",
+"ar": "التوضيح المطلوب"
+},
+{
+"id": 12385,
+"f": "views/wallet/finance.blade.php",
+"ar": "إرسال طلب معلومات"
+},
+{
+"id": 12386,
+"f": "views/wallet/finance.blade.php",
+"ar": "بعد الاعتماد لا يمكن تحرير الحجز إلا بعد تسوية بنكية موثقة."
+},
+{
+"id": 12387,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا توجد طلبات سحب معلقة حالياً"
+},
+{
+"id": 12388,
+"f": "views/wallet/finance.blade.php",
+"ar": "ستظهر هنا طلبات السحب عند إنشائها"
+},
+{
+"id": 12389,
+"f": "views/wallet/finance.blade.php",
+"ar": "مستحقات جاهزة للتخصيص في المحفظة"
+},
+{
+"id": 12390,
+"f": "views/wallet/finance.blade.php",
+"ar": "قبل الاعتماد تحقق من تحصيل الدفع، انتهاء فترة النزاع، عدم وجود طلب سحب خارجي، وتوفر الأموال لدى مزود الدفع؛ ستستبعد المستحق من طابور الصرف القديم."
+},
+{
+"id": 12391,
+"f": "views/wallet/finance.blade.php",
+"ar": "هل تحققت من استحقاق المبلغ وعدم صرفه سابقًا؟"
+},
+{
+"id": 12392,
+"f": "views/wallet/finance.blade.php",
+"ar": "اعتماد وإضافة المستحق إلى المحفظة"
+},
+{
+"id": 12393,
+"f": "views/wallet/finance.blade.php",
+"ar": "لا توجد مستحقات جاهزة حالياً"
+},
+{
+"id": 12394,
+"f": "views/wallet/finance.blade.php",
+"ar": "ستظهر هنا القيود التي استوفت شروط التحرير المالي"
+},
+{
+"id": 12395,
+"f": "views/wallet/finance.blade.php",
+"ar": "تقارير الباقات والاستشارات والمشاريع"
+},
+{
+"id": 12396,
+"f": "views/wallet/finance.blade.php",
+"ar": "السياسة الرقابية لمنع الازدواج المالي والتدقيق المباشر"
+},
+{
+"id": 12397,
+"f": "views/wallet/finance.blade.php",
+"ar": "مستحقات المهندسين والمكتب لا تضاف تلقائياً إلى المحفظة؛ الاعتماد المالي اليدوي يجب أن يتم بعد إثبات اكتمال الطلب وغياب أي حجز أو استرداد، واستبعاد المستحق من طابور السحب القديم منعاً للدفع المزدوج."
+},
+{
+"id": 12398,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "إدارة أسعار الصرف وطلبات التحويل"
+},
+{
+"id": 12399,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "الإدارة المالية للمحفظة"
+},
+{
+"id": 12400,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "لا يوجد ربط تلقائي بمزود أسعار سوق. أدخل السعر المرجعي الذي تحققت منه وحدّد مدة صلاحيته. يجب تمويل مخزون الصرف المسجل للمنصة بأموال فعلية والتحقق من السعر قبل اعتماد أي طلب. لا يكفي تحديد مربع «السيولة مؤكدة»."
+},
+{
+"id": 12401,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "سعر مرجعي (1 وحدة مصدر"
+},
+{
+"id": 12402,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "وحدة هدف"
+},
+{
+"id": 12403,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "رسوم الصرف الفعلية (استخدم صفر لعدم فرض رسوم إضافية)"
+},
+{
+"id": 12404,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "صلاحية السعر بالدقائق"
+},
+{
+"id": 12405,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "حفظ السعر المرجعي"
+},
+{
+"id": 12406,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "مخزون الصرف المسجل للمنصة (ليس أرصدة العملاء)"
+},
+{
+"id": 12407,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "هذه الأرقام سجلات داخلية وليست إثباتًا لوجود أموال خارجية فعلية. لا تُكمِل صرفًا قبل مطابقة السيولة مع السجلات المالية."
+},
+{
+"id": 12408,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "لا يوجد مخزون صرف مسجّل."
+},
+{
+"id": 12409,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "الأسعار المضبوطة"
+},
+{
+"id": 12410,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "رسم"
+},
+{
+"id": 12411,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "أصغر وحدة"
+},
+{
+"id": 12412,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "ينتهي"
+},
+{
+"id": 12413,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "لا توجد أسعار."
+},
+{
+"id": 12414,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "فك الحجز"
+},
+{
+"id": 12415,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "إلغاء طلب الصرف وإرجاع العملة الأصلية إلى محفظة العميل؛ لن تُضاف العملة المستلمة. لا يتطلب سيولة بالدولار."
+},
+{
+"id": 12416,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "هل تؤكد إلغاء طلب الصرف وفك الحجز عن العملة الأصلية؟ لن يتم تحويلها إلى العملة المطلوبة."
+},
+{
+"id": 12417,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "سبب الإفراج المالي"
+},
+{
+"id": 12418,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "سبب فك الحجز، يجب أن يوضح قرار الإدارة"
+},
+{
+"id": 12419,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "فك الحجز وإرجاع الرصيد الأصلي"
+},
+{
+"id": 12420,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "إرسال OTP إلى بريد المسؤول"
+},
+{
+"id": 12421,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "اعتماد بعد التسوية"
+},
+{
+"id": 12422,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "رفض وإرجاع المصدر"
+},
+{
+"id": 12423,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "مرجع تسوية العملة الهدف الحقيقي"
+},
+{
+"id": 12424,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "تقرير مراجعة التسوية أو سبب الرفض"
+},
+{
+"id": 12425,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "أؤكد مطابقة السيولة الفعلية لمخزون الصرف المسجل وأن مرجع التمويل مستقل وموثّق."
+},
+{
+"id": 12426,
+"f": "views/wallet/fx/finance.blade.php",
+"ar": "تسجيل قرار المراجعة"
+},
+{
+"id": 12427,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "المحفظة"
+},
+{
+"id": 12428,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "تحويل الرصيد بين العملات"
+},
+{
+"id": 12429,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "الأسعار التالية أدخلها المدير المالي يدويًا، وليست بثًا مباشرًا لسعر عالمي. التحويل بين أرصدة المحفظة فوري عند توفر الرصيد وسيولة العملة المستلمة واعتماد سعر الصرف. لا تُنشأ طلبات حجز جديدة."
+},
+{
+"id": 12430,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "محجوز"
+},
+{
+"id": 12431,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "عرض سعر الصرف الصافي"
+},
+{
+"id": 12432,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "عملة الرصيد الأصلي"
+},
+{
+"id": 12433,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "العملة التي تريد استلامها"
+},
+{
+"id": 12434,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "المبلغ من رصيدك"
+},
+{
+"id": 12435,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "مراجعة السعر وتأكيد الطلب"
+},
+{
+"id": 12436,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "ستخصم:"
+},
+{
+"id": 12437,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "سعر الصرف المرجعي:"
+},
+{
+"id": 12438,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "القيمة قبل الرسوم:"
+},
+{
+"id": 12439,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "رسوم/هامش المنصة:"
+},
+{
+"id": 12440,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "سيضاف فور إتمام التحويل:"
+},
+{
+"id": 12441,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "انتهاء صلاحية إعداد السعر:"
+},
+{
+"id": 12442,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "عرض جديد قبل كل عملية."
+},
+{
+"id": 12443,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "تحويل الرصيد الآن"
+},
+{
+"id": 12444,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "التحويل الفوري معطّل مؤقتًا"
+},
+{
+"id": 12445,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "طلباتي السابقة"
+},
+{
+"id": 12446,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "إلغاء الطلب وإرجاع الرصيد المحجوز"
+},
+{
+"id": 12447,
+"f": "views/wallet/fx/index.blade.php",
+"ar": "لا توجد طلبات صرف."
+},
+{
+"id": 12448,
+"f": "views/wallet/index.blade.php",
+"ar": "تم السحب بنجاح"
+},
+{
+"id": 12449,
+"f": "views/wallet/index.blade.php",
+"ar": "محفظة الوليد الهندسية"
+},
+{
+"id": 12450,
+"f": "views/wallet/index.blade.php",
+"ar": "الأرصدة المالية منفصلة تمامًا عن Credits الذكاء الاصطناعي."
+},
+{
+"id": 12451,
+"f": "views/wallet/index.blade.php",
+"ar": "مراجعة المحفظة المالية"
+},
+{
+"id": 12452,
+"f": "views/wallet/index.blade.php",
+"ar": "المحفظة في وضع العرض. الإيداع والسحب والدفع غير مفعّلة حتى تكتمل متطلبات التشغيل والتسوية المالية."
+},
+{
+"id": 12453,
+"f": "views/wallet/index.blade.php",
+"ar": "فتح صفحة الدفع لدى مزود الدفع المختار"
+},
+{
+"id": 12454,
+"f": "views/wallet/index.blade.php",
+"ar": "لن يُضاف أي رصيد قبل اعتماد الإدارة"
+},
+{
+"id": 12455,
+"f": "views/wallet/index.blade.php",
+"ar": "رصيد شخصي متاح للسحب:"
+},
+{
+"id": 12456,
+"f": "views/wallet/index.blade.php",
+"ar": "مستحقات متاحة للسحب:"
+},
+{
+"id": 12457,
+"f": "views/wallet/index.blade.php",
+"ar": "رصيد محجوز:"
+},
+{
+"id": 12458,
+"f": "views/wallet/index.blade.php",
+"ar": "شحن المحفظة بخطوات واضحة"
+},
+{
+"id": 12459,
+"f": "views/wallet/index.blade.php",
+"ar": "الدفع وإرفاق اسم المرسل وإشعار التحويل"
+},
+{
+"id": 12460,
+"f": "views/wallet/index.blade.php",
+"ar": "انتظار تأكيد الإدارة."
+},
+{
+"id": 12461,
+"f": "views/wallet/index.blade.php",
+"ar": "لا يضاف الرصيد عند رفع الإيصال أو العودة من بوابة الدفع؛ يعتمد فقط بعد مطابقة التحصيل من المدير المالي أو مدير المنصة."
+},
+{
+"id": 12462,
+"f": "views/wallet/index.blade.php",
+"ar": "طلب سحب من محفظتي / مستحقاتي"
+},
+{
+"id": 12463,
+"f": "views/wallet/index.blade.php",
+"ar": "اختر مصدر الرصيد: رصيد محفظتي الشخصي لجميع المستخدمين، أو مستحقاتي المعتمدة للمهندس/المكتب. يُحجز المبلغ بعد OTP وKYC؛ الاعتماد لا يعني تنفيذ التحويل الخارجي."
+},
+{
+"id": 12464,
+"f": "views/wallet/index.blade.php",
+"ar": "أدخل بيانات حساب الاستلام الشخصي من الرابط التالي وأرسله للتوثيق؛ أما مستحقات المكتب فلها حساب منفصل."
+},
+{
+"id": 12465,
+"f": "views/wallet/index.blade.php",
+"ar": "إدارة حساب الاستلام الشخصي"
+},
+{
+"id": 12466,
+"f": "views/wallet/index.blade.php",
+"ar": "حساب استلام المكتب"
+},
+{
+"id": 12467,
+"f": "views/wallet/index.blade.php",
+"ar": "إرسال رمز سحب إلى بريدي"
+},
+{
+"id": 12468,
+"f": "views/wallet/index.blade.php",
+"ar": "رصيد محفظتي الشخصي"
+},
+{
+"id": 12469,
+"f": "views/wallet/index.blade.php",
+"ar": "مستحقاتي المعتمدة"
+},
+{
+"id": 12470,
+"f": "views/wallet/index.blade.php",
+"ar": "رمز التأكيد المكون من 6 أرقام"
+},
+{
+"id": 12471,
+"f": "views/wallet/index.blade.php",
+"ar": "إرسال طلب السحب"
+},
+{
+"id": 12472,
+"f": "views/wallet/index.blade.php",
+"ar": "الخدمات والباقات — من داخل محفظتي"
+},
+{
+"id": 12473,
+"f": "views/wallet/index.blade.php",
+"ar": "يمكنك إنشاء استشارة، استعراض أقساط المشاريع، ومشاهدة الباقات والعروض الموجودة. للدفع من المحفظة يجب أن يكون رصيدك المعتمد كافيًا بنفس العملة. تعرض صفحة التأكيد السعر الفعلي من الخادم."
+},
+{
+"id": 12474,
+"f": "views/wallet/index.blade.php",
+"ar": "تصفح الباقات والعروض"
+},
+{
+"id": 12475,
+"f": "views/wallet/index.blade.php",
+"ar": "الاستشارات التي لم تُدفع"
+},
+{
+"id": 12476,
+"f": "views/wallet/index.blade.php",
+"ar": "لا توجد استشارات غير مدفوعة. أنشئ استشارة أولًا."
+},
+{
+"id": 12477,
+"f": "views/wallet/index.blade.php",
+"ar": "دفعات المشاريع المستحقة"
+},
+{
+"id": 12478,
+"f": "views/wallet/index.blade.php",
+"ar": "قسط"
+},
+{
+"id": 12479,
+"f": "views/wallet/index.blade.php",
+"ar": "لا توجد دفعات مستحقة في الوقت الحالي."
+},
+{
+"id": 12480,
+"f": "views/wallet/index.blade.php",
+"ar": "باقات المكتب والمهندس تُشترى من المحفظة بعد استيفاء متطلبات وتوثيق الحساب، ويُفعّل الاشتراك في النظام الحالي بعد تأكيد الدفع."
+},
+{
+"id": 12481,
+"f": "views/wallet/index.blade.php",
+"ar": "طلبات الإيداع"
+},
+{
+"id": 12482,
+"f": "views/wallet/index.blade.php",
+"ar": "طلبات السحب"
+},
+{
+"id": 12483,
+"f": "views/wallet/index.blade.php",
+"ar": "فتح رابط دفع هذا الطلب"
+},
+{
+"id": 12484,
+"f": "views/wallet/index.blade.php",
+"ar": "رسالة المراجعة:"
+},
+{
+"id": 12485,
+"f": "views/wallet/index.blade.php",
+"ar": "اسم مرسل التحويل"
+},
+{
+"id": 12486,
+"f": "views/wallet/index.blade.php",
+"ar": "مرجع التحويل بعد الدفع"
+},
+{
+"id": 12487,
+"f": "views/wallet/index.blade.php",
+"ar": "ردّ على طلب المعلومات أو توضيح الدفع"
+},
+{
+"id": 12488,
+"f": "views/wallet/index.blade.php",
+"ar": "إرسال الإثبات للمراجعة"
+},
+{
+"id": 12489,
+"f": "views/wallet/index.blade.php",
+"ar": "يرجى تزويد الإدارة بالمعلومات المطلوبة."
+},
+{
+"id": 12490,
+"f": "views/wallet/index.blade.php",
+"ar": "أرسل توضيحك دون تعديل الحساب البنكي أو مبلغ الطلب"
+},
+{
+"id": 12491,
+"f": "views/wallet/index.blade.php",
+"ar": "إرسال التوضيح"
+},
+{
+"id": 12492,
+"f": "views/wallet/index.blade.php",
+"ar": "لا توجد عمليات مالية بعد."
+},
+{
+"id": 12493,
+"f": "views/wallet/index.blade.php",
+"ar": "صرف الرصيد بين العملات — عرض السعر والرسوم أولًا"
+},
+{
+"id": 12494,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "الرجوع إلى الصفحة السابقة"
+},
+{
+"id": 12495,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "تأكيد باقة"
+},
+{
+"id": 12496,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "رصيد المحفظة المتاح:"
+},
+{
+"id": 12497,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "يُحسب السعر والكوبون وسعر الصرف مرة ثانية بالخادم عند الشراء؛ إذا تغيرت البيانات يُلغى الدفع ويُطلب التأكيد مجددًا."
+},
+{
+"id": 12498,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "سيحوّل النظام رصيدك من العملة المتاحة إلى عملة الباقة عند تأكيد الشراء:"
+},
+{
+"id": 12499,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "سعر الصرف:"
+},
+{
+"id": 12500,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "رسوم التحويل:"
+},
+{
+"id": 12501,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "لا توجد رسوم إضافية"
+},
+{
+"id": 12502,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "خصم الباقة:"
+},
+{
+"id": 12503,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "اضغط التأكيد فقط إذا وافقت على هذه المبالغ."
+},
+{
+"id": 12504,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "رصيد عملة الباقة غير كافٍ؛ لا يوجد تحويل تلقائي متاح حاليًا بسعر مفعل ورصيد كافٍ. يمكنك شحن المحفظة أو استخدام طلب الصرف اليدوي."
+},
+{
+"id": 12505,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "هل تؤكد خصم المبالغ المعروضة وتحويل العملات تلقائيًا عند الحاجة ثم شراء الباقة؟"
+},
+{
+"id": 12506,
+"f": "views/wallet/package-confirm.blade.php",
+"ar": "تأكيد تحويل الرصيد والشراء من المحفظة"
+},
+{
+"id": 12507,
+"f": "views/wallet/packages.blade.php",
+"ar": "شهري"
+},
+{
+"id": 12508,
+"f": "views/wallet/packages.blade.php",
+"ar": "سنوي"
+},
+{
+"id": 12509,
+"f": "views/wallet/packages.blade.php",
+"ar": "باقات المنصة وعروضها"
+},
+{
+"id": 12510,
+"f": "views/wallet/packages.blade.php",
+"ar": "اختر الباقة، راجع سعرها النهائي بعد الكوبون، ثم ادفع من الرصيد المشحون المعتمد فقط. باقات المهندس والمكتب تتطلب إكمال التوثيق والمتطلبات الحالية أولًا."
+},
+{
+"id": 12511,
+"f": "views/wallet/packages.blade.php",
+"ar": "كود خصم إن توفر"
+},
+{
+"id": 12512,
+"f": "views/wallet/packages.blade.php",
+"ar": "تفاصيل الدفع من المحفظة"
+},
+{
+"id": 12513,
+"f": "views/wallet/packages.blade.php",
+"ar": "الخطة مجانية؛ تستخدم من صفحة AI الحالية"
+},
+{
+"id": 12514,
+"f": "views/wallet/packages.blade.php",
+"ar": "لا توجد باقات مفعلة حاليًا."
+},
+{
+"id": 12515,
+"f": "views/wallet/packages.blade.php",
+"ar": "عرض جميع عروض وتفاصيل الباقات بالتصميم الرئيسي للمنصة"
+},
+{
+"id": 12516,
+"f": "views/wallet/report-pdf.blade.php",
+"ar": "تقرير حركات محفظة الوليد الهندسية"
+},
+{
+"id": 12517,
+"f": "views/wallet/report-pdf.blade.php",
+"ar": "جميع العملات"
+},
+{
+"id": 12518,
+"f": "views/wallet/report-pdf.blade.php",
+"ar": "يقتصر PDF على أول 250 قيدًا. استخدم CSV لسجل الفترة الأطول."
+},
+{
+"id": 12519,
+"f": "views/wallet/report-pdf.blade.php",
+"ar": "رقم المستخدم"
+},
+{
+"id": 12520,
+"f": "views/wallet/report-pdf.blade.php",
+"ar": "الحركة"
+},
+{
+"id": 12521,
+"f": "views/welcome.blade.php",
+"ar": "خدماتنا"
+},
+{
+"id": 12522,
+"f": "views/welcome.blade.php",
+"ar": "أعمالنا"
+},
+{
+"id": 12523,
+"f": "views/welcome.blade.php",
+"ar": "تحميل التطبيق"
+},
+{
+"id": 12524,
+"f": "views/welcome.blade.php",
+"ar": "ابدأ مشروعك الآن"
+},
+{
+"id": 12525,
+"f": "views/welcome.blade.php",
+"ar": "منصة الاستشارات والخدمات الهندسية"
+},
+{
+"id": 12526,
+"f": "views/welcome.blade.php",
+"ar": "كيف نعمل"
+},
+{
+"id": 12527,
+"f": "views/welcome.blade.php",
+"ar": "سياسة الاستخدام"
+},
+{
+"id": 12528,
+"f": "views/welcome.blade.php",
+"ar": "ابدأ مشروعك"
+},
+{
+"id": 12529,
+"f": "views/welcome.blade.php",
+"ar": "تطبيق الوليد الهندسية"
+},
+{
+"id": 12530,
+"f": "views/welcome.blade.php",
+"ar": "اطلب هذا المهندس"
+},
+{
+"id": 12531,
+"f": "views/welcome.blade.php",
+"ar": "عمل"
+},
+{
+"id": 12532,
+"f": "views/welcome.blade.php",
+"ar": "أرسل رأيك الآن"
+},
+{
+"id": 12533,
+"f": "views/welcome.blade.php",
+"ar": "للاستشارات الهندسية"
+},
+{
+"id": 12534,
+"f": "views/welcome.blade.php",
+"ar": "منصة الوليد الهندسية منصة هندسية متكاملة للاستشارات الهندسية والتصميم المعماري والإنشائي والكهربائي والميكانيكي والتصميم الداخلي وتصميم الواجهات واللاند سكيب ومتابعة المشاريع."
+},
+{
+"id": 12535,
+"f": "views/welcome.blade.php",
+"ar": "منصة الوليد الهندسية, منصة الوليد الهندسية, استشارات هندسية, تصميم معماري, تصميم إنشائي, تصميم داخلي, تصميم واجهات, لاند سكيب, مهندسين, خدمات هندسية"
+},
+{
+"id": 12536,
+"f": "views/welcome.blade.php",
+"ar": "منصة هندسية متكاملة تجمع العملاء والمهندسين وتوفر الاستشارات والتصميم ومتابعة المشاريع."
+},
+{
+"id": 12537,
+"f": "views/welcome.blade.php",
+"ar": "منصة الوليد الهندسية منصة متكاملة للاستشارات والخدمات والمشاريع الهندسية."
+},
+{
+"id": 12538,
+"f": "views/welcome.blade.php",
+"ar": "منصة متكاملة للاستشارات والخدمات والمشاريع الهندسية."
+},
+{
+"id": 12539,
+"f": "views/welcome.blade.php",
+"ar": "قائمة التنقل"
+},
+{
+"id": 12540,
+"f": "views/welcome.blade.php",
+"ar": "تحميل تطبيق"
+},
+{
+"id": 12541,
+"f": "views/welcome.blade.php",
+"ar": "رحلة المشروع من المخطط حتى الحديقة"
+},
+{
+"id": 12542,
+"f": "views/welcome.blade.php",
+"ar": "مبنى يُبنى من المخطط حتى الاكتمال، ثم جولة داخل تصميمه الداخلي وخروج إلى الحديقة الخلفية"
+},
+{
+"id": 12543,
+"f": "views/welcome.blade.php",
+"ar": "تخطي المشهد والانتقال إلى محتوى الصفحة"
+},
+{
+"id": 12544,
+"f": "views/welcome.blade.php",
+"ar": "نرافق مبناك من المخطط إلى الحديقة"
+},
+{
+"id": 12545,
+"f": "views/welcome.blade.php",
+"ar": "منصة الوليد الهندسية تربطك بمهندسين متخصصين لكل مرحلة من مشروعك: التخطيط، الإنشاء، التصميم الداخلي، وتنسيق الحدائق."
+},
+{
+"id": 12546,
+"f": "views/welcome.blade.php",
+"ar": "مرّر لتتابع بناء المبنى"
+},
+{
+"id": 12547,
+"f": "views/welcome.blade.php",
+"ar": "جارٍ تجهيز المشهد…"
+},
+{
+"id": 12548,
+"f": "views/welcome.blade.php",
+"ar": "التخطيط"
+},
+{
+"id": 12549,
+"f": "views/welcome.blade.php",
+"ar": "مخطط الموقع، محاور الأعمدة، وتوزيع الفراغات قبل أول ضربة حفر."
+},
+{
+"id": 12550,
+"f": "views/welcome.blade.php",
+"ar": "ابدأ مشروعك من المخطط الأول"
+}
+]
