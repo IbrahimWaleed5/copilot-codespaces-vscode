@@ -1,0 +1,91 @@
+أنت مطوّر Flutter و Laravel خبير. عندي منصة اسمها "منصة الوليد الهندسية": موقع Laravel وتطبيق Flutter.
+التطبيق ناقصه شاشات موجودة بالموقع، وبدي تبنيها كشاشات Flutter أصلية (مش WebView)، بنفس محتوى ووظائف صفحة الموقع المقابلة.
+
+الملفات اللي رح أرفقها لك:
+- lib.zip: كود تطبيق Flutter كامل (191 ملف).
+- resources.zip: واجهات الموقع (resources/views/*.blade.php)، وهي المرجع للشكل والمحتوى.
+- app.zip و routes.zip: كود السيرفر (Controllers و Models و routes/api.php و routes/web.php).
+
+====================================================================
+قواعد إلزامية (اقرأها كاملة قبل ما تكتب أي كود)
+====================================================================
+1. قبل كل شاشة، افتح صفحة Blade المقابلة واقرأها كاملة، وافتح الـ Controller اللي بيعرضها من routes/web.php.
+   الشاشة لازم تعرض نفس الحقول والأزرار والفلاتر والحالات (فاضي، تحميل، خطأ) والصلاحيات.
+2. استعمل أسلوب التطبيق الموجود، ولا تخترع أسلوب جديد:
+   - كل طلبات الشبكة من خلال الكلاس ApiService في lib/services/api_service.dart
+     (دوال static، ترجع Future، والهيدرز من ApiService._headers(auth: true) اللي بتحط Bearer token و X-Office-Id).
+     أضف الدوال الجديدة جوّا نفس الكلاس، وبنفس طريقة الدوال الموجودة (نفس معالجة الأخطاء ونفس شكل الإرجاع).
+   - إدارة الحالة: provider (AuthProvider في lib/providers/auth_provider.dart لمعرفة المستخدم ودوره role).
+   - رفع الملفات: AppFilePicker في lib/utils/app_file_picker.dart فقط (file_picker 12). ممنوع FilePicker.platform.
+   - الألوان والثيم: lib/theme/app_theme.dart، والوضع الليلي لازم يشتغل.
+   - اللغة: التطبيق عربي افتراضيًا (RTL) وفيه إنجليزي. أي نص بيظهر للمستخدم بتكتبه عربي وبتحط عليه .tr()
+     مثل: Text('المستخدمين'.tr()) (من lib/i18n/i18n.dart). ولما تستعمل .tr() احذف const من الويدجت اللي فوقه.
+     ممنوع تحط .tr() على قيم بتنقارن أو بتنبعت للسيرفر (مثل status == 'approved').
+3. أضف كل شاشة جديدة للقائمة الجانبية lib/widgets/app_account_drawer.dart باستعمال _DrawerTile أو _SupportMenuTile
+   (حسب القسم)، وبنفس شروط الصلاحيات (role / permissions) اللي بالموقع. ولا تمسح أي عنصر موجود.
+4. إذا الـ API مش موجود بالسيرفر، اكتبه:
+   - Route في routes/api.php داخل مجموعة auth:sanctum الموجودة، وبنفس البادئة وأسلوب التسمية.
+   - Method في Controller (استعمل الـ Controller الموجود لنفس الميزة إذا في، أو أعمل Api Controller جديد).
+   - أعد استعمال نفس منطق الـ Controller الخاص بالويب (نفس الـ Models والـ Policies والـ Validation والصلاحيات)،
+     ورجّع JSON بنفس أسلوب باقي الـ API (مثلًا {"data": ...} أو {"message": ...} حسب الموجود).
+   - لا تغيّر سلوك صفحات الويب الموجودة أبدًا.
+5. سلّم كل ملف كاملًا (مش مقتطفات)، مع مساره الحقيقي بالمشروع، وحدد إذا الملف جديد أو معدّل.
+   تأكد من الأقواس والـ imports، والكود لازم يمر flutter analyze بدون أخطاء.
+6. اشتغل على دفعات: كل دفعة 3 إلى 5 شاشات، وبعد كل دفعة وقف واستنى ردّي "كمل".
+   بآخر كل دفعة اكتب: الملفات الجديدة، الملفات المعدّلة، الـ Routes الجديدة، وأي أمر لازم أشغّله (مثل php artisan optimize:clear).
+7. مستثنى تمامًا: أي إشي له علاقة بالكريبتو أو العملات الرقمية أو خزينة الكريبتو أو السحب الرقمي. لا تبنيه ولا تعدّله.
+
+====================================================================
+الشاشات الناقصة (الترتيب هو ترتيب الشغل)
+====================================================================
+
+المجموعة أ: الـ API موجود مسبقًا بـ ApiService أو بالسيرفر، ناقص الشاشة فقط (ابدأ فيهم)
+ 1. إعدادات التوثيق للإدارة: views/verification/admin/settings.blade.php
+ 2. اشتراكات المكاتب للإدارة (القائمة، الإيصال، المراجعة): views/admin/office-subscriptions/index.blade.php
+    (دوال موجودة: /admin/office-subscriptions و .../{id}/receipt و .../{id}/review)
+ 3. مالية المكاتب للإدارة: views/admin/office-finance/index.blade.php
+ 4. لوحة الدعم للإدارة: views/admin/support/index.blade.php
+ 5. قاعدة المعرفة للدعم، قائمة ونموذج إضافة وتعديل:
+    views/admin/support/knowledge/index.blade.php و form.blade.php و views/employee/support-workspace/knowledge.blade.php
+ 6. إسناد استشارة لمكتب: views/admin/consultation-office/assign.blade.php
+ 7. مراجعة أعمال المهندسين (موافقة، رفض، حذف): views/engineer-works/admin-index.blade.php
+ 8. طلبات انضمام المهندسين للإدارة: views/engineer-applications/index.blade.php
+ 9. إنشاء اجتماع مشروع: views/projects/meetings/create.blade.php
+10. مستحقات المكاتب من المشاريع: views/financial/project-office-earnings.blade.php
+11. عمولات المنصة (عرض مالي): views/finance/platform-commissions/index.blade.php
+12. CRM: عرض عميل محتمل، إضافة، تعديل: views/crm/leads/show.blade.php و create.blade.php و edit.blade.php
+13. استشارات المكتب: views/office/consultations.blade.php
+14. اشتراك المكتب (الباقة الحالية والترقية): views/office/subscription.blade.php
+15. طلبات الانضمام لمكتب (4 شاشات):
+    views/office-membership-applications/create.blade.php و index.blade.php و show.blade.php و mine.blade.php
+
+المجموعة ب: ناقصة كليًا، بدها شاشة و API جديد
+16. إدارة المستخدمين (قائمة مع بحث وفلترة، إضافة، تعديل): views/users/index.blade.php و create.blade.php و edit.blade.php
+17. مناوبات الدعم: views/admin/support/shifts.blade.php و views/employee/support-workspace/shifts.blade.php
+18. أداء الدعم: views/admin/support/performance.blade.php و views/employee/support-workspace/performance.blade.php
+19. إدارة السوق للإدارة: views/admin/marketplace/index.blade.php
+20. المشاريع المسندة إلي: views/projects/assigned-to-me.blade.php
+21. قائمة العقود: views/contracts/index.blade.php
+22. إنشاء وتعديل عقد مشروع: views/projects/contracts/create.blade.php و edit.blade.php
+23. تصنيفات المصروفات: views/finance/expenses/categories/index.blade.php
+24. ميزانية المشروع (إذا مش موجودة كاملة جوا project_finance): views/finance/expenses/budgets/show.blade.php
+25. مشاريع المكتب: views/office/projects/index.blade.php
+26. تأكيد شراء باقة: views/wallet/package-confirm.blade.php
+27. تأكيد الدفع: views/wallet/confirm-payment.blade.php
+28. الإيصالات التجارية (عرض وتنزيل PDF): views/wallet/commercial-receipts.blade.php
+29. "هذا مش أنا" (تأكيد ثم نجاح): views/security-not-me-confirm.blade.php و views/security-not-me-confirmed.blade.php
+    (لازم تفتح من رابط الإيميل كـ deep link، واستعمل app_links الموجود بـ login_screen.dart كمثال)
+30. الحساب المجمّد أمنيًا: views/support/security-frozen.blade.php
+31. الاسترداد العام للحساب: views/support/recovery/public.blade.php
+32. تأكيد كلمة المرور قبل العمليات الحساسة: views/auth/confirm-password.blade.php
+33. سياسة الخصوصية والشروط والأحكام كشاشات داخل التطبيق:
+    views/privacy-policy.blade.php و views/terms-and-conditions.blade.php
+    (وعدّل روابطها بـ login_screen.dart و register_screen.dart و app_account_drawer.dart عشان تفتح الشاشات بدل المتصفح)
+
+====================================================================
+ابدأ هلأ
+====================================================================
+أول إشي، قبل أي كود: اقرأ الملفات المرفقة، وأعطيني جدول قصير فيه كل شاشة من اللي فوق، وجنبها:
+- الـ Controller والـ Route تبعها بالويب،
+- هل الـ API موجود (اسم الدالة بـ ApiService أو المسار بـ routes/api.php) ولا لازم ينكتب.
+بعدها استنى ردّي "كمل"، وابدأ بالدفعة الأولى (الشاشات 1 إلى 4).
