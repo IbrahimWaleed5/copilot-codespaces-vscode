@@ -1,0 +1,22 @@
+--- /tmp/claude-0/-home-user-copilot-codespaces-vscode/06a90507-1e69-54a7-9e05-a22f304de25a/scratchpad/logoorig/navigation.blade.php	2026-09-26 15:43:35.000000000 +0000
++++ /tmp/claude-0/-home-user-copilot-codespaces-vscode/06a90507-1e69-54a7-9e05-a22f304de25a/scratchpad/logozip/resources/views/layouts/navigation.blade.php	2026-09-29 14:11:22.381571354 +0000
+@@ -130,7 +130,8 @@
+                             <img
+                                 src="{{ asset('images/Mainlogo.png') }}"
+                                 alt="شعار منصة الوليد الهندسية"
+-                                class="h-full w-full object-contain p-1.5 transition duration-300 group-hover:scale-105"
++                                class="h-full w-full object-contain transition duration-300 group-hover:scale-105"
++                                style="width:135%;height:135%;max-width:none;flex-shrink:0"
+                             >
+                         </div>
+                     </div>
+@@ -395,7 +396,8 @@
+                         <img
+                             src="{{ asset('images/Mainlogo.png') }}"
+                             alt="شعار منصة الوليد الهندسية"
+-                            class="h-full w-full object-contain p-1.5"
++                            class="h-full w-full object-contain"
++                            style="width:135%;height:135%;max-width:none;flex-shrink:0"
+                         >
+                     </div>
+ 
