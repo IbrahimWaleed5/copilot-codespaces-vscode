@@ -99,7 +99,8 @@ final class JsLiterals
             || (preg_match('/[{,]$/', $before) && preg_match('/^:(?!:)/', $after)) // { 'key': ... }
             || (str_ends_with($before, '[') && str_starts_with($after, ']'))      // obj['key']
             || preg_match('/(?:\.(?:includes|indexOf|lastIndexOf|startsWith|endsWith|split|has|get|getItem|setItem|removeItem|querySelector|querySelectorAll|getAttribute|hasAttribute|removeAttribute|closest|matches|localeCompare|replace|replaceAll|search|match|toggle|contains|add|remove)|\b(?:getElementById|getElementsByName|getElementsByClassName|RegExp))\s*\(\s*$/', $before)
-            || preg_match('/\.(?:append|set|setAttribute)\s*\(\s*([\'"])[^\'"]*\1\s*,\s*$/', $before)
+            || preg_match('/\.(?:append|set)\s*\(\s*([\'"])[^\'"]*\1\s*,\s*$/', $before)
+            || (preg_match('/\.setAttribute\s*\(\s*([\'"])([^\'"]*)\1\s*,\s*$/', $before, $sa) && !in_array(strtolower($sa[2]), ['title', 'aria-label', 'placeholder', 'alt', 'data-label'], true))
             || preg_match('/(?:^|[^\w$.])(?:status|state|type|value|action|role|kind|mode|filter|tab|key|name|id|code|category|method|currency|country|field|column|section|step|view|page)\s*(?:[:=]|===?|!==?)\s*$/i', $before)
             || preg_match('/\.(?:value|dataset\.\w+|name|id)\s*=\s*$/', $before)
             || preg_match('/^(?:\s*,\s*(?:\'[^\']*\'|"[^"]*"))*\s*\]\s*\.\s*(?:includes|indexOf|some|find)\s*\(/', $after)

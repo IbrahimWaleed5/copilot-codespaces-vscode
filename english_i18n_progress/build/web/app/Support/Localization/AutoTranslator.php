@@ -15,7 +15,7 @@ namespace App\Support\Localization;
  */
 final class AutoTranslator
 {
-    private const TEXT_ATTRS = ['placeholder', 'title', 'alt', 'aria-label', 'label', 'content', 'aria-placeholder', 'aria-description', 'aria-roledescription', 'aria-valuetext', 'wire:confirm'];
+    private const TEXT_ATTRS = ['placeholder', 'title', 'alt', 'aria-label', 'label', 'content', 'aria-placeholder', 'aria-description', 'aria-roledescription', 'aria-valuetext', 'wire:confirm', 'data-label', 'data-support-prompt'];
     private const DATA_ATTRS = ['value', 'name', 'id', 'for', 'href', 'src', 'action'];
     private const RAW_TEXT_TAGS = ['script', 'style', 'textarea'];
     private const VOID_TAGS = ['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr'];
@@ -186,7 +186,8 @@ final class AutoTranslator
             if ($quote === '`') {
                 $new = '';
                 foreach (JsLiterals::templateParts($body) as [$isExpr, $part]) {
-                    $new .= $isExpr ? $part : $this->translateText($part);
+                    // ${...} may hold nested template literals with display text
+                    $new .= $isExpr ? '${' . $this->translateJs(substr($part, 2, -1)) . '}' : $this->translateText($part);
                 }
             } else {
                 $new = $this->translateText($body);
@@ -343,7 +344,7 @@ final class AutoTranslator
     private function collectProtected(string $html): array
     {
         $values = [];
-        if (preg_match_all('/\s(?:value|name|id|for|data-[\w-]+|x-model[\w.-]*|wire:model[\w.-]*)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')/i', $html, $mm, PREG_SET_ORDER)) {
+        if (preg_match_all('/\s(?:value|name|id|for|data-(?!label\b|support-prompt\b)[\w-]+|x-model[\w.-]*|wire:model[\w.-]*)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')/i', $html, $mm, PREG_SET_ORDER)) {
             foreach ($mm as $m) {
                 $v = $m[1] !== '' ? $m[1] : ($m[2] ?? '');
                 if ($v !== '' && self::hasArabic($v)) {

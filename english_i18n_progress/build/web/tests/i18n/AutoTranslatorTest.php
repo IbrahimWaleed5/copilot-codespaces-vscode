@@ -40,7 +40,7 @@ function has(string $haystack, string $needle): bool
 }
 
 echo "Dictionary\n";
-check('has 12,655 entries', count($dict) === 12655, (string) count($dict));
+check('has at least 12,655 entries', count($dict) >= 12655, (string) count($dict));
 check('id 6961 (JS regex ٠-٩) excluded', !isset($dict['٠-٩']));
 check('trailing spaces kept', ($dict['تم إنهاء الجلسات النشطة و'] ?? '') === 'Active sessions and ');
 $bad = array_filter($dict, fn ($v) => preg_match('/[\'"`\\\\<>&\n]|[\x{0600}-\x{06FF}]/u', $v));

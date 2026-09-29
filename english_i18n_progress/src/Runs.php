@@ -40,15 +40,17 @@ final class Runs
     /** Split a raw match into [core, trailing] so that trailing spaces / dangling openers stay outside the key. */
     public static function trim(string $run): array
     {
-        $core = rtrim($run, " \t\r\n\u{00A0}\u{202F}");
+        // multibyte-safe (rtrim() works on bytes and would cut letters such as "د")
+        $rtrim = static fn (string $s): string => preg_replace('/[ \t\r\n\x{00A0}\x{202F}]+$/u', '', $s) ?? $s;
+        $core = $rtrim($run);
         // drop dangling openers / separators at the end
         while ($core !== '' && preg_match('/[(\x{00AB}\-\x{2013}\x{2014}\/]$/u', $core)) {
-            $core = rtrim(mb_substr($core, 0, -1), " \t\r\n\u{00A0}\u{202F}");
+            $core = $rtrim(mb_substr($core, 0, -1));
         }
         // unbalanced closing bracket / quote at the end belongs to the surrounding text
         foreach ([[')', '('], ["\u{00BB}", "\u{00AB}"]] as [$close, $open]) {
             while ($core !== '' && mb_substr($core, -1) === $close && substr_count($core, $close) > substr_count($core, $open)) {
-                $core = rtrim(mb_substr($core, 0, -1), " \t\r\n\u{00A0}\u{202F}");
+                $core = $rtrim(mb_substr($core, 0, -1));
             }
         }
         return [$core, substr($run, strlen($core))];
