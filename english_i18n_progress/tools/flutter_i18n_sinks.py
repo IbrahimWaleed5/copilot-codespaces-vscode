@@ -23,8 +23,13 @@ from flutter_i18n import tokenize, call_name_and_const, const_before, add_import
 
 ARABIC = re.compile(r'[ء-يٱ-ۓ]')
 TEXT_WIDGETS = {'Text', 'SelectableText'}
-NAMED_SINKS = {'labelText', 'hintText', 'helperText', 'errorText', 'counterText', 'prefixText', 'suffixText', 'tooltip'}
-FRAME_NAMED_SINKS = {('Tooltip', 'message'), ('TextSpan', 'text'), ('Tab', 'text')}
+NAMED_SINKS = {'labelText', 'hintText', 'helperText', 'errorText', 'counterText', 'prefixText', 'suffixText', 'tooltip',
+               'helpText', 'cancelText', 'confirmText', 'fieldLabelText', 'fieldHintText', 'errorFormatText',
+               'errorInvalidText', 'searchFieldLabel', 'barrierLabel'}
+FRAME_NAMED_SINKS = {('Tooltip', 'message'), ('TextSpan', 'text'), ('Tab', 'text'), ('BottomNavigationBarItem', 'label'),
+                     ('NavigationDestination', 'label'), ('SnackBarAction', 'label'), ('MaterialApp', 'title'),
+                     ('Semantics', 'label'), ('SearchBar', 'hintText')}
+NON_NULL_SINKS = {('NavigationDestination', 'label'), ('SnackBarAction', 'label'), ('MaterialApp', 'title')}
 SKIP_EXPR = re.compile(r'(?i)(email|phone|mobile|\burl\b|link|token|iban|password|\botp\b|controller|\. text\b|\bcode\b)')
 ALREADY = re.compile(r'(\.tr\(\)\s*$|^\s*trUiN?\(|translateUi|\.translate\(|AppLanguage)')
 SIMPLE = re.compile(r"^[A-Za-z_$][\w$]*(?:(?:\.|\?\.)[A-Za-z_$][\w$]*|\[[^\[\]]*\]|!)*$")
@@ -84,7 +89,8 @@ def wrap_file(src):
             repl = expr + '.tr()'
         else:
             maybe_null = any(tk.text in ('null', '?.', '??') for tk in toks[s:e + 1]) or not has_arabic_literal
-            repl = ('trUi(' if kind == 'text' or not maybe_null else 'trUiN(') + expr + ')'
+            non_null = kind == 'text' or (name, label) in NON_NULL_SINKS or not maybe_null
+            repl = ('trUi(' if non_null else 'trUiN(') + expr + ')'
         edits.append((start, end, repl))
         for f in stack:
             if f['const'] is not None:
