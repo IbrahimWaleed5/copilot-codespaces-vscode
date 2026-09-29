@@ -170,14 +170,14 @@ class SupportToolsApiController extends Controller
                 'configured' => filled(config('support_v25.inbound_secret')),
                 'webhook_url' => url('/api/webhooks/support/inbound-email'),
                 'header' => 'X-Support-Webhook-Secret',
-                'last_30_days' => $stats->get('email', collect()),
+                'last_30_days' => (object) $stats->get('email', collect())->all(),
             ],
             'whatsapp' => [
                 'sending_enabled' => $whatsapp->enabled(),
                 'webhook_configured' => filled(config('support_v25.whatsapp.app_secret')) && filled(config('support_v25.whatsapp.verify_token')),
                 'webhook_url' => url('/api/webhooks/whatsapp'),
                 'graph_version' => (string) config('support_v25.whatsapp.graph_version', 'v23.0'),
-                'last_30_days' => $stats->get('whatsapp', collect()),
+                'last_30_days' => (object) $stats->get('whatsapp', collect())->all(),
             ],
             'recent' => $recent,
         ]);
@@ -252,7 +252,7 @@ class SupportToolsApiController extends Controller
                 'max_mb' => max(1, (int) config('support_v25.attachment_max_mb', 10)),
                 'allowed' => ['pdf', 'jpg', 'jpeg', 'png', 'webp', 'doc', 'docx', 'zip', 'txt', 'csv'],
             ],
-            'stats' => $stats,
+            'stats' => (object) $stats->all(),
             'items' => $items,
         ]);
     }
