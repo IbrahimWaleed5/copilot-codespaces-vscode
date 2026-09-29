@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar" style="">
+<head>
+<meta charset="utf-8">
+<script>
+/* App language: the Flutter WebView adds "AlWaleedLang/en" to the user agent (or "#lang=en" in the URL). */
+(function(){var m=/[?&#]lang=(en|ar)\b/.exec(location.search+location.hash)||/AlWaleedLang\/(en|ar)\b/.exec(navigator.userAgent||'');
+if(m&&m[1]==='en'){var h=document.documentElement;h.setAttribute('lang','en');h.setAttribute('dir','ltr');}})();
+</script>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<title>مساعد الوليد الهندسية</title>
+<!-- Fonts: Cairo & Plus Jakarta Sans -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<!-- Tailwind CSS v3 -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            cairo: ['Cairo', 'sans-serif'],
+            jakarta: ['Plus Jakarta Sans', 'sans-serif']
+          },
+          colors: {
+            brand: {
+              cyan: '#38bdf8',
+              blue: '#2563eb',
+              sky: '#0284c7',
+              navy: '#060c18',
+              darkcard: 'rgba(15, 23, 42, 0.65)'
+            }
+          }
+        }
+      }
+    }
+  </script>
+<!-- BEGIN: Custom Styles -->
+<style data-purpose="base-styling">
+    * {
+      -webkit-tap-highlight-color: transparent;
+      user-select: none;
+    }
+    body {
+      font-family: 'Cairo', sans-serif;
+      background-color: #030712;
+      color: #f8fafc;
+      overflow-x: hidden;
+    }
+  </style>
+<style data-purpose="visual-effects">
+    /* Subtle neon glows & glassmorphism */
+    .glass-pill {
+      background: rgba(255, 255, 255, 0.07);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+    .glass-card {
+      background: linear-gradient(180deg, rgba(13, 27, 42, 0.7) 0%, rgba(8, 15, 26, 0.85) 100%);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    }
+    .cta-glow {
+      box-shadow: 0 0 35px -5px rgba(56, 189, 248, 0.6), 0 0 15px -3px rgba(37, 99, 235, 0.4);
+    }
+    .text-glow {
+      text-shadow: 0 0 25px rgba(56, 189, 248, 0.65);
+    }
+  </style>
+<!-- END: Custom Styles -->
+
+<!-- Local assets and light appearance: dark appearance above remains unchanged. -->
+<style id="aw-ai-entry-light-theme">
+  html.aw-light body { background:#f5f8fe !important; color:#0f172a; }
+  html.aw-light main { background:#f8fbff !important; border-color:#dbe6f4 !important; box-shadow:0 14px 45px rgba(15,40,85,.07) !important; }
+  html.aw-light header .aw-brand-title { color:#0f172a !important; }
+  html.aw-light header .aw-brand-subtitle { color:#475569 !important; }
+  html.aw-light .glass-pill { background:#ffffffed !important; color:#1e3a5f !important; border-color:#cbdbee !important; box-shadow:0 2px 8px rgba(20,60,100,.06); }
+  html.aw-light .aw-skip-label, html.aw-light .aw-skip-icon { color:#1e3a5f !important; }
+  html.aw-light .aw-logo-wrap { background:linear-gradient(45deg,#e0f3ff,#ffffff,#dbeafe) !important; border-color:#93c5fd !important; box-shadow:none !important; }
+  html.aw-light .aw-logo-icon { color:#0369a1 !important; }
+  html.aw-light .aw-hero { background:#e7f4ff; }
+  html.aw-light .aw-hero-image { border-color:#93c5fd !important; box-shadow:0 12px 32px rgba(15,48,83,.2) !important; }
+  html.aw-light .aw-hero-gradient { background:linear-gradient(to top,#f8fbff 0%,rgba(248,251,255,.1) 49%,rgba(248,251,255,0) 100%) !important; }
+  html.aw-light .aw-hero-bottom { background:linear-gradient(to top,#f8fbff 0%,rgba(248,251,255,.9) 18%,rgba(248,251,255,0) 100%) !important; }
+  html.aw-light .aw-heading { color:#0f172a !important; text-shadow:none !important; }
+  html.aw-light .aw-heading .aw-heading-accent { background-image:linear-gradient(90deg,#0284c7,#2563eb) !important; text-shadow:none !important; }
+  html.aw-light .aw-subtitle { color:#334155 !important; }
+  html.aw-light .glass-card { background:linear-gradient(180deg,#ffffff,#f1f7ff) !important; border-color:#c8deef !important; box-shadow:0 6px 20px rgba(32,68,108,.07) !important; }
+  html.aw-light .glass-card .aw-feature-title { color:#203855 !important; }
+  html.aw-light .glass-card .aw-feature-icon { color:#0284c7 !important; }
+  html.aw-light .aw-pager .aw-inactive-dot { background:#a4bad2 !important; }
+  html.aw-light .aw-main-cta { box-shadow:0 10px 28px rgba(37,99,235,.22) !important; }
+  html.aw-light .aw-main-cta .aw-cta-title { color:#ffffff !important; }
+  html.aw-light .aw-more-text { color:#475569 !important; }
+  html.aw-light .aw-more-icon { color:#64748b !important; }
+  html.aw-light .aw-watermark { color:#64748b !important; }
+  html.aw-light .aw-home-indicator { background:#a3b5cc !important; }
+</style>
+<style>
+/* English (LTR): Latin font, arrows point forward, text aligned to the start. */
+html[lang^="en"] body{font-family:'Plus Jakarta Sans','Inter','Segoe UI',Roboto,Arial,sans-serif}
+html[lang^="en"] .text-right{text-align:left}
+html[lang^="en"] .rotate-180{--tw-rotate:0deg;transform:none}
+html[lang^="en"] .aw-main-cta .left-2\.5{left:auto;right:.625rem}
+html[lang^="en"] .aw-heading{letter-spacing:-.02em;line-height:1.15}
+html[lang^="en"] .aw-subtitle{max-width:320px;line-height:1.6}
+html[lang^="en"] .aw-feature-title{line-height:1.25}
+</style>
+</head>
+<body class="bg-black text-slate-100 min-h-screen flex justify-center items-center p-0 md:p-4 selection:bg-cyan-500 selection:text-white">
+<!-- BEGIN: Mobile Device Frame Simulator -->
+<main class="relative w-full max-w-[414px] h-[100dvh] md:h-[896px] bg-[#050b14] md:rounded-[48px] overflow-hidden flex flex-col justify-between shadow-2xl border border-slate-800/80">
+<!-- Top Decorative Glow -->
+<div class="absolute -top-24 -right-24 w-80 h-80 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none z-0"></div>
+<!-- BEGIN: Top Area (iOS Status Bar + Header) -->
+<header class="relative z-30 pt-3 px-5 flex flex-col gap-2">
+<!-- Status Bar Details (iOS style) -->
+<div class="w-full flex justify-between items-center text-xs font-semibold text-white/90 px-2 tracking-wider">
+
+
+</div>
+<!-- Main Navigation Bar -->
+<div class="flex items-center justify-between mt-2">
+<!-- Brand identity (Right in RTL) -->
+<div class="flex items-center gap-2.5">
+<!-- Architectural Logo Icon -->
+<div class="aw-logo-wrap relative w-10 h-10 rounded-xl bg-gradient-to-tr from-cyan-950/80 via-slate-900 to-cyan-800/40 p-[1px] border border-cyan-500/40 shadow-lg shadow-cyan-950/50 flex items-center justify-center">
+<svg class="aw-logo-icon w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+<path d="M3 21h18M5 21V7l7-4 7 4v14M9 9h1m4 0h1M9 13h1m4 0h1M9 17h1m4 0h1" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<!-- Brand Typography -->
+<div class="flex flex-col text-right">
+<span class="aw-brand-title text-sm font-bold tracking-tight text-white leading-tight">مساعد الوليد الهندسية</span>
+<span class="aw-brand-subtitle text-[11px] font-medium text-slate-400">معك في كل خطوة</span>
+</div>
+</div>
+<!-- Skip button (Left in RTL) -->
+<a href="app://back" class="glass-pill px-3 py-1.5 rounded-full flex items-center gap-1.5 text-xs text-slate-200 hover:text-white transition active:scale-95 border border-slate-700/50" aria-label="تخطي">
+<span class="aw-skip-label">تخطي</span>
+<svg class="aw-skip-icon w-3.5 h-3.5 text-slate-400 transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"></path>
+</svg>
+</a>
+</div>
+</header>
+<!-- END: Top Area -->
+<!-- BEGIN: Hero Visual Section (3D Blueprint & Architecture) -->
+<div class="aw-hero relative flex-1 w-full min-h-[340px] max-h-[460px] my-auto overflow-hidden"><div class="absolute inset-0 flex items-center justify-center p-3"><img src="hero.jpg" alt="مشهد معماري ثلاثي الأبعاد من المخطط إلى المبنى" class="aw-hero-image w-full h-full object-cover object-center rounded-2xl border border-cyan-500/20 shadow-lg shadow-cyan-950/50"></div>
+<!-- Background Architecture Visual Image from prompt -->
+
+<!-- Atmospheric gradient overlay for seamless blending -->
+<div class="aw-hero-gradient absolute inset-0 bg-gradient-to-t from-[#050b14] via-transparent to-[#050b14]/50 pointer-events-none"></div>
+<div class="aw-hero-bottom absolute inset-x-0 bottom-0 h-36 bg-gradient-to-t from-[#050b14] via-[#050b14]/90 to-transparent pointer-events-none"></div>
+</div>
+<!-- END: Hero Visual Section -->
+<!-- BEGIN: Content & Interaction Section -->
+<section class="relative z-20 px-5 pb-5 flex flex-col items-center text-center -mt-6">
+<!-- Headline Title with Cyan-White Gradient & Glow -->
+<h1 class="aw-heading text-[28px] sm:text-[32px] font-extrabold tracking-tight text-white mb-2 leading-tight">
+        حوّل أفكارك <span class="aw-heading-accent text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-sky-300 text-glow">إلى واقع</span>
+</h1>
+<!-- Subtitle Description -->
+<p class="aw-subtitle text-xs sm:text-[13px] text-slate-300/90 leading-relaxed max-w-[310px] mb-5 font-normal">
+        مساعدك الذكي في كل ما يتعلق بالهندسة ، من المخططات إلى التصاميم والتنفيذ.
+      </p>
+<!-- Three Quick Features Cards -->
+<div class="w-full grid grid-cols-3 gap-2.5 mb-5">
+<!-- Feature 1: Plan Analysis -->
+<div class="glass-card rounded-2xl p-2.5 flex flex-col items-center justify-center gap-1.5 border border-cyan-500/20 hover:border-cyan-400/40 transition">
+<div class="aw-feature-icon text-cyan-400">
+<svg class="w-5 h-5 stroke-current" fill="none" stroke-width="1.8" viewBox="0 0 24 24">
+<path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="aw-feature-title text-[10px] sm:text-[11px] font-semibold text-slate-200 text-center leading-tight">
+            تحليل المخططات
+          </span>
+</div>
+<!-- Feature 2: 3D Design -->
+<div class="glass-card rounded-2xl p-2.5 flex flex-col items-center justify-center gap-1.5 border border-cyan-500/20 hover:border-cyan-400/40 transition">
+<div class="aw-feature-icon text-cyan-400">
+<svg class="w-5 h-5 stroke-current" fill="none" stroke-width="1.8" viewBox="0 0 24 24">
+<path d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="aw-feature-title text-[10px] sm:text-[11px] font-semibold text-slate-200 text-center leading-tight">
+            تصميم ثلاثي الأبعاد
+          </span>
+</div>
+<!-- Feature 3: Technical Support -->
+<div class="glass-card rounded-2xl p-2.5 flex flex-col items-center justify-center gap-1.5 border border-cyan-500/20 hover:border-cyan-400/40 transition">
+<div class="aw-feature-icon text-cyan-400">
+<svg class="w-5 h-5 stroke-current" fill="none" stroke-width="1.8" viewBox="0 0 24 24">
+<path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+</div>
+<span class="aw-feature-title text-[10px] sm:text-[11px] font-semibold text-slate-200 text-center leading-tight">
+            دعم فني وهندسي
+          </span>
+</div>
+</div>
+<!-- Pagination Indicator Dots -->
+<div class="aw-pager flex items-center justify-center gap-1.5 mb-5">
+<span class="w-2 h-2 rounded-full bg-cyan-400 shadow-[0_0_8px_#38bdf8]"></span>
+<span class="aw-inactive-dot w-1.5 h-1.5 rounded-full bg-slate-600/80"></span>
+<span class="aw-inactive-dot w-1.5 h-1.5 rounded-full bg-slate-600/80"></span>
+<span class="aw-inactive-dot w-1.5 h-1.5 rounded-full bg-slate-600/80"></span>
+</div>
+<!-- Primary CTA Button (Start Now) -->
+<a href="app://chat" class="aw-main-cta w-full relative group overflow-hidden rounded-full py-3.5 px-6 bg-gradient-to-r from-sky-500 via-cyan-400 to-blue-600 cta-glow flex items-center justify-center active:scale-[0.98] transition duration-200" aria-label="ابدأ الآن">
+<!-- Inner Glow & Reflection -->
+<div class="absolute inset-0 bg-white/20 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+<!-- Button Text -->
+<span class="aw-cta-title text-base font-bold text-slate-950 tracking-wide z-10 mx-auto">
+          ابدأ الآن
+        </span>
+<!-- Direction Arrow Icon (Pill style container) -->
+<div class="absolute left-2.5 w-8 h-8 rounded-full bg-slate-950/40 flex items-center justify-center text-white backdrop-blur-md">
+<svg class="w-4 h-4 transform rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"></path>
+</svg>
+</div>
+</a>
+<!-- Learn More Link -->
+<div class="flex flex-col items-center justify-center mt-3 cursor-pointer group">
+<span class="aw-more-text text-[11px] text-slate-400 group-hover:text-cyan-400 transition font-medium">تعرّف على المزيد</span>
+<svg class="aw-more-icon w-3.5 h-3.5 text-slate-500 group-hover:text-cyan-400 transition transform animate-bounce mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M19 9l-7 7-7-7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</div>
+<!-- Footer Branding & Watermark -->
+<div class="aw-watermark w-full flex items-center justify-between pt-2 px-1 text-slate-600">
+<!-- Left Action Button: Edit Badge -->
+
+<!-- Right Side: Signature / Built By -->
+
+</div>
+<!-- iOS Home Indicator -->
+<div class="aw-home-indicator w-32 h-1 bg-slate-500/40 rounded-full mx-auto mt-2"></div>
+</section>
+<!-- END: Content & Interaction Section -->
+</main>
+<!-- END: Mobile Device Frame Simulator -->
+<!-- BEGIN: Interaction Handler -->
+<script data-purpose="button-interactions">
+    document.addEventListener('DOMContentLoaded', () => {
+      // Small ripple / tap response
+      const ctaBtn = document.querySelector('.cta-glow');
+      if (ctaBtn) {
+        ctaBtn.addEventListener('click', () => {
+          ctaBtn.classList.add('scale-95');
+          setTimeout(() => ctaBtn.classList.remove('scale-95'), 150);
+        });
+      }
+    });
+  </script>
+<!-- END: Interaction Handler -->
+<script>
+(function(){if((document.documentElement.getAttribute('lang')||'').slice(0,2)!=='en')return;
+var T={"مساعد الوليد الهندسية": "Alwaleed Engineering Assistant", "معك في كل خطوة": "With you every step", "تخطي": "Skip", "مشهد معماري ثلاثي الأبعاد من المخطط إلى المبنى": "A 3D architectural scene from plan to building", "حوّل أفكارك": "Turn your ideas", "إلى واقع": "into reality", "مساعدك الذكي في كل ما يتعلق بالهندسة ، من المخططات إلى التصاميم والتنفيذ.": "Your smart assistant for everything engineering, from drawings to design and construction.", "تحليل المخططات": "Plan analysis", "تصميم ثلاثي الأبعاد": "3D design", "دعم فني وهندسي": "Technical & engineering support", "ابدأ الآن": "Start now", "تعرّف على المزيد": "Learn more"};function t(v){var k=(v||'').trim();return T[k]?v.replace(k,T[k]):v;}
+document.title=t(document.title);
+var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null),n;while((n=w.nextNode())){if(/[\u0600-\u06FF]/.test(n.nodeValue))n.nodeValue=t(n.nodeValue);}
+document.querySelectorAll('[aria-label],[title],[alt]').forEach(function(el){['aria-label','title','alt'].forEach(function(a){var v=el.getAttribute(a);if(v)el.setAttribute(a,t(v));});});
+})();
+</script>
+</body>
+</html>

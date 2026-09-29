@@ -1,0 +1,110 @@
+:root{--ink:#0F2F4F;--ink-2:#1B4468;--paper:#F3EEE4}
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--ink);color:var(--paper);overscroll-behavior-y:none}
+  body{font-family:"IBM Plex Sans Arabic",Tahoma,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+
+  .bh-track{position:relative;height:720vh;touch-action:pan-y}
+  .bh-stage{position:sticky;top:0;height:100vh;height:100svh;overflow:hidden;background:var(--ink)}
+  .bh-canvas{position:absolute;inset:0;width:100%;height:100%;display:block;transform:translateZ(0);backface-visibility:hidden}
+  .bh-film{position:absolute;inset:0;z-index:1;pointer-events:none;background:radial-gradient(125% 95% at 50% 45%,transparent 58%,rgba(0,0,0,.34) 100%)}
+  .bh-grain{position:absolute;inset:0;z-index:1;pointer-events:none;opacity:.055;mix-blend-mode:overlay;background-size:160px 160px}
+
+  .bh-top{position:absolute;top:0;inset-inline:0;z-index:4;text-shadow:0 1px 10px rgba(0,0,0,.35);display:flex;justify-content:space-between;align-items:center;padding:20px clamp(20px,4vw,48px);color:var(--paper);transition:color .4s}
+  .bh-brand{font-family:"Reem Kufi",serif;font-weight:700;font-size:20px;color:inherit;text-decoration:none}
+  .bh-toplink{color:inherit;font-size:15px;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:2px}
+
+  .bh-intro{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding-inline:clamp(20px,6vw,96px);pointer-events:none}
+  .bh-intro::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(to left,rgba(15,47,79,.94) 0%,rgba(15,47,79,.72) 40%,rgba(15,47,79,0) 64%)}
+  .bh-intro h1{font-family:"Reem Kufi",serif;font-weight:700;font-size:clamp(42px,6.2vw,90px);line-height:1.14;margin:0;max-width:11ch}
+  .bh-intro p{max-width:40ch;font-size:clamp(16px,1.5vw,19px);line-height:1.85;margin:24px 0 0;color:rgba(243,238,228,.86)}
+  .bh-hint{margin-top:40px;font-size:14px;color:rgba(243,238,228,.72);display:flex;align-items:center;gap:12px}
+  .bh-hint i{display:block;width:1px;height:42px;background:rgba(243,238,228,.35);position:relative;overflow:hidden}
+  .bh-hint i::after{content:"";position:absolute;left:0;right:0;top:-40%;height:40%;background:var(--paper);animation:bhdrop 2.2s ease-in-out infinite}
+  @keyframes bhdrop{to{top:100%}}
+  .bh-loading{margin-top:14px;font-size:13px;color:rgba(243,238,228,.6);transition:opacity .5s}
+  .bh-stage.is-ready .bh-loading{opacity:0}
+
+  .bh-tb{position:absolute;z-index:3;inset-inline-start:clamp(16px,4vw,48px);bottom:clamp(16px,4vw,44px);display:grid;grid-template-columns:auto 1fr;width:min(440px,calc(100% - 32px));background:rgba(15,47,79,.9);color:var(--paper);border:1px solid rgba(243,238,228,.45);opacity:0}
+  .bh-tb-num{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:88px;padding:14px 18px;border-inline-end:1px solid rgba(243,238,228,.3);font-family:"Reem Kufi",serif;font-size:38px;line-height:1}
+  .bh-tb-num span{display:block;transition:opacity .18s,transform .18s}
+  .bh-tb-num small{font-family:"IBM Plex Sans Arabic",sans-serif;font-size:12px;margin-top:8px;color:rgba(243,238,228,.65)}
+  .bh-tb-body{padding:14px 20px 16px;transition:opacity .18s,transform .18s}
+  .bh-tb-title{margin:0 0 6px;font-family:"Reem Kufi",serif;font-weight:600;font-size:24px;line-height:1.3}
+  .bh-tb-text{margin:0;font-size:15px;line-height:1.8;color:rgba(243,238,228,.86)}
+  .bh-tb.is-swap .bh-tb-body,.bh-tb.is-swap .bh-tb-num span{opacity:0;transform:translateY(6px)}
+
+  .bh-rail{position:absolute;z-index:3;inset-inline-end:clamp(12px,3vw,36px);top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:4px;color:var(--paper);transition:color .4s}
+  .bh-rail button{all:unset;touch-action:manipulation;cursor:pointer;display:flex;flex-direction:row-reverse;align-items:center;gap:12px;padding:7px 4px;font-size:13px;opacity:.55;color:inherit;font-family:inherit;text-shadow:0 1px 8px rgba(0,0,0,.35)}
+  .bh-rail button:hover,.bh-rail button.is-on{opacity:1}
+  .bh-rail button:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+  .bh-tick{display:block;width:18px;height:2px;background:currentColor;transition:width .3s}
+  .bh-rail button.is-on .bh-tick{width:40px}
+
+  .bh-skip{touch-action:manipulation;position:absolute;z-index:3;inset-inline-end:clamp(16px,4vw,48px);bottom:clamp(16px,4vw,44px);font-size:14px;color:var(--paper);text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:2px;text-shadow:0 1px 8px rgba(0,0,0,.4)}
+  .bh-skip:focus-visible,.bh-brand:focus-visible,.bh-toplink:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+
+  .bh-cta{position:absolute;z-index:3;inset-inline-start:clamp(16px,4vw,48px);bottom:clamp(16px,4vw,44px);width:min(520px,calc(100% - 32px));padding:24px 26px;background:var(--paper);color:var(--ink);border:1px solid var(--ink);opacity:0;visibility:hidden}
+  .bh-cta.is-on{visibility:visible}
+  .bh-cta h2{font-family:"Reem Kufi",serif;font-weight:700;font-size:clamp(26px,3vw,34px);line-height:1.25;margin:0 0 8px}
+  .bh-cta p{margin:0 0 20px;line-height:1.8}
+  .bh-actions{display:flex;flex-wrap:wrap;gap:10px}
+  .bh-btn{touch-action:manipulation;display:inline-block;padding:12px 20px;font-size:15px;font-weight:500;text-decoration:none;color:var(--ink);border:1px solid var(--ink);border-radius:2px}
+  .bh-btn.primary{background:var(--ink);color:var(--paper)}
+  .bh-btn:hover{background:var(--ink-2);border-color:var(--ink-2);color:var(--paper)}
+  .bh-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+
+  .bh-after{min-height:60vh;display:flex;align-items:center;justify-content:center;background:#071426;color:#b9cbe3;font-size:16px;padding:40px}
+
+  @media (max-width:720px){
+    .bh-intro{justify-content:flex-start;padding-top:96px}
+    .bh-intro::before{background:linear-gradient(to bottom,rgba(15,47,79,.94) 0%,rgba(15,47,79,.7) 50%,rgba(15,47,79,0) 76%)}
+    .bh-rail .bh-lbl{display:none}
+    .bh-rail{inset-inline-end:8px}
+    .bh-tb-num{min-width:70px;font-size:30px}
+    .bh-tb-title{font-size:20px}
+    .bh-tb-text{font-size:14px}
+  }
+  @media (prefers-reduced-motion:reduce){.bh-hint i::after{animation:none}}
+  .is-fallback .bh-track{height:auto}
+  .is-fallback .bh-stage{position:relative;height:auto;min-height:100svh;display:flex;flex-direction:column;justify-content:center;gap:40px;padding:56px clamp(20px,6vw,96px)}
+  .is-fallback .bh-canvas,.is-fallback .bh-rail,.is-fallback .bh-tb,.is-fallback .bh-hint,.is-fallback .bh-loading{display:none}
+  .is-fallback .bh-intro,.is-fallback .bh-cta,.is-fallback .bh-skip{position:static;opacity:1!important;visibility:visible!important;padding-inline:0}
+  .is-fallback .bh-intro::before{display:none}
+  .is-fallback .bh-cta{padding:24px 26px}
+
+/* Phase 8-15.11 performance */
+.bh-hero{contain:layout paint style;}
+.bh-stage{transform:translateZ(0);backface-visibility:hidden;}
+.bh-canvas{transform:translateZ(0);backface-visibility:hidden;}
+
+/* ─── English (LTR) layout: clean Latin type, mirrored shading, tidy line lengths ─── */
+html[lang^="en"] body,html[lang^="en"] .bh-hero{font-family:"Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,system-ui,sans-serif}
+html[lang^="en"] .bh-brand,html[lang^="en"] .bh-intro h1,html[lang^="en"] .bh-tb-num,html[lang^="en"] .bh-tb-title,html[lang^="en"] .bh-cta h2,html[lang^="en"] .bh-after-brand{font-family:"Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;letter-spacing:-.015em}
+html[lang^="en"] .bh-tb-num small,html[lang^="en"] .bh-rail button,html[lang^="en"] .bh-btn{font-family:inherit;letter-spacing:0}
+html[lang^="en"] .bh-intro::before{background:linear-gradient(to right,rgba(15,47,79,.94) 0%,rgba(15,47,79,.72) 40%,rgba(15,47,79,0) 64%)}
+html[lang^="en"] .bh-intro h1{font-size:clamp(34px,5vw,72px);line-height:1.08;max-width:13ch;font-weight:800}
+html[lang^="en"] .bh-intro p{max-width:46ch;line-height:1.65;font-size:clamp(15px,1.35vw,18px)}
+html[lang^="en"] .bh-hint,html[lang^="en"] .bh-loading{letter-spacing:.01em}
+html[lang^="en"] .bh-tb{width:min(460px,calc(100% - 32px))}
+html[lang^="en"] .bh-tb-body{text-align:left}
+html[lang^="en"] .bh-tb-title{font-size:21px;font-weight:700;line-height:1.25;margin-bottom:6px}
+html[lang^="en"] .bh-tb-text{font-size:14.5px;line-height:1.6;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}
+html[lang^="en"] .bh-tb-num{font-size:34px;font-weight:700}
+html[lang^="en"] .bh-tb-num small{font-size:11px;text-transform:uppercase;letter-spacing:.08em}
+html[lang^="en"] .bh-cta{text-align:left}
+html[lang^="en"] .bh-cta h2{font-size:clamp(24px,2.6vw,30px);line-height:1.2;font-weight:800}
+html[lang^="en"] .bh-cta p{line-height:1.6}
+html[lang^="en"] .bh-btn{font-weight:600}
+html[lang^="en"] .bh-rail button{font-size:12.5px;font-weight:500}
+@media (max-width:720px){
+  html[lang^="en"] .bh-intro::before{background:linear-gradient(to bottom,rgba(15,47,79,.94) 0%,rgba(15,47,79,.7) 50%,rgba(15,47,79,0) 76%)}
+  html[lang^="en"] .bh-intro h1{font-size:clamp(30px,8.6vw,40px);max-width:15ch}
+  html[lang^="en"] .bh-intro p{font-size:15px}
+  html[lang^="en"] .bh-tb-title{font-size:18px}
+  html[lang^="en"] .bh-tb-text{font-size:13.5px}
+  html[lang^="en"] .bh-tb-num{font-size:28px}
+  html[lang^="en"] .bh-after-links a{font-size:12px}
+  html[lang^="en"] .bh-top{gap:12px;padding-inline:16px}
+  html[lang^="en"] .bh-brand{font-size:15.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  html[lang^="en"] .bh-toplink{font-size:13px;white-space:nowrap;flex-shrink:0}
+}
