@@ -1319,6 +1319,24 @@ html:not(.dark) .support-ai-action-btn.edit{background:var(--awl-bg-eaf0f8, #eaf
 .aw-thinking[open]>summary::after{transform:rotate(180deg)}
 .aw-thinking .aw-thinking-body{padding:0 12px 12px;font-size:12.5px;line-height:1.75;opacity:.78;white-space:pre-wrap}
 @media (prefers-reduced-motion:reduce){.aw-thinking-live .aw-dots i{animation:none}}
+
+/* ── Chat images: clean frame, hover actions, full-screen viewer ── */
+.support-message-attachment.image.aw-img{display:block!important;padding:0!important;min-width:0!important;max-width:min(460px,82vw)!important;background:transparent!important;border:0!important;box-shadow:none!important;cursor:default!important;transform:none!important}
+.aw-img-frame{position:relative;border-radius:18px;overflow:hidden;background:#0b1326;box-shadow:0 14px 34px rgba(15,23,42,.28),0 0 0 1px rgba(148,163,184,.18);line-height:0}
+.aw-img-frame img{display:block;width:100%!important;max-width:100%!important;height:auto!important;max-height:460px!important;object-fit:cover!important;border:0!important;border-radius:0!important;cursor:zoom-in;transition:transform .35s ease}
+.aw-img-frame:hover img{transform:scale(1.015)}
+.aw-img-actions{position:absolute;inset-inline-end:10px;top:10px;display:flex;gap:6px;opacity:0;transform:translateY(-4px);transition:opacity .2s ease,transform .2s ease}
+.aw-img-frame:hover .aw-img-actions,.aw-img-frame:focus-within .aw-img-actions{opacity:1;transform:none}
+@media (hover:none){.aw-img-actions{opacity:1;transform:none}}
+.aw-img-btn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:10px;border:1px solid rgba(255,255,255,.22);background:rgba(15,23,42,.62);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);color:#fff;font-size:15px;line-height:1;text-decoration:none;cursor:pointer}
+.aw-img-btn:hover{background:rgba(37,99,235,.85)}
+.aw-img-badge{position:absolute;inset-inline-start:10px;bottom:10px;padding:5px 9px;border-radius:999px;background:rgba(15,23,42,.62);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);color:#e2e8f0;font:700 10.5px/1.2 system-ui,sans-serif;letter-spacing:.2px}
+.aw-img-caption{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px 4px 0;font-size:11px;opacity:.72}
+.aw-img-caption span:last-child{direction:ltr}
+.aw-lightbox{position:fixed;inset:0;z-index:2147483600;display:flex;align-items:center;justify-content:center;padding:24px;background:rgba(2,6,23,.92);animation:awLbIn .18s ease}
+.aw-lightbox img{max-width:min(1400px,96vw);max-height:86vh;border-radius:14px;box-shadow:0 30px 80px rgba(0,0,0,.6)}
+.aw-lightbox-bar{position:fixed;top:16px;inset-inline-end:16px;display:flex;gap:8px}
+@keyframes awLbIn{from{opacity:0}to{opacity:1}}
 </style>
 
 {{-- Hotfix 9.6.1: render component JS directly for standalone/welcome/app layouts --}}
@@ -2970,6 +2988,78 @@ html:not(.dark) .support-ai-action-btn.edit{background:var(--awl-bg-eaf0f8, #eaf
         }
     }
 
+    function openImageViewer(url, name) {
+        const english = (document.documentElement.getAttribute('lang') || '').startsWith('en');
+        const box = document.createElement('div');
+        box.className = 'aw-lightbox';
+        box.setAttribute('role', 'dialog');
+        box.setAttribute('aria-modal', 'true');
+        box.innerHTML = '<img alt=""><div class="aw-lightbox-bar">'
+            + '<a class="aw-img-btn" download title="' + (english ? 'Download' : 'تنزيل') + '">⬇</a>'
+            + '<button type="button" class="aw-img-btn" title="' + (english ? 'Close' : 'إغلاق') + '">✕</button></div>';
+        box.querySelector('img').src = url;
+        box.querySelector('img').alt = name || '';
+        const link = box.querySelector('a');
+        link.href = url;
+        link.setAttribute('download', name || 'image');
+        const close = () => { box.remove(); document.removeEventListener('keydown', onKey); };
+        const onKey = (event) => { if (event.key === 'Escape') close(); };
+        box.addEventListener('click', (event) => { if (event.target === box || event.target.tagName === 'BUTTON') close(); });
+        document.addEventListener('keydown', onKey);
+        document.body.appendChild(box);
+    }
+
+    function createImageAttachment(attachment) {
+        const english = (document.documentElement.getAttribute('lang') || '').startsWith('en');
+        const wrap = document.createElement('div');
+        wrap.className = 'support-message-attachment image aw-img';
+        const frame = document.createElement('div');
+        frame.className = 'aw-img-frame';
+        const img = document.createElement('img');
+        img.src = attachment.previewUrl;
+        img.alt = attachment.name || (english ? 'Image' : 'صورة');
+        img.loading = 'lazy';
+        img.addEventListener('click', () => openImageViewer(attachment.previewUrl, attachment.name));
+        frame.appendChild(img);
+
+        const actions = document.createElement('div');
+        actions.className = 'aw-img-actions';
+        const view = document.createElement('button');
+        view.type = 'button';
+        view.className = 'aw-img-btn';
+        view.title = english ? 'View full size' : 'عرض بالحجم الكامل';
+        view.textContent = '⤢';
+        view.addEventListener('click', () => openImageViewer(attachment.previewUrl, attachment.name));
+        const download = document.createElement('a');
+        download.className = 'aw-img-btn';
+        download.href = attachment.previewUrl;
+        download.setAttribute('download', attachment.name || 'image');
+        download.title = english ? 'Download' : 'تنزيل';
+        download.textContent = '⬇';
+        actions.appendChild(view);
+        actions.appendChild(download);
+        frame.appendChild(actions);
+
+        if (/^AI-(Generated|Edited)-Image/i.test(attachment.name || '')) {
+            const badge = document.createElement('span');
+            badge.className = 'aw-img-badge';
+            badge.textContent = english ? '✨ AI image' : '✨ صورة بالذكاء الاصطناعي';
+            frame.appendChild(badge);
+        }
+        wrap.appendChild(frame);
+
+        const caption = document.createElement('div');
+        caption.className = 'aw-img-caption';
+        const label = document.createElement('span');
+        label.textContent = english ? 'Tap the image to enlarge' : 'اضغط على الصورة للتكبير';
+        const size = document.createElement('span');
+        size.textContent = attachment.size ? humanFileSize(attachment.size) : '';
+        caption.appendChild(label);
+        caption.appendChild(size);
+        wrap.appendChild(caption);
+        return wrap;
+    }
+
     function createAttachmentMarkup(attachment) {
         if (!attachment) return null;
         const wrap = document.createElement('div');
@@ -2987,6 +3077,9 @@ html:not(.dark) .support-ai-action-btn.edit{background:var(--awl-bg-eaf0f8, #eaf
             wrap.addEventListener('keydown', (event) => {
                 if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); openAttachment(); }
             });
+        }
+        if (attachment.previewUrl && attachment.kind === 'image' && !attachment.uploading) {
+            return createImageAttachment(attachment);
         }
         if (attachment.previewUrl && attachment.kind === 'image') {
             const img = document.createElement('img');

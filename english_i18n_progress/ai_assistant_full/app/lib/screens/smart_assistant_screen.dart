@@ -2364,16 +2364,7 @@ class _ExactMobileMessageBubble extends StatelessWidget {
         children: [
           Row(
             children: [
-              Container(
-                width: 28,
-                height: 28,
-                decoration: const BoxDecoration(
-                  shape: BoxShape.circle,
-                  gradient: LinearGradient(colors: [Color(0xFF2563EB), Color(0xFF6366F1)]),
-                  boxShadow: [BoxShadow(color: Color(0x332563EB), blurRadius: 12)],
-                ),
-                child: const Icon(Icons.auto_awesome_rounded, size: 16, color: Colors.white),
-              ),
+              const _BrandAvatar(size: 28),
               const SizedBox(width: 9),
               TrText('مساعد الوليد الهندسية',
                 style: GoogleFonts.tajawal(color: (Theme.of(context).brightness == Brightness.dark ? const Color(0xFFD4D4D8) : const Color(0xFF24364F)), fontSize: 12, fontWeight: FontWeight.w700),
@@ -3899,63 +3890,108 @@ class _MessageAttachmentCard extends StatelessWidget {
             : const Color(0xFF10B981);
 
     if (hasLocalImage || hasRemoteImage) {
-      return GestureDetector(
-        onTap: () => _openAttachment(context),
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(14),
-          child: Container(
-            constraints: const BoxConstraints(maxWidth: 360),
-            decoration: BoxDecoration(
-              color: (Theme.of(context).brightness == Brightness.dark ? const Color(0xFF071426) : Theme.of(context).colorScheme.surface),
-              border: Border.all(color: const Color(0x2694A3B8)),
-              borderRadius: BorderRadius.circular(14),
-            ),
+      final dark = Theme.of(context).brightness == Brightness.dark;
+      final aiImage = RegExp(r'^AI-(Generated|Edited)-Image', caseSensitive: false).hasMatch(name);
+      Widget image(Map<String, String>? headers) => hasLocalImage
+          ? Image.file(localFile!, fit: BoxFit.cover, gaplessPlayback: true)
+          : Image.network(
+              url!,
+              headers: headers,
+              fit: BoxFit.cover,
+              loadingBuilder: (context, child, progress) => progress == null
+                  ? child
+                  : Container(color: dark ? const Color(0xFF0B1326) : const Color(0xFFEFF4FB), child: const Center(child: CircularProgressIndicator(strokeWidth: 2))),
+              errorBuilder: (_, __, ___) => Center(child: Icon(Icons.broken_image_outlined, size: 36, color: dark ? const Color(0xFF64748B) : const Color(0xFF94A3B8))),
+            );
+
+      return FutureBuilder<Map<String, String>>(
+        future: hasLocalImage ? Future.value(const <String, String>{}) : ApiService.authenticatedMediaHeaders(),
+        builder: (context, snapshot) {
+          final headers = snapshot.data;
+          final ready = hasLocalImage || headers != null;
+          void openViewer() {
+            if (!ready || uploading || error) return;
+            Navigator.of(context).push(PageRouteBuilder<void>(
+              opaque: false,
+              barrierColor: Colors.black87,
+              pageBuilder: (_, __, ___) => _ImageViewerPage(
+                name: name,
+                image: image(headers),
+                onDownload: () => _openAttachment(context),
+              ),
+              transitionsBuilder: (_, animation, __, child) => FadeTransition(opacity: animation, child: child),
+            ));
+          }
+
+          return ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 420),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
+              mainAxisSize: MainAxisSize.min,
               children: [
-                if (hasLocalImage)
-                  Image.file(localFile!, height: 210, fit: BoxFit.cover, gaplessPlayback: true)
-                else
-                  FutureBuilder<Map<String, String>>(
-                    future: ApiService.authenticatedMediaHeaders(),
-                    builder: (context, snapshot) {
-                      if (!snapshot.hasData) {
-                        return const SizedBox(height: 210, child: Center(child: CircularProgressIndicator(strokeWidth: 2)));
-                      }
-                      return Image.network(
-                        url!,
-                        headers: snapshot.data,
-                        height: 210,
-                        fit: BoxFit.cover,
-                        loadingBuilder: (context, child, progress) => progress == null
-                            ? child
-                            : const SizedBox(height: 210, child: Center(child: CircularProgressIndicator(strokeWidth: 2))),
-                        errorBuilder: (_, __, ___) => SizedBox(height: 160, child: Center(child: Icon(Icons.broken_image_outlined, color: (Theme.of(context).brightness == Brightness.dark ? const Color(0xFF64748B) : Theme.of(context).colorScheme.onSurfaceVariant), size: 36))),
-                      );
-                    },
+                GestureDetector(
+                  onTap: openViewer,
+                  child: Container(
+                    height: 280,
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(18),
+                      color: dark ? const Color(0xFF0B1326) : const Color(0xFFEFF4FB),
+                      boxShadow: [BoxShadow(color: Colors.black.withValues(alpha: dark ? .35 : .16), blurRadius: 22, offset: const Offset(0, 10))],
+                      border: Border.all(color: const Color(0x2694A3B8)),
+                    ),
+                    clipBehavior: Clip.antiAlias,
+                    child: Stack(
+                      fit: StackFit.expand,
+                      children: [
+                        if (ready) image(headers) else const Center(child: CircularProgressIndicator(strokeWidth: 2)),
+                        PositionedDirectional(
+                          top: 10,
+                          end: 10,
+                          child: Row(
+                            children: [
+                              _ImageActionButton(icon: Icons.open_in_full_rounded, onTap: openViewer),
+                              const SizedBox(width: 6),
+                              _ImageActionButton(icon: Icons.download_rounded, onTap: () => _openAttachment(context)),
+                            ],
+                          ),
+                        ),
+                        if (aiImage)
+                          PositionedDirectional(
+                            start: 10,
+                            bottom: 10,
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 5),
+                              decoration: BoxDecoration(color: const Color(0x9E0F172A), borderRadius: BorderRadius.circular(999)),
+                              child: Text('✨ ${trUi('صورة بالذكاء الاصطناعي')}', style: const TextStyle(color: Color(0xFFE2E8F0), fontSize: 10.5, fontWeight: FontWeight.w700)),
+                            ),
+                          ),
+                        if (uploading)
+                          const PositionedDirectional(start: 0, end: 0, bottom: 0,
+                            child: LinearProgressIndicator(minHeight: 3, color: Color(0xFF3B82F6), backgroundColor: Color(0x1F94A3B8))),
+                        if (error)
+                          Container(color: const Color(0x66000000), child: Center(child: Icon(Icons.error_outline_rounded, color: accent, size: 34))),
+                      ],
+                    ),
                   ),
+                ),
                 Padding(
-                  padding: const EdgeInsets.fromLTRB(10, 8, 10, 8),
+                  padding: const EdgeInsets.fromLTRB(4, 7, 4, 0),
                   child: Row(
                     children: [
                       Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(trUi(name), maxLines: 1, overflow: TextOverflow.ellipsis, style: TextStyle(fontSize: 10, fontWeight: FontWeight.w800, color: (Theme.of(context).brightness == Brightness.dark ? Colors.white : Theme.of(context).colorScheme.onSurface))),
-                            if (size > 0) Text(trUi(_prettyFileSize(size)), style: TextStyle(fontSize: 8.5, color: (Theme.of(context).brightness == Brightness.dark ? const Color(0xFF94A3B8) : Theme.of(context).colorScheme.onSurfaceVariant))),
-                          ],
-                        ),
+                        child: Text(trUi('اضغط على الصورة للتكبير'),
+                            style: TextStyle(fontSize: 11, color: dark ? const Color(0xFF94A3B8) : const Color(0xFF64748B))),
                       ),
-                      Icon(uploading ? Icons.cloud_upload_outlined : error ? Icons.error_outline_rounded : Icons.open_in_new_rounded, size: 18, color: accent),
+                      if (size > 0)
+                        Text(_prettyFileSize(size), textDirection: TextDirection.ltr,
+                            style: TextStyle(fontSize: 11, color: dark ? const Color(0xFF94A3B8) : const Color(0xFF64748B))),
                     ],
                   ),
                 ),
-                if (uploading) const LinearProgressIndicator(minHeight: 3, color: Color(0xFF3B82F6), backgroundColor: Color(0x1F94A3B8)),
               ],
             ),
-          ),
-        ),
+          );
+        },
       );
     }
 
@@ -4055,6 +4091,90 @@ class _MessageToolButton extends StatelessWidget {
   }
 }
 
+/// The platform icon as the assistant's avatar (instead of a generic sparkle).
+class _BrandAvatar extends StatelessWidget {
+  final double size;
+  const _BrandAvatar({this.size = 28});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: size,
+      height: size,
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(size * .3),
+        border: Border.all(color: const Color(0x3360A5FA)),
+        boxShadow: const [BoxShadow(color: Color(0x2E0F172A), blurRadius: 10, offset: Offset(0, 3))],
+      ),
+      clipBehavior: Clip.antiAlias,
+      // The icon file has its own dark rounded corners; a slight zoom hides them.
+      child: Transform.scale(scale: 1.12, child: Image.asset('assets/icon/app_icon.png', fit: BoxFit.cover)),
+    );
+  }
+}
+
+class _ImageActionButton extends StatelessWidget {
+  final IconData icon;
+  final VoidCallback onTap;
+  const _ImageActionButton({required this.icon, required this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: const Color(0x9E0F172A),
+      borderRadius: BorderRadius.circular(10),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(10),
+        onTap: onTap,
+        child: Padding(padding: const EdgeInsets.all(7), child: Icon(icon, size: 18, color: Colors.white)),
+      ),
+    );
+  }
+}
+
+/// Full-screen image with pinch-to-zoom.
+class _ImageViewerPage extends StatelessWidget {
+  final String name;
+  final Widget image;
+  final VoidCallback onDownload;
+  const _ImageViewerPage({required this.name, required this.image, required this.onDownload});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.black.withValues(alpha: .94),
+      body: SafeArea(
+        child: Stack(
+          children: [
+            Positioned.fill(
+              child: GestureDetector(
+                onTap: () => Navigator.of(context).maybePop(),
+                child: InteractiveViewer(
+                  minScale: 1,
+                  maxScale: 5,
+                  child: Center(child: FittedBox(fit: BoxFit.contain, child: SizedBox(width: 1024, height: 1024, child: image))),
+                ),
+              ),
+            ),
+            PositionedDirectional(
+              top: 10,
+              end: 10,
+              child: Row(
+                children: [
+                  _ImageActionButton(icon: Icons.download_rounded, onTap: onDownload),
+                  const SizedBox(width: 8),
+                  _ImageActionButton(icon: Icons.close_rounded, onTap: () => Navigator.of(context).maybePop()),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
 class _Avatar extends StatelessWidget {
   final String label;
   final bool own;
@@ -4063,6 +4183,7 @@ class _Avatar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    if (!own) return const _BrandAvatar(size: 30);
     return Container(
       width: 30,
       height: 30,
@@ -4135,15 +4256,7 @@ class _ThinkingBubbleState extends State<_ThinkingBubble> {
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Container(
-            width: 28,
-            height: 28,
-            decoration: const BoxDecoration(
-              shape: BoxShape.circle,
-              gradient: LinearGradient(colors: [Color(0xFF2563EB), Color(0xFF6366F1)]),
-            ),
-            child: const Icon(Icons.auto_awesome_rounded, size: 16, color: Colors.white),
-          ),
+          const _BrandAvatar(size: 28),
           const SizedBox(width: 10),
           const SizedBox(width: 40, height: 14, child: _TypingDots()),
           const SizedBox(width: 8),
