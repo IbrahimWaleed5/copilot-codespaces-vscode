@@ -31,6 +31,28 @@ return [
     // ── Agents (planner → workers → reviewer) for complex tasks ───────
     'agents_enabled' => (bool) env('AI_AGENTS_ENABLED', true),
     // Levels that may use the agents pipeline (the router still has to mark the task complex).
-    'agents_profiles' => ['smart', 'programming', 'engineering', 'design3d', 'expert'],
+    // Plan gating comes from the levels themselves: programming/engineering need AI Plus, design3d/expert AI Pro.
+    'agents_profiles' => ['programming', 'engineering', 'design3d', 'expert'],
     'agents_max_steps' => (int) env('AI_AGENTS_MAX_STEPS', 5),
+    // Thinking power per level: how many agent steps it may use.
+    'agents_steps_by_profile' => [
+        'programming' => 3,
+        'engineering' => 3,
+        'design3d' => 4,
+        'expert' => 5,
+    ],
+
+    // ── Credits ─────────────────────────────────────────────────────────
+    // How much of the conversation each level sends to the model (characters). Bigger context = more
+    // input tokens = more Credits, so the hold before each message is sized from this too.
+    'context_chars_by_profile' => [
+        'fast' => (int) env('AI_CONTEXT_CHARS_FAST', 20000),
+        'smart' => (int) env('AI_CONTEXT_CHARS_SMART', 40000),
+        'programming' => (int) env('AI_CONTEXT_CHARS_PROGRAMMING', 80000),
+        'engineering' => (int) env('AI_CONTEXT_CHARS_ENGINEERING', 80000),
+        'design3d' => (int) env('AI_CONTEXT_CHARS_DESIGN3D', 100000),
+        'expert' => (int) env('AI_CONTEXT_CHARS_EXPERT', 120000),
+    ],
+    // The stronger model costs more per token at Google: its tokens count this many times in Credits.
+    'pro_model_credit_multiplier' => (float) env('AI_PRO_MODEL_CREDIT_MULTIPLIER', 4),
 ];

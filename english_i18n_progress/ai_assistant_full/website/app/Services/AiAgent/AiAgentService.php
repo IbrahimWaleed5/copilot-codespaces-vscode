@@ -721,7 +721,7 @@ class AiAgentService
 
     private function generateDocumentContent(Request $request, SupportTicket $ticket, string $message, string $profile, string $mode, array $pageContext, string $tool): ?string
     {
-        $conversation = $this->memory->history($ticket);
+        $conversation = $this->memory->history($ticket, null, $profile);
         $runtime = $this->context->build(
             $request->user(),
             $this->settings->browserContextEnabled($request->user()) ? $pageContext : [],
@@ -757,7 +757,7 @@ class AiAgentService
         string $tool,
         ?Project $project,
     ): ?string {
-        $conversation = $this->memory->history($ticket);
+        $conversation = $this->memory->history($ticket, null, 'smart');
 
         $runtime = $this->context->build(
             $request->user(),
@@ -867,7 +867,7 @@ PROMPT,
         ?array $attachment,
         string $tool,
     ): array {
-        $conversation = $this->memory->history($ticket);
+        $conversation = $this->memory->history($ticket, null, $profile);
 
         $runtime = $this->context->build(
             $request->user(),

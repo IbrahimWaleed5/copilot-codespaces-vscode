@@ -17,6 +17,21 @@ class AgentOrchestrator
 {
     public function __construct(private readonly GeminiSupportService $gemini) {}
 
+    /** Thinking power per level: how many agent steps it may use (capped by AI_AGENTS_MAX_STEPS). */
+    public function maxSteps(string $profile): int
+    {
+        $cap = max(2, min(8, (int) config('ai_assistant.agents_max_steps', 5)));
+        $byProfile = (int) (config('ai_assistant.agents_steps_by_profile', [])[$profile] ?? 3);
+
+        return max(2, min($cap, $byProfile));
+    }
+
+    /** Model calls of a full run: planner + one per step + reviewer. Used to size the Credit hold. */
+    public function callsFor(string $profile): int
+    {
+        return $this->maxSteps($profile) + 2;
+    }
+
     public function enabledFor(string $profile): bool
     {
         return (bool) config('ai_assistant.agents_enabled', true)
@@ -44,7 +59,7 @@ class AgentOrchestrator
         // ── 1. Planner ───────────────────────────────────────────────────
         $recent = collect($conversation)->take(-10)->map(fn ($m) => ($m['sender_type'] === 'customer' ? 'المستخدم' : ($m['sender_type'] === 'memory' ? 'ملخص سابق' : 'المساعد'))
             . ': ' . mb_substr((string) $m['message'], 0, 1500))->implode("\n");
-        $maxSteps = max(2, min(8, (int) config('ai_assistant.agents_max_steps', 5)));
+        $maxSteps = $this->maxSteps($profile);
         $planPrompt = "أنت وكيل التخطيط (Planner) لفريق وكلاء ذكاء اصطناعي خبير في الهندسة والبرمجة وتحليل الأنظمة.\n"
             . "قسّم طلب المستخدم إلى خطوات عمل حقيقية ومتتابعة (من 2 إلى {$maxSteps}) ينجز كل منها وكيل مستقل.\n"
             . "كل خطوة يجب أن تنتج مخرجًا ملموسًا (تحليل، تصميم، كود، حسابات، مقارنة...). لا تضع خطوات عامة مثل \"فهم الطلب\".\n"

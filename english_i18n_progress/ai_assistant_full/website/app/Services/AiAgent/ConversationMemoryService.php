@@ -26,9 +26,9 @@ class ConversationMemoryService
      *
      * @return array<int,array{sender_type:string,message:string}>
      */
-    public function history(SupportTicket $ticket, ?int $upToId = null): array
+    public function history(SupportTicket $ticket, ?int $upToId = null, ?string $profile = null): array
     {
-        $budget = max(8000, (int) config('ai_assistant.context_chars', 120000));
+        $budget = $this->contextBudget($profile);
         $maxMessages = max(12, (int) config('ai_assistant.context_messages', 120));
 
         $recent = [];
@@ -61,6 +61,19 @@ class ConversationMemoryService
         return $summary !== ''
             ? array_merge([['sender_type' => 'memory', 'message' => $summary]], $recent)
             : $recent;
+    }
+
+    /**
+     * How much conversation (characters) this level sends to the model. Tied to the level because
+     * more context = more input tokens = more Credits; the message hold is sized from the same number.
+     */
+    public function contextBudget(?string $profile = null): int
+    {
+        $global = max(8000, (int) config('ai_assistant.context_chars', 120000));
+        $byProfile = (array) config('ai_assistant.context_chars_by_profile', []);
+        $value = $profile !== null && isset($byProfile[$profile]) ? (int) $byProfile[$profile] : $global;
+
+        return max(8000, min($global, $value));
     }
 
     /**

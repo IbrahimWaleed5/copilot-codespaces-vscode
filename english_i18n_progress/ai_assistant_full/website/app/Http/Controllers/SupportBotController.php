@@ -600,10 +600,18 @@ class SupportBotController extends Controller
     $creditOperation = 'profile_' . $assistantProfile;
     // The selected level changes real Gemini thinking settings. Credits are
     // charged from provider token usage, never from the old fixed V1–V6 tariff.
+    // The hold covers this level's conversation context (long memory) and the model it uses (pro costs more).
+    $effectiveModel = $geminiService->modelFor(
+        $aiSettings->string('model', (string) config('services.gemini.model', 'gemini-3.1-flash-lite')),
+        $assistantProfile,
+        $assistantMode
+    );
     $creditsToReserve = app(\App\Services\AiMeteredCreditPricing::class)->reserveEstimate(
         $assistantProfile,
-        strlen($messageText),
-        $geminiService->maxOutputTokensFor($assistantMode, $assistantProfile)
+        strlen($messageText) + (int) ceil(app(\App\Services\AiAgent\ConversationMemoryService::class)->contextBudget($assistantProfile) / 3),
+        $geminiService->maxOutputTokensFor($assistantMode, $assistantProfile),
+        0,
+        $effectiveModel
     );
 
     $normalizedMessage =
@@ -950,7 +958,7 @@ class SupportBotController extends Controller
      * Gemini سياق الحديث.
      */
     // Recent messages word for word + a running summary of everything older (long conversations).
-    $conversation = $memory->history($ticket, $isRegenerate ? (int) $customerMessage->id : null);
+    $conversation = $memory->history($ticket, $isRegenerate ? (int) $customerMessage->id : null, $assistantProfile);
 
     /*
      * تمرير سياق المستخدم الحالي إلى المساعد
@@ -968,6 +976,7 @@ class SupportBotController extends Controller
     $aiAnswer = null;
     $aiThinking = null;
     $agentSteps = 0;
+    $agentsNotice = null;
     $geminiUsage = null;
     try {
         $pageContext = $assistantSettings->browserContextEnabled($request->user())
@@ -983,7 +992,48 @@ class SupportBotController extends Controller
         // Complex work (system analysis, architecture, substantial code...) goes to the agents team.
         $routing = $agentService->lastRouting;
         $orchestrator = app(\App\Services\AiAgent\AgentOrchestrator::class);
-        if (($routing['complex'] ?? false) === true && $inputSource !== 'voice' && $orchestrator->enabledFor($assistantProfile)) {
+        $agentsAllowed = false;
+        if (($routing['complex'] ?? false) === true && $inputSource !== 'voice' && $orchestrator->enabledFor($assistantProfile) && $aiUsage) {
+            // The team makes several model calls (planner + steps + reviewer): the single-message hold is
+            // swapped for one that covers the whole run, checked against the balance and the 5h/7d limits.
+            $fullHold = max($creditsToReserve, $creditsToReserve * $orchestrator->callsFor($assistantProfile));
+            $walletPayload = $creditService->payload($creditService->walletForRequest($request));
+            $usableWithCurrentHold = (int) ($walletPayload['usable_credits_now'] ?? 0) + (int) $aiUsage->credits_used;
+            if (($walletPayload['unlimited'] ?? false) || $usableWithCurrentHold >= $fullHold) {
+                $singleHold = $aiUsage;
+                try {
+                    $creditService->refund($singleHold, 'replaced_by_agents_hold');
+                    $aiUsage = $creditService->reserve(
+                        $request,
+                        operation: 'agents_' . $assistantProfile,
+                        credits: $fullHold,
+                        supportTicketId: $ticket->id,
+                        metadata: [
+                            'channel' => 'smart_assistant_agents',
+                            'assistant_profile' => $assistantProfile,
+                            'billing_mode' => 'gemini_usage_metadata_v1',
+                            'preauthorized_credit_hold' => $fullHold,
+                            'agent_calls_max' => $orchestrator->callsFor($assistantProfile),
+                        ]
+                    );
+                    $creditsToReserve = $fullHold;
+                    $agentsAllowed = true;
+                } catch (AiCreditsExhaustedException) {
+                    // Put the normal single-message hold back and answer normally.
+                    try {
+                        $aiUsage = $creditService->reserve($request, operation: $creditOperation, credits: $creditsToReserve,
+                            supportTicketId: $ticket->id, metadata: ['channel' => 'smart_assistant', 'billing_mode' => 'gemini_usage_metadata_v1']);
+                    } catch (AiCreditsExhaustedException) {
+                        $aiUsage = null;
+                    }
+                }
+            }
+            if (! $agentsAllowed) {
+                $agentsNotice = 'هذا الطلب مناسب لفريق الوكلاء، لكن رصيدك أو حد الاستخدام الحالي لا يغطي تشغيله كاملًا، فتمت الإجابة بالوضع العادي.';
+            }
+        }
+
+        if ($agentsAllowed) {
             $agentRun = $orchestrator->run(
                 question: $messageText,
                 knowledgeContext: $knowledgeContext,
@@ -1197,7 +1247,7 @@ class SupportBotController extends Controller
         'conversation_continued' => $conversationContinued,
         'notice' => $humanTicketNotice ?? ($conversationContinued
             ? 'المحادثة صارت طويلة جدًا، فكمّلنا تلقائيًا في محادثة جديدة ومعها ملخص كامل لكل ما سبق.'
-            : null),
+            : $agentsNotice),
         'human_ticket' => $humanTicketPayload,
         'ai_session_forked' => $aiSessionForked,
         'assistant_mode' => $assistantMode,
@@ -1314,9 +1364,10 @@ class SupportBotController extends Controller
         if (! $isAgentFileTool) {
             $fileHold = app(\App\Services\AiMeteredCreditPricing::class)->reserveEstimate(
                 $fileProfile,
-                strlen($messageText),
+                strlen($messageText) + (int) ceil(app(\App\Services\AiAgent\ConversationMemoryService::class)->contextBudget($fileProfile) / 3),
                 $geminiService->maxOutputTokensFor('thinking', $fileProfile),
-                (int) $file->getSize()
+                (int) $file->getSize(),
+                $geminiService->modelFor($aiSettings->string('model', (string) config('services.gemini.model', 'gemini-3.1-flash-lite')), $fileProfile, 'thinking')
             );
             try {
                 $usage = $creditService->reserve(
@@ -1419,7 +1470,7 @@ class SupportBotController extends Controller
         }
 
         try {
-            $conversation = app(\App\Services\AiAgent\ConversationMemoryService::class)->history($ticket);
+            $conversation = app(\App\Services\AiAgent\ConversationMemoryService::class)->history($ticket, null, $fileProfile);
 
             $pageContext = $assistantSettings->browserContextEnabled($request->user())
                 ? ($data['page_context'] ?? [])
