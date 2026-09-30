@@ -1,0 +1,63 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Smart assistant: models, long memory and agents
+|--------------------------------------------------------------------------
+*/
+
+return [
+    // Stronger model for programming / engineering / design / expert levels and deep thinking,
+    // e.g. gemini-2.5-pro or gemini-3-pro-preview. Empty = use GEMINI_MODEL for everything.
+    'pro_model' => env('GEMINI_PRO_MODEL', ''),
+    'pro_profiles' => ['programming', 'engineering', 'design3d', 'expert'],
+    'pro_for_thinking_mode' => (bool) env('GEMINI_PRO_FOR_THINKING', true),
+    'pro_timeout' => (int) env('GEMINI_PRO_TIMEOUT', 180),
+
+    // Text providers in order (chat, agents planner/workers/reviewer, memory summaries).
+    // Gemini stays first; "pollinations" takes over when Gemini is down, out of quota or not configured.
+    // Put "pollinations,gemini" to make Pollinations the primary. A provider without a key is skipped.
+    'text_providers' => array_values(array_filter(array_map('trim', explode(',', (string) env('AI_TEXT_PROVIDERS', 'gemini,pollinations'))))),
+
+    // Longest answer (tokens). Long code files and full analyses need 16k+.
+    'max_output_tokens' => (int) env('AI_MAX_OUTPUT_TOKENS', 16384),
+
+    // ── Long conversations ──────────────────────────────────────────────
+    // Recent messages are sent word for word up to this many characters (~4 chars per token);
+    // everything older is kept as a running summary, so nothing is forgotten.
+    'context_chars' => (int) env('AI_CONTEXT_CHARS', 120000),
+    'context_messages' => (int) env('AI_CONTEXT_MESSAGES', 120),
+    // Summarise the older part once this many characters are outside the window.
+    'summary_trigger_chars' => (int) env('AI_SUMMARY_TRIGGER_CHARS', 12000),
+    // A conversation this long continues automatically in a new one (with the full summary).
+    'rollover_messages' => (int) env('AI_ROLLOVER_MESSAGES', 400),
+    'rollover_chars' => (int) env('AI_ROLLOVER_CHARS', 800000),
+
+    // ── Agents (planner → workers → reviewer) for complex tasks ───────
+    'agents_enabled' => (bool) env('AI_AGENTS_ENABLED', true),
+    // Levels that may use the agents pipeline (the router still has to mark the task complex).
+    // Plan gating comes from the levels themselves: programming/engineering need AI Plus, design3d/expert AI Pro.
+    'agents_profiles' => ['programming', 'engineering', 'design3d', 'expert'],
+    'agents_max_steps' => (int) env('AI_AGENTS_MAX_STEPS', 5),
+    // Thinking power per level: how many agent steps it may use.
+    'agents_steps_by_profile' => [
+        'programming' => 3,
+        'engineering' => 3,
+        'design3d' => 4,
+        'expert' => 5,
+    ],
+
+    // ── Credits ─────────────────────────────────────────────────────────
+    // How much of the conversation each level sends to the model (characters). Bigger context = more
+    // input tokens = more Credits, so the hold before each message is sized from this too.
+    'context_chars_by_profile' => [
+        'fast' => (int) env('AI_CONTEXT_CHARS_FAST', 20000),
+        'smart' => (int) env('AI_CONTEXT_CHARS_SMART', 40000),
+        'programming' => (int) env('AI_CONTEXT_CHARS_PROGRAMMING', 80000),
+        'engineering' => (int) env('AI_CONTEXT_CHARS_ENGINEERING', 80000),
+        'design3d' => (int) env('AI_CONTEXT_CHARS_DESIGN3D', 100000),
+        'expert' => (int) env('AI_CONTEXT_CHARS_EXPERT', 120000),
+    ],
+    // The stronger model costs more per token at Google: its tokens count this many times in Credits.
+    'pro_model_credit_multiplier' => (float) env('AI_PRO_MODEL_CREDIT_MULTIPLIER', 4),
+];
