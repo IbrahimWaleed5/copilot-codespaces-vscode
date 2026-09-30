@@ -29,6 +29,8 @@ return [
     'huggingface' => [
         'token' => env('HUGGINGFACE_TOKEN'),
         'image_model' => env('HUGGINGFACE_IMAGE_MODEL', 'black-forest-labs/FLUX.1-schnell'),
+        // "auto" = ask the Hub which provider serves the model (hf-inference, nscale, fal-ai), or force one of them.
+        'provider' => env('HUGGINGFACE_PROVIDER', 'auto'),
         'base_url' => rtrim((string) env('HUGGINGFACE_BASE_URL', 'https://router.huggingface.co/hf-inference/models'), '/'),
         'timeout' => (int) env('HUGGINGFACE_TIMEOUT', 120),
     ],

@@ -116,19 +116,123 @@ class ImageGenerationManager
     private function huggingface(string $prompt, int $userId, int $ticketId): array
     {
         $model = (string) config('ai_media.huggingface.image_model');
-        $response = Http::withToken((string) config('ai_media.huggingface.token'))
-            ->withHeaders(['Accept' => 'image/png'])
-            ->timeout((int) config('ai_media.huggingface.timeout', 120))
-            ->post(config('ai_media.huggingface.base_url') . '/' . $model, [
-                'inputs' => $this->english($prompt),
-            ]);
+        $token = (string) config('ai_media.huggingface.token');
+        $timeout = (int) config('ai_media.huggingface.timeout', 120);
+        $router = 'https://router.huggingface.co';
+        $errors = [];
 
-        $this->ensureOk($response, 'Hugging Face');
-        if (! str_starts_with($this->mimeOf($response), 'image/')) {
-            throw new RuntimeException('Hugging Face لم يرجع صورة.');
+        // Hugging Face serves each model through one or more "Inference Providers".
+        // Ask the Hub which ones serve this model (same lookup the official clients do),
+        // then call the first one we support.
+        foreach ($this->huggingfaceProviders($model, $token) as $provider => $providerModel) {
+            try {
+                if ($provider === 'hf-inference') {
+                    $response = Http::withToken($token)->withHeaders(['Accept' => 'image/png'])->timeout($timeout)
+                        ->post($router . '/hf-inference/models/' . $providerModel, ['inputs' => $this->english($prompt)]);
+                    $this->ensureOk($response, 'Hugging Face');
+                    if (! str_starts_with($this->mimeOf($response), 'image/')) {
+                        throw new RuntimeException('Hugging Face لم يرجع صورة.');
+                    }
+                    $bytes = $response->body();
+                    $mime = $this->mimeOf($response);
+                } elseif ($provider === 'nscale') {
+                    // OpenAI-compatible images endpoint.
+                    $response = Http::withToken($token)->acceptJson()->timeout($timeout)
+                        ->post($router . '/nscale/v1/images/generations', [
+                            'model' => $providerModel,
+                            'prompt' => $this->english($prompt),
+                            'response_format' => 'b64_json',
+                        ]);
+                    $this->ensureOk($response, 'Hugging Face (Nscale)');
+                    $bytes = base64_decode((string) $response->json('data.0.b64_json', ''), true);
+                    $mime = 'image/png';
+                } elseif ($provider === 'fal-ai') {
+                    $response = Http::withToken($token)->acceptJson()->timeout($timeout)
+                        ->post($router . '/fal-ai/' . $providerModel, ['prompt' => $this->english($prompt)]);
+                    $this->ensureOk($response, 'Hugging Face (fal)');
+                    $url = (string) $response->json('images.0.url', '');
+                    $file = $url !== '' ? Http::timeout($timeout)->get($url) : null;
+                    $bytes = $file && $file->successful() ? $file->body() : false;
+                    $mime = $file ? $this->mimeOf($file) : 'image/jpeg';
+                } else {
+                    continue;
+                }
+
+                if (! $bytes) {
+                    throw new RuntimeException('Hugging Face (' . $provider . ') لم يرجع صورة.');
+                }
+
+                return $this->store($bytes, str_starts_with($mime, 'image/') ? $mime : 'image/png', $userId, $ticketId,
+                    'huggingface', $provider . ':' . $providerModel, false);
+            } catch (Throwable $e) {
+                $errors[] = $e->getMessage();
+            }
         }
 
-        return $this->store($response->body(), $this->mimeOf($response), $userId, $ticketId, 'huggingface', $model, false);
+        throw new RuntimeException($errors[0] ?? 'لا يوجد مزود على Hugging Face يخدم هذا الموديل حاليًا.');
+    }
+
+    /**
+     * Providers serving the model, as [provider => provider model id], in our preferred order.
+     * HUGGINGFACE_PROVIDER forces one provider; "auto" (default) uses the Hub mapping.
+     *
+     * @return array<string,string>
+     */
+    private function huggingfaceProviders(string $model, string $token): array
+    {
+        $supported = ['hf-inference', 'nscale', 'fal-ai'];
+        $forced = strtolower(trim((string) config('ai_media.huggingface.provider', 'auto')));
+
+        $cacheKey = 'hf_provider_mapping:' . $model;
+        $mapping = \Illuminate\Support\Facades\Cache::get($cacheKey);
+        if (! is_array($mapping) || $mapping === []) {
+            $mapping = $this->fetchHuggingfaceMapping($model, $token);
+            if ($mapping !== []) {
+                \Illuminate\Support\Facades\Cache::put($cacheKey, $mapping, now()->addHours(6));
+            }
+        }
+
+        if ($forced !== '' && $forced !== 'auto') {
+            return [$forced => $mapping[$forced] ?? $model];
+        }
+        if ($mapping === []) {
+            // Mapping unavailable: fall back to the classic serverless endpoint.
+            return ['hf-inference' => $model];
+        }
+
+        $ordered = [];
+        foreach ($supported as $provider) {
+            if (isset($mapping[$provider])) {
+                $ordered[$provider] = $mapping[$provider];
+            }
+        }
+
+        return $ordered;
+    }
+
+    /** @return array<string,string> */
+    private function fetchHuggingfaceMapping(string $model, string $token): array
+    {
+        try {
+            $response = Http::withToken($token)->acceptJson()->timeout(15)
+                ->get('https://huggingface.co/api/models/' . $model, ['expand[]' => 'inferenceProviderMapping']);
+            $raw = $response->successful() ? $response->json('inferenceProviderMapping') : null;
+        } catch (Throwable) {
+            $raw = null;
+        }
+        $map = [];
+        // The Hub returns either {provider: {providerId, status}} or a list of {provider, providerId, status}.
+        foreach (is_array($raw) ? $raw : [] as $key => $entry) {
+            if (! is_array($entry)) {
+                continue;
+            }
+            $provider = is_string($key) ? $key : (string) ($entry['provider'] ?? '');
+            if ($provider !== '' && ($entry['status'] ?? 'live') !== 'error' && ! empty($entry['providerId'])) {
+                $map[$provider] = (string) $entry['providerId'];
+            }
+        }
+
+        return $map;
     }
 
     /** @param array{path:string,mime_type?:string,name?:string}|null $inputImage */
